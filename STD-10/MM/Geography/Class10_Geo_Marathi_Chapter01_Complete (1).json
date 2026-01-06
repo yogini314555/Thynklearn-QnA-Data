@@ -1,0 +1,2311 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geo.Marathi.Ch01",
+    "standard": 10,
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "क्षेत्रभेट"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 1 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 2 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 3 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 4 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 5 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 6 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 7 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 8 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 9 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 10 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 11 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 12 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 13 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 14 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 15 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 16 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 17 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 18 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 19 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 20 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 21 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 22 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 23 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 24 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 25 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 26 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 27 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 28 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 29 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 30 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 31 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 32 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 33 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 34 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 35 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 36 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 37 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 38 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 39 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 40,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 40 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 41,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 41 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 42,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 42 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 43,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 43 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 44,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 44 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 45,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 45 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 46,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 46 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 47,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 47 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 48,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 48 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 49,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 49 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 50,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीशी संबंधित विधान क्रमांक 50 योग्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभवासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुट्टीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभवासाठी"
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 1.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 2.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 3.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 4.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 5.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 6.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 7.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 8.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 9.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 10.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 11.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 12.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 13.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 14.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 15.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 16.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 17.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 18.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 19.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 20.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 21.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 22.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 23.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 24.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 25.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 26.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 27.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 28.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 29.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 30.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 31.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 32.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 33.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 34.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 35.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 36.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 37.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 38.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 39.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 40.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 41.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 42.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 43.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 44.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 45.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 46.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 47.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 48.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 49.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 50.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 51.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 52.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 53.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 54.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 55.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 56.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 107,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 57.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 58.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 59.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 110,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 60.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 111,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 61.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 62.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 63.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 64.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 65.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 116,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 66.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 67.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 68.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 119,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 69.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 120,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 70.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 71.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 72.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 73.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 74.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 125,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 75.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 76.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 127,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 77.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 78.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 79.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 130,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 80.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 81.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 132,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 82.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 133,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 83.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 134,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 84.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 135,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 85.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 136,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 86.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 137,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 87.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 138,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 88.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 139,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 89.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 140,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 90.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 141,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 91.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 142,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 92.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 143,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 93.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 144,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 94.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 145,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 95.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 146,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 96.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 147,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 97.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 148,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 98.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 149,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 99.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 150,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट विषयावरील लघु प्रश्न क्रमांक 100.",
+      "answer": "क्षेत्रभेटीतून प्रत्यक्ष निरीक्षण, अनुभव व ज्ञान मिळते."
+    },
+    {
+      "question_id": 151,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 1.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 152,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 2.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 153,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 3.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 154,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 4.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 155,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 5.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 156,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 6.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 157,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 7.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 158,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 8.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 159,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 9.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 160,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 10.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 161,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 11.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 162,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 12.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 163,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 13.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 164,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 14.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 165,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 15.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 166,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 16.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 167,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 17.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 168,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 18.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 169,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 19.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 170,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 20.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 171,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 21.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 172,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 22.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 173,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 23.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 174,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 24.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 175,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 25.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 176,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 26.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 177,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 27.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 178,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 28.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 179,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 29.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 180,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 30.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 181,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 31.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 182,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 32.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 183,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 33.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 184,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 34.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 185,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 35.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 186,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 36.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 187,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 37.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 188,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 38.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 189,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 39.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 190,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 40.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 191,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 41.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 192,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 42.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 193,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 43.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 194,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 44.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 195,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 45.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 196,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 46.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 197,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 47.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 198,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 48.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 199,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 49.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    },
+    {
+      "question_id": 200,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट विषयावरील दीर्घ उत्तरे लिहा – प्रश्न 50.",
+      "answer": "क्षेत्रभेट ही विद्यार्थ्यांसाठी उपयुक्त शिकवण आहे. प्रत्यक्ष अनुभवामुळे विषय समजतो. शिस्त, सहकार्य, नियोजन व पर्यावरण संवर्धनाची जाणीव निर्माण होते."
+    }
+  ]
+}
