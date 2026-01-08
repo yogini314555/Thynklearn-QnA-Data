@@ -1,0 +1,1177 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.07",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "गवताचे पाते"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘गवताचे पाते’ ही कथा कोणत्या साहित्यप्रकारात मोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सामाजिक कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रूपक कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऐतिहासिक कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोदी कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "रूपक कथा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘गवताचे पाते’ या कथेचे लेखक कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसुमाग्रज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पु. ल. देशपांडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वि. स. खांडेकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सुरेश भट",
+          "is_correct": false
+        }
+      ],
+      "answer": "वि. स. खांडेकर"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "या कथेतील गवताचे पाते कुठे झोपलेले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धरणीमातेच्या कुशीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घरात",
+          "is_correct": false
+        }
+      ],
+      "answer": "धरणीमातेच्या कुशीत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "पाने गळताना कोणता आवाज होतो असे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खडखड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पट पट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ठक ठक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सळसळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "पट पट"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "पान गवताच्या पात्याला कसे संबोधते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्षुद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सुंदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षुद्र"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पानाला स्वतःबद्दल कोणती भावना आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नम्रता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दया",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिमान"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "गवताच्या पात्याची तक्रार कशामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थंडीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवाजामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भुकेमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंधारामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवाजामुळे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वसंत ऋतूमध्ये पानाचे रूपांतर कशात होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मातीमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गवताच्या पात्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फुलात",
+          "is_correct": false
+        }
+      ],
+      "answer": "गवताच्या पात्यात"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कथेतील वसंताचा स्पर्श कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुनर्जन्म",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दु:ख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मृत्यू",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुनर्जन्म"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "हिवाळा पुन्हा आल्यावर गवताचे पाते कसे वागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चिडलेले",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निर्लेप",
+          "is_correct": false
+        }
+      ],
+      "answer": "चिडलेले"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कथेतील पाने कोणत्या वृत्तीचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नम्रतेचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिमानाचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्यागाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेमाचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिमानाचे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "गवताचे पाते कोणत्या वृत्तीचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दया",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चिडचिड",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सहानुभूती",
+          "is_correct": false
+        }
+      ],
+      "answer": "चिडचिड"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कथेतील संघर्ष कोणामध्ये आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणसांमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पान आणि गवतामध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऋतूंमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झाडांमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "पान आणि गवतामध्ये"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कथेचा आशय मुख्यत्वे कशावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी स्वभाव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी स्वभाव"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाने गळून मातीत मिसळल्यावर काय घडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती नष्ट होतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन जीवन तयार होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ती सुकतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती उडून जातात",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन जीवन तयार होते"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कथेतील धरणीमाता कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मृत्यू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पानाचे ‘गाणे’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरा आवाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वतःचा अभिमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निसर्गनाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गर्वयुक्त वर्तन",
+          "is_correct": true
+        }
+      ],
+      "answer": "गर्वयुक्त वर्तन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "गवताचे पाते पानावर का रागावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपमानामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "थंडीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अंधारामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकटेपणामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपमानामुळे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कथेचा शेवट कोणती जाणीव देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुनरावृत्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सूड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोद",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुनरावृत्ती"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कथेतील पिढ्यांतील अंतर कशातून दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवादातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विरोधातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रूपकातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वर्णनातून",
+          "is_correct": false
+        }
+      ],
+      "answer": "रूपकातून"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "तरुण पिढी कोणत्या पात्याशी जोडली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गवत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "माती",
+          "is_correct": false
+        }
+      ],
+      "answer": "गवत"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वडील पिढी कोणत्या घटकाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गवत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वसंत",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाने"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कथेतील मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहानुभूती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहानुभूती"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "रूपक कथेचे वैशिष्ट्य कशात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सूचकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोद",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूचकता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाने आणि गवत यांच्यातील वाद कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्गबदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी विसंवाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी विसंवाद"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कथेतील ‘स्वप्नभंग’ कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आवाजामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "थंडीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भुकेमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकटेपणामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवाजामुळे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "रूपक कथेचा परिणाम कसा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सूचक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काल्पनिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सूचक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ही कथा वाचकांना कशाकडे प्रवृत्त करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मपरीक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मपरीक्षण"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘गवताचे पाते’ ही कथा कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथानक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रूपकात्मक मांडणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "रूपकात्मक मांडणी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "‘गवताचे पाते’ ही कथा कोणत्या प्रकारची आहे?",
+      "answer": "ही एक रूपक कथा आहे."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "कथेतील पान कशाचे प्रतीक आहे?",
+      "answer": "अभिमानी वृत्तीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "गवताचे पाते कशाचे प्रतीक आहे?",
+      "answer": "चिडचिड्या आणि तक्रार करणाऱ्या वृत्तीचे प्रतीक आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "पान गवताच्या पात्याला क्षुद्र का म्हणते?",
+      "answer": "स्वतःच्या उच्च स्थानाचा गर्व असल्यामुळे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "गवताचे पाते तक्रार का करते?",
+      "answer": "पानांच्या आवाजामुळे त्याची झोपमोड होते."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "वसंताचा स्पर्श कशाचे द्योतक आहे?",
+      "answer": "नवीन जीवनाचा."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "पानाचे गवताच्या पात्यात रूपांतर कशामुळे होते?",
+      "answer": "मातीत मिसळल्यानंतर."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "कथेत ऋतूंचे महत्त्व काय आहे?",
+      "answer": "जीवनचक्र दाखवण्यासाठी."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "पुन्हा हिवाळा आल्यावर काय घडते?",
+      "answer": "तोच संघर्ष पुन्हा दिसतो."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कथेतील पुनरावृत्ती कशाचे प्रतीक आहे?",
+      "answer": "मानवी स्वभावाच्या चक्राचे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "पानांचा आवाज कसा वर्णन केला आहे?",
+      "answer": "कर्णकटू."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "गवताचे पाते कुठे झोपलेले असते?",
+      "answer": "धरणीमातेच्या कुशीत."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "धरणीमातेचे प्रतीकात्मक महत्त्व काय?",
+      "answer": "संरक्षण आणि आश्रय."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "कथेतील मुख्य संघर्ष कशात आहे?",
+      "answer": "दोन वृत्तींच्या टकरावात."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "रूपक कथेचे वैशिष्ट्य काय?",
+      "answer": "सूचक आणि अर्थघन मांडणी."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कथेतील संवाद कशासाठी महत्त्वाचा आहे?",
+      "answer": "स्वभावभेद दाखवण्यासाठी."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "पान स्वतःच्या आवाजाला गाणे का म्हणते?",
+      "answer": "स्वतःचा अभिमान दर्शवण्यासाठी."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "गवताचे पाते कशामुळे चिडते?",
+      "answer": "स्वप्नभंगामुळे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट काय सुचवतो?",
+      "answer": "स्वभावातील बदल न होणे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पिढ्यांतील अंतर कशातून दिसते?",
+      "answer": "रूपकातून."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "तरुण पिढीचे प्रतीक कोण आहे?",
+      "answer": "गवताचे पाते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वडील पिढीचे प्रतीक कोण आहे?",
+      "answer": "गळून पडणारे पाने."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कथेतील जीवनरस कोणात समान आहे?",
+      "answer": "पान आणि गवत दोघांत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कथेचा आशय कोणत्या विषयावर आहे?",
+      "answer": "मानवी प्रवृत्ती."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कथेत सहानुभूतीचा अभाव कसा दिसतो?",
+      "answer": "एकमेकांच्या जागी न पाहण्यातून."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पाने गळणे कशाचे प्रतीक आहे?",
+      "answer": "जुनी पिढी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "गवत उगवणे कशाचे प्रतीक आहे?",
+      "answer": "नवीन पिढी."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कथेतील विसंवाद कशामुळे निर्माण होतो?",
+      "answer": "अहंकारामुळे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कथेतील स्वप्नांचा उल्लेख का आहे?",
+      "answer": "मन:स्थिती दाखवण्यासाठी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "रूपक कथेचा परिणाम कसा होतो?",
+      "answer": "वाचक विचार करायला लागतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कथेतील भाषा कशी आहे?",
+      "answer": "चित्रमय आणि सूचक."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पानाचे गर्वयुक्त बोलणे कशाचे द्योतक आहे?",
+      "answer": "अहंकाराचे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "गवताचे पाते स्वतःला कसे पाहते?",
+      "answer": "दुर्बल म्हणून."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कथेतील ध्वनीवर्णन कशासाठी आहे?",
+      "answer": "संघर्ष ठळक करण्यासाठी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कथेत जीवनचक्र कसे दाखवले आहे?",
+      "answer": "ऋतूंच्या बदलातून."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कथेचा सामाजिक अर्थ काय?",
+      "answer": "माणसातील विसंवाद."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कथेत रूपक का वापरले आहे?",
+      "answer": "अर्थ अधिक प्रभावी करण्यासाठी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कथेतील पुनर्जन्माची कल्पना कशाशी जोडली आहे?",
+      "answer": "वसंत ऋतूशी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पान आणि गवत यांच्यातील साम्य काय?",
+      "answer": "जीवनरस."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कथेत निसर्गाचे स्थान काय आहे?",
+      "answer": "मानवी स्वभाव उलगडण्याचे साधन."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कथेतील संदेश थेट का नाही?",
+      "answer": "तो सूचक आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कथेत कोणती मानवी कमतरता दाखवली आहे?",
+      "answer": "सहानुभूतीचा अभाव."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कथेतील संघर्ष कसा संपतो?",
+      "answer": "तो पुन्हा सुरू होतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कथेचा वाचकांवर काय परिणाम होतो?",
+      "answer": "आत्मपरीक्षण घडते."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "‘गवताचे पाते’ या शीर्षकाचे औचित्य काय?",
+      "answer": "कथानकाचे केंद्रबिंदू."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कथेतील पिढीसंघर्ष कसा व्यक्त झाला आहे?",
+      "answer": "रूपकात्मक पद्धतीने."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कथेत बदल न होण्याचे कारण काय?",
+      "answer": "स्वभावाचा हट्ट."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रूपक कथेचा हेतू काय?",
+      "answer": "मानवी प्रवृत्ती दाखवणे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कथेचा मुख्य संदेश एका वाक्यात सांगा.",
+      "answer": "दुसऱ्याच्या जागी स्वतःला ठेवून पाहावे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "‘गवताचे पाते’ ही रूपक कथा कशी आहे ते स्पष्ट करा.",
+      "answer": "या कथेतील पात्रे निसर्गातील घटक असली तरी त्यांच्यामधून मानवी स्वभाव दाखवला आहे. सूचक मांडणीमुळे ही कथा प्रभावी रूपक ठरते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "पान आणि गवताच्या पात्याचे स्वभाववैशिष्ट्ये तुलना करून लिहा.",
+      "answer": "पान अभिमानी व अहंकारी आहे तर गवताचे पाते चिडचिडे आणि तक्रार करणारे आहे. दोघांमध्ये सहानुभूतीचा अभाव दिसतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "कथेत दाखवलेले पिढ्यांतील अंतर स्पष्ट करा.",
+      "answer": "जुनी आणि नवी पिढी एकमेकांच्या जागी स्वतःला ठेवत नाहीत. हा विसंवाद कथेत प्रभावीपणे दाखवला आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "वसंत ऋतूचे प्रतीकात्मक महत्त्व स्पष्ट करा.",
+      "answer": "वसंत ऋतू नवजीवन, पुनर्जन्म आणि बदल यांचे प्रतीक आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "‘पुनरावृत्ती’ ही संकल्पना कथेत कशी व्यक्त झाली आहे?",
+      "answer": "पिढ्यान्‌पिढ्या तेच वाद आणि वृत्ती दिसतात, हे कथेतून स्पष्ट होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "कथेतील धरणीमातेचे प्रतीक स्पष्ट करा.",
+      "answer": "धरणीमाता संरक्षण, सामावून घेणे आणि जीवनचक्र यांचे प्रतीक आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "कथेतील आवाजांचे (ध्वनीचे) महत्त्व स्पष्ट करा.",
+      "answer": "पानांचा आवाज संघर्ष आणि अस्वस्थता ठळक करतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "‘दुसऱ्याच्या जागी स्वतःला ठेवून पाहणे’ हा संदेश कथेत कसा आला आहे?",
+      "answer": "पान आणि गवत दोघेही हे करत नाहीत, त्यामुळे संघर्ष टिकतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "रूपक कथेचे वैशिष्ट्य ‘गवताचे पाते’ या कथेच्या आधारे स्पष्ट करा.",
+      "answer": "कथा लहान असूनही ती अर्थघन, सूचक आणि परिणामकारक आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "आजच्या समाजाशी ‘गवताचे पाते’ या कथेचा संबंध स्पष्ट करा.",
+      "answer": "आजही पिढ्यांतील विसंवाद, अहंकार आणि सहानुभूतीचा अभाव दिसतो."
+    }
+  ]
+}

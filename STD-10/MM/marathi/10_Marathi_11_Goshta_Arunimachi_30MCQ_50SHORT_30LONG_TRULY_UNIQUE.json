@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.11",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "गोष्ट अरुणिमाची"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘गोष्ट अरुणिमाची’ या पाठाची नायिका कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बचेंद्री पाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अरुणिमा सिन्हा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कल्पना चावला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संतोष यादव",
+          "is_correct": false
+        }
+      ],
+      "answer": "अरुणिमा सिन्हा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अरुणिमा कोणत्या खेळात राष्ट्रीय विजेती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्रिकेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बॅडमिंटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फुटबॉल व व्हॉलीबॉल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अ‍ॅथलेटिक्स",
+          "is_correct": false
+        }
+      ],
+      "answer": "फुटबॉल व व्हॉलीबॉल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अरुणिमावर अपघात कधी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२०१०",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२०११",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२०१२",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२०१३",
+          "is_correct": false
+        }
+      ],
+      "answer": "२०११"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अरुणिमाला अपघात कुठे झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बसस्थानकात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेल्वे डब्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धावत्या रेल्वेतून फेकले गेले",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रस्त्यावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "धावत्या रेल्वेतून फेकले गेले"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अपघातानंतर अरुणिमाने किती तास मदतीची वाट पाहिली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "५",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "७",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१०",
+          "is_correct": false
+        }
+      ],
+      "answer": "७"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अरुणिमाचा पाय कुठे कापावा लागला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घोट्याजवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुडघ्याखालून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मांडीजवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाय पूर्ण",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुडघ्याखालून"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "अरुणिमाला प्रथम कोणत्या रुग्णालयात नेण्यात आले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एम्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बरेली हॉस्पिटल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लखनऊ हॉस्पिटल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिल्ली हॉस्पिटल",
+          "is_correct": false
+        }
+      ],
+      "answer": "बरेली हॉस्पिटल"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अरुणिमाने कोणते ध्येय ठरवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑलिम्पिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पॅरालिम्पिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माऊंट एव्हरेस्ट सर करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशिक्षक होणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "माऊंट एव्हरेस्ट सर करणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अरुणिमाला प्रोत्साहन देणारी पहिली व्यक्ती कोण होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डॉक्टर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आई",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बचेंद्री पाल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "माध्यमे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बचेंद्री पाल"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अरुणिमाचे गिर्यारोहण प्रशिक्षण कुठे झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एम्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नेहरू गिरिभ्रमण केंद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लखनऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिल्ली",
+          "is_correct": false
+        }
+      ],
+      "answer": "नेहरू गिरिभ्रमण केंद्र"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "एव्हरेस्ट चढाईत ‘डेथ झोन’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विश्रांती स्थळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षित भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अत्यंत धोकादायक टप्पा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बेस कॅम्प",
+          "is_correct": false
+        }
+      ],
+      "answer": "अत्यंत धोकादायक टप्पा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अरुणिमाने एव्हरेस्ट केव्हा सर केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२०१२",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२०१३",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२०१४",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२०१५",
+          "is_correct": false
+        }
+      ],
+      "answer": "२०१३"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "एव्हरेस्टवर अरुणिमाने काय फडकावले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झेंडा नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नेपाळचा झेंडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भारताचा झेंडा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऑलिम्पिक ध्वज",
+          "is_correct": false
+        }
+      ],
+      "answer": "भारताचा झेंडा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अरुणिमाच्या मते सर्वांत मोठा मोटिव्हेटर कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुटुंब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वतः",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशिक्षक",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतः"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अरुणिमाला किती बेस कॅम्प पार करावे लागले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "४",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "५",
+          "is_correct": false
+        }
+      ],
+      "answer": "४"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "अरुणिमाच्या उजव्या पायात काय बसवले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्लेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्क्रू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्टील रॉड",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कृत्रिम पाय",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्टील रॉड"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अरुणिमाच्या एका पायाला काय बसवले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ब्रेस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रॉड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृत्रिम पाय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बँडेज",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृत्रिम पाय"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अरुणिमाला प्रशिक्षण काळात कोणती अडचण होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्वास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृत्रिम पाय रोवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उंची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दृष्टी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृत्रिम पाय रोवणे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अरुणिमाने कोणत्या दिवशी एव्हरेस्ट शिखर गाठले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२० मे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२१ मे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२२ मे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२३ मे",
+          "is_correct": false
+        }
+      ],
+      "answer": "२१ मे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "एव्हरेस्ट चढाईदरम्यान ऑक्सिजन संपल्यावर काय घडले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परत फिरली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मदत मिळाली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मृत्यू झाला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चढाई थांबली",
+          "is_correct": false
+        }
+      ],
+      "answer": "मदत मिळाली"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अरुणिमाच्या यशाचा मुख्य आधार काय होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पैसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिद्द आणि चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "माध्यमे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द आणि चिकाटी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "अरुणिमाच्या मते अपयश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रयत्न निष्फळ ठरणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कमकुवत ध्येय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्दैव",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमकुवत ध्येय"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साहस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व आत्मविश्वास"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "अरुणिमाच्या कुटुंबात निर्णय कोण घेत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाईसाब",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ती स्वतः",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाईसाब"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "अरुणिमाचा जन्म कुठे झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिल्ली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लखनऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आंबेडकरनगर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बरेली",
+          "is_correct": false
+        }
+      ],
+      "answer": "आंबेडकरनगर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अरुणिमाचे वडील कधी निधन पावले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपघातानंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लहानपणीच",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किशोरवयात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "लहानपणीच"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "अरुणिमाने एव्हरेस्ट चढण्याचा निर्णय कधी घेतला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपघाताआधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हॉस्पिटलमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रशिक्षणात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिखरावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "हॉस्पिटलमध्ये"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "अरुणिमाच्या मते शरीर अपंग झाले तरी काय अपंग झाले नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वप्न",
+          "is_correct": false
+        }
+      ],
+      "answer": "मन"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "या पाठाचा प्रकार कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मकथन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चरित्रात्मक लेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "चरित्रात्मक लेख"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘गोष्ट अरुणिमाची’ वाचून कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "अरुणिमा सिन्हा कोण आहे?",
+      "answer": "माऊंट एव्हरेस्ट सर करणारी पहिली अपंग भारतीय महिला."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "अरुणिमा कोणत्या खेळांची खेळाडू होती?",
+      "answer": "फुटबॉल आणि व्हॉलीबॉल."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "अरुणिमावर कोणता अपघात झाला?",
+      "answer": "धावत्या रेल्वेतून फेकण्यात आले."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "अपघातानंतर अरुणिमा किती वेळ मदतीची वाट पाहत होती?",
+      "answer": "सात तास."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "अरुणिमाचा एक पाय का कापावा लागला?",
+      "answer": "गंभीर जखमांमुळे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने हॉस्पिटलमध्ये कोणता निर्धार केला?",
+      "answer": "एव्हरेस्ट सर करण्याचा."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला कोणाने प्रेरणा दिली?",
+      "answer": "बचेंद्री पाल यांनी."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "अरुणिमाचे गिर्यारोहण प्रशिक्षण कुठे झाले?",
+      "answer": "नेहरू गिरिभ्रमण प्रशिक्षण केंद्रात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "एव्हरेस्ट चढाईत ‘डेथ झोन’ म्हणजे काय?",
+      "answer": "अत्यंत धोकादायक टप्पा."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने एव्हरेस्ट कधी सर केला?",
+      "answer": "२१ मे २०१३ रोजी."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते सर्वांत मोठा मोटिव्हेटर कोण?",
+      "answer": "स्वतः."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या यशामागे कोणते गुण आहेत?",
+      "answer": "जिद्द, चिकाटी आणि आत्मविश्वास."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या उजव्या पायात काय होते?",
+      "answer": "स्टील रॉड."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या एका पायाला काय बसवले होते?",
+      "answer": "कृत्रिम पाय."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला प्रशिक्षणात कोणती अडचण येत होती?",
+      "answer": "कृत्रिम पाय रोवण्याची."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने किती बेस कॅम्प पार केले?",
+      "answer": "चार."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने एव्हरेस्टवर काय फडकावले?",
+      "answer": "भारताचा झेंडा."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते अपयश म्हणजे काय?",
+      "answer": "कमकुवत ध्येय."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "अरुणिमाचा जन्म कुठे झाला?",
+      "answer": "आंबेडकरनगर."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या कुटुंबात निर्णय कोण घेत असे?",
+      "answer": "भाईसाब."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अरुणिमाचे वडील कधी निधन पावले?",
+      "answer": "ती लहान असतानाच."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला कोणत्या अफवांना सामोरे जावे लागले?",
+      "answer": "आत्महत्येच्या प्रयत्नाच्या."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला एम्समध्ये किती काळ ठेवले होते?",
+      "answer": "चार महिने."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने एव्हरेस्ट चढण्याचा निर्णय कधी घेतला?",
+      "answer": "हॉस्पिटलमध्ये असताना."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते शरीर अपंग झाले तरी काय सक्षम राहिले?",
+      "answer": "मन."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला प्रशिक्षणात कोणाचा आधार होता?",
+      "answer": "कुटुंबाचा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने कोणत्या तारखेला एव्हरेस्ट सर केला?",
+      "answer": "२१ मे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या यशाचे प्रतीक काय आहे?",
+      "answer": "भारताचा झेंडा."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते ध्येय कसे असावे?",
+      "answer": "भक्कम."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला कोणत्या समाजाचा पाठिंबा मिळाला?",
+      "answer": "कुटुंब आणि प्रशिक्षकांचा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते प्रयत्न निष्फळ ठरणे म्हणजे काय?",
+      "answer": "अपयश नाही."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या जीवनातील सर्वांत मोठे आव्हान काय?",
+      "answer": "अपघातानंतरचे जीवन."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने कोणत्या पर्वतारोहकाला आदर्श मानले?",
+      "answer": "बचेंद्री पाल."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला चढाईत कोणती भीती वाटत होती?",
+      "answer": "मृत्यूची."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते नशीब म्हणजे काय?",
+      "answer": "धैर्याला साथ देणारे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने एव्हरेस्टवर फोटो का काढला?",
+      "answer": "यशाचा पुरावा म्हणून."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते शरीर आणि मनाचे नाते कसे आहे?",
+      "answer": "मन शरीराला दिशा देते."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या जीवनातील संदेश काय?",
+      "answer": "स्वतःवर विश्वास ठेवा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या यशामागे कोणता विचार होता?",
+      "answer": "Now or never."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अरुणिमाने कोणत्या झोनमध्ये चढाई केली?",
+      "answer": "डेथ झोन."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अरुणिमाला ऑक्सिजन कसा मिळाला?",
+      "answer": "फेकलेला सिलिंडर मिळाल्यामुळे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते भाग्य कोणाला साथ देते?",
+      "answer": "धाडसी लोकांना."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या यशामुळे कोण प्रेरित होतो?",
+      "answer": "वाचक."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "या पाठातून कोणता गुण शिकायला मिळतो?",
+      "answer": "आत्मविश्वास."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या आयुष्यातील निर्णायक क्षण कोणता?",
+      "answer": "एव्हरेस्ट शिखर."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "अरुणिमाच्या मते खरे अपयश काय?",
+      "answer": "कमकुवत ध्येय."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अरुणिमाची गोष्ट कशासाठी ओळखली जाते?",
+      "answer": "जिद्दी यशासाठी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "या पाठाचा शेवट काय संदेश देतो?",
+      "answer": "ध्येय साध्य करा."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "‘गोष्ट अरुणिमाची’ वाचून काय वाटते?",
+      "answer": "प्रेरणा मिळते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘गोष्ट अरुणिमाची’ या पाठाचा आशय स्पष्ट करा.",
+      "answer": "या पाठात अरुणिमा सिन्हा यांच्या अपघातानंतरच्या संघर्षाची आणि एव्हरेस्ट सर करण्याच्या जिद्दीची कहाणी आहे. अपंगत्वावर मात करून ध्येय गाठण्याचा प्रेरणादायी संदेश यात दिला आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "अरुणिमाच्या जीवनातील अपघातानंतरचा संघर्ष स्पष्ट करा.",
+      "answer": "रेल्वे अपघातात पाय गमावल्यानंतरही अरुणिमाने हार मानली नाही. शारीरिक व मानसिक वेदनांवर मात करून तिने ध्येय निश्चित केले."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "अरुणिमाने एव्हरेस्ट सर करण्याचा निर्णय कसा घेतला ते लिहा.",
+      "answer": "हॉस्पिटलमध्ये असताना स्वतःवर उठलेल्या अफवांमुळे तिने स्वतःला सिद्ध करण्याचा निर्धार केला."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "बचेंद्री पाल यांची भूमिका अरुणिमाच्या यशात स्पष्ट करा.",
+      "answer": "बचेंद्री पाल यांनी अरुणिमाच्या ध्येयाचा आदर करून तिला प्रशिक्षण व मानसिक बळ दिले."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "अरुणिमाच्या प्रशिक्षणातील अडचणी स्पष्ट करा.",
+      "answer": "कृत्रिम पाय, वेदना, थंडी आणि उंची यामुळे प्रशिक्षण अत्यंत कठीण होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "‘डेथ झोन’चे वर्णन पाठाच्या आधारे करा.",
+      "answer": "हा टप्पा अत्यंत धोकादायक असून अनेक गिर्यारोहक येथे मृत्युमुखी पडतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "अरुणिमाच्या मते अपयशाची व्याख्या काय आहे?",
+      "answer": "प्रयत्न निष्फळ ठरणे अपयश नसून कमकुवत ध्येय हेच अपयश आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "अरुणिमाच्या व्यक्तिमत्त्वातील गुण स्पष्ट करा.",
+      "answer": "जिद्द, चिकाटी, आत्मविश्वास आणि सकारात्मक दृष्टिकोन हे तिचे प्रमुख गुण आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "अरुणिमाच्या यशात कुटुंबाची भूमिका स्पष्ट करा.",
+      "answer": "कुटुंबाने तिच्या प्रत्येक निर्णयाला पाठिंबा देऊन मानसिक आधार दिला."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘गोष्ट अरुणिमाची’ या पाठाचा सामाजिक संदेश स्पष्ट करा.",
+      "answer": "अपंगत्व ही मर्यादा नसून ध्येय व जिद्द असल्यास कोणतेही शिखर गाठता येते हा संदेश पाठ देतो."
+    }
+  ]
+}

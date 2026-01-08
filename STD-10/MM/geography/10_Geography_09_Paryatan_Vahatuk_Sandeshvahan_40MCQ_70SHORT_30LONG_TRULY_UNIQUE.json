@@ -1,0 +1,1603 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.09",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "पर्यटन, वाहतूक व संदेशवहन (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "पर्यटन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थलांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनोरंजनासाठी प्रवास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यापार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोरंजनासाठी प्रवास"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पर्यटन हा कोणत्या स्वरूपाचा व्यापार आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दृश्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अदृश्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राष्ट्रीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "अदृश्य"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये पर्यटकांना काय अधिक आकर्षित करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमेझॉन अरण्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पठार",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेझॉन अरण्ये"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये परदेशी पर्यटक कोणत्या कारणासाठी येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऐतिहासिक व सांस्कृतिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केवळ उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऐतिहासिक व सांस्कृतिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "२०१० नंतर भारतात पर्यटक वाढण्याचे कारण काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुविधा व प्रचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुष्काळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुविधा व प्रचार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कोणत्या प्रकारचे पर्यटन विकसित होत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "औद्योगिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्यावरणस्नेही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धार्मिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रामीण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यावरणस्नेही"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पर्यटन व्यवसायाचा GDP मधील वाटा भारतात कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पर्यटन व्यवसायाचा GDP मधील वाटा ब्राझीलमध्ये कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये पर्यटनामुळे कोणता व्यवसाय वाढतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनतोड",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पर्यटनामुळे रोजगार कसा निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्यक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अप्रत्यक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वाहतूक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणसे व मालाची हालचाल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणसे व मालाची हालचाल"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वाहतुकीचे मुख्य प्रकार किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रस्ते वाहतूक कशासाठी महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांब अंतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्प अंतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकाश",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्प अंतर"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये सर्वाधिक विकसित वाहतूक कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रेल्वे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रस्ते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जल",
+          "is_correct": false
+        }
+      ],
+      "answer": "रस्ते"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये प्रवासी वाहतुकीचा सर्वाधिक वाटा कोणाचा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जलमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेल्वे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रस्ते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हवाई",
+          "is_correct": false
+        }
+      ],
+      "answer": "रस्ते"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "जलमार्ग कोणत्या प्रकारची वाहतूक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "महाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वस्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेगवान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असुरक्षित",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वस्त"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय व्यापार मुख्यतः कोणत्या मार्गाने होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेल्वे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सागरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रस्ते",
+          "is_correct": false
+        }
+      ],
+      "answer": "सागरी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये लोहमार्गांचे जाळे कुठे दाट आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर भारतीय मैदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंदमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर भारतीय मैदान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये लोहमार्गांचा विकास कमी का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्गम भूभाग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवामान",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुर्गम भूभाग"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "अमेझॉन नदी कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जलवाहतूक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हिमनदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पठार",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलवाहतूक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये अंतर्गत जलवाहतूक कुठे जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमेझॉन खोरे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किनारपट्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेझॉन खोरे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये हवाई वाहतूक कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जास्त विकसित",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त विकसित"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये हवाई वाहतूक कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अतिविकसित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नसलेली",
+          "is_correct": false
+        }
+      ],
+      "answer": "मध्यम"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "संदेशवहन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माहिती प्रसारण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "माहिती प्रसारण"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "संदेशवहनाची आधुनिक साधने कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ढोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इंटरनेट",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घोडा",
+          "is_correct": false
+        }
+      ],
+      "answer": "इंटरनेट"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये संदेशवहनाचा वेग कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेगवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेगवान"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये इंटरनेट वापर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये एकच प्रमाणवेळ का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्षेत्र कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुलभतेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवामान",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुलभतेसाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भारतीय प्रमाणवेळ कोणत्या रेखावृत्तावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "७५° पू.",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "८२°३०' पू.",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "९०° पू.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "६०° पू.",
+          "is_correct": false
+        }
+      ],
+      "answer": "८२°३०' पू."
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये किती प्रमाणवेळा आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": true
+        }
+      ],
+      "answer": "चार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "प्रमाणवेळेचा उपयोग कशासाठी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेळेतील एकरूपता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेळेतील एकरूपता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "संदेशवहनाचा विकास कोणत्या घटकावर अवलंबून आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तंत्रज्ञान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माती",
+          "is_correct": false
+        }
+      ],
+      "answer": "तंत्रज्ञान"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये अवकाश संशोधन कोणती संस्था करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "NASA",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ISRO",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ESA",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "CNSA",
+          "is_correct": false
+        }
+      ],
+      "answer": "ISRO"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये अवकाश संशोधन कोण पाहते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ISRO",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "NASA",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Brazilian Space Agency",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ESA",
+          "is_correct": false
+        }
+      ],
+      "answer": "Brazilian Space Agency"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "पर्यटनामुळे पर्यावरणावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नसतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सकारात्मक व नकारात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त सकारात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सकारात्मक व नकारात्मक"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "पर्यावरणस्नेही पर्यटन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त बांधकाम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्गपूरक पर्यटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "औद्योगिक पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्यावसायिक पर्यटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्गपूरक पर्यटन"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "वाहतूक मार्गांचा विकास कशाचा निर्देशांक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकास"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या घटकांशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्यटन, वाहतूक, संदेशवहन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवामान",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्यटन, वाहतूक, संदेशवहन"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "पर्यटन म्हणजे काय?",
+      "answer": "मनोरंजन, अभ्यास किंवा विश्रांतीसाठी केलेला प्रवास."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "पर्यटन हा अदृश्य व्यापार का आहे?",
+      "answer": "सेवा विक्री होते."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये पर्यटकांना काय आकर्षित करते?",
+      "answer": "अमेझॉन अरण्ये व किनारे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये पर्यटनाची कारणे कोणती?",
+      "answer": "ऐतिहासिक व सांस्कृतिक वारसा."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "२०१० नंतर भारतात पर्यटन वाढले का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "पर्यावरणस्नेही पर्यटन म्हणजे काय?",
+      "answer": "निसर्गाचे संरक्षण करणारे पर्यटन."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "पर्यटनाचा रोजगारावर परिणाम काय?",
+      "answer": "रोजगार निर्मिती."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "पर्यटन व्यवसाय GDP मध्ये योगदान देतो का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये पर्यटनाचा GDP मधील वाटा कसा आहे?",
+      "answer": "तुलनेने कमी."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये पर्यटनाचा GDP मधील वाटा कसा आहे?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "वाहतूक म्हणजे काय?",
+      "answer": "माणसे व माल हलवणे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "वाहतुकीचे प्रकार कोणते?",
+      "answer": "रस्ते, रेल्वे, जल, हवाई."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "रस्ते वाहतूक कशासाठी उपयुक्त?",
+      "answer": "अल्प अंतरासाठी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रेल्वे वाहतूक कशासाठी उपयुक्त?",
+      "answer": "लांब अंतरासाठी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "जलमार्ग स्वस्त का आहेत?",
+      "answer": "इंधन खर्च कमी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यापार कसा होतो?",
+      "answer": "सागरी मार्गाने."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये रेल्वेचे महत्त्व काय?",
+      "answer": "प्रवासी व मालवाहतूक."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये रस्ते वाहतूक जास्त का आहे?",
+      "answer": "रेल्वे कमी असल्यामुळे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अमेझॉन नदीचे महत्त्व काय?",
+      "answer": "जलवाहतूक."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये हवाई वाहतूक कशी आहे?",
+      "answer": "विकसित."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये हवाई वाहतूक कशी आहे?",
+      "answer": "मर्यादित."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "संदेशवहन म्हणजे काय?",
+      "answer": "माहिती पोहोचवणे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "संदेशवहनाची साधने कोणती?",
+      "answer": "दूरध्वनी, इंटरनेट."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये इंटरनेट वापर कसा आहे?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये इंटरनेट वापर कसा आहे?",
+      "answer": "वाढता आहे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "प्रमाणवेळ म्हणजे काय?",
+      "answer": "देशासाठी ठरवलेली वेळ."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये किती प्रमाणवेळा आहेत?",
+      "answer": "एक."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये किती प्रमाणवेळा आहेत?",
+      "answer": "चार."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भारतीय प्रमाणवेळ कशावर आधारित आहे?",
+      "answer": "८२°३०' पूर्व रेखावृत्त."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "प्रमाणवेळेचा उपयोग काय?",
+      "answer": "वेळेतील एकरूपता."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "संदेशवहनाचा विकास कशावर अवलंबून आहे?",
+      "answer": "तंत्रज्ञान."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "ISRO म्हणजे काय?",
+      "answer": "भारतीय अवकाश संशोधन संस्था."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची अवकाश संस्था कोणती?",
+      "answer": "Brazilian Space Agency."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पर्यटनामुळे पर्यावरणावर काय परिणाम होतो?",
+      "answer": "दोन्ही प्रकारचे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पर्यटनामुळे स्थानिक विकास होतो का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाहतूक विकासाचा अर्थव्यवस्थेवर परिणाम काय?",
+      "answer": "विकासाला चालना."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "जलमार्गांचा भारतात वाटा किती आहे?",
+      "answer": "सुमारे १%."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आंतरराष्ट्रीय व्यापारात सागरी मार्गाचे महत्त्व काय?",
+      "answer": "९५% व्यापार."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये जलमार्ग कुठे उपयुक्त?",
+      "answer": "अमेझॉन खोरे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये रस्त्यांची घनता कुठे जास्त आहे?",
+      "answer": "मैदानी भागात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये वाहतूक कमी कुठे आहे?",
+      "answer": "अमेझॉन भागात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "हवाई वाहतूक महाग का आहे?",
+      "answer": "इंधन खर्च."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "संदेशवहनामुळे वेळ वाचतो का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "संदेशवहनामुळे व्यापार कसा वाढतो?",
+      "answer": "जलद संपर्क."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "पर्यटनामुळे सांस्कृतिक देवाणघेवाण होते का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "धार्मिक पर्यटन म्हणजे काय?",
+      "answer": "धर्मस्थळांना भेट."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "वैद्यकीय पर्यटन म्हणजे काय?",
+      "answer": "उपचारासाठी प्रवास."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये कोणती शहरे पर्यटकांना आकर्षित करतात?",
+      "answer": "रिओ, सावो पावलो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये कोणती स्थळे प्रसिद्ध आहेत?",
+      "answer": "अजिंठा, ताजमहल."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पर्यटनाचा स्थानिक लोकांवर परिणाम काय?",
+      "answer": "उत्पन्न वाढ."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वाहतूक नसल्यास काय होते?",
+      "answer": "विकास मंदावतो."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "संदेशवहनाचा शिक्षणावर परिणाम काय?",
+      "answer": "ऑनलाइन शिक्षण."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "डिजिटल साधने कोणती?",
+      "answer": "स्मार्टफोन, इंटरनेट."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये स्मार्टफोन वापर कसा आहे?",
+      "answer": "खूप जास्त."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये संदेशवहन कमी कुठे आहे?",
+      "answer": "उत्तर व वायव्य भागात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "प्रमाणवेळेचा व्यापारावर परिणाम काय?",
+      "answer": "सुलभता."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या देशांशी संबंधित आहे?",
+      "answer": "भारत व ब्राझील."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "पर्यटन, वाहतूक व संदेशवहन यांचा परस्पर संबंध काय?",
+      "answer": "एकमेकांवर अवलंबून."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "पर्यटन म्हणजे काय? त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "पर्यटन म्हणजे विश्रांती, मनोरंजन किंवा अभ्यासासाठी केलेला प्रवास. यामुळे रोजगार व विकास होतो."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "पर्यटन हा अदृश्य व्यापार का आहे?",
+      "answer": "पर्यटनात वस्तू नव्हे तर सेवा विकल्या जातात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "भारतामध्ये पर्यटनाच्या संधी स्पष्ट करा.",
+      "answer": "ऐतिहासिक, सांस्कृतिक, वैद्यकीय व पर्यावरणीय पर्यटन."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये पर्यटन का विकसित झाले आहे?",
+      "answer": "निसर्गसंपत्ती व जैवविविधतेमुळे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "पर्यावरणस्नेही पर्यटन म्हणजे काय?",
+      "answer": "पर्यावरणाचे संरक्षण राखून केलेले पर्यटन."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "पर्यटनाचा अर्थव्यवस्थेवर परिणाम स्पष्ट करा.",
+      "answer": "GDP वाढ व रोजगार निर्मिती."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "वाहतूक म्हणजे काय? तिचे प्रकार स्पष्ट करा.",
+      "answer": "रस्ते, रेल्वे, जल व हवाई वाहतूक."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "भारतामधील वाहतूक व्यवस्थेची वैशिष्ट्ये लिहा.",
+      "answer": "दाट रेल्वे व रस्ते जाळे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "ब्राझीलमधील वाहतूक व्यवस्थेची वैशिष्ट्ये लिहा.",
+      "answer": "रस्ते व जलमार्ग महत्त्वाचे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "भारतामध्ये लोहमार्गांचे जाळे दाट का आहे?",
+      "answer": "लोकसंख्या व लांब अंतरामुळे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये लोहमार्ग कमी का आहेत?",
+      "answer": "दुर्गम भूभाग व अरण्ये."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "जलमार्गांचे महत्त्व स्पष्ट करा.",
+      "answer": "स्वस्त व मालवाहतुकीस उपयुक्त."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "आंतरराष्ट्रीय व्यापारात सागरी मार्गांचे महत्त्व स्पष्ट करा.",
+      "answer": "९५% व्यापार सागरी मार्गाने होतो."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "हवाई वाहतूक महत्त्वाची का आहे?",
+      "answer": "वेगवान प्रवासासाठी."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "संदेशवहन म्हणजे काय?",
+      "answer": "माहिती प्रसारणाची प्रक्रिया."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "आधुनिक संदेशवहनाची साधने स्पष्ट करा.",
+      "answer": "इंटरनेट, मोबाईल, उपग्रह."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "भारतामध्ये संदेशवहनाचा विकास स्पष्ट करा.",
+      "answer": "डिजिटल तंत्रज्ञानामुळे वेगाने वाढ."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये संदेशवहनाचा विकास स्पष्ट करा.",
+      "answer": "दक्षिण भागात जास्त, उत्तर भागात कमी."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "प्रमाणवेळ म्हणजे काय?",
+      "answer": "देशासाठी निश्चित केलेली वेळ."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "भारतामध्ये एकच प्रमाणवेळ का आहे?",
+      "answer": "प्रशासनिक सुलभतेसाठी."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये अनेक प्रमाणवेळा का आहेत?",
+      "answer": "विस्तीर्ण रेखावृत्तीय विस्तारामुळे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "भारतीय प्रमाणवेळेचे महत्त्व स्पष्ट करा.",
+      "answer": "देशभर वेळेची एकरूपता."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "पर्यटन, वाहतूक व संदेशवहन यांचा परस्पर संबंध स्पष्ट करा.",
+      "answer": "एकमेकांशिवाय विकास शक्य नाही."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "पर्यटनामुळे पर्यावरणावर होणारे परिणाम स्पष्ट करा.",
+      "answer": "सकारात्मक व नकारात्मक दोन्ही."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "पर्यटनामुळे सांस्कृतिक देवाणघेवाण कशी होते?",
+      "answer": "विविध संस्कृतींचा संपर्क."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "वाहतूक विकास हा प्रगतीचा निर्देशांक का आहे?",
+      "answer": "सुलभ दळणवळण विकास दर्शवते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "संदेशवहनाचा अर्थव्यवस्थेवर परिणाम स्पष्ट करा.",
+      "answer": "व्यापार व सेवा वाढतात."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या पर्यटनाची तुलना करा.",
+      "answer": "भारत – सांस्कृतिक, ब्राझील – निसर्गाधारित."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या वाहतूक व्यवस्थेची तुलना करा.",
+      "answer": "भारत – रेल्वे, ब्राझील – रस्ते."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "पर्यटन, वाहतूक व संदेशवहन हा भूगोलाचा महत्त्वाचा घटक का आहे?",
+      "answer": "मानवी विकास समजण्यासाठी."
+    }
+  ]
+}

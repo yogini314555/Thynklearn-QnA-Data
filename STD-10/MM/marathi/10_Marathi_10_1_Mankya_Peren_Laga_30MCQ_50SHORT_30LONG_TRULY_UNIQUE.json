@@ -1,0 +1,1199 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.10.1",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "मनक्या पेरेन लागा (स्थूलवाचन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘मनक्या पेरेन लागा’ ही मूळ कविता कोणत्या भाषेत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मराठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बंजारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गोंडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंजारा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या कवितेचे मराठी रूपांतर कोणी केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वीरा राठोड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विनायक पवार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कुसुमाग्रज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुरेश भट",
+          "is_correct": false
+        }
+      ],
+      "answer": "विनायक पवार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘बी’ कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरुवात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माणूस",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणूस"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "‘माणसं पेरायला लागू’ या ओळीचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झाडे लावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी रुजवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शेती करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण द्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी रुजवा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "बी आणि माती यांचे नाते कसे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तुटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घट्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तात्पुरते",
+          "is_correct": false
+        }
+      ],
+      "answer": "घट्ट"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवितेत बी कशाशी झुंज देते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त पाण्याशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्गातील अडचणींशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "माणसांशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वतःशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्गातील अडचणींशी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ऊन, वारा, पाऊस हे कशाचे प्रतीक आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुख",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संघर्ष",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "संघर्ष"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "बीचे झाड होणे कशाचे रूपक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माणूसपण जागे होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणूसपण जागे होणे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवी कोणता संदेश देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिक प्रगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवतावाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवतावाद"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवितेत माणसांनी काय करावे असे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग जपावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी पेरावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धन कमवावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शहर सोडावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी पेरावी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "वीरा राठोड कोणत्या विषयांवर लिहितात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भटके-वंचित समाज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोद",
+          "is_correct": false
+        }
+      ],
+      "answer": "भटके-वंचित समाज"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते भाषा कशासाठी अडसर ठरत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवादासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाव व्यक्त करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लेखनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाचनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाव व्यक्त करण्यासाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेतील संघर्ष शेवटी कशात बदलतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निर्मिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मृत्यू",
+          "is_correct": false
+        }
+      ],
+      "answer": "निर्मिती"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘झाड’ कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘माणसं पेरायला लागू’ हा विचार कशासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आजसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भविष्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूतकाळासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भविष्यासाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेचा सूर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपदेशात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आशावादी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशावादी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "बी मातीशी नाते कसे जोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हळूहळू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घट्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जबरदस्तीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "घट्ट"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवितेत दुष्काळ कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अडचण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सुख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "अडचण"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेतील मुख्य भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दया",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "माणसं पेरण्याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणसं वाढवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी वाढवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या वाढवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाते तोडा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी वाढवा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवितेत बी का सोडून देत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ते हट्टी आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्यात जिद्द आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ते थकते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ते हरते",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्यात जिद्द आहे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कवितेतील संघर्ष कशामुळे अर्थपूर्ण ठरतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निर्मितीमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नाशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "निर्मितीमुळे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचकांना कशाकडे प्रवृत्त करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवतावादाकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थाकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीकडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवतावादाकडे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "बीचे रूपांतर झाडात कधी होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताबडतोब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संघर्षानंतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सुखात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांतीनंतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "संघर्षानंतर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘चला आपणही’ हे आवाहन कशासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रवासासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाचनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतीसाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्णनात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्यमय",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवी कोणत्या मूल्यांवर भर देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवितेचा सामाजिक संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भोगवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवता"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "बी आणि माणूस यांच्यातील साम्य काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोघे वाढतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोघे लढतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोघे संपतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोघे थकतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोघे लढतात"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कवितेचा शेवट कशावर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतीचे आवाहन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संघर्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतीचे आवाहन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘मनक्या पेरेन लागा’ या कवितेचा मुख्य विचार काय आहे?",
+      "answer": "माणुसकी समाजात रुजवण्याचा विचार."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "‘बी’ हे कोणाचे प्रतीक आहे?",
+      "answer": "माणसाचे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "बी मातीशी नाते का जोडते?",
+      "answer": "त्यातून जीवन उगवते म्हणून."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "कवितेत निसर्गाशी संघर्ष का दाखवला आहे?",
+      "answer": "जीवनप्रक्रिया स्पष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "बीचे झाडात रूपांतर कशामुळे होते?",
+      "answer": "संघर्ष आणि चिकाटीमुळे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कवितेत माणसांनी काय करावे असे सांगितले आहे?",
+      "answer": "माणुसकी पेरावी."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "दुष्काळाचा उल्लेख का आला आहे?",
+      "answer": "अडचणी दाखवण्यासाठी."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "ही कविता प्रेरणादायी का आहे?",
+      "answer": "ती कृतीस प्रवृत्त करते."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या समाजघटकांबद्दल लिहितात?",
+      "answer": "वंचित आणि भटके."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "कवितेत भाषा अडसर नसल्याचे का सांगितले आहे?",
+      "answer": "भाव सार्वत्रिक असतात म्हणून."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "बी मातीशी घट्ट नाते कसे जोडते?",
+      "answer": "हळूहळू रुजून."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कवितेत संघर्षाचे महत्त्व काय?",
+      "answer": "निर्मितीसाठी."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "माणुसकी पेरणे म्हणजे काय?",
+      "answer": "चांगुलपणा वाढवणे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशा कशातून दिसते?",
+      "answer": "झाड होण्याच्या प्रक्रियेतून."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "बी कधी हार मानत नाही का?",
+      "answer": "त्यात जिद्द असते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवितेचा शेवट कसा आहे?",
+      "answer": "आवाहनात्मक."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणत्या प्रकारची आहे?",
+      "answer": "सामाजिक."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवीचा दृष्टिकोन कसा आहे?",
+      "answer": "मानवतावादी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "बीचे झाड होणे कशाचे रूपक आहे?",
+      "answer": "माणूस घडण्याचे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती मूल्ये दिसतात?",
+      "answer": "चिकाटी आणि माणुसकी."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘चला आपणही’ का म्हटले आहे?",
+      "answer": "सर्वांनी सहभागी व्हावे म्हणून."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "बीचे संघर्ष कोणते आहेत?",
+      "answer": "ऊन, वारा, पाऊस."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवितेत निसर्गाचे स्थान काय आहे?",
+      "answer": "जीवनाचा भाग."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश आज महत्त्वाचा का आहे?",
+      "answer": "समाजात माणुसकी कमी होत आहे म्हणून."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेचा सामाजिक अर्थ काय?",
+      "answer": "मानवतेचा प्रसार."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बी आणि माणूस यात साम्य काय?",
+      "answer": "संघर्षातून वाढ."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "answer": "धीर आणि संवेदनशीलता."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "answer": "साधी आणि प्रभावी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना प्रबळ आहे?",
+      "answer": "आशा."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "बी कशासाठी झुंज देते?",
+      "answer": "जीवनासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "माणुसकी कशी रुजते?",
+      "answer": "कृतीतून."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेत संघर्ष का आवश्यक आहे?",
+      "answer": "घडण घडवण्यासाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवी कोणते आवाहन करतो?",
+      "answer": "माणसं पेरण्याचे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेतील ‘झाड’ कशाचे प्रतीक आहे?",
+      "answer": "घडलेली माणुसकी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणती जाणीव होते?",
+      "answer": "जबाबदारीची."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी उपयुक्त का आहे?",
+      "answer": "ती मूल्यशिक्षण देते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवितेतील सामाजिक संदर्भ काय?",
+      "answer": "वंचित समाज."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेचा परिणाम वाचकावर काय होतो?",
+      "answer": "कृतीची प्रेरणा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "बी कधी झाड होते?",
+      "answer": "सततच्या प्रयत्नांनंतर."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या अडचणींचा उल्लेख आहे?",
+      "answer": "दुष्काळ आणि संकटे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कवितेतील आशय कसा आहे?",
+      "answer": "सकारात्मक."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती प्रक्रिया दाखवली आहे?",
+      "answer": "रुजण्याची."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "बी मातीशी कसे जोडले जाते?",
+      "answer": "आपुलकीने."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेचा शेवट काय सुचवतो?",
+      "answer": "कृती करावी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवितेतील माणुसकी म्हणजे काय?",
+      "answer": "दुसऱ्याची काळजी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश काय?",
+      "answer": "मानवतावाद."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणती प्रेरणा मिळते?",
+      "answer": "समाज घडवण्याची."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी आहे?",
+      "answer": "सर्व माणसांसाठी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "‘मनक्या पेरेन लागा’ या कवितेचा आशय स्पष्ट करा.",
+      "answer": "या कवितेत बी मातीशी झुंज देत झाड होण्याची प्रक्रिया दाखवली आहे. ही प्रक्रिया माणसाच्या घडणुकीचे रूपक आहे. कवी समाजात माणुसकी रुजवण्याचे आवाहन करतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "बी आणि माणूस यांच्यातील साम्य कवितेच्या आधारे स्पष्ट करा.",
+      "answer": "बी जसे अडचणींशी लढून झाड होते तसेच माणूस संघर्षातून घडतो. दोघांत चिकाटी आवश्यक आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "‘माणसं पेरायला लागू’ या ओळीचा अर्थ सविस्तर लिहा.",
+      "answer": "या ओळीचा अर्थ समाजात चांगुलपणा, संवेदनशीलता आणि माणुसकी वाढवावी असा आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "कवितेत दाखवलेला संघर्ष का महत्त्वाचा आहे?",
+      "answer": "संघर्षाशिवाय निर्मिती होत नाही. संघर्ष माणसाला सक्षम बनवतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "कवितेतील निसर्गघटकांचे प्रतीकात्मक महत्त्व स्पष्ट करा.",
+      "answer": "ऊन, वारा, पाऊस हे जीवनातील अडचणींचे प्रतीक आहेत."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "वीरा राठोड यांच्या कवितेतील सामाजिक जाणीव स्पष्ट करा.",
+      "answer": "ते वंचित समाजाच्या प्रश्नांवर भाष्य करतात आणि मानवतावादी दृष्टिकोन मांडतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "ही कविता आजच्या समाजासाठी का उपयुक्त आहे?",
+      "answer": "आज समाजात माणुसकीची गरज आहे. ही कविता कृतीस प्रवृत्त करते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "कवितेतील आशावाद कशातून दिसतो?",
+      "answer": "संघर्षानंतर झाड होण्याच्या प्रतिमेतून."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "कवितेचा शेवट ‘चला आपणही’ या आवाहनाने का केला आहे?",
+      "answer": "वाचकांनाही कृतीत सहभागी करण्यासाठी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "‘मनक्या पेरेन लागा’ ही कविता प्रेरणादायी कशी आहे ते स्पष्ट करा.",
+      "answer": "ही कविता संघर्ष, चिकाटी आणि मानवतेचा संदेश देऊन वाचकांना सकारात्मक कृतीकडे वळवते."
+    }
+  ]
+}

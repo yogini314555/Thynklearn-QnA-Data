@@ -1,0 +1,1655 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Chemistry.02",
+    "standard": "10",
+    "subject": "Science – Chemistry",
+    "medium": "Marathi",
+    "chapter_name": "मूलद्रव्यांचे आवर्ती वर्गीकरण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मूलद्रव्य म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयुग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मिश्रण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकाच प्रकारचे अणू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रेणू",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकाच प्रकारचे अणू"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आतापर्यंत ज्ञात मूलद्रव्यांची संख्या किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "92",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "108",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "118",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "120",
+          "is_correct": false
+        }
+      ],
+      "answer": "118"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "डोबरायनर कोण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जर्मन वैज्ञानिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रशियन वैज्ञानिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इंग्लिश वैज्ञानिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भारतीय वैज्ञानिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जर्मन वैज्ञानिक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "डोबरायनरची त्रिके कशावर आधारित होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणुअंक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अणुवस्तुमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयुजा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणुवस्तुमान"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "डोबरायनरच्या त्रिकांमध्ये किती मूलद्रव्ये असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "4",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "Li, Na, K हे कोणत्या त्रिकेचे उदाहरण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अधातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अल्क धातू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हॅलोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्क धातू"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "न्यूलँड्स कोणत्या देशातील वैज्ञानिक होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जर्मनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इंग्लंड",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फ्रान्स",
+          "is_correct": false
+        }
+      ],
+      "answer": "इंग्लंड"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "न्यूलँड्सचा नियम कशाशी तुलना केलेला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गणित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संगीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भौतिकशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "संगीत"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "न्यूलँड्सचा अष्टकांचा नियम कोणत्या मूलद्रव्यापर्यंत लागू होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mg",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ca",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fe",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Zn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ca"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "मेंडेलीव्ह कोणत्या देशातील वैज्ञानिक होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जर्मन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रशियन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इंग्लिश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अमेरिकन",
+          "is_correct": false
+        }
+      ],
+      "answer": "रशियन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "मेंडेलीव्हची आवर्तसारणी कशावर आधारित होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणुअंक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अणुवस्तुमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संयुजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इलेक्ट्रॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणुवस्तुमान"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मेंडेलीव्हने किती ज्ञात मूलद्रव्ये मांडली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "56",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "60",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "63",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "70",
+          "is_correct": false
+        }
+      ],
+      "answer": "63"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मेंडेलीव्हच्या आवर्तसारणीतील उभ्या स्तंभांना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आवर्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कवच",
+          "is_correct": false
+        }
+      ],
+      "answer": "गण"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "मेंडेलीव्हच्या आवर्तसारणीतील आडव्या ओळींना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आवर्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्तर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवर्त"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मेंडेलीव्हने रिकाम्या जागा का ठेवल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चूक झाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवे मूलद्रव्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जागा कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सजावट",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवे मूलद्रव्य"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "एका-अॅल्युमिनियमचे प्रत्यक्ष नाव कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Sc",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Ga",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Ge",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Si",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ga"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मेंडेलीव्हच्या भाकिताशी जुळलेले मूलद्रव्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Na",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cl",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Ga",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Mg",
+          "is_correct": false
+        }
+      ],
+      "answer": "Ga"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "राजवायूंसाठी शून्य गण कोणी तयार केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूलँड्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मेंडेलीव्ह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मोजले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोबरायनर",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेंडेलीव्ह"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "समस्थानिकांची समस्या कोणत्या आवर्तसारणीत होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आधुनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मेंडेलीव्ह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न्यूलँड्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोबरायनर",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेंडेलीव्ह"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "हायड्रोजनची जागा मेंडेलीव्हच्या सारणीत का संदिग्ध होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणुवस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुहेरी गुणधर्म",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संयुजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुहेरी गुणधर्म"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "आधुनिक आवर्ती नियम कोणी मांडला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेंडेलीव्ह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यूलँड्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोजले",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रुदरफोर्ड",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोजले"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आधुनिक आवर्ती नियम कशावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणुवस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अणुअंक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संयुजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणुअंक"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "अणुअंक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रोटॉन संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न्यूट्रॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वस्तुमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रोटॉन संख्या"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आधुनिक आवर्तसारणीमध्ये एकूण किती गण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "16",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "17",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "18",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "19",
+          "is_correct": false
+        }
+      ],
+      "answer": "18"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "आधुनिक आवर्तसारणीमध्ये किती आवर्त आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "8",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "9",
+          "is_correct": false
+        }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "लॅन्थॅनाइड व अॅक्टिनाइड कोणत्या खंडात येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "s",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "p",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "d",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "f",
+          "is_correct": true
+        }
+      ],
+      "answer": "f"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "संक्रमक मूलद्रव्ये कोणत्या खंडात येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "s",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "p",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "d",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "f",
+          "is_correct": false
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "नागमोडी रेषा कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गण वेगळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातू-अधातू वेगळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आवर्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कवच",
+          "is_correct": false
+        }
+      ],
+      "answer": "धातू-अधातू वेगळे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "गण 1 मधील मूलद्रव्यांना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हॅलोजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्क धातू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजवायू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अल्कधर्मी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्क धातू"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "गण 17 मधील मूलद्रव्ये कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्क धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राजवायू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हॅलोजन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "हॅलोजन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "गण 18 मधील मूलद्रव्ये कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हॅलोजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राजवायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "राजवायू"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "एका गणातील मूलद्रव्यांमध्ये काय समान असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणुवस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कवच संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयुजा इलेक्ट्रॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "संयुजा इलेक्ट्रॉन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "एका आवर्तातील मूलद्रव्यांमध्ये काय समान असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयुजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कवचांची संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अणुवस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गण",
+          "is_correct": false
+        }
+      ],
+      "answer": "कवचांची संख्या"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "आवर्तात डावीकडून उजवीकडे जाताना अणुत्रिज्या कशी बदलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी होते"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गणात वरून खाली जाताना अणुत्रिज्या कशी बदलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाढते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाढते"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "धातू सामान्यतः इलेक्ट्रॉन कसे बनवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वीकारतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गमावतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देवाणघेवाण",
+          "is_correct": false
+        }
+      ],
+      "answer": "गमावतात"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "अधातू सामान्यतः काय करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन गमावतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन स्वीकारतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉन स्वीकारतात"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "सर्वाधिक विद्युतऋण मूलद्रव्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "O",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "N",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "F",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Cl",
+          "is_correct": false
+        }
+      ],
+      "answer": "F"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या विषयाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रसायन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूगोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "रसायन"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "मूलद्रव्य म्हणजे काय?",
+      "answer": "एकाच प्रकारच्या अणूंनी बनलेले द्रव्य."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "आज किती मूलद्रव्ये ज्ञात आहेत?",
+      "answer": "118."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "डोबरायनरची त्रिके म्हणजे काय?",
+      "answer": "तीन मूलद्रव्यांचे गट."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "डोबरायनरने कोणता संबंध दाखवला?",
+      "answer": "अणुवस्तुमान व गुणधर्म."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "डोबरायनरची मर्यादा काय होती?",
+      "answer": "सर्व मूलद्रव्यांना लागू नव्हती."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "न्यूलँड्सचा अष्टकांचा नियम काय आहे?",
+      "answer": "प्रत्येक आठवे मूलद्रव्य समान."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "न्यूलँड्सचा नियम अपूर्ण का ठरला?",
+      "answer": "फक्त Ca पर्यंत लागू."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "मेंडेलीव्हचे पूर्ण नाव काय?",
+      "answer": "दिमित्री मेंडेलीव्ह."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "मेंडेलीव्हने काय आधार घेतला?",
+      "answer": "अणुवस्तुमान."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "मेंडेलीव्हचा आवर्ती नियम काय सांगतो?",
+      "answer": "गुणधर्म अणुवस्तुमानाचे आवर्ती फल."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "मेंडेलीव्हने रिकाम्या जागा का ठेवल्या?",
+      "answer": "नवीन मूलद्रव्यांसाठी."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "एका-बोरॉन म्हणजे काय?",
+      "answer": "भाकित मूलद्रव्य."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "एका-अॅल्युमिनियमचे प्रत्यक्ष नाव काय?",
+      "answer": "गॅलिअम."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मेंडेलीव्हच्या सारणीचा एक गुण लिहा.",
+      "answer": "भाकिते अचूक ठरली."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मेंडेलीव्हच्या सारणीची एक त्रुटी लिहा.",
+      "answer": "समस्थानिकांची जागा."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हायड्रोजनची समस्या काय होती?",
+      "answer": "दुहेरी गुणधर्म."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "राजवायू कुठे ठेवले?",
+      "answer": "शून्य गणात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "आधुनिक आवर्ती नियम काय सांगतो?",
+      "answer": "गुणधर्म अणुअंकाचे आवर्ती फल."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आधुनिक आवर्ती नियम कोणी मांडला?",
+      "answer": "हेन्री मोजले."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अणुअंक म्हणजे काय?",
+      "answer": "प्रोटॉन संख्या."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आधुनिक आवर्तसारणीमध्ये किती आवर्त आहेत?",
+      "answer": "7."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आधुनिक आवर्तसारणीमध्ये किती गण आहेत?",
+      "answer": "18."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "एस-खंडात कोणते गण येतात?",
+      "answer": "गण 1 व 2."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पी-खंडात कोणते गण येतात?",
+      "answer": "गण 13 ते 18."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "डी-खंड म्हणजे काय?",
+      "answer": "संक्रमक मूलद्रव्यांचा खंड."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "एफ-खंडात कोणते मूलद्रव्ये येतात?",
+      "answer": "लॅन्थॅनाइड व अॅक्टिनाइड."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "गण म्हणजे काय?",
+      "answer": "उभे स्तंभ."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "आवर्त म्हणजे काय?",
+      "answer": "आडव्या ओळी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "एका गणातील समानता काय?",
+      "answer": "संयुजा इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "एका आवर्तातील समानता काय?",
+      "answer": "कवचांची संख्या."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अणुत्रिज्या म्हणजे काय?",
+      "answer": "केंद्रक ते बाह्यतम कवच अंतर."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "आवर्तात अणुत्रिज्या कशी बदलते?",
+      "answer": "कमी होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "गणात अणुत्रिज्या कशी बदलते?",
+      "answer": "वाढते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "धातू म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन गमावणारे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "अधातू म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन स्वीकारणारे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "धातुसदृश म्हणजे काय?",
+      "answer": "धातू व अधातू मधले."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "नागमोडी रेषेचे कार्य काय?",
+      "answer": "धातू-अधातू विभाजन."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "विद्युत धनता म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन गमावण्याची प्रवृत्ती."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "विद्युत ऋणता म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन स्वीकारण्याची प्रवृत्ती."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आवर्तात विद्युत ऋणता कशी बदलते?",
+      "answer": "वाढते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "गणात विद्युत धनता कशी बदलते?",
+      "answer": "वाढते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "हॅलोजन कोणत्या गणात आहेत?",
+      "answer": "गण 17."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "राजवायूंची संयुजा किती?",
+      "answer": "शून्य."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "अल्क धातूंची संयुजा किती?",
+      "answer": "1."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "अल्कधर्मी मृदा धातूंची संयुजा किती?",
+      "answer": "2."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "संयुजा कशावर अवलंबून असते?",
+      "answer": "संयुजा इलेक्ट्रॉन."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "इलेक्ट्रॉन संरूपण म्हणजे काय?",
+      "answer": "इलेक्ट्रॉनांची मांडणी."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "आवर्त 2 मधील मूलद्रव्यांची संख्या किती?",
+      "answer": "8."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "आवर्त 1 मध्ये किती मूलद्रव्ये आहेत?",
+      "answer": "2."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "संक्रमक मूलद्रव्ये म्हणजे काय?",
+      "answer": "डी-खंडातील."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "आधुनिक आवर्तसारणीचा फायदा काय?",
+      "answer": "अचूक वर्गीकरण."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "मेंडेलीव्हपेक्षा आधुनिक सारणी का श्रेष्ठ?",
+      "answer": "अणुअंक आधारित."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "समस्थानिकांना एकच जागा का मिळते?",
+      "answer": "अणुअंक समान."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "धडा अभ्यासण्याचा उद्देश काय?",
+      "answer": "वर्गीकरण समजणे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "आधुनिक आवर्तसारणीमध्ये हायड्रोजन कुठे?",
+      "answer": "संदिग्ध."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेसाठी आहे?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या शाखेचा आहे?",
+      "answer": "रसायनशास्त्र."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "आवर्ती कल म्हणजे काय?",
+      "answer": "नियमित बदल."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "धातु-गुणधर्म आवर्तात कसा बदलतो?",
+      "answer": "कमी होतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "धातु-गुणधर्म गणात कसा बदलतो?",
+      "answer": "वाढतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "सर्वाधिक अधातु-गुणधर्म कुणाचा?",
+      "answer": "फ्ल्युओरीन."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "आधुनिक आवर्तसारणीचे दुसरे नाव काय?",
+      "answer": "दीर्घ रूप."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "डोबरायनरची त्रिके स्पष्ट करा.",
+      "answer": "तीन समान गुणधर्म असलेल्या मूलद्रव्यांचे गट व त्यांचे अणुवस्तुमान संबंध."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "न्यूलँड्सचा अष्टकांचा नियम स्पष्ट करा.",
+      "answer": "प्रत्येक आठव्या मूलद्रव्याचे गुणधर्म पहिल्यासारखे असतात."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "न्यूलँड्सच्या नियमाच्या मर्यादा लिहा.",
+      "answer": "फक्त कॅल्शियमपर्यंत लागू व नव्या मूलद्रव्यांना जागा नाही."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "मेंडेलीव्हची आवर्तसारणी स्पष्ट करा.",
+      "answer": "अणुवस्तुमानावर आधारित वर्गीकरण."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "मेंडेलीव्हच्या आवर्तसारणीचे गुण लिहा.",
+      "answer": "भाकिते अचूक, गुणधर्मांवर आधारित."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "मेंडेलीव्हच्या आवर्तसारणीच्या त्रुटी लिहा.",
+      "answer": "समस्थानिक, हायड्रोजन समस्या."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "एका-अॅल्युमिनियमचे भाकित स्पष्ट करा.",
+      "answer": "गॅलिअमचे अणुवस्तुमान व गुणधर्म."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "राजवायूंचा शोध व शून्य गण स्पष्ट करा.",
+      "answer": "नव्या वायूंना स्वतंत्र गण."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "आधुनिक आवर्ती नियम स्पष्ट करा.",
+      "answer": "गुणधर्म अणुअंकाचे आवर्ती फल."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "आधुनिक आवर्तसारणीची रचना स्पष्ट करा.",
+      "answer": "7 आवर्त व 18 गण."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "एस, पी, डी व एफ खंड स्पष्ट करा.",
+      "answer": "इलेक्ट्रॉन संरूपणावर आधारित."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "गण व आवर्त यातील फरक लिहा.",
+      "answer": "गण उभे, आवर्त आडवे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "इलेक्ट्रॉन संरूपणाचे महत्त्व लिहा.",
+      "answer": "स्थान व गुणधर्म ठरतात."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "आवर्तातील आवर्ती कल स्पष्ट करा.",
+      "answer": "अणुत्रिज्या, विद्युत ऋणता बदल."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "गणातील आवर्ती कल स्पष्ट करा.",
+      "answer": "अणुत्रिज्या व धातु-गुणधर्म वाढ."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "धातू व अधातू यांची तुलना करा.",
+      "answer": "इलेक्ट्रॉन गमावणे व स्वीकारणे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "धातुसदृश मूलद्रव्ये स्पष्ट करा.",
+      "answer": "मधले गुणधर्म."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "नागमोडी रेषेचे महत्त्व लिहा.",
+      "answer": "धातू-अधातू विभाजन."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "संयुजा व इलेक्ट्रॉन संरूपण संबंध.",
+      "answer": "संयुजा इलेक्ट्रॉनवर आधारित."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "अणुत्रिज्येतील बदल स्पष्ट करा.",
+      "answer": "केंद्रकीय प्रभारामुळे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "विद्युत ऋणता म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन स्वीकारण्याची क्षमता."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "विद्युत धनता म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन गमावण्याची क्षमता."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "हॅलोजन कुलातील प्रवणता स्पष्ट करा.",
+      "answer": "स्थिती व अभिक्रियाशीलता बदल."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "राजवायू स्थिर का असतात?",
+      "answer": "पूर्ण अष्टक."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "आधुनिक आवर्तसारणीचे फायदे लिहा.",
+      "answer": "अचूक व सुसंगत."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "मेंडेलीव्ह व आधुनिक सारणीची तुलना करा.",
+      "answer": "अणुवस्तुमान विरुद्ध अणुअंक."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "समस्थानिकांची समस्या कशी सुटली?",
+      "answer": "अणुअंक समान."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "हायड्रोजनचे स्थान स्पष्ट करा.",
+      "answer": "दुहेरी गुणधर्मामुळे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "आवर्तसारणी अभ्यासाचे महत्त्व लिहा.",
+      "answer": "गुणधर्मांचे भाकित."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "हा धडा अभ्यासल्याचा उपयोग लिहा.",
+      "answer": "रसायनशास्त्र समजते."
+    }
+  ]
+}

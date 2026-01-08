@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.22",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "भाषाभ्यास"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘शब्दसिद्धी’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांचे उच्चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्द कसे तयार होतात याचा अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शब्दांचे अर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शब्दांचे प्रकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्द कसे तयार होतात याचा अभ्यास"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘सिद्ध शब्द’ म्हणजे कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्यययुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मूळ धातूपासून तयार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपसर्गयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामासिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "मूळ धातूपासून तयार"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘साधित शब्द’ कसे तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातूपासून बदल करून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अनुकरणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उच्चाराने",
+          "is_correct": false
+        }
+      ],
+      "answer": "धातूपासून बदल करून"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "‘जा, ये, कर’ हे कोणत्या प्रकारचे शब्द?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सिद्ध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामासिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सिद्ध"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘करू, करणारा’ हे शब्द कोणत्या प्रकारचे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साधित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तत्सम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधित"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘तत्सम’ शब्दांचा उगम कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मराठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संस्कृत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फारसी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इंग्रजी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘तद्भव’ शब्द म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृतसारखे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संस्कृतातून बदललेले",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परभाषीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृतातून बदललेले"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘देशी’ शब्दांचा उगम कुठला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परकीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थानिक बोली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इंग्रजी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थानिक बोली"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘परभाषीय’ शब्द म्हणजे कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इतर भाषांतून आलेले",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तद्भव",
+          "is_correct": false
+        }
+      ],
+      "answer": "इतर भाषांतून आलेले"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "उपसर्ग स्वतंत्रपणे वापरता येतात का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परिस्थितीनुसार",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "उपसर्ग कुठे लागतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दाच्या शेवटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दाच्या सुरुवातीला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मध्यभागी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोठेही",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दाच्या सुरुवातीला"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘अवजड’ हा शब्द कसा तयार झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रत्ययाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपसर्गाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संधीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सामासाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपसर्गाने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘बेफिकीर’ या शब्दातील उपसर्ग कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फिकीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फि",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कीर",
+          "is_correct": false
+        }
+      ],
+      "answer": "बे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "प्रत्यय कुठे लागतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुरुवातीला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शेवटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मध्यभागी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्वत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेवटी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘दुकानदार’ हा शब्द कसा तयार झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तत्सम",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यय"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "‘-दार’ हा कशाचा प्रत्यय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वामित्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्रिया",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वामित्व"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "‘अभ्यस्त शब्द’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन शब्द जोडलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुनरुक्त शब्द",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परभाषीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तत्सम",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुनरुक्त शब्द"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "‘हळूहळू’ हा कोणत्या प्रकारचा शब्द आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यस्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तत्सम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यस्त"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "‘लुटूलुटू’ हा शब्द कसा तयार झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पुनरावृत्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुनरावृत्ती"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "‘धबाधब’ या शब्दातून काय व्यक्त होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांतता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आनंद",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेग"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘गल्लोगल्ली’ हा शब्द कोणत्या प्रकारचा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यस्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यययुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपसर्गयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तत्सम",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यस्त"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "‘मुलूखगिरी’ या शब्दातील प्रत्यय कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलूख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गिरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "री",
+          "is_correct": false
+        }
+      ],
+      "answer": "गिरी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "‘गुलामगिरी’ हा शब्द कशामुळे तयार झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यय"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "‘तिळतिळ’ हा शब्द कशाचे उदाहरण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सामासिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभ्यस्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तद्भव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परभाषीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभ्यस्त"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "‘बेशक’ हा शब्द कुठून आला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मराठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फारसी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "इंग्रजी",
+          "is_correct": false
+        }
+      ],
+      "answer": "फारसी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘अचूक’ हा शब्द कोणत्या प्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तत्सम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "देशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "परभाषीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभ्यस्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "तत्सम"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "‘हुबेहूब’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अगदी तसाच",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "थोडा बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खोटा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भिन्न",
+          "is_correct": false
+        }
+      ],
+      "answer": "अगदी तसाच"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "शब्दसिद्धीचा अभ्यास का करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषाजाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषाजाणीव"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणत्या घटकात येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भाषाभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषाभ्यास"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य उद्देश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दनिर्मिती समजावणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नाटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दनिर्मिती समजावणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "शब्दसिद्धी म्हणजे काय?",
+      "answer": "शब्द कसे तयार होतात याचा अभ्यास."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "सिद्ध शब्द म्हणजे काय?",
+      "answer": "मूळ धातूपासून तयार झालेले शब्द."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "साधित शब्द म्हणजे काय?",
+      "answer": "सिद्ध शब्दांपासून तयार झालेले शब्द."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "साधित शब्दांचे प्रकार किती?",
+      "answer": "तीन."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "उपसर्ग म्हणजे काय?",
+      "answer": "शब्दाच्या सुरुवातीला लागणारी अव्यये."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "उपसर्ग स्वतंत्रपणे वापरता येतात का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "प्रत्यय म्हणजे काय?",
+      "answer": "शब्दाच्या शेवटी लागणारी अक्षरे."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "अभ्यस्त शब्द म्हणजे काय?",
+      "answer": "पुनरावृत्तीने तयार झालेले शब्द."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "‘जा’ हा कोणत्या प्रकारचा शब्द?",
+      "answer": "सिद्ध."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "‘करणारा’ हा कोणत्या प्रकारचा शब्द?",
+      "answer": "साधित."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘तत्सम’ शब्द म्हणजे काय?",
+      "answer": "संस्कृतमधून तसेच आलेले."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "‘तद्भव’ शब्द म्हणजे काय?",
+      "answer": "संस्कृतातून बदललेले शब्द."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "‘देशी’ शब्द म्हणजे काय?",
+      "answer": "स्थानिक बोलीतून आलेले."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "‘परभाषीय’ शब्द म्हणजे काय?",
+      "answer": "इतर भाषांतून आलेले शब्द."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "‘अवजड’ या शब्दातील उपसर्ग कोणता?",
+      "answer": "अव."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "‘बेफिकीर’ या शब्दाचा अर्थ काय?",
+      "answer": "काळजी न करणारा."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "‘दुकानदार’ या शब्दातील प्रत्यय कोणता?",
+      "answer": "-दार."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "‘गुलामगिरी’ या शब्दातील प्रत्यय कोणता?",
+      "answer": "-गिरी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "‘हळूहळू’ हा कोणत्या प्रकारचा शब्द?",
+      "answer": "अभ्यस्त."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "‘तुकडेतुकडे’ हा शब्द कसा तयार झाला?",
+      "answer": "पुनरावृत्तीने."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘धबाधब’ हा शब्द कशाचे उदाहरण आहे?",
+      "answer": "अभ्यस्त."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "‘गल्लोगल्ली’ म्हणजे काय?",
+      "answer": "प्रत्येक गल्लीमध्ये."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "‘मुलूखगिरी’ या शब्दाचा अर्थ काय?",
+      "answer": "सत्ताधिकार."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "‘अचूक’ या शब्दाचा अर्थ काय?",
+      "answer": "बरोबर."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "‘हुबेहूब’ म्हणजे काय?",
+      "answer": "अगदी तसाच."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शब्दसिद्धीचा उपयोग काय?",
+      "answer": "भाषेचा अभ्यास."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भाषेत शब्द का बदलतात?",
+      "answer": "काळानुसार."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "उपसर्गामुळे शब्दाचा अर्थ बदलतो का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "प्रत्ययामुळे शब्दाचा अर्थ बदलतो का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "अभ्यस्त शब्दांचा उपयोग कशासाठी?",
+      "answer": "भाव स्पष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "शब्दसिद्धीचा संबंध कशाशी आहे?",
+      "answer": "व्याकरणाशी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "‘अतिरेक’ या शब्दातील उपसर्ग कोणता?",
+      "answer": "अति."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "‘उपवास’ या शब्दातील उपसर्ग कोणता?",
+      "answer": "उप."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "‘बिनचूक’ या शब्दातील उपसर्ग कोणता?",
+      "answer": "बिन."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "‘नापसंत’ या शब्दातील उपसर्ग कोणता?",
+      "answer": "ना."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "प्रत्यय शब्दाला काय देतो?",
+      "answer": "नवीन अर्थ."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "उपसर्ग शब्दाला काय देतो?",
+      "answer": "अर्थबदल."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "अभ्यस्त शब्दात काय असते?",
+      "answer": "पुनरुक्ती."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "शब्दसिद्धी अभ्यासाचा फायदा काय?",
+      "answer": "भाषाजाणीव वाढते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "भाषाभ्यास म्हणजे काय?",
+      "answer": "भाषेचा शास्त्रीय अभ्यास."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या इयत्तेसाठी आहे?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "या पाठातून काय शिकायला मिळते?",
+      "answer": "शब्दनिर्मिती."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भाषा कशी समृद्ध होते?",
+      "answer": "शब्दसंपत्ती वाढल्याने."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "शब्दसिद्धीचा उपयोग लेखनात कसा होतो?",
+      "answer": "अचूक शब्द निवड."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भाषाभ्यास का आवश्यक आहे?",
+      "answer": "योग्य भाषा वापरासाठी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शब्दसिद्धी आणि व्युत्पत्ती यात फरक काय?",
+      "answer": "निर्मिती व उगम."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या विभागात येतो?",
+      "answer": "भाषाभ्यास."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "शब्दसिद्धी अभ्यासामुळे काय वाढते?",
+      "answer": "भाषेची समज."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "शब्दांचा अभ्यास का करावा?",
+      "answer": "भाषा समृद्ध करण्यासाठी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "शब्दसिद्धी म्हणजे काय? तिचे महत्त्व स्पष्ट करा.",
+      "answer": "शब्दसिद्धी म्हणजे शब्द कसे तयार होतात, बदलतात याचा अभ्यास. यामुळे भाषेची रचना, विकास आणि शब्दसंपत्ती समजते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "सिद्ध शब्द व साधित शब्द यांतील फरक स्पष्ट करा.",
+      "answer": "सिद्ध शब्द मूळ असतात, तर साधित शब्द सिद्ध शब्दांपासून उपसर्ग, प्रत्यय किंवा पुनरावृत्तीने तयार होतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "उपसर्गघटित शब्द म्हणजे काय? उदाहरणांसह स्पष्ट करा.",
+      "answer": "शब्दाच्या सुरुवातीला उपसर्ग लागून तयार झालेले शब्द म्हणजे उपसर्गघटित शब्द."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "प्रत्ययघटित शब्द म्हणजे काय? उदाहरणांसह स्पष्ट करा.",
+      "answer": "शब्दाच्या शेवटी प्रत्यय लागून तयार झालेले शब्द म्हणजे प्रत्ययघटित शब्द."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "अभ्यस्त शब्द म्हणजे काय? त्यांचे वैशिष्ट्य सांगा.",
+      "answer": "पुनरावृत्तीने तयार झालेले शब्द म्हणजे अभ्यस्त शब्द. ते भाव अधिक प्रभावी करतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "तत्सम, तद्भव, देशी व परभाषीय शब्द स्पष्ट करा.",
+      "answer": "भाषेतील शब्दांचा उगम दर्शवणारे हे चार प्रकार आहेत."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "शब्दसिद्धी अभ्यासाचा भाषेवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "यामुळे भाषा समृद्ध होते आणि अचूक शब्दप्रयोग शक्य होतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "उपसर्ग व प्रत्यय यांतील फरक स्पष्ट करा.",
+      "answer": "उपसर्ग शब्दाच्या सुरुवातीला लागतो, तर प्रत्यय शेवटी लागतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "अभ्यस्त शब्दांचा वापर कसा आणि का होतो?",
+      "answer": "भाव, गती किंवा तीव्रता व्यक्त करण्यासाठी अभ्यस्त शब्द वापरले जातात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "भाषाभ्यास या घटकाचे महत्त्व स्पष्ट करा.",
+      "answer": "भाषेचा शास्त्रीय अभ्यास करून योग्य व प्रभावी भाषा वापरता येते."
+    }
+  ]
+}

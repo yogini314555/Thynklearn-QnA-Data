@@ -1,0 +1,1577 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.01",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "क्षेत्रभेट"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेट म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष निरीक्षणासाठी केलेली शैक्षणिक भेट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सहली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष निरीक्षणासाठी केलेली शैक्षणिक भेट"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष अनुभव मिळवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विश्रांती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष अनुभव मिळवणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत कोणत्या घटकांचे निरीक्षण केले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त भूरचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त वनस्पती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्राकृतिक व मानवी घटक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राकृतिक व मानवी घटक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीसाठी आवश्यक बाब कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योजना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "योजना"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत वही का वापरली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रेखाचित्रासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नोंदीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रकलेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिशोबासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नोंदीसाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीपूर्वी काय तयार करावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रश्नावली",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नकाशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रश्नावली"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "नळदुर्ग ते अलिबाग हा प्रवास कशासाठी केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्षेत्रभेट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षेत्रभेट"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत विद्यार्थ्यांनी काय निरीक्षण केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चित्रपट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूरचना, मृदा, वनस्पती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "भूरचना, मृदा, वनस्पती"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ग्रामीण वस्त्यांचा आकृतिबंध कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तुळाकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेषाकृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चौकोनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "रेषाकृती"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "शुष्क प्रदेशात कोणती वनस्पती आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दाट जंगले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काटेरी झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सदाहरित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दलदली",
+          "is_correct": false
+        }
+      ],
+      "answer": "काटेरी झाडे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "शहरी भागात घरे कशी असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकमजली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनेक मजली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मातीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लाकडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनेक मजली"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "उजनी धरण कोणत्या नदीवर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोदावरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीमा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कृष्णा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीमा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "धरणातील पाण्याचा उपयोग कशासाठी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त पिण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सिंचन, पिणे, विद्युत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "सिंचन, पिणे, विद्युत"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दख्खन पठार कोणत्या प्रकारचा प्रदेश आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डोंगराळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पठारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "किनारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पठारी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सह्याद्री पर्वतरांग कोणत्या घाटात येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व घाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम घाट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अरावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिमालय",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम घाट"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पश्चिम घाटातील उतार कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीव्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सपाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समतल",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीव्र"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "किनारी प्रदेशात कोणते पीक घेतले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गहू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ज्वारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बाजरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भात"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "समुद्राजवळ कोणता व्यवसाय आढळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मासेमारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खाणकाम",
+          "is_correct": false
+        }
+      ],
+      "answer": "मासेमारी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "जलदुर्ग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डोंगरावरील किल्ला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाण्यातील किल्ला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मैदानी किल्ला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जंगलातील किल्ला",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाण्यातील किल्ला"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सिंहगड कोणत्या प्रकारचा किल्ला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भुईकोट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जलदुर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मैदानी",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगरी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भुईकोट किल्ल्याचे उदाहरण कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिंहगड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नळदुर्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजमाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अलिबाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नळदुर्ग"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "देवराई म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लागवड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षित वन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उद्यान",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षित वन"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत नकाशाचा उपयोग कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मार्ग व स्थान ओळख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चित्रकला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लेखन",
+          "is_correct": false
+        }
+      ],
+      "answer": "मार्ग व स्थान ओळख"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पश्चिम किनारपट्टी कोणत्या समुद्रालगत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अरबी समुद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "बंगालचा उपसागर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भूमध्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काळा समुद्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "अरबी समुद्र"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भूरचनेतील बदल कशामुळे होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनुष्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नैसर्गिक प्रक्रियांमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यटनामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैसर्गिक प्रक्रियांमुळे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "काटेरी वनस्पती कुठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त पर्जन्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी पर्जन्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिमप्रदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दलदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी पर्जन्य"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत छायाचित्रे का घेतली जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नोंद व अभ्यासासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नोंद व अभ्यासासाठी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीचा अहवाल का तयार करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुणांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुभव मांडण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव मांडण्यासाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पठारी भागातील खडक कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बेसाल्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रॅनाइट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुनखडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेसाल्ट"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पर्जन्यमानाचा परिणाम कशावर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वनस्पती व शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "वनस्पती व शेती"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "किनारी प्रदेशात आर्द्रता कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नसते",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत शिस्त का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षेसाठी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेट कोणत्या विषयाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूगोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अर्थशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "भूगोल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत कोणते साधन महत्त्वाचे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नकाशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "नकाशा"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मानवी वस्त्यांचा अभ्यास कशासाठी करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकजीवन समजण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकजीवन समजण्यासाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीचा अभ्यास कोणत्या पद्धतीने होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनेने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यक्ष निरीक्षणाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाचनाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऐकून",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यक्ष निरीक्षणाने"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीत पाण्याची बाटली का आवश्यक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आरोग्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्यासाठी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेटीमुळे कोणती क्षमता वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निरीक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गाणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरीक्षण"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "क्षेत्रभेट हा कोणत्या प्रकारचा अभ्यास आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सैद्धांतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यावहारिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काल्पनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यावहारिक"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट म्हणजे काय?",
+      "answer": "प्रत्यक्ष निरीक्षणासाठी केलेली शैक्षणिक भेट."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीचा उद्देश काय?",
+      "answer": "प्रत्यक्ष अनुभव मिळवणे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत कोणते घटक पाहतात?",
+      "answer": "प्राकृतिक व मानवी घटक."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीपूर्वी काय आवश्यक?",
+      "answer": "योग्य नियोजन."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत वही का वापरतात?",
+      "answer": "नोंदी करण्यासाठी."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "ग्रामीण वस्त्या कशा असतात?",
+      "answer": "रेषाकृती स्वरूपाच्या."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "शहरी वस्त्यांचे वैशिष्ट्य काय?",
+      "answer": "अनेक मजली इमारती."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "शुष्क प्रदेशातील वनस्पती कशा असतात?",
+      "answer": "काटेरी."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "दख्खन पठाराचा प्रकार कोणता?",
+      "answer": "पठारी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "उजनी धरण कोणत्या नदीवर आहे?",
+      "answer": "भीमा नदी."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "धरणातील पाण्याचा उपयोग काय?",
+      "answer": "सिंचन व पिणे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सह्याद्री कोणत्या घाटात आहे?",
+      "answer": "पश्चिम घाट."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "किनारी प्रदेशात कोणते पीक घेतात?",
+      "answer": "भात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मासेमारी कोणत्या व्यवसायात येते?",
+      "answer": "प्राथमिक."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "जलदुर्ग म्हणजे काय?",
+      "answer": "पाण्यात बांधलेला किल्ला."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सिंहगड कोणत्या प्रकारचा किल्ला?",
+      "answer": "डोंगरी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नळदुर्ग कोणत्या प्रकारचा किल्ला?",
+      "answer": "भुईकोट."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "देवराई म्हणजे काय?",
+      "answer": "संरक्षित वनक्षेत्र."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पश्चिम घाटातील उतार कसा असतो?",
+      "answer": "तीव्र."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "किनारी भागात आर्द्रता कशी असते?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत नकाशाचा उपयोग काय?",
+      "answer": "स्थान ओळखण्यासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पर्जन्यमानाचा परिणाम कशावर होतो?",
+      "answer": "शेतीवर."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत छायाचित्रे का घेतात?",
+      "answer": "अभ्यासासाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीचा अहवाल म्हणजे काय?",
+      "answer": "अनुभवांची नोंद."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पठारी भागातील प्रमुख खडक कोणता?",
+      "answer": "बेसाल्ट."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मानवी वस्त्यांचा अभ्यास का करतात?",
+      "answer": "लोकजीवन समजण्यासाठी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत शिस्त का आवश्यक?",
+      "answer": "सुरक्षेसाठी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट कोणत्या विषयाशी संबंधित?",
+      "answer": "भूगोल."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत कोणते साधन महत्त्वाचे?",
+      "answer": "नकाशा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत पाण्याची बाटली का आवश्यक?",
+      "answer": "आरोग्यासाठी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीमुळे कोणती क्षमता वाढते?",
+      "answer": "निरीक्षण क्षमता."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ग्रामीण घरांची रचना कशी असते?",
+      "answer": "माती-दगडाची."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शहरी भागात लोकसंख्या कशी असते?",
+      "answer": "घन."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "किनारी प्रदेश कोणत्या समुद्रालगत?",
+      "answer": "अरबी समुद्र."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भूरचनेतील बदल कशामुळे होतात?",
+      "answer": "नैसर्गिक प्रक्रियांमुळे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत प्रश्नावली का वापरतात?",
+      "answer": "माहिती मिळवण्यासाठी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीचा अभ्यास कसा होतो?",
+      "answer": "प्रत्यक्ष निरीक्षणाने."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत आरोग्याची काळजी का घ्यावी?",
+      "answer": "अपघात टाळण्यासाठी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत कोणते साहित्य आवश्यक?",
+      "answer": "वही, पेन, नकाशा."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत शिक्षकांची भूमिका काय?",
+      "answer": "मार्गदर्शन."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत विद्यार्थ्यांची भूमिका काय?",
+      "answer": "निरीक्षण."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीचा फायदा काय?",
+      "answer": "भौगोलिक समज वाढते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत हवामानाचा अभ्यास होतो का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीचा अहवाल कशासाठी?",
+      "answer": "मूल्यमापनासाठी."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत सुरक्षा नियम का पाळतात?",
+      "answer": "अपघात टाळण्यासाठी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत कचरा व्यवस्थापन का महत्त्वाचे?",
+      "answer": "पर्यावरण संरक्षणासाठी."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीत कोणते बदल पाहतात?",
+      "answer": "प्रदेशीय बदल."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेटीमुळे कोणते ज्ञान मिळते?",
+      "answer": "प्रत्यक्ष भूगोल."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "क्षेत्रभेट कोणत्या प्रकारचा अभ्यास?",
+      "answer": "व्यावहारिक."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट म्हणजे काय? तिचे महत्त्व स्पष्ट करा.",
+      "answer": "क्षेत्रभेट म्हणजे अभ्यासासाठी केलेली प्रत्यक्ष भेट. यामुळे विद्यार्थ्यांना भूरचना, वनस्पती, मृदा व मानवी वस्त्या प्रत्यक्ष पाहता येतात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीची पूर्वतयारी कशी करावी?",
+      "answer": "नियोजन, प्रश्नावली, साहित्य संकलन व मार्ग ठरवणे आवश्यक असते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत निरीक्षणाचे महत्त्व स्पष्ट करा.",
+      "answer": "प्रत्यक्ष निरीक्षणामुळे सैद्धांतिक ज्ञान अधिक स्पष्ट होते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत नकाशाचा उपयोग स्पष्ट करा.",
+      "answer": "नकाशामुळे स्थान, मार्ग व भूरचना समजते."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "ग्रामीण व शहरी वस्त्यांतील फरक स्पष्ट करा.",
+      "answer": "ग्रामीण वस्त्या रेषाकृती असतात, तर शहरी वस्त्या दाट व बहुमजली असतात."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "शुष्क व ओलसर प्रदेशातील वनस्पतींची तुलना करा.",
+      "answer": "शुष्क भागात काटेरी वनस्पती, तर ओलसर भागात दाट वनस्पती आढळतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "पर्जन्यमानाचा शेतीवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "जास्त पर्जन्यमानामुळे भात, तर कमी पर्जन्यमानामुळे कडधान्ये घेतली जातात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीचा विद्यार्थ्यांना होणारा फायदा स्पष्ट करा.",
+      "answer": "निरीक्षण क्षमता, समज व व्यावहारिक ज्ञान वाढते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीचा अहवाल कसा तयार करावा?",
+      "answer": "निरीक्षण, नोंदी व निष्कर्ष यांच्या आधारे अहवाल तयार करतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "सह्याद्री पर्वतरांगांचे वैशिष्ट्ये लिहा.",
+      "answer": "तीव्र उतार, दाट वनराई व जास्त पर्जन्यमान ही वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "किनारी प्रदेशातील व्यवसाय स्पष्ट करा.",
+      "answer": "मासेमारी, शेती व पर्यटन हे प्रमुख व्यवसाय आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "जलदुर्ग व भुईकोट किल्ल्यांतील फरक स्पष्ट करा.",
+      "answer": "जलदुर्ग पाण्यात, तर भुईकोट जमिनीवर बांधलेले असतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत सुरक्षा नियमांचे महत्त्व स्पष्ट करा.",
+      "answer": "अपघात टाळण्यासाठी व सुरक्षिततेसाठी नियम आवश्यक आहेत."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत कचरा व्यवस्थापनाचे महत्त्व स्पष्ट करा.",
+      "answer": "पर्यावरण संरक्षणासाठी कचरा व्यवस्थापन आवश्यक आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट व सैद्धांतिक अभ्यास यांची तुलना करा.",
+      "answer": "क्षेत्रभेट व्यावहारिक, तर सैद्धांतिक अभ्यास पुस्तकाधारित असतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "मानवी वस्त्यांचा अभ्यास का महत्त्वाचा आहे?",
+      "answer": "लोकजीवन व उपजीविका समजते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत हवामानाचा अभ्यास कसा होतो?",
+      "answer": "तापमान, आर्द्रता व पर्जन्य निरीक्षणाने."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "पठारी प्रदेशाची वैशिष्ट्ये लिहा.",
+      "answer": "सपाट जमीन, बेसाल्ट खडक व मध्यम उंची."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीचा पर्यावरणावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "जाणीवपूर्वक वागल्यास पर्यावरण संरक्षण होते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीमुळे भौगोलिक संकल्पना कशा स्पष्ट होतात?",
+      "answer": "प्रत्यक्ष उदाहरणांमुळे संकल्पना समजतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत शिक्षकांची भूमिका स्पष्ट करा.",
+      "answer": "मार्गदर्शन व शिस्त राखणे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत विद्यार्थ्यांची भूमिका स्पष्ट करा.",
+      "answer": "निरीक्षण व नोंदी करणे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीतील अनुभवांचे महत्त्व स्पष्ट करा.",
+      "answer": "अनुभवातून शिकणे अधिक प्रभावी असते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीचा अभ्यासक्रमाशी संबंध स्पष्ट करा.",
+      "answer": "पाठ्यपुस्तकातील घटक प्रत्यक्ष पाहता येतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत प्रश्नावलीचे महत्त्व स्पष्ट करा.",
+      "answer": "माहिती संकलन सोपे होते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीचा सामाजिक फायदा स्पष्ट करा.",
+      "answer": "सहकार्य व शिस्त विकसित होते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीमुळे निरीक्षण कौशल्य कसे वाढते?",
+      "answer": "प्रत्यक्ष पाहून विश्लेषण केल्याने."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीत नोंदी ठेवण्याचे महत्त्व.",
+      "answer": "नंतर अहवालासाठी उपयोग होतो."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेटीचा अभ्यास पद्धतशीर कसा करावा?",
+      "answer": "नियोजन, निरीक्षण व निष्कर्ष."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "क्षेत्रभेट हा भूगोल अभ्यासाचा महत्त्वाचा भाग का आहे?",
+      "answer": "प्रत्यक्ष अनुभवामुळे भूगोल समज सखोल होते."
+    }
+  ]
+}

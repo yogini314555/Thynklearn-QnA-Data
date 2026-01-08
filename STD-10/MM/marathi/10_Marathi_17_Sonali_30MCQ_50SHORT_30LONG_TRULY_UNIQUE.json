@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.17",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "सोनाली"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘सोनाली’ हा पाठ कोणत्या प्रकारावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काल्पनिक कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्यकथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नाटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्यकथा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘सोनाली’ या पुस्तकाचे लेखक कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पु. ल. देशपांडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डॉ. वा. ग. पूर्णपात्रे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वि. स. खांडेकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "साने गुरुजी",
+          "is_correct": false
+        }
+      ],
+      "answer": "डॉ. वा. ग. पूर्णपात्रे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "सोनाली कोणत्या प्राण्याची मादी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाघ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चित्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सिंह",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बिबट्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "सिंह"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सोनालीला कुठून आणण्यात आले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जंगलातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणीसंग्रहालयातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डॉ. चित्रेयांकडून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सर्कसमधून",
+          "is_correct": false
+        }
+      ],
+      "answer": "डॉ. चित्रेयांकडून"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "सोनालीचे नाव कशावरून ठेवले गेले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वभावावरून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुवर्णकांती केसांवरून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ठिकाणावरून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आवाजावरून",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुवर्णकांती केसांवरून"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "रूपाली कोण होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मांजर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कुत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सिंहिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घोडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कुत्री"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सोनाली आणि रूपाली सुरुवातीला कशामुळे भांडत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खाण्यावरून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीतीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ओळखीअभावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खेळामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओळखीअभावी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सोनालीचा आहार सुरुवातीला कसा होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त मांस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शाकाहारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मिश्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त दूध",
+          "is_correct": false
+        }
+      ],
+      "answer": "मिश्र"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "सोनालीचे जेवण दिवसातून किती वेळा होत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोनदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीनदा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चारदा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीनदा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "सोनाली कोणत्या ठिकाणी झोपत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गच्चीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पिंजऱ्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बिछान्यावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अंगणात",
+          "is_correct": false
+        }
+      ],
+      "answer": "बिछान्यावर"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सोनालीचे रूपालीवर प्रेम कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैत्री"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सोनालीने पितळी पातेल्याचे काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फोडले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चावले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चाळणी केली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "टाकून दिले",
+          "is_correct": false
+        }
+      ],
+      "answer": "चाळणी केली"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सोनालीचा स्वभाव कसा होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिंस्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेमळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भित्रा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमळ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "सोनालीला पिंजऱ्यात का ठेवावे लागले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षेसाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "सोनाली कोणत्या वर्षी पुण्याला नेण्यात आली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९७२",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१९७३",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९७४",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१९७५",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९७४"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "सोनालीला कुठे कायमचे ठेवण्यात आले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जंगलात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पेशवे उद्यानात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्कसमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "पेशवे उद्यानात"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सोनाली पुण्याला जाताना लेखकाची भावना कशी होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "उदास"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सोनालीने दीपालीचे संरक्षण कसे केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुरगुरून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हल्ला करून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भुंकून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पळून",
+          "is_correct": false
+        }
+      ],
+      "answer": "हल्ला करून"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "सोनालीचा रूपालीशी संबंध कसा होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शत्रुत्वाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आईसारखा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मैत्रीपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैत्रीपूर्ण"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "सोनालीला साखळी लावण्याचा उद्देश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सवय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सजावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सवय"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सोनालीच्या दातांबाबत लेखकाला काय अनुभव आला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ते कमजोर होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ते धारदार होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ते अत्यंत मजबूत होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ते तुटले",
+          "is_correct": false
+        }
+      ],
+      "answer": "ते अत्यंत मजबूत होते"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "सोनालीने कोणत्या प्रसंगी डरकाळी फोडली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळताना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जेवण उशिरा मिळाल्यावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "झोपताना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फिरताना",
+          "is_correct": false
+        }
+      ],
+      "answer": "जेवण उशिरा मिळाल्यावर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सोनालीच्या जेवणात कोणते पदार्थ असत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त मटण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मटण, दूध, पोळ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त दूध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मटण, दूध, पोळ्या"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सोनालीला घरात ठेवण्याचा लेखकाचा हेतू काय होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रदर्शन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रशिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "करमणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सोनालीला रूपालीशिवाय काय होत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अस्वस्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आनंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अस्वस्थ"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सोनालीला मोटारीत बसायला आवडत होते का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "होय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती वाटत असे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कधी कधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "होय"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "सोनालीला पाहण्यासाठी पुण्यात काय झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांतता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गर्दी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दंगा",
+          "is_correct": false
+        }
+      ],
+      "answer": "गर्दी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सोनाली पिंजऱ्यात गेल्यावर कोण व्यथित झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लेखक व कुटुंब",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्राणीपालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मित्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेखक व कुटुंब"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘सोनाली’ या पाठाचा मुख्य संदेश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राण्यांवर प्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हिंसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शौर्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राण्यांवर प्रेम"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा पाठ वाचून वाचकाला काय जाणवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवेदना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदना"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘सोनाली’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "answer": "सत्यकथेवर आधारित आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "सोनाली कोण आहे?",
+      "answer": "एक सिंहिण."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "सोनालीचे नाव कसे ठेवले गेले?",
+      "answer": "तिच्या सुवर्णकांती केसांवरून."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "रूपाली कोण होती?",
+      "answer": "एक कुत्री."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "सोनाली आणि रूपाली यांचे नाते कसे होते?",
+      "answer": "मैत्रीचे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "सोनालीला घरात का आणले?",
+      "answer": "प्रेमाने वाढवण्यासाठी."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "सोनालीचे जेवण कसे होते?",
+      "answer": "दिवसातून तीन वेळा."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "सोनाली कोणत्या ठिकाणी झोपत असे?",
+      "answer": "लेखकाच्या बिछान्यावर."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "सोनालीला पिंजऱ्यात का पाठवले?",
+      "answer": "सुरक्षेसाठी."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "सोनालीला कुठे नेण्यात आले?",
+      "answer": "पुण्याच्या पेशवे उद्यानात."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "सोनालीचे रूपालीवर प्रेम कसे दिसते?",
+      "answer": "एकत्र झोपण्यात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या दातांचे वैशिष्ट्य काय?",
+      "answer": "अत्यंत ताकदवान."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "सोनालीने पितळी पातेल्याचे काय केले?",
+      "answer": "ते चावून चाळणी केले."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "सोनाली जेवताना कशी वागत असे?",
+      "answer": "आवेशाने."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "सोनालीला रूपालीशिवाय कसे वाटत असे?",
+      "answer": "अस्वस्थ."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "सोनालीने दीपालीचे रक्षण कसे केले?",
+      "answer": "गृहस्थावर धावून."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "सोनालीचे स्वभावगुण कोणते?",
+      "answer": "प्रेमळ व रक्षण करणारे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "सोनालीला साखळीची सवय का लावली?",
+      "answer": "मोठेपणी त्रास होऊ नये म्हणून."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "सोनाली पुण्याला कधी गेली?",
+      "answer": "३१ मार्च १९७४."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "सोनाली जाताना लेखकाला कसे वाटले?",
+      "answer": "खूप दुःख झाले."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या आहारात काय असायचे?",
+      "answer": "मटण, दूध व पोळ्या."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सोनाली मोटारीत कशी बसत असे?",
+      "answer": "खिडकीजवळ."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सोनालीला पिंजऱ्यात जाताना काय झाले?",
+      "answer": "ती बिथरली."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या कथेत कोणती भावना ठळक आहे?",
+      "answer": "संवेदना."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सोनालीचा रूपालीशी संबंध कसा बदलला?",
+      "answer": "मैत्री वाढली."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या वाढीने काय बदलले?",
+      "answer": "ताकद वाढली."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सोनालीला घरच्यांशी कसा लळा लागला?",
+      "answer": "प्रेमामुळे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "सोनालीचा लेखकावर कसा विश्वास होता?",
+      "answer": "पूर्ण."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सोनाली कोणत्या प्रसंगी रागावली?",
+      "answer": "जेवण उशिरा मिळाल्यावर."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सोनालीला कोणावर जास्त प्रेम होते?",
+      "answer": "रूपाली व दीपालीवर."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "सोनालीचा शेवटचा दिवस कसा होता?",
+      "answer": "उदास."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "सोनालीला लोक पाहायला का जमले?",
+      "answer": "ती सिंहिण होती म्हणून."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "सोनालीला नैसर्गिक ठिकाणी का पाठवले?",
+      "answer": "योग्य जीवनासाठी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सोनाली घरात वाढवणे योग्य होते का?",
+      "answer": "नाही, पण प्रेमाचे उदाहरण होते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या कथेतून काय शिकायला मिळते?",
+      "answer": "प्रेमाने पशुत्वावर मात होते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या स्वभावात पशुत्व होते का?",
+      "answer": "हो, पण ते नियंत्रणात होते."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सोनाली आणि रूपाली एकत्र काय करत?",
+      "answer": "खेळत व झोपत."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या कथेत लेखकाचा दृष्टिकोन कसा आहे?",
+      "answer": "संवेदनशील."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "सोनालीचे व्यक्तिमत्त्व कसे होते?",
+      "answer": "प्रेमळ व ताकदवान."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "सोनाली पिंजऱ्यात गेल्यावर काय झाले?",
+      "answer": "ती अस्वस्थ झाली."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या कथेचा सामाजिक संदेश काय?",
+      "answer": "प्राण्यांवर प्रेम."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या जीवनात मानवाचा प्रभाव कसा होता?",
+      "answer": "प्रेमळ."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "सोनालीचा रूपालीवर विश्वास कसा दिसतो?",
+      "answer": "तिच्यामागे मागे फिरणे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "सोनालीचा आहार बदलत का गेला?",
+      "answer": "वाढत्या वयामुळे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या कथेत कोणते मूल्य दिसते?",
+      "answer": "करुणा."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सोनाली घरच्यांसाठी काय होती?",
+      "answer": "कुटुंबातील सदस्य."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या कथेत शेवट कसा आहे?",
+      "answer": "वेदनादायक."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "सोनालीच्या कथेतून कोणती जाणीव होते?",
+      "answer": "वन्य प्राण्यांचे स्थान जंगलात आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "‘सोनाली’ वाचून काय वाटते?",
+      "answer": "प्राण्यांबद्दल ममत्व वाटते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘सोनाली’ या पाठाचा आशय स्पष्ट करा.",
+      "answer": "हा पाठ सिंहिण सोनाली आणि मानव यांच्यातील प्रेमळ नात्याचे संवेदनशील चित्रण करतो. प्रेमाने हिंस्र प्राण्यातील पशुत्वावरही मात करता येते, हा या कथेतून मिळणारा मुख्य संदेश आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "सोनाली आणि रूपाली यांच्यातील मैत्री स्पष्ट करा.",
+      "answer": "सुरुवातीला न पटणाऱ्या सोनाली आणि रूपाली हळूहळू जिवलग मैत्रिणी झाल्या. एकत्र झोपणे, खेळणे व एकमेकींची काळजी घेणे यातून ही मैत्री दिसते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "सोनालीच्या स्वभावाचे विविध पैलू स्पष्ट करा.",
+      "answer": "सोनाली प्रेमळ, रक्षण करणारी, कधी कधी आवेशी पण मुळात माणसांवर विश्वास ठेवणारी होती."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "सोनालीला घरात वाढवण्यामागचा लेखकाचा हेतू स्पष्ट करा.",
+      "answer": "लेखकाचा हेतू सर्कशी प्रशिक्षण नव्हता, तर प्रेमाने एका जंगली प्राण्यावर संस्कार करणे हा होता."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "सोनालीच्या आहार व वाढीचे वर्णन करा.",
+      "answer": "वाढत्या वयाबरोबर सोनालीचा आहार वाढत गेला. दूध, मटण, पोळ्या असा तिचा आहार होता."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "सोनालीने दीपालीचे रक्षण केलेला प्रसंग लिहा.",
+      "answer": "एका गृहस्थाने दीपालीला उचलताच सोनालीने त्याच्यावर हल्ला केला, यावरून तिची संरक्षणवृत्ती दिसते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "सोनाली पुण्याला जाताना लेखकाच्या भावना स्पष्ट करा.",
+      "answer": "सोनालीपासून दूर होताना लेखक व कुटुंबीय अत्यंत व्यथित झाले होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "‘पशूंना घरात ठेवणे योग्य नाही’ या विचारावर सोनालीच्या आधारे लिहा.",
+      "answer": "प्रेम असले तरी वन्य प्राण्यांचे नैसर्गिक स्थान जंगल किंवा उद्यानच आहे, हे या कथेतून स्पष्ट होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "सोनालीच्या कथेतून मिळणारा सामाजिक संदेश स्पष्ट करा.",
+      "answer": "प्राण्यांवर प्रेम करा, पण त्यांच्या नैसर्गिक गरजांचा आदर करा, हा सामाजिक संदेश मिळतो."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "आजच्या काळात ‘सोनाली’ या पाठाची उपयुक्तता स्पष्ट करा.",
+      "answer": "आजही मानव–प्राणी नात्यात करुणा, संवेदना आणि जबाबदारी किती आवश्यक आहे हे हा पाठ शिकवतो."
+    }
+  ]
+}

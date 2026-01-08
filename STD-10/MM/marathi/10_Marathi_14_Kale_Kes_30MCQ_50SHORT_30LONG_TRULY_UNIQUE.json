@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.14",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "काळे केस"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘काळे केस’ हा पाठ कोणत्या साहित्यप्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लघुनिबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "लघुनिबंध"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘काळे केस’ या लघुनिबंधाचे लेखक कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पु. ल. देशपांडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ना. सी. फडके",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वि. स. खांडेकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कुसुमाग्रज",
+          "is_correct": false
+        }
+      ],
+      "answer": "ना. सी. फडके"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लेखकाच्या केसांबाबत लोक कोणता प्रश्न विचारतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केस कापले का?",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केस रंगवले का?",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केस काळे कसे राहिले?",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "केस गळतात का?",
+          "is_correct": false
+        }
+      ],
+      "answer": "केस काळे कसे राहिले?"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "लेखकाला हा प्रश्न का आश्चर्यकारक वाटत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तो नवीन आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्याला सवय झाली आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तो कठीण आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तो चुकीचा आहे",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्याला सवय झाली आहे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "परगावी गेल्यावर लेखकाला कोण भेटतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नवे मित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नातेवाईक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जुने सहाध्यायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेजारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जुने सहाध्यायी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "केसांबद्दलच्या प्रश्नात दडलेली भावना कोणती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "टोमणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "टीका",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गर्भित प्रशंसा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "गर्भित प्रशंसा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "लेखक बहुतेक वेळा काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रागावतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विषय बदलतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हसून निघून जातो",
+          "is_correct": false
+        }
+      ],
+      "answer": "विषय बदलतो"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "एका गृहस्थाने लेखकाला विषय बदलू का दिला नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तो हट्टी होता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्याला उत्तर हवे होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तो रागावला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तो उपहास करत होता",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्याला उत्तर हवे होते"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "केस पांढरे होण्याचे कारण लेखक विनोदाने काय सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आजार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फार विचार करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनुवंश",
+          "is_correct": false
+        }
+      ],
+      "answer": "फार विचार करणे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लेखकाने केस काळे ठेवण्यासाठी काय केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कलप लावला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "औषध घेतले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काहीच नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तेल लावले",
+          "is_correct": false
+        }
+      ],
+      "answer": "काहीच नाही"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लेखकाच्या मते लोकांना कोणता भ्रम असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केस काळे राहत नाहीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केस आपोआप पांढरे होतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "केस काळे ठेवण्यासाठी उपाय असतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वय वाढत नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "केस काळे ठेवण्यासाठी उपाय असतात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘केसभर विषयांतर’ या शब्दसमूहाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांब विषय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थोडे विषय बदलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पूर्ण विषय बदलणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोद करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "थोडे विषय बदलणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "लेखक विचार कधी करत असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ठराविक वेळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रात्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सदा सर्वकाळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लिहिताना",
+          "is_correct": false
+        }
+      ],
+      "answer": "सदा सर्वकाळ"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लेखकाच्या मते लेखकाने काय करायलाच हवे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाचन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भाषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लेखकाला सर्वांत जास्त विचार कधी सुचतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फिरताना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दाढी करताना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लिहिताना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोपताना",
+          "is_correct": false
+        }
+      ],
+      "answer": "दाढी करताना"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "लेखक दाढी कुठे करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्नानगृहात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खोलीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गॅलरीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अंगणात",
+          "is_correct": false
+        }
+      ],
+      "answer": "गॅलरीत"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "दाढी करताना लेखकासमोर काय दृश्य असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रस्ता आणि झाडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोंगर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रस्ता आणि झाडे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "दाढी करताना लेखकाची मन:स्थिती कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तणावपूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रसन्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रसन्न"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कल्पनांची तुलना कशाशी केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लक्ष्मी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अग्नी",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्ष्मी"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कल्पना कधी दूर जाते असे लेखक म्हणतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तिची आराधना केली की",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "तिचा विचार केला की",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तिला बोलावले की",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिला विसरले की",
+          "is_correct": false
+        }
+      ],
+      "answer": "तिची आराधना केली की"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कल्पना कधी मागे लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तिचा शोध घेतला की",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तिची पर्वा न केली की",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ती लिहिली की",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती सांगितली की",
+          "is_correct": false
+        }
+      ],
+      "answer": "तिची पर्वा न केली की"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "लेखकाच्या मते विचार करण्याचा प्रयत्न केल्यावर काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विचार सुचतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काही सुचत नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लेखन होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मन शांत होते",
+          "is_correct": false
+        }
+      ],
+      "answer": "काही सुचत नाही"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लेखकाच्या अनेक लेखांचा जन्म कधी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रात्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रवासात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाढी करताना",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गप्पा मारताना",
+          "is_correct": false
+        }
+      ],
+      "answer": "दाढी करताना"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "दाढी करताना लेखकाला एकांत का आवडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तो हट्टी आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तो विचारशील आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तो बोलका नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तो कंटाळलेला असतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "तो विचारशील आहे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "लेखकाचा लेख कसा सुचला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "योजना करून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लिहिताना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाढी करताना",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवासात",
+          "is_correct": false
+        }
+      ],
+      "answer": "दाढी करताना"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘काळे केस’ या पाठाचा सूर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गंभीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विनोदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विनोदी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "लेखकाची शैली कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपदेशात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोरडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "खुसखुशीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तांत्रिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "खुसखुशीत"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "या लघुनिबंधाचा मुख्य विषय कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारप्रक्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारप्रक्रिया"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘काळे केस’ या शीर्षकाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केसांचे वर्णन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विनोदाचा आधार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वैज्ञानिक अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सौंदर्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "विनोदाचा आधार"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा पाठ वाचून वाचकाला काय जाणवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंटाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हसू आणि विचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दुःख",
+          "is_correct": false
+        }
+      ],
+      "answer": "हसू आणि विचार"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘काळे केस’ हा कोणत्या प्रकारचा पाठ आहे?",
+      "answer": "हा लघुनिबंध आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "‘काळे केस’ या पाठाचे लेखक कोण?",
+      "answer": "ना. सी. फडके."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "लोक लेखकाला कोणता प्रश्न विचारतात?",
+      "answer": "केस अजून काळे कसे आहेत?"
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "लेखकाला या प्रश्नाची सवय का झाली आहे?",
+      "answer": "तो नेहमी विचारला जातो म्हणून."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "केसांबद्दलच्या प्रश्नात काय दडलेले असते?",
+      "answer": "गर्भित प्रशंसा."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "लेखक बहुतेक वेळा कसे उत्तर देतो?",
+      "answer": "हसून विषय बदलतो."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "एका गृहस्थाने लेखकाला का हटवले नाही?",
+      "answer": "त्याला उपाय जाणून घ्यायचा होता."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "केस पांढरे होण्याचे कारण लेखक काय सांगतो?",
+      "answer": "फार विचार करणे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "लेखकाने केस काळे ठेवण्यासाठी काय केले?",
+      "answer": "काहीच नाही."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "लोक कोणत्या भ्रमात असतात?",
+      "answer": "केस काळे ठेवण्यासाठी उपाय असतात."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "लेखक सदा कशात गुंतलेला असतो?",
+      "answer": "विचारात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "लेखक कोणत्या व्यवसायाशी संबंधित आहे?",
+      "answer": "लेखन."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "लेखकाला सर्वांत आवडती वेळ कोणती?",
+      "answer": "दाढी करण्याची वेळ."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "दाढी करताना लेखक कुठे उभा असतो?",
+      "answer": "गॅलरीत."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "दाढी करताना लेखकासमोर काय दिसते?",
+      "answer": "निसर्गदृश्य."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "त्या वेळी लेखकाचे लक्ष कशाकडे नसते?",
+      "answer": "रस्त्यावरील गोंगाटाकडे."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "दाढी करताना लेखकाची मन:स्थिती कशी असते?",
+      "answer": "प्रसन्न."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कल्पनांची तुलना कशाशी केली आहे?",
+      "answer": "लक्ष्मीशी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कल्पना कधी रुसते?",
+      "answer": "तिची आराधना केली की."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कल्पना कधी मागे लागते?",
+      "answer": "तिची पर्वा न केली की."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "लेखक विचार करण्याचा प्रयत्न कधी करतो?",
+      "answer": "इतर वेळी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "त्या वेळी काय होते?",
+      "answer": "काहीच सुचत नाही."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "लेखकाचे अनेक विचार कधी जन्माला येतात?",
+      "answer": "दाढी करताना."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "दाढी करताना लेखकाला एकांत का हवा असतो?",
+      "answer": "विचार सुचण्यासाठी."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "लेखकाला विचार का सुचतात हे त्याला कळते का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "लेखक याला काय म्हणतो?",
+      "answer": "न उकललेले गूढ."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "लेखकाच्या मते कल्पना कशी असते?",
+      "answer": "लहरी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "लेखकाचा हा लेख कसा सुचला?",
+      "answer": "दाढी करता करता."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "हा लघुनिबंध कसा आहे?",
+      "answer": "विनोदी आणि विचारप्रवर्तक."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "लेखकाची भाषा कशी आहे?",
+      "answer": "लालित्यपूर्ण."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "लेखक लोकांच्या प्रश्नांकडे कसा पाहतो?",
+      "answer": "विनोदाने."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "लेखक कोणत्या गोष्टीचा उपहास करतो?",
+      "answer": "लोकांच्या गैरसमजांचा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "केसांचा विषय लेखकासाठी कसा आहे?",
+      "answer": "क्षुल्लक."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लेखकाचा स्वभाव कसा आहे?",
+      "answer": "हसरा आणि विचारशील."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "लेखक कोणत्या क्षणी स्वतःशी संवाद साधतो?",
+      "answer": "एकांतात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "लेखकाच्या लेखनाला काय कारणीभूत ठरते?",
+      "answer": "विचारप्रक्रिया."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "लेखक निसर्गाचे वर्णन का करतो?",
+      "answer": "मन:स्थिती सांगण्यासाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "दाढी करण्याची वेळ विशेष का आहे?",
+      "answer": "ती एकांताची असते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "लेखकाच्या मते कल्पना कशी मिळते?",
+      "answer": "अप्रयत्नाने."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "लेखकाला लोकांकडून काय अपेक्षित नाही?",
+      "answer": "खरे उत्तर."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "लेखक केसांच्या प्रश्नावर रागावतो का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "लेखक कोणती गोष्ट सहजपणे स्वीकारतो?",
+      "answer": "लोकांचे प्रश्न."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "हा लेख कशासाठी ओळखला जातो?",
+      "answer": "विनोदी चिंतनासाठी."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "लेखकाचे विचार कसे असतात?",
+      "answer": "प्रवाहपूर्ण."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "लेखकाचा दृष्टिकोन कसा आहे?",
+      "answer": "सकारात्मक."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "लेखातून कोणता गुण दिसतो?",
+      "answer": "हसतखेळत विचार मांडणे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हा पाठ वाचून काय शिकायला मिळते?",
+      "answer": "विचारांची प्रक्रिया."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "‘काळे केस’ शीर्षक समर्पक का आहे?",
+      "answer": "विनोदाचा आधार आहे म्हणून."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "लेखकाच्या लेखनाची खासियत काय?",
+      "answer": "सहजसुंदर शैली."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘काळे केस’ या लघुनिबंधाचा आशय स्पष्ट करा.",
+      "answer": "या लघुनिबंधात लेखकाने स्वतःच्या काळ्या केसांच्या निमित्ताने लोकांची मानसिकता आणि स्वतःची विचारप्रक्रिया विनोदी शैलीत मांडली आहे. दैनंदिन जीवनातील साध्या प्रसंगातून गंभीर विचार कसे सुचतात हे लेखक स्पष्ट करतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "लेखक लोकांच्या ‘केस काळे कसे राहिले?’ या प्रश्नाकडे कसा पाहतो ते स्पष्ट करा.",
+      "answer": "लेखक या प्रश्नाकडे रागाने नव्हे तर विनोदाने पाहतो. या प्रश्नात दडलेली गर्भित प्रशंसा तो ओळखतो आणि विषय बदलून संवाद हलक्याफुलक्या पद्धतीने संपवतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "केस पांढरे होण्याबाबत लेखकाने दिलेले विनोदी कारण स्पष्ट करा.",
+      "answer": "लेखक विनोदाने सांगतो की फार विचार केल्याने केस पांढरे होतात. यातून तो लोकांच्या अंधश्रद्धा आणि गैरसमजांवर उपहास करतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "लेखकाच्या मते तो सदा सर्वकाळ विचार का करत असतो?",
+      "answer": "लेखनाचा व्यवसाय असल्यामुळे नवनवीन कल्पनांचा शोध घेणे आवश्यक असते. म्हणून लेखकाचे मन सतत विचारात गुंतलेले असते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "दाढी करताना लेखकाला विचार का सुचतात ते स्पष्ट करा.",
+      "answer": "दाढी करताना लेखक एकांतात असतो, मन प्रसन्न असते आणि कोणताही ताण नसतो. या स्थितीत कल्पना सहजपणे मनात येतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "कल्पना ही लक्ष्मीसारखी आहे या विधानाचा अर्थ स्पष्ट करा.",
+      "answer": "लेखकाच्या मते कल्पना मुद्दाम मागितली तर दूर जाते आणि तिची पर्वा न केल्यास ती आपोआप येते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "लेखकाने निसर्गवर्णन का केले आहे?",
+      "answer": "दाढी करतानाची मन:स्थिती आणि वातावरण स्पष्ट करण्यासाठी लेखकाने निसर्गाचे चित्रण केले आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "‘काळे केस’ या लघुनिबंधातील विनोद स्पष्ट करा.",
+      "answer": "केस, कलप आणि विचार यांच्यातील संबंध दाखवून लेखकाने हलक्याफुलक्या शैलीत जीवनातील सत्य मांडले आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "लेखकाच्या लेखनशैलीची वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "खुसखुशीत भाषा, विनोद, सहज संवाद आणि विचारप्रवर्तक आशय ही लेखकाच्या शैलीची वैशिष्ट्ये आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘काळे केस’ या लघुनिबंधाचा संदेश स्पष्ट करा.",
+      "answer": "दैनंदिन जीवनातील साध्या प्रसंगांतूनही गंभीर आणि सर्जनशील विचार जन्माला येतात, हा या लघुनिबंधाचा संदेश आहे."
+    }
+  ]
+}

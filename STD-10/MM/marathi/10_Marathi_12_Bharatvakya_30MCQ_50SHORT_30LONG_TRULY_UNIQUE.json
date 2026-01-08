@@ -1,0 +1,1211 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.12",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "भरतवाक्य"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘भरतवाक्य’ ही रचना कोणत्या साहित्यप्रकारात मोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पद्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "पद्य"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘भरतवाक्य’ ही पद्यरचना कोणत्या ग्रंथातून घेतली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आर्याभारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केकावलि",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हरिवंश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मंत्ररामायण",
+          "is_correct": false
+        }
+      ],
+      "answer": "केकावलि"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘भरतवाक्य’ या रचनेचे कवी कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तुकाराम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोरोपंत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रामदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञानेश्वर",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोरोपंत"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मोरोपंत कोणत्या काळातील कवी होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मध्ययुगीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आधुनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर आधुनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समकालीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "मध्ययुगीन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘सुसंगती सदा घडो’ या ओळीतील सुसंगती म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाईट संगत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चांगली संगत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "एकटेपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "चांगली संगत"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘सुजनवाक्य कानीं पडो’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोड शब्द ऐकावेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सज्जनांचे उपदेश ऐकावेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कठोर शब्द ऐकावेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोद ऐकावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सज्जनांचे उपदेश ऐकावेत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवी कोणत्या गोष्टीचा त्याग करायला सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सद्विचार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुरभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुसंगती",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुरभिमान"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘विषय सर्वथा नावडो’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विषय आवडावेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विषयांपासून दूर राहावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सर्व विषय शिकावेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विषय निवडावेत",
+          "is_correct": false
+        }
+      ],
+      "answer": "विषयांपासून दूर राहावे"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘सदंघ्रिकमळीं दडो’ या शब्दसमूहाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देवाच्या चरणी मन लपवावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सज्जनांच्या पायाशी मन गुंतवावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कमळात मन ठेवावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्गात रमावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सज्जनांच्या पायाशी मन गुंतवावे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवी कोणत्या मार्गावर मन वळावे असे सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदुक्त मार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थमार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धामार्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "सदुक्त मार्ग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘न निश्चय कधीं ढळो’ याचा आशय काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निश्चय बदलावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निश्चय ठाम असावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निश्चय टाळावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निश्चय विसरावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "निश्चय ठाम असावा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवी चित्त कशापासून दूर ठेवायला सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भक्तीपासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भजनापासून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कुजनापासून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सद्गुणांपासून",
+          "is_correct": false
+        }
+      ],
+      "answer": "कुजनापासून"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘दुरभिमान सारा गळो’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिमान वाढावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खोटा अभिमान नष्ट व्हावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वाभिमान वाढावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गर्व टिकावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "खोटा अभिमान नष्ट व्हावा"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवी आत्मबोधाचे महत्त्व का सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाप नष्ट करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सुखासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्तीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाप नष्ट करण्यासाठी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘मुखीं हरि!’ या शब्दांतून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नुसते बोलणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नामस्मरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "नामस्मरण"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवी परमेश्वराकडे काय मागतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुख",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृपा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कीर्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृपा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "‘क्षणांत पुरवील जी सकलकामना’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इच्छा अपूर्ण राहतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्व इच्छा पूर्ण होतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इच्छा टाळाव्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इच्छा वाढतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व इच्छा पूर्ण होतात"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भरतवाक्य हा शब्द सामान्यतः कुठे वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कवितेच्या सुरुवातीला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाटकाच्या शेवटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथेच्या मध्यभागी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निबंधात",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाटकाच्या शेवटी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "या पद्यरचनेचा मुख्य सूर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपदेशात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोकात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोमांचक",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपदेशात्मक"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मोरोपंतांनी कोणत्या विषयांवर लेखन केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काव्य, नाटक, व्याकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केवळ नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "काव्य, नाटक, व्याकरण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवी सज्जन संगतीचे महत्त्व का सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चारित्र्य घडवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चारित्र्य घडवण्यासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "‘मति सदुक्तमार्गीं वळो’ या ओळीतून काय संदेश मिळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चुकीचा मार्ग निवडावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सद्विचारांचा मार्ग धरावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ साधावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सद्विचारांचा मार्ग धरावा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "या पद्यात कोणत्या मूल्यांवर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भक्ती व सदाचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "भक्ती व सदाचार"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भरतवाक्यात कोणती भावना प्रबळ आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "भक्ती"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मोरोपंतांच्या रचनेची भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संस्कृतप्रचुर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "साधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बोली",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृतप्रचुर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘दुरित आत्मबोधें जळो’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाप वाढावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मबोधाने पाप नष्ट व्हावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आत्मबोध टाळावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाप स्वीकारावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मबोधाने पाप नष्ट व्हावे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "या पद्यरचनेत कशाचे आवाहन आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भोगाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदाचाराचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्तीचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सदाचाराचे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवी कोणत्या प्रकारच्या जीवनाचा आदर्श ठेवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भोगवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साधनावादी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधनावादी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भरतवाक्याचा शेवट कशाने होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशीर्वाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रश्न",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशीर्वाद"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘भरतवाक्य’ वाचून काय प्रेरणा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती जमवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सद्वर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "सद्वर्तन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘भरतवाक्य’ म्हणजे काय?",
+      "answer": "नाटकाच्या शेवटी येणारे मंगल वाक्य."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "‘भरतवाक्य’ ही रचना कोणत्या ग्रंथातून घेतली आहे?",
+      "answer": "केकावलि."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "मोरोपंत कोण होते?",
+      "answer": "पंडित कवी."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "सुसंगतीचे महत्त्व कवी का सांगतात?",
+      "answer": "चारित्र्य घडते म्हणून."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "‘सुजनवाक्य’ म्हणजे काय?",
+      "answer": "सज्जनांचे उपदेश."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या गोष्टीपासून दूर राहायला सांगतात?",
+      "answer": "विषयभोगापासून."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "‘सदंघ्रिकमळीं’ या शब्दाचा अर्थ काय?",
+      "answer": "सज्जनांचे पदकमळ."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "कवी मन कुठे गुंतवायला सांगतात?",
+      "answer": "सज्जनांच्या चरणी."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "निश्चयाबाबत कवी काय सांगतात?",
+      "answer": "तो ढळू नये."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "चित्त कशात चळू नये असे कवी सांगतात?",
+      "answer": "कुजनांमध्ये."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘दुरभिमान’ म्हणजे काय?",
+      "answer": "खोटा अभिमान."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "दुरभिमान का टाळावा?",
+      "answer": "तो पतनाला नेतो."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "आत्मबोध म्हणजे काय?",
+      "answer": "स्वतःचे खरे स्वरूप ओळखणे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कवी आत्मबोधाचे महत्त्व का सांगतात?",
+      "answer": "पाप नष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "‘मुखीं हरि!’ या शब्दांचा अर्थ काय?",
+      "answer": "नामस्मरण."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवी परमेश्वराकडे काय मागतात?",
+      "answer": "कृपा."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "सकलकामना म्हणजे काय?",
+      "answer": "सर्व इच्छा."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवींच्या मते इच्छा कशामुळे पूर्ण होतात?",
+      "answer": "ईश्वरकृपेने."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "भरतवाक्याचा सूर कसा आहे?",
+      "answer": "उपदेशात्मक."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "या रचनेत कोणत्या मूल्यांवर भर आहे?",
+      "answer": "सदाचार."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "सज्जन संगतीचा परिणाम काय होतो?",
+      "answer": "मन शुद्ध होते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "‘मति सदुक्तमार्गीं वळो’ याचा अर्थ काय?",
+      "answer": "बुद्धी योग्य मार्गावर वळावी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या मार्गावर चालायला सांगतात?",
+      "answer": "सद्गुणांच्या मार्गावर."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मोरोपंतांनी किती काव्यकृती लिहिल्या?",
+      "answer": "सुमारे २६८."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "मोरोपंत कोणत्या शास्त्रांचे अभ्यासक होते?",
+      "answer": "न्याय व वेदान्त."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "भरतवाक्यात भक्ती कशी व्यक्त झाली आहे?",
+      "answer": "ईश्वरप्रार्थनेतून."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "‘विषय नावडो’ याचा अर्थ काय?",
+      "answer": "भोगांपासून दूर राहणे."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवी मन मळू नये असे का सांगतात?",
+      "answer": "चारित्र्य टिकावे म्हणून."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "‘दुरित’ म्हणजे काय?",
+      "answer": "पाप."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आत्मबोधाने काय जळते?",
+      "answer": "पाप."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "या रचनेचा सामाजिक संदेश काय?",
+      "answer": "सद्वर्तनाचे महत्त्व."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भरतवाक्याचा शेवट कसा आहे?",
+      "answer": "आशीर्वादात्मक."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मोरोपंतांच्या भाषेचे वैशिष्ट्य काय?",
+      "answer": "संस्कृतप्रचुरता."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या पद्यरचनेचा हेतू काय?",
+      "answer": "चारित्र्य घडवणे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सज्जन माणसांची संगत का महत्त्वाची आहे?",
+      "answer": "ती सद्गुण वाढवते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या वृत्तीचा निषेध करतात?",
+      "answer": "दुरभिमानाची."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "‘सुजनवाक्य’ ऐकल्याने काय होते?",
+      "answer": "विचार शुद्ध होतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवी मन कुठे जडावे असे सांगतात?",
+      "answer": "भवचरित्रात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भक्तीमार्गाचे महत्त्व कशात आहे?",
+      "answer": "मन शुद्ध करण्यात."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "या रचनेत ईश्वराचे स्थान काय?",
+      "answer": "केंद्रस्थानी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कवींच्या मते जीवन कसे असावे?",
+      "answer": "सदाचारी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "भरतवाक्याचा परिणाम वाचकावर काय होतो?",
+      "answer": "आत्मपरीक्षण."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "या रचनेत कोणता रस जाणवतो?",
+      "answer": "शांत रस."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवी कोणती प्रार्थना करतात?",
+      "answer": "सद्बुद्धीची."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भरतवाक्य वाचून काय शिकायला मिळते?",
+      "answer": "सद्वर्तन."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवींच्या मते खरी संपत्ती काय?",
+      "answer": "सद्गुण."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "या पद्यरचनेचा मुख्य विचार काय?",
+      "answer": "सदाचार व भक्ती."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "भरतवाक्याचा उपयोग कुठे होतो?",
+      "answer": "नाटकाच्या उपसंहारात."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "‘भरतवाक्य’ वाचून काय भावना निर्माण होते?",
+      "answer": "भक्तीभाव."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "या रचनेतून कोणता संदेश मिळतो?",
+      "answer": "सज्जन संगतीचे महत्त्व."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "‘भरतवाक्य’ या पद्यरचनेचा आशय स्पष्ट करा.",
+      "answer": "या पद्यरचनेत कवी मोरोपंत यांनी सदाचार, भक्ती आणि सज्जन संगतीचे महत्त्व स्पष्ट केले आहे. मन शुद्ध ठेवून आत्मबोध प्राप्त करण्याचे आवाहन त्यांनी केले आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "सज्जन संगतीचे महत्त्व ‘भरतवाक्य’च्या आधारे स्पष्ट करा.",
+      "answer": "सज्जनांच्या सहवासामुळे विचार शुद्ध होतात आणि चारित्र्य घडते, असे कवी सांगतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "दुरभिमान का टाळावा याबद्दल कवींचे मत लिहा.",
+      "answer": "दुरभिमान माणसाला अधःपतनाकडे नेतो, म्हणून तो गळून पडावा अशी कवींची प्रार्थना आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "आत्मबोधाचे महत्त्व ‘भरतवाक्य’च्या आधारे स्पष्ट करा.",
+      "answer": "आत्मबोधामुळे पाप नष्ट होते आणि जीवन शुद्ध होते, असे कवी सांगतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "‘मति सदुक्तमार्गीं वळो’ या ओळीचा अर्थ सविस्तर लिहा.",
+      "answer": "बुद्धी सद्विचारांच्या मार्गावर वळावी आणि चुकीच्या मार्गापासून दूर राहावी असा या ओळीचा अर्थ आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "मोरोपंतांचे साहित्यिक योगदान स्पष्ट करा.",
+      "answer": "मोरोपंतांनी काव्य, नाटक, व्याकरण अशा विविध क्षेत्रांत विपुल लेखन केले आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "भरतवाक्यात व्यक्त झालेली भक्ती स्पष्ट करा.",
+      "answer": "ईश्वरनामस्मरण, कृपेची याचना आणि भक्तीभाव या रचनेत दिसतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "‘विषय सर्वथा नावडो’ या विचाराचा अर्थ स्पष्ट करा.",
+      "answer": "भोगवादी वृत्ती टाळून साधनावादी जीवन जगावे असा या विचाराचा आशय आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘भरतवाक्य’ या रचनेचा सामाजिक संदेश लिहा.",
+      "answer": "सदाचार, सज्जन संगत आणि आत्मबोध यांचा स्वीकार करण्याचा संदेश ही रचना देते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "आजच्या काळात ‘भरतवाक्य’ची उपयुक्तता स्पष्ट करा.",
+      "answer": "आजच्या भौतिकवादी काळात सदाचार आणि संयम यांचे महत्त्व पटवून देणारी ही रचना उपयुक्त आहे."
+    }
+  ]
+}

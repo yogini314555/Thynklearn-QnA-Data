@@ -1,0 +1,1177 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.10",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "आप्पांचे पत्र"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘आप्पांचे पत्र’ हा पाठ कोणत्या प्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ललित लेख",
+          "is_correct": false
+        }
+      ],
+      "answer": "पत्र"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "आप्पा शाळेत कोणते काम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुख्याध्यापक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिपाई",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रंथपाल",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिपाई"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "आप्पांनी पत्र लिहिण्याचे मुख्य कारण काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तक्रार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनमोकळा संवाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गुणपत्रक",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनमोकळा संवाद"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आप्पांच्या मते चिंतेने काय वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कपाळावरच्या आठ्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "कपाळावरच्या आठ्या"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "आप्पा कोणाचा आदर्श विद्यार्थ्यांना देतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डॉक्टर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सामान्य कामगार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मुख्याध्यापक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामान्य कामगार"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘काम छोटं नसतं’ या वाक्याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कामाचे प्रकार असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्येक काम महत्त्वाचे असते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त मोठे काम श्रेष्ठ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम टाळावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्येक काम महत्त्वाचे असते"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "चार्जरचे उदाहरण कशासाठी दिले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कामाचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेळेचे महत्त्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "कामाचे महत्त्व"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "नर्सचे उदाहरण कशासाठी दिले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरोग्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवेचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डॉक्टरपेक्षा मोठे काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रुग्णालय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सेवेचे महत्त्व"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खेळपट्टीची काळजी घेणारा का महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तो खेळाडू आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सामन्याचा निकाल ठरतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तो पंच आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तो प्रेक्षक आहे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामन्याचा निकाल ठरतो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आप्पांच्या मते कोणते स्वप्न महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त पैसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त नोकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कामात सर्वोत्तम होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "परदेशात जाणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कामात सर्वोत्तम होणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आप्पा विद्यार्थ्यांना कशाची आठवण करून देतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुणांची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आयुष्यनिवडीची",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परीक्षेची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिस्तीची",
+          "is_correct": false
+        }
+      ],
+      "answer": "आयुष्यनिवडीची"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "फुलपाखरांचा उल्लेख कशासाठी आला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग निरीक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग निरीक्षण"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मधमाश्यांचा उल्लेख कशासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गोडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संख्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाण्याचे थेंब वाचवणाऱ्या व्यक्तीचे उदाहरण कशासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शौर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कायदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वाढदिवसाच्या पैशांचे उदाहरण कशाचे द्योतक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दातृत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हौस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खर्च",
+          "is_correct": false
+        }
+      ],
+      "answer": "दातृत्व"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "झाडे लावण्याबाबत आप्पा काय सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त सरकारचे काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्येकाने करावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कठीण काम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गरज नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्येकाने करावे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कारपेक्षा झाडे का महत्त्वाची आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शोभेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशाच्या समृद्धीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वस्त असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "छाया नसते",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशाच्या समृद्धीसाठी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "आप्पांच्या मते खरी श्रीमंती कशात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गाडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निसर्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मोबाईल",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आप्पांना विद्यार्थ्यांकडून काय अपेक्षित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त गुण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आनंदी जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिस्तभंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंदी जीवन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "आप्पा गुणांपेक्षा कशाला महत्त्व देतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डिग्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गुणीपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुणीपणा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ए. पी. जे. अब्दुल कलाम यांचा उल्लेख कशासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर्श व्यक्तिमत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर्श व्यक्तिमत्त्व"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आप्पांचे पत्र कोणाला उद्देशून आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विद्यार्थी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मित्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्यार्थी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "पत्राचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यश सहज मिळते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कामात प्रामाणिकपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गुण महत्त्वाचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कामात प्रामाणिकपणा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आप्पांच्या मते कामाचे मूल्य कशावर ठरते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पगारावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पदावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रामाणिकपणावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वेळेवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रामाणिकपणावर"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पुस्तकाची पाने व झाडाची पाने का महत्त्वाची आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन्ही हिरवी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञान व जीवनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सजावटीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कागदासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञान व जीवनासाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "आप्पा कोणत्या स्वभावाचे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संवेदनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पत्रातील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "औपचारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "साधी व आपुलकीची",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तांत्रिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "साधी व आपुलकीची"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आप्पा विद्यार्थ्यांना कशासाठी प्रेरित करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वतःसारखे होण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानवतेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवतेसाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘गुण महत्त्वाचे नाहीत’ या विधानाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुण निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यक्तिमत्त्व महत्त्वाचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अभ्यास नको",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शाळा नको",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यक्तिमत्त्व महत्त्वाचे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "आप्पा कोण आहेत?",
+      "answer": "शाळेतील शिपाई."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "आप्पांनी पत्र का लिहिले?",
+      "answer": "विद्यार्थ्यांशी मनमोकळे बोलण्यासाठी."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "आप्पांच्या मते चिंता का टाळावी?",
+      "answer": "ती गुण वाढवत नाही."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "‘काम छोटं नसतं’ याचा अर्थ काय?",
+      "answer": "प्रत्येक काम महत्त्वाचे असते."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "चार्जरचे उदाहरण काय सांगते?",
+      "answer": "लहान गोष्टींचे महत्त्व."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "नर्सचे उदाहरण कशाचे द्योतक आहे?",
+      "answer": "सेवेचे महत्त्व."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "खेळपट्टीची काळजी घेणारा का महत्त्वाचा आहे?",
+      "answer": "सामन्याचा निकाल ठरतो."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "आप्पा विद्यार्थ्यांना कशाची आठवण करून देतात?",
+      "answer": "आयुष्यनिवडीची."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "फुलपाखरांचा उल्लेख कशासाठी आहे?",
+      "answer": "निसर्ग अभ्यासासाठी."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "मधमाश्यांमधून काय शिकायला मिळते?",
+      "answer": "परिश्रमाचे महत्त्व."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "पाण्याचे थेंब वाचवणे कशासारखे आहे?",
+      "answer": "दुःखी माणसाचे अश्रू पुसण्यासारखे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "वाढदिवसाच्या पैशांचे उदाहरण काय दर्शवते?",
+      "answer": "दातृत्व."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "झाडे लावण्याचे महत्त्व काय?",
+      "answer": "देश समृद्ध होतो."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "कारपेक्षा झाडे का महत्त्वाची?",
+      "answer": "निसर्गसंपन्नतेसाठी."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "आप्पांच्या मते खरी श्रीमंती कशात आहे?",
+      "answer": "निसर्गात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "आप्पांना विद्यार्थ्यांकडून काय अपेक्षित आहे?",
+      "answer": "आनंदी जीवन."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "गुणांपेक्षा कशाला महत्त्व द्यावे?",
+      "answer": "गुणीपणाला."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कलाम यांचा उल्लेख का आहे?",
+      "answer": "आदर्श व्यक्तिमत्त्वासाठी."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "आप्पांचे पत्र कोणाला आहे?",
+      "answer": "विद्यार्थ्यांना."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पत्राचा मुख्य संदेश काय?",
+      "answer": "कामात प्रामाणिकपणा."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कामाचे मूल्य कशावर ठरते?",
+      "answer": "प्रामाणिकपणावर."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पुस्तकाची पाने महत्त्वाची का आहेत?",
+      "answer": "ज्ञानासाठी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "झाडाची पाने महत्त्वाची का आहेत?",
+      "answer": "जीवनासाठी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आप्पांचा स्वभाव कसा आहे?",
+      "answer": "संवेदनशील."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पत्राची भाषा कशी आहे?",
+      "answer": "आपुलकीची."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आप्पा विद्यार्थ्यांना कशासाठी प्रेरित करतात?",
+      "answer": "मानवतेसाठी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "आप्पांच्या मते यश कशात आहे?",
+      "answer": "मनापासून केलेल्या कामात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पत्रातून कोणती भावना दिसते?",
+      "answer": "जिव्हाळा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "आप्पा कोणत्या गोष्टीवर विश्वास ठेवतात?",
+      "answer": "कामाच्या प्रतिष्ठेवर."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आप्पांनी विद्यार्थ्यांना काय शुभेच्छा दिल्या?",
+      "answer": "आनंदी राहण्याच्या."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पत्राचा शेवट कसा आहे?",
+      "answer": "आशीर्वादात्मक."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आप्पांचे शिक्षणप्रेम कसे दिसते?",
+      "answer": "खिडकीतून धडे ऐकण्यातून."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "स्वच्छतेबाबत आप्पांचा दृष्टिकोन काय?",
+      "answer": "काम मनापासून करणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "आप्पा विद्यार्थ्यांना घाई टाळायला का सांगतात?",
+      "answer": "आयुष्य समजून घेण्यासाठी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पत्रातील उदाहरणे कशासाठी आहेत?",
+      "answer": "विचार स्पष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आप्पांच्या मते प्रत्येकाने काय करावे?",
+      "answer": "स्वतःचे सर्वोत्तम द्यावे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "आप्पा कोणता संदेश देतात?",
+      "answer": "मानवतेचा."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पत्रातील सामाजिक आशय काय?",
+      "answer": "कामाची प्रतिष्ठा."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "आप्पा कोणत्या मूल्यांवर भर देतात?",
+      "answer": "प्रामाणिकपणा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "विद्यार्थ्यांनी कशाचा अभिमान बाळगावा?",
+      "answer": "स्वतःच्या कामाचा."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आप्पांचे बोलणे कसे आहे?",
+      "answer": "मनापासून."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "पत्रातून काय शिकायला मिळते?",
+      "answer": "जीवनमूल्ये."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "आप्पा विद्यार्थ्यांकडे कसे पाहतात?",
+      "answer": "आपुलकीने."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पत्रातील दृष्टांत कसे आहेत?",
+      "answer": "सोपे आणि परिणामकारक."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "आप्पांचा आदर्श कोणासाठी आहे?",
+      "answer": "सर्वांसाठी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "पत्रातील मुख्य भावना काय?",
+      "answer": "आशा."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "आप्पांच्या मते यश कसे मिळते?",
+      "answer": "कष्टाने."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पत्राचा परिणाम वाचकावर काय होतो?",
+      "answer": "प्रेरणा मिळते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "आप्पांचे व्यक्तिमत्त्व कसे आहे?",
+      "answer": "साधे पण प्रेरणादायी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "‘आप्पांचे पत्र’ या पाठाचा आशय स्पष्ट करा.",
+      "answer": "या पत्रातून शाळेतील शिपाई असलेले आप्पा विद्यार्थ्यांशी मनमोकळा संवाद साधतात. ते कामाची प्रतिष्ठा, प्रामाणिकपणा आणि मानवतेचे महत्त्व पटवून देतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "आप्पांच्या मते कोणतेही काम श्रेष्ठ का असते ते स्पष्ट करा.",
+      "answer": "काम छोटं किंवा मोठं नसतं. ते कसे केले जाते यावर त्याची किंमत ठरते असे आप्पा सांगतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "चार्जर, नर्स आणि खेळपट्टीची उदाहरणे पाठात का दिली आहेत?",
+      "answer": "लहान वाटणाऱ्या कामांचे महत्त्व समजावण्यासाठी ही उदाहरणे दिली आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "आप्पांनी विद्यार्थ्यांना आयुष्याबाबत कोणता सल्ला दिला आहे?",
+      "answer": "मिळालेले काम मनापासून करावे आणि आनंदी राहावे असा सल्ला दिला आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "निसर्ग संवर्धनाबाबत आप्पांचे विचार स्पष्ट करा.",
+      "answer": "झाडे लावणे, पाणी वाचवणे यामुळे देश समृद्ध होतो असे आप्पा सांगतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "आप्पांच्या मते खरी श्रीमंती कशात आहे?",
+      "answer": "निसर्ग, मानवता आणि प्रामाणिकपणात खरी श्रीमंती आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "विद्यार्थ्यांच्या गुणांबाबत आप्पांचे मत स्पष्ट करा.",
+      "answer": "गुणांपेक्षा गुणीपणा महत्त्वाचा आहे असे आप्पा मानतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "आप्पांचे पत्र विद्यार्थ्यांसाठी प्रेरणादायी का आहे?",
+      "answer": "हे पत्र जीवनमूल्ये, आत्मविश्वास आणि माणुसकी शिकवते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "आप्पांचे व्यक्तिमत्त्व पाठाच्या आधारे स्पष्ट करा.",
+      "answer": "आप्पा साधे, संवेदनशील आणि अनुभवसंपन्न व्यक्तिमत्त्व आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "‘आप्पांचे पत्र’ या पाठाचा सामाजिक संदेश स्पष्ट करा.",
+      "answer": "कामाची प्रतिष्ठा, पर्यावरण संवर्धन आणि मानवतेचा आदर हा या पाठाचा संदेश आहे."
+    }
+  ]
+}

@@ -1,0 +1,1585 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Physics.06",
+    "standard": "10",
+    "subject": "Science – Physics",
+    "medium": "Marathi",
+    "chapter_name": "प्रकाशाचे अपवर्तन व अपस्करण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे अपवर्तन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रकाशाचे परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाशाची दिशा बदलणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश अपसारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रकाशाची दिशा बदलणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "प्रकाश अपवर्तन कधी घडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकाच माध्यमात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन माध्यमांच्या सीमेजवळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त निर्वातात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त काचेत",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन माध्यमांच्या सीमेजवळ"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "स्नेलचा नियम कशाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपस्करण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकिरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपवर्तन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अपवर्तनांक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दिशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वेगाचे गुणोत्तर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोन",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेगाचे गुणोत्तर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अपवर्तनांकाचे चिन्ह काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "r",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "i",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "n",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "v",
+          "is_correct": false
+        }
+      ],
+      "answer": "n"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "निर्वाताचा अपवर्तनांक किती असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "हवेतून काचेत जाताना किरण कसा वळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्तंभिकेकडून दूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्तंभिकेकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सरळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरुद्ध",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्तंभिकेकडे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "काचेतून हवेत जाताना किरण कसा वळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्तंभिकेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्तंभिकेकडून दूर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सरळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्तंभिकेकडून दूर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "अपवर्तनाचे किती नियम आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "sin i / sin r = स्थिरांक हा कोणता नियम?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओहम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्नेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केप्लर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फॅरेडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेल"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचा वेग सर्व माध्यमांत समान असतो का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाण्याचा अपवर्तनांक किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1.0",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1.33",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1.5",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2.4",
+          "is_correct": false
+        }
+      ],
+      "answer": "1.33"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "हिऱ्याचा अपवर्तनांक किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1.33",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1.5",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1.76",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2.42",
+          "is_correct": true
+        }
+      ],
+      "answer": "2.42"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "घन माध्यमातून विरल माध्यमात जाताना किरण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्तंभिकेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्तंभिकेकडून दूर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सरळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थांबतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्तंभिकेकडून दूर"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "विरल माध्यमातून घन माध्यमात जाताना किरण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्तंभिकेकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उलटा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्तंभिकेकडे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ताऱ्यांचे लुकलुकणे कशामुळे दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायुमंडलीय अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपस्करण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शोषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायुमंडलीय अपवर्तन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "मृगजळ ही कोणती घटना आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपस्करण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकिरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपवर्तन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सूर्य प्रत्यक्ष उगवण्याआधी दिसतो कारण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायुमंडलीय अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपस्करण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शोषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायुमंडलीय अपवर्तन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "प्रकाशाचे अपस्करण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिशा बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रंगांत विभाजन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परावर्तन",
+          "is_correct": false
+        }
+      ],
+      "answer": "रंगांत विभाजन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पांढऱ्या प्रकाशाचे किती रंग होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "VIBGYOR मधील पहिला रंग?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिरवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जांभळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबडा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तांबडा"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "सर्वाधिक वळणारा रंग कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांबडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिरवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जांभळा",
+          "is_correct": true
+        }
+      ],
+      "answer": "जांभळा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सर्वात कमी वळणारा रंग?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांबडा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पिवळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जांभळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तांबडा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "अपस्करणासाठी कोणते साधन वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आरसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लेन्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोलक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भिंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोलक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "न्यूटनने कोणते साधन वापरले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भिंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोलक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काच",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोलक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "इंद्रधनुष्य कशामुळे तयार होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अपस्करण व आंतरिक परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शोषण",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपस्करण व आंतरिक परावर्तन"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "इंद्रधनुष्यात किती रंग असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "6",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "7",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "8",
+          "is_correct": false
+        }
+      ],
+      "answer": "7"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पूर्ण आंतरिक परावर्तन कधी घडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "i < ic",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "i = ic",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "i > ic",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कधीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "i > ic"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "क्रांतिक कोन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमाल कोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विशिष्ट आपाती कोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपवर्तित कोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परावर्तित कोन",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशिष्ट आपाती कोन"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "पूर्ण आंतरिक परावर्तनासाठी प्रकाश कोणत्या दिशेने जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विरल→घन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घन→विरल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निर्वात→घन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवा→पाणी",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन→विरल"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "आंशिक परावर्तनात काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपूर्ण परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काही परावर्तन काही अपवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "काही परावर्तन काही अपवर्तन"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "फायबर ऑप्टिकचा आधार कोणती घटना आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपस्करण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्ण आंतरिक परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपवर्तन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्ण आंतरिक परावर्तन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अपवर्तनांक कोणावर अवलंबून असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "तांबड्या प्रकाशाची तरंगलांबी किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "400 nm",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "500 nm",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "700 nm",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "300 nm",
+          "is_correct": false
+        }
+      ],
+      "answer": "700 nm"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "जांभळ्या प्रकाशाची तरंगलांबी किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "700 nm",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "600 nm",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "500 nm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "400 nm",
+          "is_correct": true
+        }
+      ],
+      "answer": "400 nm"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "प्रकाश कोणत्या प्रकारचे प्रारण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युत चुंबकीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्ण",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत चुंबकीय"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या विषयाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भौतिकशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भूगोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या इयत्तेचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नववी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दहावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अकरावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बारावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दहावी"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे अपवर्तन म्हणजे काय?",
+      "answer": "माध्यम बदलल्यावर दिशा बदलणे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "अपवर्तन कधी घडते?",
+      "answer": "दोन माध्यमांच्या सीमेवर."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "आपाती किरण म्हणजे काय?",
+      "answer": "सीमेवर पडणारा किरण."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "अपवर्तित किरण म्हणजे काय?",
+      "answer": "माध्यमात वळलेला किरण."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "स्तंभिका म्हणजे काय?",
+      "answer": "सीमेवर लंब रेषा."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "स्नेलचा नियम काय सांगतो?",
+      "answer": "sin i / sin r स्थिर."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "अपवर्तनांक म्हणजे काय?",
+      "answer": "वेगाचे गुणोत्तर."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "निर्वाताचा अपवर्तनांक?",
+      "answer": "1."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पाण्याचा अपवर्तनांक?",
+      "answer": "1.33."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "हिऱ्याचा अपवर्तनांक?",
+      "answer": "2.42."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "विरल माध्यम म्हणजे काय?",
+      "answer": "कमी घनता माध्यम."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "घन माध्यम म्हणजे काय?",
+      "answer": "जास्त घनता माध्यम."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "विरल→घन किरण कसा वळतो?",
+      "answer": "स्तंभिकेकडे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "घन→विरल किरण कसा वळतो?",
+      "answer": "स्तंभिकेकडून दूर."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ताऱ्यांचे लुकलुकणे म्हणजे काय?",
+      "answer": "तेजस्विता बदल."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "तारे लुकलुकतात का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ग्रह लुकलुकतात का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मृगजळ म्हणजे काय?",
+      "answer": "पाण्याचा आभास."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "सूर्योदय आधी का दिसतो?",
+      "answer": "वायुमंडलीय अपवर्तन."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे अपस्करण म्हणजे काय?",
+      "answer": "रंगांत विभाजन."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "VIBGYOR म्हणजे काय?",
+      "answer": "सात रंगांची मालिका."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "तांबडा रंग का कमी वळतो?",
+      "answer": "तरंगलांबी जास्त."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "जांभळा रंग जास्त का वळतो?",
+      "answer": "तरंगलांबी कमी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "लोलक म्हणजे काय?",
+      "answer": "अपस्करण करणारे साधन."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "न्यूटनने काय सिद्ध केले?",
+      "answer": "पांढरा प्रकाश सात रंगांचा."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "इंद्रधनुष्य कधी दिसते?",
+      "answer": "पावसानंतर."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "इंद्रधनुष्याचा आकार?",
+      "answer": "अर्धवर्तुळ."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पूर्ण आंतरिक परावर्तन म्हणजे काय?",
+      "answer": "संपूर्ण परावर्तन."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "क्रांतिक कोन म्हणजे काय?",
+      "answer": "विशिष्ट आपाती कोन."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पूर्ण आंतरिक परावर्तनासाठी अट?",
+      "answer": "i > ic."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आंशिक परावर्तन म्हणजे काय?",
+      "answer": "काही परावर्तन."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "फायबर ऑप्टिक म्हणजे काय?",
+      "answer": "प्रकाश वाहक तंतू."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "फायबर ऑप्टिकचा उपयोग?",
+      "answer": "दूरसंचार."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "अपवर्तनांक वेगावर अवलंबून का?",
+      "answer": "वेग बदलतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "तरंगलांबी म्हणजे काय?",
+      "answer": "दोन शिखरांतील अंतर."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "400–700 nm म्हणजे काय?",
+      "answer": "दृश्य प्रकाश."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "प्रकाशाचे प्रारण स्वरूप?",
+      "answer": "विद्युत चुंबकीय."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "अपवर्तनांक रंगावर अवलंबून?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पांढरा प्रकाश म्हणजे काय?",
+      "answer": "सर्व रंगांचे मिश्रण."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अपस्करणात किती अपवर्तन?",
+      "answer": "दोन."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "इंद्रधनुष्यात प्रथम रंग?",
+      "answer": "तांबडा."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "इंद्रधनुष्यात शेवटचा रंग?",
+      "answer": "जांभळा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "माध्यम बदलल्यावर वेग?",
+      "answer": "बदलतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "वायुमंडलीय अपवर्तन म्हणजे काय?",
+      "answer": "हवेत अपवर्तन."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हवेत अपवर्तनांक स्थिर असतो का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ताऱ्यांची आभासी स्थिती?",
+      "answer": "उंच."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मृगजळ कुठे दिसते?",
+      "answer": "रस्त्यावर."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अपवर्तनाचा दैनंदिन उपयोग?",
+      "answer": "लेन्स."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अपस्करणाचा उपयोग?",
+      "answer": "स्पेक्ट्रम."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पूर्ण आंतरिक परावर्तनाचा उपयोग?",
+      "answer": "फायबर."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "अपवर्तनांकाचे SI एकक?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "अपवर्तनाचा अभ्यास का?",
+      "answer": "दृष्टी समजण्यासाठी."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी उपयुक्त?",
+      "answer": "प्रकाश घटना."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हा विषय कोणता?",
+      "answer": "भौतिकशास्त्र."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे अपवर्तन स्पष्ट करा.",
+      "answer": "माध्यम बदलल्यावर दिशा बदलते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "अपवर्तनाचे नियम स्पष्ट करा.",
+      "answer": "sin i/sin r स्थिर."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "अपवर्तनांक म्हणजे काय? सूत्र लिहा.",
+      "answer": "n = v1/v2."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "विरल व घन माध्यम फरक लिहा.",
+      "answer": "घनता भिन्न."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "ताऱ्यांचे लुकलुकणे स्पष्ट करा.",
+      "answer": "वायुमंडलीय अपवर्तन."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "मृगजळ म्हणजे काय? स्पष्ट करा.",
+      "answer": "गरम हवेतील अपवर्तन."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "सूर्योदय व सूर्यास्त अपवर्तनाने कसे?",
+      "answer": "आभासी स्थिती."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "प्रकाशाचे अपस्करण स्पष्ट करा.",
+      "answer": "रंगांत विभाजन."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "VIBGYOR रंगांची क्रमवारी लिहा.",
+      "answer": "तांबडा ते जांभळा."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "न्यूटनचा प्रयोग स्पष्ट करा.",
+      "answer": "लोलक वापर."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "इंद्रधनुष्य निर्मिती स्पष्ट करा.",
+      "answer": "अपवर्तन, अपस्करण, परावर्तन."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "पूर्ण आंतरिक परावर्तन स्पष्ट करा.",
+      "answer": "i > ic."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "क्रांतिक कोन स्पष्ट करा.",
+      "answer": "विशिष्ट आपाती कोन."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "आंशिक व पूर्ण परावर्तन फरक.",
+      "answer": "काही/संपूर्ण."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "फायबर ऑप्टिकचे कार्य.",
+      "answer": "प्रकाश वहन."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "अपवर्तनांक वेगाशी कसा संबंधित?",
+      "answer": "वेगाचे गुणोत्तर."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "रंगानुसार अपवर्तनांक का बदलतो?",
+      "answer": "तरंगलांबी फरक."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "पांढरा प्रकाश म्हणजे काय?",
+      "answer": "सात रंग."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "अपस्करणाचे दैनंदिन उपयोग.",
+      "answer": "इंद्रधनुष्य."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "वायुमंडलीय अपवर्तनाचे परिणाम.",
+      "answer": "लुकलुकणे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "तारे व ग्रह लुकलुकण्यात फरक.",
+      "answer": "बिंदू स्रोत."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "मृगजळ निर्मितीची अट.",
+      "answer": "गरम थर."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "अपवर्तनाचा उपयोग लेन्समध्ये.",
+      "answer": "दृष्टी."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "अपवर्तन व परावर्तन फरक.",
+      "answer": "दिशा बदल/परतणे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "पूर्ण आंतरिक परावर्तनाच्या अटी.",
+      "answer": "घन→विरल."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "फायबर ऑप्टिकचे फायदे.",
+      "answer": "जलद संचार."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "अपवर्तनाचा अभ्यास महत्त्व.",
+      "answer": "प्रकाश समज."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "अपस्करणाचा अभ्यास महत्त्व.",
+      "answer": "रंग समज."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "हा धडा अभ्यासाचे महत्त्व.",
+      "answer": "नैसर्गिक घटना."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "SSC परीक्षेसाठी धड्याचे महत्त्व.",
+      "answer": "संकल्पना स्पष्ट."
+    }
+  ]
+}

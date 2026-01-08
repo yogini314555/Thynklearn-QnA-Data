@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.15.1",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "वीरांगना (स्थूलवाचन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘वीरांगना’ या स्थूलवाचनाचा मुख्य उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशभक्तीची जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोद",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशभक्तीची जाणीव"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या पाठात किती वीरांगनांचा परिचय दिला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लेफ्टनंट स्वाती महाडिक यांचे पती कोण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेजर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कॅप्टन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कर्नल संतोष महाडिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जनरल",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्नल संतोष महाडिक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कर्नल संतोष महाडिक यांना कधी वीरमरण आले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२०१४",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२०१५",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२०१६",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२०१७",
+          "is_correct": false
+        }
+      ],
+      "answer": "२०१५"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांनी कोणत्या वयात सैन्यात प्रवेश केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३०",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३५",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "४० च्या आसपास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "२५",
+          "is_correct": false
+        }
+      ],
+      "answer": "४० च्या आसपास"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांची लष्करात निवड कुठे झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दिल्ली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चेन्नई",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मुंबई",
+          "is_correct": false
+        }
+      ],
+      "answer": "चेन्नई"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांना कोणता दर्जा मिळाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कॅप्टन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लेफ्टनंट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मेजर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कर्नल",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेफ्टनंट"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांच्या मुलीचे नाव काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वराज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्तिकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सावित्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्मिता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्तिकी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘आर्मीचे जीवन’ याबद्दल स्वाती महाडिक काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त नोकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जीवनशैली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "साहस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कर्तव्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीवनशैली"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांना प्रशिक्षण कसे वाटले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "असह्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण पण प्रेरक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोपे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कठीण पण प्रेरक"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक कोणत्या विद्यापीठातून शिक्षित झाल्या?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिवाजी विद्यापीठ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नागपूर",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिवाजी विद्यापीठ"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सबइन्स्पेक्टर रेखा मिश्रा कोणत्या दलात कार्यरत आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सीआरपीएफ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रेल्वे पोलीस दल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक पोलीस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लष्कर",
+          "is_correct": false
+        }
+      ],
+      "answer": "रेल्वे पोलीस दल"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांची नेमणूक कधी झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२००५",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२००८",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२०१०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२०१२",
+          "is_correct": false
+        }
+      ],
+      "answer": "२००८"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांनी किती मुलांना कुटुंबाकडे परत पाठवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१००",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२००",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "४३४",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "५००",
+          "is_correct": false
+        }
+      ],
+      "answer": "४३४"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांनी कोणत्या पद्धतीने मुलांशी संवाद साधला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कायदेशीर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रेमाने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमाने"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांचे मुख्य सामाजिक कार्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुन्हे तपास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भरकटलेल्या मुलांचे पुनर्वसन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाहतूक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रशिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "भरकटलेल्या मुलांचे पुनर्वसन"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पहिल्या प्रकरणात रेखा मिश्रा यांनी कोणाचे मनपरिवर्तन केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलीचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१४ वर्षीय मुलाचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पालकांचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गुन्हेगाराचे",
+          "is_correct": false
+        }
+      ],
+      "answer": "१४ वर्षीय मुलाचे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांना कोणत्या शहरात सेवा बजावली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिल्ली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुंबई",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पुणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाशिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुंबई"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांच्या कार्यामुळे मुलांना काय मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आश्रय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षणाचा मार्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नोकरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षणाचा मार्ग"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांच्या स्वभावाचे वैशिष्ट्य काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हट्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्यशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संशयी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यशील"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांचे कार्य कशाचे उदाहरण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्तव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "साहस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "या पाठाचा सामाजिक संदेश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशसेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोरंजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशसेवा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांनी वयाची अट कशी शिथिल करून घेतली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विशेष परवानगीने",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्पर्धेद्वारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राजकारणाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओळखीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशेष परवानगीने"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांचे प्रशिक्षण किती काळाचे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "६ महिने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "११ महिने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "१ वर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "२ वर्षे",
+          "is_correct": false
+        }
+      ],
+      "answer": "११ महिने"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा कोणत्या मुलांसाठी विशेष काम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रीमंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भरकटलेली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परदेशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनाथ",
+          "is_correct": false
+        }
+      ],
+      "answer": "भरकटलेली"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांच्या कामात कोणता गुण महत्त्वाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठोरता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेम व संयम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम व संयम"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "स्वाती महाडिक यांच्या मते महत्त्वाचे काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शारीरिक बळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानसिक बळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पैसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पद",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानसिक बळ"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "रेखा मिश्रा यांच्या मते शिक्षण का महत्त्वाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नोकरीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उन्नतीसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उन्नतीसाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘वीरांगना’ हा शब्द कशासाठी वापरला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सैनिकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धैर्यवान स्त्रियांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लेखकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आईसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धैर्यवान स्त्रियांसाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा पाठ वाचून वाचकाला काय प्रेरणा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशप्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशप्रेम"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘वीरांगना’ या पाठात कोणत्या दोन व्यक्तींचा परिचय आहे?",
+      "answer": "लेफ्टनंट स्वाती महाडिक आणि सबइन्स्पेक्टर रेखा मिश्रा."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक कोण होत्या?",
+      "answer": "भारतीय सैन्यातील लेफ्टनंट."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांच्या पतीचे नाव काय?",
+      "answer": "कर्नल संतोष महाडिक."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "कर्नल संतोष महाडिक यांचे बलिदान कुठे झाले?",
+      "answer": "जम्मू काश्मीरच्या कुपवाड्यात."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "पतीच्या निधनानंतर स्वाती महाडिक यांनी काय ठरवले?",
+      "answer": "सैन्यात भरती होण्याचा निश्चय."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांची लष्करी निवड कुठे झाली?",
+      "answer": "ऑफिसर्स ट्रेनिंग अकॅडमी, चेन्नई."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांना किती मुलं आहेत?",
+      "answer": "दोन."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांच्या मते आर्मी म्हणजे काय?",
+      "answer": "जीवन जगण्याचा मार्ग."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांनी कोणत्या अडचणींवर मात केली?",
+      "answer": "वय व प्रशिक्षणातील अडचणींवर."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांच्या स्वभावातील मुख्य गुण कोणता?",
+      "answer": "धैर्य."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा कोण आहेत?",
+      "answer": "रेल्वे पोलीस दलातील सबइन्स्पेक्टर."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा कोणत्या शहरात कार्यरत आहेत?",
+      "answer": "मुंबई."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांनी किती मुलांना पालकांपर्यंत पोहोचवले?",
+      "answer": "४३४ मुलांना."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांचे कार्य कशासाठी ओळखले जाते?",
+      "answer": "भरकटलेल्या मुलांच्या पुनर्वसनासाठी."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा मुलांशी कसा संवाद साधतात?",
+      "answer": "प्रेमाने आणि आपुलकीने."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "पहिल्या केसमध्ये रेखा मिश्रा यांनी काय केले?",
+      "answer": "मुलाचे मनपरिवर्तन केले."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कार्याचा समाजावर परिणाम काय?",
+      "answer": "मुले पुन्हा शिक्षणात आली."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा कोणत्या वयोगटातील मुलांशी काम करतात?",
+      "answer": "अल्पवयीन."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कामात कोणती अडचण असते?",
+      "answer": "भावनिक मुलांना समजावणे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांचे कार्य कशाचे उदाहरण आहे?",
+      "answer": "माणुसकीचे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांच्या प्रशिक्षणाचा काळ कसा होता?",
+      "answer": "खडतर पण प्रेरक."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांनी वयाची अट कशी पार केली?",
+      "answer": "विशेष परवानगीने."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांच्या मते कोणते बळ महत्त्वाचे?",
+      "answer": "मानसिक बळ."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या मते शिक्षणाचे महत्त्व काय?",
+      "answer": "राष्ट्रघडणीत योगदान."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "‘वीरांगना’ या शब्दाचा अर्थ काय?",
+      "answer": "धैर्यवान स्त्री."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "या पाठाचा मुख्य विषय कोणता?",
+      "answer": "देशसेवा व समाजसेवा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांचा निर्धार कशाचे प्रतीक आहे?",
+      "answer": "देशप्रेमाचा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कार्यात कोणता गुण दिसतो?",
+      "answer": "संयम."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांच्या मुलांनी कोणते स्वप्न पाहिले?",
+      "answer": "सैन्यात जाण्याचे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कार्यामुळे कोणाला प्रेरणा मिळते?",
+      "answer": "समाजाला."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांनी कोणते शिक्षण घेतले?",
+      "answer": "बी.एस्सी., एम.एस.डब्ल्यू., बी.एड."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांचे शिक्षण काय आहे?",
+      "answer": "एम.ए. इंग्रजी, बी.एड."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांनी कधी सेवा सुरू केली?",
+      "answer": "२००८ साली."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांचा दृष्टिकोन कसा आहे?",
+      "answer": "सकारात्मक."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांना कोणत्या कारणासाठी सन्मान मिळतो?",
+      "answer": "सामाजिक कार्यासाठी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांचे जीवन कशाचे उदाहरण आहे?",
+      "answer": "कर्तव्य आणि त्याग."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कार्यात काय महत्त्वाचे?",
+      "answer": "प्रेम आणि कायदा."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांचे कार्य कोणासाठी प्रेरणादायी?",
+      "answer": "स्त्रियांसाठी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कार्यामुळे मुलांना काय मिळाले?",
+      "answer": "नवे जीवन."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "या पाठातून कोणता गुण शिकायला मिळतो?",
+      "answer": "धैर्य."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांच्या प्रशिक्षणाचे वैशिष्ट्य काय?",
+      "answer": "खडतर शारीरिक कसोटी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कामाचा राष्ट्रासाठी काय उपयोग?",
+      "answer": "भविष्य सुरक्षित करणे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांना कशाचा अभिमान आहे?",
+      "answer": "देशसेवेचा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांचा स्वभाव कसा आहे?",
+      "answer": "आपुलकीचा."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "या पाठाचा उद्देश काय?",
+      "answer": "देशभक्ती जागवणे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "स्वाती महाडिक यांनी कोणत्या दिवशी सैन्यात प्रवेश केला?",
+      "answer": "९ सप्टेंबर २०१७."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "रेखा मिश्रा यांच्या कार्याचा शेवटचा परिणाम काय?",
+      "answer": "मुले शिक्षणात परतली."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "‘वीरांगना’ वाचून काय वाटते?",
+      "answer": "प्रेरणा मिळते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "या पाठातील स्त्रिया कशाचे प्रतीक आहेत?",
+      "answer": "धैर्य आणि माणुसकी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘वीरांगना’ या पाठाचा आशय स्पष्ट करा.",
+      "answer": "या पाठात लेफ्टनंट स्वाती महाडिक आणि सबइन्स्पेक्टर रेखा मिश्रा या दोन धैर्यवान स्त्रियांच्या कार्याचा परिचय दिला आहे. देशसेवा आणि समाजसेवा या माध्यमातून त्यांनी केलेले योगदान प्रेरणादायी आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "पतीच्या निधनानंतर स्वाती महाडिक यांनी घेतलेला निर्णय स्पष्ट करा.",
+      "answer": "असीम दु:ख असूनही त्यांनी खचून न जाता सैन्यात भरती होण्याचा निर्धार केला आणि तो पूर्ण केला."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "स्वाती महाडिक यांच्या प्रशिक्षणाचा प्रवास स्पष्ट करा.",
+      "answer": "वयाची अट शिथिल करून त्यांनी खडतर प्रशिक्षण पूर्ण केले आणि लेफ्टनंट पद मिळवले."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "‘आर्मीचे जीवन ही नोकरी नाही’ या विधानाचा अर्थ स्पष्ट करा.",
+      "answer": "आर्मी हे शिस्त, त्याग आणि जीवनशैलीचे प्रतीक आहे असे स्वाती महाडिक सांगतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "रेखा मिश्रा यांच्या सामाजिक कार्याचे स्वरूप स्पष्ट करा.",
+      "answer": "रेल्वे स्थानकांवर भरकटलेल्या मुलांना शोधून त्यांना सुरक्षित कुटुंबाकडे परत पाठवण्याचे कार्य त्यांनी केले."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "रेखा मिश्रा मुलांचे मनपरिवर्तन कसे करतात?",
+      "answer": "प्रेम, आपुलकी आणि गरज पडल्यास कायद्याचा आधार घेऊन त्या मुलांना समजावतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "रेखा मिश्रा यांच्या कार्याचे सामाजिक महत्त्व स्पष्ट करा.",
+      "answer": "भरकटलेल्या मुलांचे भविष्य सुरक्षित करून त्या राष्ट्रघडणीत योगदान देतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "‘वीरांगना’ या पाठातून स्त्रियांसाठी कोणता संदेश मिळतो?",
+      "answer": "स्त्रिया कोणत्याही परिस्थितीत धैर्याने समाजासाठी कार्य करू शकतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "स्वाती महाडिक यांच्या व्यक्तिमत्त्वातील गुण स्पष्ट करा.",
+      "answer": "धैर्य, सकारात्मक दृष्टिकोन आणि देशप्रेम हे त्यांचे प्रमुख गुण आहेत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘वीरांगना’ या पाठाचा आजच्या काळातील संदेश स्पष्ट करा.",
+      "answer": "देशसेवा व समाजसेवा ही केवळ पुरुषांची मक्तेदारी नसून स्त्रियाही तेवढ्याच समर्थ आहेत हा संदेश मिळतो."
+    }
+  ]
+}

@@ -1,0 +1,1177 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.08",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "वाट पाहताना"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘वाट पाहताना’ हा पाठ कोणत्या प्रकारचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ललित लेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ललित लेख"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘वाट पाहताना’ या लेखाच्या लेखिका कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांता शेळके",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अरुणा ढेरे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्गा भागवत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मालती बेडेकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अरुणा ढेरे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लेखाच्या सुरुवातीला लेखिका कशाची वाट पाहते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुट्टीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोकिळेच्या कुहूची",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पावसाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आईची",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोकिळेच्या कुहूची"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कोकिळेचा आवाज लेखिकेसाठी कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुट्टीचा आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभ्यास",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुट्टीचा आनंद"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "लेखिकेला पुस्तकांची वाट का पाहावी लागते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती मिळत नाहीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुट्टीत वाचायची म्हणून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ती महाग आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती हरवतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुट्टीत वाचायची म्हणून"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "माळ्यावर बसून वाचन करण्याची इच्छा कशामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांततेमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पुस्तकांच्या सहवासामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उंचीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थंडीमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पुस्तकांच्या सहवासामुळे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "पुस्तकांमुळे लेखिकेला काय अनुभवायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंटाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवे जग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्वस्थता",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवे जग"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शब्दांची ताकद लेखिकेला कशातून समजते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवादातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाचनातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भाषणातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चित्रांतून",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचनातून"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लेखिकेला कवितेशी मैत्री कशी वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दडपणाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "औपचारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिव्हाळ्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दूरची",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिव्हाळ्याची"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कविता लेखिकेकडे कधी येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ठराविक वेळी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवी तेव्हा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लेखिकेच्या हाकेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वतःहून",
+          "is_correct": true
+        }
+      ],
+      "answer": "स्वतःहून"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आत्याची नोकरी कुठे होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उरुळीकांचन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सातारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "उरुळीकांचन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "आत्या घरी परतायला उशीर का होत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रस्ता खराब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गाडी उशिरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काम जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थंडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "गाडी उशिरा"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आत्याची वाट पाहताना मुलांची भावना कशी होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीने भरलेली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निरपेक्ष",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीतीने भरलेली"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आत्या आल्यावर घरात काय बदलत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांतता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोंधळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "आनंद"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "चिनी चित्रपटाचा उल्लेख कशासाठी आला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाट पाहण्याचा अर्थ सांगण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदाहरणासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाट पाहण्याचा अर्थ सांगण्यासाठी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "पोस्टमन म्हातारीसाठी काय करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरे पत्र देतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोरं पत्र वाचतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिला दुर्लक्ष करतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिला फसवतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोरं पत्र वाचतो"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "म्हातारी पत्र का जपते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कागदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलाच्या आठवणींसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ घालवण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलाच्या आठवणींसाठी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पोस्टमनचे वर्तन कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणुसकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कर्तव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "‘वाट पाहणे’ या अनुभवात काय असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्कंठा आणि तडफड",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्कंठा आणि तडफड"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "शेतकरी कशाची वाट पाहतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पीक काढणीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पावसाची",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बियाण्यांची",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उन्हाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "पावसाची"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "संत कशाची वाट पाहतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पैशांची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "यशाची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विठूच्या दर्शनाची",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मरणाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "विठूच्या दर्शनाची"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वाट पाहण्याने काय शिकायला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अहंकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "संयम"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "लेखिकेच्या मते सहज मिळालेल्या गोष्टींचे काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोल वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोल कळत नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "साठवतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विसरतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोल कळत नाही"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वाट पाहण्यामुळे कोणती भावना पक्की होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "श्रद्धा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "श्रद्धा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "लेखाचा शेवट कोणत्या विचाराने होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुख टाळावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाट पाहणे टाळावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाट पाहणे आवश्यक आहे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सगळे सहज मिळावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाट पाहणे आवश्यक आहे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "लेखिकेचा लेखनस्वभाव कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवेदनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तटस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आक्रमक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशील"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "‘वाट पाहताना’ या शीर्षकाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुभव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयमाची प्रक्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ घालवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संयमाची प्रक्रिया"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "या लेखाचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यश सहज मिळावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाट पाहण्याचे मोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती टाळावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कंटाळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाट पाहण्याचे मोल"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हा लेख वाचकांना कशाकडे प्रवृत्त करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाईकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मपरीक्षणाकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराशेकडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मपरीक्षणाकडे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "‘वाट पाहताना’ हा पाठ कोणत्या विषयावर आहे?",
+      "answer": "वाट पाहण्याच्या अनुभवांवर."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "लेखिकेला कोकिळेचा आवाज का महत्त्वाचा वाटतो?",
+      "answer": "तो सुट्टीची चाहूल देतो."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "सुट्टीची वाट पाहण्यामागचे कारण काय?",
+      "answer": "नवे अनुभव आणि वाचन."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "माळ्यावर बसण्याची लेखिकेची इच्छा का होती?",
+      "answer": "पुस्तकांच्या वेगळ्या जगासाठी."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "पुस्तकांमुळे लेखिकेला काय मिळते?",
+      "answer": "नवे विचार आणि जग."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "लेखिकेला भाषेची ताकद कशी कळली?",
+      "answer": "वाचनातून."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कविता लेखिकेकडे कधी येते?",
+      "answer": "हवी तेव्हा नाही."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "कवितेशी मैत्री कशी आहे?",
+      "answer": "जिव्हाळ्याची पण संयमाची."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "आत्याची वाट पाहताना भीती का वाटे?",
+      "answer": "ती उशिरा येत असल्यामुळे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "आत्या आल्यावर काय भावना निर्माण होत असे?",
+      "answer": "दिलासा."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "चिनी चित्रपटाचा संदर्भ का दिला आहे?",
+      "answer": "वाट पाहण्याचा अर्थ स्पष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "म्हातारी पत्र का जपते?",
+      "answer": "मुलाच्या प्रेमासाठी."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "पोस्टमन कोरं पत्र का वाचतो?",
+      "answer": "म्हातारीला आनंद देण्यासाठी."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "पोस्टमन कोणता गुण दाखवतो?",
+      "answer": "माणुसकी."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "वाट पाहणे नेहमी सुखद का नसते?",
+      "answer": "त्यात भीती आणि तडफड असते."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "शेतकऱ्याची वाट पाहणे कशाचे प्रतीक आहे?",
+      "answer": "आशेचे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "संतांची वाट पाहणे कशाशी जोडले आहे?",
+      "answer": "श्रद्धेशी."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "वाट पाहण्याने कोणता गुण वाढतो?",
+      "answer": "संयम."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "सहज मिळालेल्या गोष्टींचे मोल का कळत नाही?",
+      "answer": "प्रयत्न नसल्यामुळे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "वाट पाहण्याने श्रद्धा कशी वाढते?",
+      "answer": "विश्वास दृढ होतो."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "लेखिकेला वाट पाहताना काय शिकायला मिळते?",
+      "answer": "धीर धरायला."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "वाट पाहणे कशासाठी उपयुक्त आहे?",
+      "answer": "सुखाची गोडी वाढवण्यासाठी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "लेखिकेच्या बालपणीचा कोणता अनुभव दिला आहे?",
+      "answer": "आत्याची वाट पाहणे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "पोस्टमनचा मुलगा काय शिकतो?",
+      "answer": "माणुसकी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वाट पाहणे म्हणजे काय?",
+      "answer": "मनाची तयारी."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "लेखात कोणत्या भावना दिसतात?",
+      "answer": "उत्कंठा आणि हुरहुर."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पुस्तकांची वाट पाहणे का आनंददायी आहे?",
+      "answer": "ती नवे जग उघडतात."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "लेखिकेचा दृष्टिकोन कसा आहे?",
+      "answer": "संवेदनशील."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वाट पाहताना माणूस काय शिकतो?",
+      "answer": "विश्वास."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "लेखातील उदाहरणे कशासाठी आहेत?",
+      "answer": "विचार स्पष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वाट पाहणे ही प्रक्रिया का आवश्यक आहे?",
+      "answer": "संयम शिकवते."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पोस्टमनचे कृत्य योग्य का आहे?",
+      "answer": "ते सहानुभूतीतून केले आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "लेखिकेला कवितेची वाट का पाहावी लागते?",
+      "answer": "ती प्रेरणेवर अवलंबून असते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वाट पाहणे आणि तडफड यांचा संबंध काय?",
+      "answer": "तडफड वाट पाहण्यात असते."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लेखाचा सामाजिक संदेश काय आहे?",
+      "answer": "संवेदनशीलता."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वाट पाहण्यामुळे सुख कसे वाढते?",
+      "answer": "ते मिळाल्यावर मोल कळते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "लेखातील शेतकरी कोणाचे प्रतीक आहे?",
+      "answer": "आशेचे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "लेखात संतांचा उल्लेख का आहे?",
+      "answer": "श्रद्धेचे उदाहरण म्हणून."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वाट पाहताना काय टाळावे?",
+      "answer": "घाई."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "लेखिकेचे बालपण कसे दाखवले आहे?",
+      "answer": "भावनिक."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "वाट पाहणे आणि प्रेम यांचा संबंध काय?",
+      "answer": "तृप्ती वाढते."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "लेखिकेच्या मते यश कसे मिळावे?",
+      "answer": "वाट पाहून."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वाट पाहण्याचा अनुभव का महत्त्वाचा आहे?",
+      "answer": "तो जीवन शिकवतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "लेखिकेचा शेवटचा विचार काय आहे?",
+      "answer": "सहज सुख नको."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "वाट पाहण्यामुळे कोणता स्वभाव तयार होतो?",
+      "answer": "संयमी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "लेखिकेची भाषा कशी आहे?",
+      "answer": "प्रवाहपूर्ण."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "‘वाट पाहताना’ हा पाठ वाचून काय वाटते?",
+      "answer": "विचार करावा असे वाटते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वाट पाहणे कोणत्या गोष्टीचे मोल वाढवते?",
+      "answer": "सुखाचे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "लेखाचा परिणाम वाचकावर काय होतो?",
+      "answer": "आत्मपरीक्षण."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "‘वाट पाहताना’ या लेखातील ‘वाट पाहणे’ या संकल्पनेचा अर्थ स्पष्ट करा.",
+      "answer": "या लेखात ‘वाट पाहणे’ म्हणजे संयम, धीर आणि उत्कंठा यांचा अनुभव आहे. वाट पाहण्यामुळे माणूस अधिक संवेदनशील बनतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "लेखिकेच्या बालपणीच्या आठवणींच्या आधारे वाट पाहण्याचा अनुभव स्पष्ट करा.",
+      "answer": "आत्याची वाट पाहणे, सुट्टीची वाट पाहणे या अनुभवांतून उत्कंठा आणि भीती दिसते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "पोस्टमन आणि म्हातारीच्या प्रसंगातून लेखिकेने कोणता संदेश दिला आहे?",
+      "answer": "माणुसकी आणि सहानुभूती यांचे महत्त्व अधोरेखित केले आहे."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "पुस्तकांची वाट पाहणे लेखिकेला का वेड लावायचे?",
+      "answer": "कारण पुस्तकांतून तिला नवे जग आणि शब्दांची जादू मिळत असे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "वाट पाहणे आणि श्रद्धा यांचा संबंध लेखाच्या आधारे स्पष्ट करा.",
+      "answer": "वाट पाहताना श्रद्धा दृढ होते आणि विश्वास वाढतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "शेतकरी आणि संत यांच्या उदाहरणांतून वाट पाहण्याचे स्वरूप स्पष्ट करा.",
+      "answer": "शेतकरी पावसाची वाट पाहतो, संत विठूच्या दर्शनाची; दोघांत श्रद्धा आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "लेखिकेच्या मते सहज मिळालेल्या गोष्टींचे मोल का कळत नाही?",
+      "answer": "कारण प्रयत्न आणि तडफड नसल्यामुळे त्यांची किंमत जाणवत नाही."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "‘वाट पाहताना’ या लेखाचा सामाजिक आशय स्पष्ट करा.",
+      "answer": "हा लेख संयम, सहानुभूती आणि संवेदनशीलता शिकवतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "वाट पाहण्यामुळे सुखाची गोडी कशी वाढते ते स्पष्ट करा.",
+      "answer": "थोडी तडफड झाल्यावर मिळालेल्या सुखाची जाणीव अधिक तीव्र होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "‘वाट पाहताना’ या लेखाचे शीर्षक समर्पक का आहे ते लिहा.",
+      "answer": "लेखातील सर्व अनुभव वाट पाहण्याशी निगडित असल्यामुळे शीर्षक योग्य आहे."
+    }
+  ]
+}

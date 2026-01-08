@@ -1,0 +1,1597 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Physics.07",
+    "standard": "10",
+    "subject": "Science – Physics",
+    "medium": "Marathi",
+    "chapter_name": "भिंगे व त्यांचे उपयोग"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भिंग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपारदर्शक माध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन पृष्ठभाग असलेले पारदर्शक माध्यम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आरसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश स्रोत",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन पृष्ठभाग असलेले पारदर्शक माध्यम"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल भिंग कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मध्यभागी पातळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यभागी जाड",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सपाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "मध्यभागी जाड"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल भिंग कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मध्यभागी जाड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यभागी पातळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घन",
+          "is_correct": false
+        }
+      ],
+      "answer": "मध्यभागी पातळ"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल भिंग कोणते भिंग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपसारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिसारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परावर्तक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शोषक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिसारी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल भिंग कोणते भिंग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिसारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपसारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परावर्तक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपसारी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भिंगाच्या प्रकाशीय केंद्राचे चिन्ह काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "C",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "F",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "O",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "R",
+          "is_correct": false
+        }
+      ],
+      "answer": "O"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भिंगाच्या मुख्य नाभीचे चिन्ह काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "C",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "F",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "O",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "R",
+          "is_correct": false
+        }
+      ],
+      "answer": "F"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भिंगाची नाभीय अंतर म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "C ते C",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "O ते F",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "F ते F",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "O ते C",
+          "is_correct": false
+        }
+      ],
+      "answer": "O ते F"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल भिंगात समांतर किरण कुठे जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाभीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केंद्रावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपसारित",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाभीत"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल भिंगात समांतर किरण कसे जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिसरित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अपसारित",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "परावर्तित",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपसारित"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भिंगातून जाताना प्रकाशाचे कितीदा अपवर्तन होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोनदा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीनदा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चारदा",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोनदा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वक्रता केंद्रांची संख्या किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भिंगाचे सूत्र कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1/f = 1/u + 1/v",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "1/v = 1/u + 1/f",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1/u = 1/v + 1/f",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "v = u + f",
+          "is_correct": false
+        }
+      ],
+      "answer": "1/f = 1/u + 1/v"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "विशालनाचे सूत्र कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "m = h1/h2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "m = v/u",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "m = u/v",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "m = f/u",
+          "is_correct": false
+        }
+      ],
+      "answer": "m = v/u"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "विशालन ऋण असल्यास प्रतिमा कशी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुलट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उलट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आभासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उलट"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल भिंगाने 2F पलीकडे वस्तू ठेवल्यास प्रतिमा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लहान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आभासी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सरळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "लहान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल भिंगाने प्रतिमा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नेहमी आभासी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नेहमी वास्तव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उलट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मोठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नेहमी आभासी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कार्टेशियन चिन्ह संकेतानुसार डावीकडील अंतर?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कार्टेशियन चिन्ह संकेतानुसार उजवीकडील अंतर?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल भिंगाचे नाभीय अंतर कसे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल भिंगाचे नाभीय अंतर कसे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भिंगाची शक्ती कोणत्या घटकावर अवलंबून?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाभीय अंतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाभीय अंतर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "भिंगाची शक्तीचे एकक काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वॅट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डायॉप्टर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ज्यूल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "डायॉप्टर"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "1 डायॉप्टर म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1/f (m)",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "f (m)",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "v/u",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "h2/h1",
+          "is_correct": false
+        }
+      ],
+      "answer": "1/f (m)"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "बहिर्गोल भिंगाची शक्ती कशी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "अंतर्गोल भिंगाची शक्ती कशी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऋण"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मानवी डोळ्यातील भिंग कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंतर्गोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बहिर्गोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सपाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परावर्तक",
+          "is_correct": false
+        }
+      ],
+      "answer": "बहिर्गोल"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "डोळ्याचा निकटबिंदू किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "20 cm",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "25 cm",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "30 cm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनंत",
+          "is_correct": false
+        }
+      ],
+      "answer": "25 cm"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "डोळ्याचा दूरबिंदू किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "25 cm",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "50 cm",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "100 cm",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनंत",
+          "is_correct": true
+        }
+      ],
+      "answer": "अनंत"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "निकटदृष्टिता कोणत्या भिंगाने सुधारतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बहिर्गोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अंतर्गोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्विनाभीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आरसा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंतर्गोल"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "दूरदृष्टिता कोणत्या भिंगाने सुधारतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंतर्गोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बहिर्गोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्विनाभीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आरसा",
+          "is_correct": false
+        }
+      ],
+      "answer": "बहिर्गोल"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "वृद्धदृष्टितेत कोणते भिंग वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंतर्गोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बहिर्गोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "द्विनाभीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सपाट",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्विनाभीय"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "साध्या सूक्ष्मदर्शकात कोणते भिंग?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंतर्गोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बहिर्गोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "बहिर्गोल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "संयुक्‍त सूक्ष्मदर्शकात किती भिंगे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "दूरदर्शकात कोणते भिंग वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त अंतर्गोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त बहिर्गोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आरसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपसारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "फक्त बहिर्गोल"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "फायबर ऑप्टिकमध्ये कोणती घटना?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्ण आंतरिक परावर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परावर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपस्करण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्ण आंतरिक परावर्तन"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "भिंगांचा संयोग करताना एकूण शक्ती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुणाकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बेरीज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वजाबाकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भागाकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेरीज"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या विषयाचा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भौतिकशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "भिंग म्हणजे काय?",
+      "answer": "दोन पृष्ठभाग असलेले पारदर्शक माध्यम."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल भिंग म्हणजे काय?",
+      "answer": "मध्यभागी जाड भिंग."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल भिंग म्हणजे काय?",
+      "answer": "मध्यभागी पातळ भिंग."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "अभिसारी भिंग म्हणजे?",
+      "answer": "प्रकाश एकत्र करणारे भिंग."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "अपसारी भिंग म्हणजे?",
+      "answer": "प्रकाश पसरवणारे भिंग."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "प्रकाशीय केंद्र म्हणजे काय?",
+      "answer": "दिशा न बदलणारा बिंदू."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "मुख्य नाभी म्हणजे काय?",
+      "answer": "किरण एकत्र येण्याचा बिंदू."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "नाभीय अंतर म्हणजे काय?",
+      "answer": "O ते F अंतर."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "वक्रता केंद्र म्हणजे काय?",
+      "answer": "गोळ्याचे केंद्र."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "वक्रता त्रिज्या म्हणजे काय?",
+      "answer": "गोळ्याची त्रिज्या."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "भिंगातून अपवर्तन किती वेळा?",
+      "answer": "दोनदा."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल भिंगातील प्रतिमा कशी?",
+      "answer": "वास्तव किंवा आभासी."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल भिंगातील प्रतिमा कशी?",
+      "answer": "नेहमी आभासी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भिंगाचे सूत्र लिहा.",
+      "answer": "1/f = 1/u + 1/v."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "विशालन म्हणजे काय?",
+      "answer": "प्रतिमा/वस्तू गुणोत्तर."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "विशालनाचे चिन्ह काय दर्शवते?",
+      "answer": "उलट/सुलट."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कार्टेशियन चिन्ह संकेत म्हणजे?",
+      "answer": "अंतर चिन्ह नियम."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "डावीकडील अंतर कसे?",
+      "answer": "ऋण."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "उजवीकडील अंतर कसे?",
+      "answer": "धन."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल भिंगाचे f कसे?",
+      "answer": "धन."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल भिंगाचे f कसे?",
+      "answer": "ऋण."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "भिंगाची शक्ती म्हणजे?",
+      "answer": "अभिसरण क्षमता."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भिंगाची शक्तीचे सूत्र?",
+      "answer": "P = 1/f."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "शक्तीचे एकक?",
+      "answer": "डायॉप्टर."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "मानवी डोळ्यातील भिंग?",
+      "answer": "बहिर्गोल."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "डोळ्याचा निकटबिंदू?",
+      "answer": "25 cm."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "डोळ्याचा दूरबिंदू?",
+      "answer": "अनंत."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "निकटदृष्टिता म्हणजे काय?",
+      "answer": "दूर वस्तू अस्पष्ट."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "दूरदृष्टिता म्हणजे काय?",
+      "answer": "जवळ वस्तू अस्पष्ट."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वृद्धदृष्टिता म्हणजे काय?",
+      "answer": "वयामुळे दोष."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "निकटदृष्टिता सुधारणा?",
+      "answer": "अंतर्गोल भिंग."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "दूरदृष्टिता सुधारणा?",
+      "answer": "बहिर्गोल भिंग."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वृद्धदृष्टिता सुधारणा?",
+      "answer": "द्विनाभीय भिंग."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "साधा सूक्ष्मदर्शक म्हणजे?",
+      "answer": "बहिर्गोल भिंग."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "संयुक्‍त सूक्ष्मदर्शक म्हणजे?",
+      "answer": "दोन बहिर्गोल भिंगे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "दूरदर्शक म्हणजे काय?",
+      "answer": "दूर वस्तू पाहणारे साधन."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "फायबर ऑप्टिक म्हणजे?",
+      "answer": "प्रकाश वहन तंतू."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "फायबर ऑप्टिकचा उपयोग?",
+      "answer": "दूरसंचार."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "भिंगांचा संयोग म्हणजे?",
+      "answer": "एकत्र भिंगे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "संयोगी शक्ती कशी?",
+      "answer": "बेरीज."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "आभासी प्रतिमा म्हणजे?",
+      "answer": "पडद्यावर न मिळणारी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वास्तव प्रतिमा म्हणजे?",
+      "answer": "पडद्यावर मिळणारी."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "बहिर्गोल भिंगाचा एक उपयोग?",
+      "answer": "कॅमेरा."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "अंतर्गोल भिंगाचा एक उपयोग?",
+      "answer": "दरवाजा नेत्रदर्शक."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "द्विनाभीय भिंग म्हणजे?",
+      "answer": "दोन शक्तींचे भिंग."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "डोळ्यातील बुबुळाचे कार्य?",
+      "answer": "प्रकाश नियंत्रण."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "डोळ्याची बाहुली?",
+      "answer": "छिद्र."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "दृष्टिपटल म्हणजे?",
+      "answer": "प्रतिमा पडदा."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "समायोजन शक्ती म्हणजे?",
+      "answer": "f बदल क्षमता."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "डोळ्याचे भिंग फुगीर कधी?",
+      "answer": "जवळ वस्तू."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "डोळ्याचे भिंग चपटे कधी?",
+      "answer": "दूर वस्तू."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "रंगांध म्हणजे?",
+      "answer": "रंग न ओळखणे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "दृष्टिसातत्य म्हणजे?",
+      "answer": "प्रतिमा टिकणे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भिंगांचा अभ्यास का?",
+      "answer": "दृष्टी समजण्यासाठी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी उपयुक्त?",
+      "answer": "प्रकाशीय उपकरणे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा विषय कोणता?",
+      "answer": "भौतिकशास्त्र."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "भिंग म्हणजे काय? प्रकार स्पष्ट करा.",
+      "answer": "बहिर्गोल व अंतर्गोल."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "बहिर्गोल भिंगाची रचना व कार्य.",
+      "answer": "अभिसरण."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "अंतर्गोल भिंगाची रचना व कार्य.",
+      "answer": "अपसरण."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "प्रकाशीय केंद्र व नाभी स्पष्ट करा.",
+      "answer": "दिशा व बिंदू."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "भिंगाचे सूत्र स्पष्ट करा.",
+      "answer": "1/f = 1/u + 1/v."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "विशालन म्हणजे काय? सूत्र लिहा.",
+      "answer": "m = v/u."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "कार्टेशियन चिन्ह संकेत स्पष्ट करा.",
+      "answer": "अंतर चिन्ह."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "बहिर्गोल भिंगाने प्रतिमा निर्मिती.",
+      "answer": "विविध स्थान."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "अंतर्गोल भिंगाने प्रतिमा निर्मिती.",
+      "answer": "नेहमी आभासी."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "भिंगाची शक्ती म्हणजे काय?",
+      "answer": "अभिसरण क्षमता."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "डायॉप्टर म्हणजे काय?",
+      "answer": "शक्तीचे एकक."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "भिंगांचा संयोग स्पष्ट करा.",
+      "answer": "शक्ती बेरीज."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "मानवी डोळ्याची रचना.",
+      "answer": "भिंग, बुबुळ."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "मानवी डोळ्यात भिंगाचे कार्य.",
+      "answer": "प्रतिमा निर्मिती."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "निकटदृष्टिता दोष स्पष्ट करा.",
+      "answer": "दूर वस्तू अस्पष्ट."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "निकटदृष्टिता निराकरण.",
+      "answer": "अंतर्गोल भिंग."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "दूरदृष्टिता दोष स्पष्ट करा.",
+      "answer": "जवळ वस्तू अस्पष्ट."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "दूरदृष्टिता निराकरण.",
+      "answer": "बहिर्गोल भिंग."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "वृद्धदृष्टिता दोष स्पष्ट करा.",
+      "answer": "समायोजन कमी."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "वृद्धदृष्टिता निराकरण.",
+      "answer": "द्विनाभीय भिंग."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "साधा सूक्ष्मदर्शक स्पष्ट करा.",
+      "answer": "बहिर्गोल भिंग."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "संयुक्‍त सूक्ष्मदर्शक स्पष्ट करा.",
+      "answer": "दोन भिंगे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "दूरदर्शकाचे कार्य.",
+      "answer": "दूर वस्तू निरीक्षण."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "फायबर ऑप्टिकचे तत्त्व.",
+      "answer": "पूर्ण आंतरिक परावर्तन."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "भिंगांचे दैनंदिन उपयोग.",
+      "answer": "कॅमेरा, चष्मे."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "आभासी व वास्तव प्रतिमा फरक.",
+      "answer": "पडदा."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "भिंगांचा अभ्यास महत्त्व.",
+      "answer": "दृष्टी विज्ञान."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "प्रकाशीय उपकरणांत भिंगे.",
+      "answer": "सूक्ष्मदर्शक."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "SSC परीक्षेत या धड्याचे महत्त्व.",
+      "answer": "संकल्पना."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "हा धडा समजण्याचे फायदे.",
+      "answer": "दैनंदिन उपयोग."
+    }
+  ]
+}

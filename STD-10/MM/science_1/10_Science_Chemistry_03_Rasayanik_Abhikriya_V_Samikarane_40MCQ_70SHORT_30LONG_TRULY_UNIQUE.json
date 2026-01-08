@@ -1,0 +1,1591 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Chemistry.03",
+    "standard": "10",
+    "subject": "Science – Chemistry",
+    "medium": "Marathi",
+    "chapter_name": "रासायनिक अभिक्रिया व समीकरणे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "रासायनिक अभिक्रिया म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिक बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन पदार्थ निर्मिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अवस्था बदल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा बदल",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवीन पदार्थ निर्मिती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "शाब्दिक समीकरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूत्रातील समीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दांत मांडलेली अभिक्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संतुलित समीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "असंतुलित समीकरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दांत मांडलेली अभिक्रिया"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अभिक्रियेत भाग घेणाऱ्या पदार्थांना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्पादिते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिकारके",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्रावक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्प्रेरक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिकारके"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "अभिक्रियेनंतर तयार होणाऱ्या पदार्थांना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभिकारके",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पादिते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्राव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रावक",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्पादिते"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणता भौतिक बदल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूध आंबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड गंजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बर्फ वितळणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अन्न शिजणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बर्फ वितळणे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती रासायनिक अभिक्रिया आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी उकळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काच फुटणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोखंड गंजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोखंड गंजणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रासायनिक समीकरणात बाण काय दर्शवितो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दिशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिशा"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संतुलित समीकरणात काय समान असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अणुसंख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणुसंख्या"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "असंतुलित समीकरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अणुसंख्या समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अणुसंख्या असमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ समान",
+          "is_correct": false
+        }
+      ],
+      "answer": "अणुसंख्या असमान"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "समीकरण संतुलनासाठी कोणती पद्धत वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंदाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रयत्न-प्रमाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मापन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गणना",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रयत्न-प्रमाद"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "संयोग अभिक्रियेत किती उत्पादिते तयार होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनेक",
+          "is_correct": false
+        }
+      ],
+      "answer": "एक"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अपघटन अभिक्रियेत काय घडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विघटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विस्थापन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुहेरी विस्थापन",
+          "is_correct": false
+        }
+      ],
+      "answer": "विघटन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "विस्थापन अभिक्रियेत काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एक मूलद्रव्य दुसऱ्याला हटवते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विघटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अवक्षेप",
+          "is_correct": false
+        }
+      ],
+      "answer": "एक मूलद्रव्य दुसऱ्याला हटवते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "दुहेरी विस्थापन अभिक्रियेत काय तयार होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वायू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अवक्षेप",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवक्षेप"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अवक्षेप म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वायू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्रव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अविद्राव्य घन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "अविद्राव्य घन"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ऊष्मादायी अभिक्रियेत काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता शोषली जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्णता बाहेर पडते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता बाहेर पडते"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ऊष्माग्राही अभिक्रियेत काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता बाहेर पडते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्णता शोषली जाते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्वनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता शोषली जाते"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अभिक्रियेचा दर कशावर अवलंबून असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चव",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमान"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कणांचा आकार कमी केल्यास अभिक्रियेचा दर?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "उत्प्रेरक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतः बदलतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दर वाढवतो पण बदलत नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दर कमी करतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अभिक्रिया थांबवतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "दर वाढवतो पण बदलत नाही"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ऑक्सिडीकरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन मिळवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन गमावणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दाब वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताप कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉन गमावणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "क्षपण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इलेक्ट्रॉन गमावणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इलेक्ट्रॉन मिळवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऑक्सिजन मिळवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हायड्रोजन गमावणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "इलेक्ट्रॉन मिळवणे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रेडॉक्स अभिक्रिया म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त ऑक्सिडीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त क्षपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही एकत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही एकत्र"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "गंज ही कोणती प्रक्रिया आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रासायनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जैविक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊष्मीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "रासायनिक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "लोखंड गंजण्यासाठी काय आवश्यक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त हवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हवा व पाणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तेल",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवा व पाणी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "गंजाचे रासायनिक सूत्र कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "FeO",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Fe2O3.xH2O",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fe3O4",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fe",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fe2O3.xH2O"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "खवटपणा कोणामुळे येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "क्षपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऑक्सिडीकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विघटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑक्सिडीकरण"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "प्रतिऑक्सिडक कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गंज वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खवटपणा टाळणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दाब वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ताप कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "खवटपणा टाळणे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "रासायनिक बदलात काय बदलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवस्था",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संघटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संघटन"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भौतिक बदलात काय बदलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संघटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवीन पदार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अवस्था",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बंध",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवस्था"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "रासायनिक समीकरणात (aq) म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वायू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जलीय द्रावण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव",
+          "is_correct": false
+        }
+      ],
+      "answer": "जलीय द्रावण"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "(g) हे चिन्ह काय दर्शवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्रव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "द्रावण",
+          "is_correct": false
+        }
+      ],
+      "answer": "वायू"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "अभिक्रियेत उष्णता आवश्यक असल्यास काय लिहितात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "+",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Δ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "→",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "=",
+          "is_correct": false
+        }
+      ],
+      "answer": "Δ"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "अभिक्रियेचा दर वाढवण्यासाठी काय करता येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ताप कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कण मोठे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ताप वाढ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दाब कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "ताप वाढ"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती संयोग अभिक्रिया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CaO + H2O → Ca(OH)2",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "CaCO3 → CaO + CO2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Zn + CuSO4",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "AgNO3 + NaCl",
+          "is_correct": false
+        }
+      ],
+      "answer": "CaO + H2O → Ca(OH)2"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती अपघटन अभिक्रिया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CaCO3 → CaO + CO2",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Mg + O2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "NaOH + HCl",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Zn + HCl",
+          "is_correct": false
+        }
+      ],
+      "answer": "CaCO3 → CaO + CO2"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "खालीलपैकी कोणती विस्थापन अभिक्रिया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Zn + CuSO4",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "AgNO3 + NaCl",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "CaO + H2O",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "CaCO3 →",
+          "is_correct": false
+        }
+      ],
+      "answer": "Zn + CuSO4"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या विषयाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिकशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रसायनशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूगोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "रसायनशास्त्र"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "रासायनिक अभिक्रिया म्हणजे काय?",
+      "answer": "नवीन पदार्थ तयार होण्याची प्रक्रिया."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल म्हणजे काय?",
+      "answer": "अवस्था किंवा रूप बदल."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदल म्हणजे काय?",
+      "answer": "संघटन बदल."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "अभिकारक म्हणजे काय?",
+      "answer": "अभिक्रियेत भाग घेणारे पदार्थ."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "उत्पादिते म्हणजे काय?",
+      "answer": "अभिक्रियेनंतर तयार झालेले पदार्थ."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "शाब्दिक समीकरण म्हणजे काय?",
+      "answer": "शब्दांत मांडलेले समीकरण."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "रासायनिक समीकरण म्हणजे काय?",
+      "answer": "सूत्रांनी मांडलेली अभिक्रिया."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "संतुलित समीकरण म्हणजे काय?",
+      "answer": "अणुसंख्या समान."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "असंतुलित समीकरण म्हणजे काय?",
+      "answer": "अणुसंख्या असमान."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "समीकरण संतुलन का आवश्यक?",
+      "answer": "वस्तुमान अक्षय्यतेसाठी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "संयोग अभिक्रिया म्हणजे काय?",
+      "answer": "एक उत्पादित तयार होणे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "अपघटन अभिक्रिया म्हणजे काय?",
+      "answer": "एक अभिकारक विघटित."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "विस्थापन अभिक्रिया म्हणजे काय?",
+      "answer": "एक मूलद्रव्य दुसऱ्याला हटवते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "दुहेरी विस्थापन अभिक्रिया म्हणजे काय?",
+      "answer": "आयनांची अदलाबदल."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अवक्षेप म्हणजे काय?",
+      "answer": "अविद्राव्य घन."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ऊष्मादायी अभिक्रिया म्हणजे काय?",
+      "answer": "उष्णता बाहेर पडते."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ऊष्माग्राही अभिक्रिया म्हणजे काय?",
+      "answer": "उष्णता शोषली जाते."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "अभिक्रियेचा दर म्हणजे काय?",
+      "answer": "अभिक्रियेचा वेग."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "दरावर परिणाम करणारा एक घटक?",
+      "answer": "तापमान."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कणांचा आकार लहान केल्यास काय?",
+      "answer": "दर वाढतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "संहती वाढवल्यास दर?",
+      "answer": "वाढतो."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "उत्प्रेरक म्हणजे काय?",
+      "answer": "दर वाढवणारा पदार्थ."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "उत्प्रेरक बदलतो का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "ऑक्सिडीकरण म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन गमावणे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "क्षपण म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन मिळवणे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "रेडॉक्स अभिक्रिया म्हणजे काय?",
+      "answer": "ऑक्सिडीकरण व क्षपण."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "गंज म्हणजे काय?",
+      "answer": "लोखंडाचे ऑक्सिडीकरण."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "गंजासाठी आवश्यक घटक?",
+      "answer": "हवा व पाणी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "गंज रोखण्यासाठी उपाय?",
+      "answer": "रंग, ग्रीस."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "खवटपणा म्हणजे काय?",
+      "answer": "तेलाचे ऑक्सिडीकरण."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "प्रतिऑक्सिडक म्हणजे काय?",
+      "answer": "ऑक्सिडीकरण रोखणारा."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "भौतिक बदल उलटता येतो का?",
+      "answer": "बहुतेक वेळा होय."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदल उलटता येतो का?",
+      "answer": "बहुतेक वेळा नाही."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "(s) म्हणजे काय?",
+      "answer": "घन अवस्था."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "(l) म्हणजे काय?",
+      "answer": "द्रव अवस्था."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "(g) म्हणजे काय?",
+      "answer": "वायू अवस्था."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "(aq) म्हणजे काय?",
+      "answer": "जलीय द्रावण."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "अभिक्रियेत उष्णता दिल्यास चिन्ह?",
+      "answer": "Δ."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "संयोग अभिक्रियेचे उदाहरण?",
+      "answer": "CaO + H2O."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "अपघटन अभिक्रियेचे उदाहरण?",
+      "answer": "CaCO3 → CaO + CO2."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "विस्थापन अभिक्रियेचे उदाहरण?",
+      "answer": "Zn + CuSO4."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "दुहेरी विस्थापन उदाहरण?",
+      "answer": "AgNO3 + NaCl."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ऊष्मादायी उदाहरण?",
+      "answer": "CaO + H2O."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "ऊष्माग्राही उदाहरण?",
+      "answer": "CaCO3 अपघटन."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "दर वाढवण्यासाठी तापमान?",
+      "answer": "वाढवतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "दर वाढवण्यासाठी उत्प्रेरक?",
+      "answer": "वापरतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "ऑक्सिडक म्हणजे काय?",
+      "answer": "ऑक्सिडीकरण घडवणारा."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "क्षपणक म्हणजे काय?",
+      "answer": "क्षपण घडवणारा."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "Fe2+ → Fe3+ म्हणजे काय?",
+      "answer": "ऑक्सिडीकरण."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "Fe3+ → Fe2+ म्हणजे काय?",
+      "answer": "क्षपण."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "रासायनिक बदलाचे उदाहरण?",
+      "answer": "अन्न शिजणे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "भौतिक बदलाचे उदाहरण?",
+      "answer": "पाणी उकळणे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अभिक्रियेचा दर दैनंदिन जीवनात?",
+      "answer": "दही जमणे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी उपयुक्त?",
+      "answer": "रासायनिक प्रक्रिया समजण्यासाठी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा विषय कोणता?",
+      "answer": "रसायनशास्त्र."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "रासायनिक अभिक्रिया स्पष्ट करा.",
+      "answer": "नवीन पदार्थ तयार होतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "भौतिक व रासायनिक बदलातील फरक लिहा.",
+      "answer": "संघटन बदलतो/बदलत नाही."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "शाब्दिक व रासायनिक समीकरण स्पष्ट करा.",
+      "answer": "शब्द व सूत्रे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "संतुलित समीकरणाचे महत्त्व लिहा.",
+      "answer": "वस्तुमान अक्षय्यता."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "संयोग अभिक्रिया स्पष्ट करा.",
+      "answer": "एक उत्पादित."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "अपघटन अभिक्रिया स्पष्ट करा.",
+      "answer": "विघटन."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "विस्थापन अभिक्रिया स्पष्ट करा.",
+      "answer": "एक मूलद्रव्य हटवते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "दुहेरी विस्थापन अभिक्रिया स्पष्ट करा.",
+      "answer": "आयनांची अदलाबदल."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "ऊष्मादायी अभिक्रिया स्पष्ट करा.",
+      "answer": "उष्णता बाहेर."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "ऊष्माग्राही अभिक्रिया स्पष्ट करा.",
+      "answer": "उष्णता शोषण."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "अभिक्रियेचा दर म्हणजे काय?",
+      "answer": "वेग."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "दरावर परिणाम करणारे घटक लिहा.",
+      "answer": "तापमान, संहती."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "उत्प्रेरकाचे महत्त्व लिहा.",
+      "answer": "दर वाढवतो."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "ऑक्सिडीकरण व क्षपण स्पष्ट करा.",
+      "answer": "इलेक्ट्रॉन देवाणघेवाण."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "रेडॉक्स अभिक्रिया स्पष्ट करा.",
+      "answer": "दोन्ही एकत्र."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "गंज म्हणजे काय? कारणे लिहा.",
+      "answer": "हवा व पाणी."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "गंज रोखण्याचे उपाय लिहा.",
+      "answer": "रंग, गॅल्व्हनायझेशन."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "खवटपणा स्पष्ट करा.",
+      "answer": "तेलाचे ऑक्सिडीकरण."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "प्रतिऑक्सिडकचे उपयोग लिहा.",
+      "answer": "खवटपणा टाळणे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "रासायनिक समीकरण लेखनाचे नियम लिहा.",
+      "answer": "डावी-उजवी बाजू."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "अवक्षेप अभिक्रिया स्पष्ट करा.",
+      "answer": "अविद्राव्य घन."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "संयोग व अपघटन फरक लिहा.",
+      "answer": "एक उत्पादित/अनेक."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "ऊष्मादायी व ऊष्माग्राही फरक.",
+      "answer": "उष्णता बाहेर/आत."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "अभिक्रियेचा दर वाढवण्याचे उपाय.",
+      "answer": "ताप, उत्प्रेरक."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "ऑक्सिडक व क्षपणक फरक.",
+      "answer": "ऑक्सिजन/हायड्रोजन."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "दैनंदिन जीवनातील रेडॉक्स.",
+      "answer": "श्वसन."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "भौतिक बदल उलटता येतात का?",
+      "answer": "बहुतेक वेळा."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "रासायनिक बदल उलटता येतात का?",
+      "answer": "बहुतेक वेळा नाही."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "हा धडा अभ्यासाचे महत्त्व.",
+      "answer": "औद्योगिक प्रक्रिया."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "SSC परीक्षेसाठी या धड्याचे महत्त्व.",
+      "answer": "मूलभूत संकल्पना."
+    }
+  ]
+}

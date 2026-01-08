@@ -1,0 +1,1199 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.23",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "उपयोजित लेखन"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘उपयोजित लेखन’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साहित्यिक लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यवहारात उपयोगी लेखन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काव्य लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य लेखन",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यवहारात उपयोगी लेखन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "उपयोजित लेखनाचा मुख्य उद्देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावनाविष्कार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्यावहारिक उपयोग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कवितानिर्मिती",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यावहारिक उपयोग"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पत्रलेखन कोणत्या लेखनप्रकारात मोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "साहित्यिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपयोजित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयोजित"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "औपचारिक पत्रात काय आवश्यक असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नेमकेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कल्पना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "नेमकेपणा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "अनौपचारिक पत्र कशासाठी लिहिले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्यालयासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मित्र‑नातेवाईकांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तक्रारीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जाहिरातीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मित्र‑नातेवाईकांसाठी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "ई‑मेल लेखनात कोणती गोष्ट नसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विषय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मजकूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाकीट",
+          "is_correct": true
+        }
+      ],
+      "answer": "पाकीट"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "सारांश लेखनाचा हेतू काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विस्तार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थोडक्यात मांडणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "थोडक्यात मांडणी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "सारांश लेखनात काय टाळावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतःचे शब्द",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुख्य मुद्दे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनावश्यक तपशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संक्षेप",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनावश्यक तपशील"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "जाहिरात लेखनाचे प्रमुख वैशिष्ट्य काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कठीण भाषा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तपशील",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षकता"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बातमी लेखनात कोणता गुण महत्त्वाचा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पनाशक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तटस्थता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भावनिकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अलंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तटस्थता"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "बातमीतील मथळा कशाचे प्रतीक असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेखकाचे मत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संपूर्ण घटनेचा आरसा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वर्णन",
+          "is_correct": false
+        }
+      ],
+      "answer": "संपूर्ण घटनेचा आरसा"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कथालेखनात ‘कथाबीज’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेवट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुख्य कल्पना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पात्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुख्य कल्पना"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अनुभवलेखन कोणत्या लेखनप्रकारात येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपयोजित",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "काव्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नाट्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयोजित"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "निबंध लेखनाचा उद्देश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचार मांडणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जाहिरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचार मांडणी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "आत्मकथनात कोणता काळ वापरला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तृतीयपुरुष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रथमपुरुष",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वितीयपुरुष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भविष्यकाळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रथमपुरुष"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "वैचारिक लेखनात काय आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तर्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काल्पनिकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवाद",
+          "is_correct": false
+        }
+      ],
+      "answer": "तर्क"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "बातमी लेखनात काय टाळावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तथ्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मतप्रदर्शन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काल",
+          "is_correct": false
+        }
+      ],
+      "answer": "मतप्रदर्शन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "औपचारिक पत्रात भाषा कशी असावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भावनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व नम्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काव्यमय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लांबलचक",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व नम्र"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "अनौपचारिक पत्रात काय महत्त्वाचे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हुद्दा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिव्हाळा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विषय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वाक्षरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिव्हाळा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "जाहिरात लेखनात कोणता घटक आवश्यक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षक मांडणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कठीण शब्द",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तपशीलवार मजकूर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकर्षक मांडणी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "सारांश लेखनात शब्दमर्यादा का महत्त्वाची?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ वाचवण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आकर्षणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कवितेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तपशीलासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेळ वाचवण्यासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "बातमी लेखनात कोणते प्रश्न महत्त्वाचे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "का‑कसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काय‑कधी‑कोठे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोण‑का",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कसे‑का",
+          "is_correct": false
+        }
+      ],
+      "answer": "काय‑कधी‑कोठे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कथालेखनात वातावरणनिर्मिती का आवश्यक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांबीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभावासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तपशीलासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रभावासाठी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "अनुभवलेखनात काय असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काल्पनिकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वतःचा अनुभव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संवाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतःचा अनुभव"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "निबंध लेखनात मुद्देसूद मांडणी का हवी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्पष्टतेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कवितेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्टतेसाठी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "आत्मकथनात वस्तू कशी मांडली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तृतीयपुरुषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रथमपुरुषी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वितीयपुरुषी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भविष्यकाळी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रथमपुरुषी"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "वैचारिक लेखनात कोणाचा आधार घेतला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "म्हणी‑सुवचने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "म्हणी‑सुवचने"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "उपयोजित लेखन कोणत्या जीवनाशी संबंधित?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काल्पनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दैनंदिन व्यवहार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "साहित्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "दैनंदिन व्यवहार"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "उपयोजित लेखन विद्यार्थ्यांसाठी का उपयुक्त?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यवहारकौशल्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यवहारकौशल्य"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणत्या घटकात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपयोजित लेखन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपयोजित लेखन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "उपयोजित लेखन म्हणजे काय?",
+      "answer": "व्यवहारात उपयोगी पडणारे लेखन."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "उपयोजित लेखनाचा उद्देश काय?",
+      "answer": "दैनंदिन व्यवहार सुलभ करणे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "पत्रलेखन कोणत्या प्रकारात येते?",
+      "answer": "उपयोजित लेखन."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "औपचारिक पत्र कशासाठी लिहिले जाते?",
+      "answer": "कार्यालयीन कामासाठी."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "अनौपचारिक पत्र कशासाठी असते?",
+      "answer": "जिव्हाळ्याच्या व्यक्तीसाठी."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "ई‑मेल लेखनाची खासियत काय?",
+      "answer": "जलद संवाद."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "सारांश लेखन म्हणजे काय?",
+      "answer": "मजकूर थोडक्यात मांडणे."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "सारांश लेखनात काय महत्त्वाचे?",
+      "answer": "मुख्य कल्पना."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "जाहिरात लेखनाचा हेतू काय?",
+      "answer": "आकर्षण निर्माण करणे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "बातमी लेखन म्हणजे काय?",
+      "answer": "घटनेचे वस्तुनिष्ठ वर्णन."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "बातमी लेखनात तटस्थता का आवश्यक?",
+      "answer": "विश्वसनीयतेसाठी."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कथालेखनात कथाबीज म्हणजे काय?",
+      "answer": "कथेची मुख्य कल्पना."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "अनुभवलेखनात काय मांडले जाते?",
+      "answer": "स्वतःचा अनुभव."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "निबंध लेखनात काय आवश्यक?",
+      "answer": "विचारांची मांडणी."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "आत्मकथनात कोणता पुरुष वापरतात?",
+      "answer": "प्रथमपुरुष."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "वैचारिक लेखनात काय महत्त्वाचे?",
+      "answer": "तर्कसंगती."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "औपचारिक पत्रात भाषा कशी असावी?",
+      "answer": "नम्र व स्पष्ट."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "अनौपचारिक पत्रात काय टाळावे?",
+      "answer": "औपचारिक भाषा."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "जाहिरात लेखनात शब्दसंख्या कशी असावी?",
+      "answer": "कमीत कमी."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "सारांश लेखनात शब्द मोजावे लागतात का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "बातमी लेखनात मथळ्याचे महत्त्व काय?",
+      "answer": "घटनेचा सार."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कथालेखनात पात्रांचे महत्त्व काय?",
+      "answer": "कथेचा विकास."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अनुभवलेखनात भाषा कशी असावी?",
+      "answer": "सोप्या व प्रभावी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "निबंध लेखनात मुद्दे कसे असावेत?",
+      "answer": "सुसंगत."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आत्मकथनात कल्पनाशक्ती का हवी?",
+      "answer": "जिवंतपणा आणण्यासाठी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वैचारिक लेखनात उदाहरणे का द्यावी?",
+      "answer": "समर्थनासाठी."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "उपयोजित लेखन कोणत्या कौशल्याशी संबंधित?",
+      "answer": "लेखन कौशल्य."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पत्रलेखनात विषय का लिहितात?",
+      "answer": "आशय स्पष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ई‑मेलमध्ये पत्ता का नसतो?",
+      "answer": "पाकीट नसल्यामुळे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सारांश लेखनात स्वतःचे शब्द का वापरतात?",
+      "answer": "समज दाखवण्यासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "जाहिरात लेखनात रंगसंगती का महत्त्वाची?",
+      "answer": "लक्ष वेधण्यासाठी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "बातमी लेखनात तथ्य का आवश्यक?",
+      "answer": "विश्वासार्हतेसाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कथालेखनात कालानुक्रम का हवा?",
+      "answer": "स्पष्टतेसाठी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "अनुभवलेखन कोणत्या व्यक्तीवर आधारित?",
+      "answer": "स्वतःवर."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "निबंध लेखनात प्रस्तावना का असते?",
+      "answer": "विषय ओळखीसाठी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "आत्मकथनात वस्तू बोलते असे का दाखवतात?",
+      "answer": "सृजनशीलतेसाठी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "वैचारिक लेखनात दोन्ही बाजू का मांडतात?",
+      "answer": "समतोलासाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "उपयोजित लेखनाचा उपयोग कुठे होतो?",
+      "answer": "दैनंदिन जीवनात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पत्रलेखनात दिनांक का लिहितात?",
+      "answer": "नोंदीसाठी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "ई‑मेल लेखनात विषय का आवश्यक?",
+      "answer": "मजकूर ओळखण्यासाठी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सारांश लेखनात तपशील का टाळतात?",
+      "answer": "संक्षेपासाठी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "जाहिरात लेखनात घोषणा का वापरतात?",
+      "answer": "आकर्षणासाठी."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "बातमी लेखनात मतप्रदर्शन का टाळतात?",
+      "answer": "तटस्थतेसाठी."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कथालेखनात शीर्षक का महत्त्वाचे?",
+      "answer": "विषय सुचवण्यासाठी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "अनुभवलेखनात भावनांचे महत्त्व काय?",
+      "answer": "प्रभाव वाढवण्यासाठी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "निबंध लेखनात निष्कर्ष का असतो?",
+      "answer": "समारोपासाठी."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "आत्मकथनात संवेदना का दाखवतात?",
+      "answer": "भावनिक जोडासाठी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "वैचारिक लेखनात सुवचने का वापरतात?",
+      "answer": "समर्थनासाठी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "उपयोजित लेखन म्हणजे काय? त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "उपयोजित लेखन म्हणजे दैनंदिन व्यवहारात उपयोगी पडणारे लेखन. पत्रलेखन, जाहिरात, बातमी, सारांश इत्यादी प्रकारांमुळे व्यवहारकौशल्य विकसित होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "पत्रलेखनाचे प्रकार स्पष्ट करा.",
+      "answer": "पत्रलेखनाचे औपचारिक व अनौपचारिक असे दोन प्रकार असून दोन्हींची भाषा व उद्देश वेगळा असतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "औपचारिक व अनौपचारिक पत्रातील फरक स्पष्ट करा.",
+      "answer": "औपचारिक पत्रात नेमकेपणा व नम्रता असते, तर अनौपचारिक पत्रात जिव्हाळा व भावना असतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "सारांश लेखनाची पायरीवार माहिती द्या.",
+      "answer": "वाचन, आशय समज, मुख्य कल्पना ओळख व थोडक्यात मांडणी या पायऱ्या असतात."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "जाहिरात लेखनाची वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "जाहिरात लेखन आकर्षक, संक्षिप्त व प्रभावी असते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "बातमी लेखनाचे गुण स्पष्ट करा.",
+      "answer": "तटस्थता, अचूकता व विश्वासार्हता हे बातमी लेखनाचे गुण आहेत."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "कथालेखनात कथाबीजाचे महत्त्व स्पष्ट करा.",
+      "answer": "कथाबीजामुळे कथेची दिशा व विकास ठरतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "अनुभवलेखन म्हणजे काय? उदाहरणासह स्पष्ट करा.",
+      "answer": "स्वतःच्या अनुभवाचे शब्दांत मांडणे म्हणजे अनुभवलेखन."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "निबंध लेखनाचे प्रकार स्पष्ट करा.",
+      "answer": "प्रसंगलेखन, आत्मकथन व वैचारिक असे निबंध लेखनाचे प्रकार आहेत."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "वैचारिक लेखनाचे महत्त्व स्पष्ट करा.",
+      "answer": "वैचारिक लेखनामुळे तार्किक विचारशक्ती व मांडणी कौशल्य वाढते."
+    }
+  ]
+}

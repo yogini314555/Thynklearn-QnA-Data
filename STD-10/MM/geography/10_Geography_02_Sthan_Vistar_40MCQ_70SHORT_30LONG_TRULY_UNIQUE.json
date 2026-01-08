@@ -1,0 +1,1633 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.02",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "स्थान-विस्तार (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारत कोणत्या गोलार्धात स्थित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर व पूर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण व पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर व पूर्व"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ब्राझील कोणत्या खंडात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आफ्रिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दक्षिण अमेरिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "युरोप",
+          "is_correct": false
+        }
+      ],
+      "answer": "दक्षिण अमेरिका"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "भारताच्या सर्वांत दक्षिण टोकाचे नाव काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कन्याकुमारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पोर्ट ब्लेअर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इंदिरा पॉईंट",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लक्षद्वीप",
+          "is_correct": false
+        }
+      ],
+      "answer": "इंदिरा पॉईंट"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारताच्या मध्यातून कोणता अक्षवृत्त जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विषुववृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कर्कवृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मकरवृत्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक वृत्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "मकरवृत्त"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमधून कोणता अक्षवृत्त जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्कवृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मकरवृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विषुववृत्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अंटार्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विषुववृत्त"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारताचा रेखावृत्तीय विस्तार कोणत्या गोलार्धात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा बहुतेक भाग कोणत्या गोलार्धात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दक्षिण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्तर-पूर्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारत कोणत्या महासागरालगत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पॅसिफिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अटलांटिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हिंद महासागर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिंद महासागर"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "ब्राझीलला कोणत्या महासागराचा किनारा लाभतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पॅसिफिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अटलांटिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अटलांटिक"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "भारताचे शेजारी देश किती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "६",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "७",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "८",
+          "is_correct": true
+        }
+      ],
+      "answer": "८"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचे शेजारी देश किती आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "८",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "९",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१०",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "११",
+          "is_correct": false
+        }
+      ],
+      "answer": "१०"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भारताच्या पश्चिमेस कोणता देश आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाकिस्तान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नेपाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूतान",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाकिस्तान"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ब्राझीलच्या पूर्वेस कोणता महासागर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पॅसिफिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अटलांटिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अटलांटिक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भारताचे क्षेत्रफळ साधारण किती दशलक्ष चौ.कि.मी. आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2.8",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3.28",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "4.5",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "1.9",
+          "is_correct": false
+        }
+      ],
+      "answer": "3.28"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचे क्षेत्रफळ भारतापेक्षा कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मोठे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अर्धे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोठे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारताच्या दक्षिणेस कोणता सागर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अरबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हिंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कॅस्पियन",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिंद"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा आकार कोणत्या प्रकारचा दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "त्रिकोणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चौकोनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनियमित",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वर्तुळाकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनियमित"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "भारताचा अक्षवृत्तीय विस्तार किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "20°",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "30°",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "40°",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "50°",
+          "is_correct": false
+        }
+      ],
+      "answer": "30°"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा अक्षवृत्तीय विस्तार भारतापेक्षा कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अतिशय कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "भारताच्या उत्तरेस कोणती पर्वतरांग आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सह्याद्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिमालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अरावली",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सातपुडा",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिमालय"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कोणती नदी महत्त्वाची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नील",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमेझॉन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गंगा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "यांगत्से",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेझॉन"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भारताची राजधानी कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलकाता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नवी दिल्ली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चेन्नई",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवी दिल्ली"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ब्राझीलची राजधानी कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रिओ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साओ पावलो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ब्राझीलिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "साल्वादोर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्राझीलिया"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भारत कोणत्या खंडात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युरोप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आफ्रिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऑस्ट्रेलिया",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशिया"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ब्राझील कोणत्या गोलार्धात पूर्णपणे नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारताच्या पूर्वेस कोणता उपसागर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अरबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हडसन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बंगाल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मेक्सिको",
+          "is_correct": false
+        }
+      ],
+      "answer": "बंगाल"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा पश्चिम भाग कोणत्या देशांना लागून आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पेरू, बोलिव्हिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चिली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अर्जेंटिना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उरुग्वे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पेरू, बोलिव्हिया"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "भारताचा द्वीपकल्पीय भाग कोणत्या दिशेला विस्तारलेला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दक्षिण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "दक्षिण"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा किनारी भाग कोणत्या दिशेला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पूर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भारताचे स्थान कोणत्या गोलार्धात नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पश्चिम",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ब्राझीलच्या उत्तरेस कोणता देश आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पेरू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोलंबिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अर्जेंटिना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चिली",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोलंबिया"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारताच्या ईशान्येस कोणता देश आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाकिस्तान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "श्रीलंका",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "म्यानमार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अफगाणिस्तान",
+          "is_correct": false
+        }
+      ],
+      "answer": "म्यानमार"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा विषुववृत्तीय भाग कोणत्या प्रदेशात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मध्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भारताचा किनारी प्रदेश कोणत्या समुद्रालगत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पॅसिफिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अटलांटिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिंद"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा बहुतांश भाग कोणत्या खंडीय भागात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर अमेरिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दक्षिण अमेरिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मध्य अमेरिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युरोप",
+          "is_correct": false
+        }
+      ],
+      "answer": "दक्षिण अमेरिका"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "भारताचा रेखावृत्तीय विस्तार किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "30°",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "40°",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "50°",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "60°",
+          "is_correct": false
+        }
+      ],
+      "answer": "40°"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा रेखावृत्तीय विस्तार भारतापेक्षा कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अतिशय कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "भारत व ब्राझीलचा अभ्यास कोणत्या घटकांत केला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थान-विस्तार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थान-विस्तार"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "स्थान म्हणजे काय?",
+      "answer": "पृथ्वीवरील एखाद्या प्रदेशाची निश्चित स्थिती."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "विस्तार म्हणजे काय?",
+      "answer": "प्रदेशाचा पसरलेला भाग."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या गोलार्धात आहे?",
+      "answer": "उत्तर व पूर्व गोलार्धात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "ब्राझील कोणत्या गोलार्धात आहे?",
+      "answer": "मुख्यतः दक्षिण व पश्चिम गोलार्धात."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या खंडात आहे?",
+      "answer": "आशिया खंडात."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "ब्राझील कोणत्या खंडात आहे?",
+      "answer": "दक्षिण अमेरिका खंडात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "भारताची राजधानी कोणती?",
+      "answer": "नवी दिल्ली."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची राजधानी कोणती?",
+      "answer": "ब्राझीलिया."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "भारताच्या मध्यातून कोणता अक्षवृत्त जातो?",
+      "answer": "मकरवृत्त."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमधून कोणते अक्षवृत्त जाते?",
+      "answer": "विषुववृत्त."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "भारताच्या दक्षिण टोकाचे नाव काय?",
+      "answer": "इंदिरा पॉईंट."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या महासागरालगत आहे?",
+      "answer": "हिंद महासागर."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ब्राझील कोणत्या महासागरालगत आहे?",
+      "answer": "अटलांटिक महासागर."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भारताचा द्वीपकल्पीय भाग कसा आहे?",
+      "answer": "दक्षिणेकडे निमुळता."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा किनारी भाग कसा आहे?",
+      "answer": "पूर्व दिशेला."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भारताचा अक्षवृत्तीय विस्तार किती आहे?",
+      "answer": "सुमारे 30°."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा अक्षवृत्तीय विस्तार किती आहे?",
+      "answer": "सुमारे 40°."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "भारताचा रेखावृत्तीय विस्तार किती आहे?",
+      "answer": "सुमारे 30°."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा रेखावृत्तीय विस्तार किती आहे?",
+      "answer": "सुमारे 35°."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भारताचे क्षेत्रफळ किती आहे?",
+      "answer": "3.28 दशलक्ष चौ.कि.मी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचे क्षेत्रफळ किती आहे?",
+      "answer": "8.5 दशलक्ष चौ.कि.मी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "भारताच्या उत्तरेस काय आहे?",
+      "answer": "हिमालय पर्वतरांग."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमधील प्रमुख नदी कोणती?",
+      "answer": "अमेझॉन."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भारताच्या पूर्वेस कोणता उपसागर आहे?",
+      "answer": "बंगालचा उपसागर."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "भारताच्या पश्चिमेस कोणता समुद्र आहे?",
+      "answer": "अरबी समुद्र."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या पूर्वेस काय आहे?",
+      "answer": "अटलांटिक महासागर."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "भारताच्या शेजारी देश किती आहेत?",
+      "answer": "आठ."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या शेजारी देश किती आहेत?",
+      "answer": "दहा."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भारताच्या ईशान्येस कोणता देश आहे?",
+      "answer": "म्यानमार."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या उत्तरेस कोणता देश आहे?",
+      "answer": "कोलंबिया."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भारताच्या दक्षिणेस कोणते देश आहेत?",
+      "answer": "श्रीलंका व मालदीव."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या दक्षिणेस कोणता देश आहे?",
+      "answer": "उरुग्वे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "भारताचा आकार कसा आहे?",
+      "answer": "त्रिकोणी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा आकार कसा आहे?",
+      "answer": "अनियमित."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या अक्षांशात आहे?",
+      "answer": "उत्तर अक्षांशात."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ब्राझील कोणत्या अक्षांशात आहे?",
+      "answer": "उत्तर व दक्षिण अक्षांशात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भारताचा विषुववृत्तीय विस्तार आहे का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा विषुववृत्तीय विस्तार आहे का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "भारताच्या सीमा कशा आहेत?",
+      "answer": "स्थल व जलसीमा."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या सीमा कशा आहेत?",
+      "answer": "मुख्यतः स्थलसीमा."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "भारताचा पूर्व-पश्चिम विस्तार कसा आहे?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा उत्तर-दक्षिण विस्तार कसा आहे?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "भारताच्या स्थानाचा हवामानावर काय परिणाम होतो?",
+      "answer": "मान्सून पर्जन्य."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या स्थानाचा हवामानावर काय परिणाम होतो?",
+      "answer": "विषुववृत्तीय हवामान."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "भारताचा किनारी प्रदेश किती लांब आहे?",
+      "answer": "सुमारे 7500 किमी."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा किनारी प्रदेश किती लांब आहे?",
+      "answer": "सुमारे 7400 किमी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "भारत कोणत्या रेखावृत्तात आहे?",
+      "answer": "पूर्व रेखावृत्तात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "ब्राझील कोणत्या रेखावृत्तात आहे?",
+      "answer": "पश्चिम रेखावृत्तात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "भारताचा अभ्यास कोणत्या देशाशी केला आहे?",
+      "answer": "ब्राझील."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "स्थान-विस्तार अभ्यासाचा उद्देश काय?",
+      "answer": "प्रदेशांची तुलना."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "भारताचा वेळ प्रमाण कोणत्या रेखावृत्तावर आधारित आहे?",
+      "answer": "82°30' पू."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये प्रमाणवेळ किती आहेत?",
+      "answer": "चार."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "भारताचा भू-राजकीय महत्त्व काय?",
+      "answer": "आशियातील मध्यवर्ती स्थान."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचे भू-राजकीय महत्त्व काय?",
+      "answer": "दक्षिण अमेरिकेतील प्रमुख देश."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "भारताचा आकारमान ब्राझीलपेक्षा कसा आहे?",
+      "answer": "लहान."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा आकारमान भारतापेक्षा कसा आहे?",
+      "answer": "मोठा."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "स्थान अभ्यासासाठी कोणती साधने वापरतात?",
+      "answer": "नकाशा, अक्षांश-रेखांश."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "विस्तार अभ्यासासाठी काय आवश्यक?",
+      "answer": "अंशात्मक मोजमाप."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "भारताचा द्वीपकल्पीय प्रदेश कोणत्या समुद्रात घुसलेला आहे?",
+      "answer": "हिंद महासागरात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा बहुतेक भाग कोणत्या अक्षांशात आहे?",
+      "answer": "दक्षिण अक्षांशात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "स्थान-विस्तार अभ्यास कोणत्या विषयाचा भाग आहे?",
+      "answer": "भूगोल."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "स्थान-विस्तार अभ्यासाचे महत्त्व काय?",
+      "answer": "प्रदेशीय समज वाढते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "भारत व ब्राझील अभ्यासातून काय कळते?",
+      "answer": "भौगोलिक विविधता."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "स्थान-विस्तार म्हणजे काय? त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "स्थान-विस्तार म्हणजे प्रदेशाची भौगोलिक स्थिती व पसरलेला भाग. यामुळे हवामान, वनस्पती व मानवी जीवन समजते."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "भारताचे स्थान व विस्तार स्पष्ट करा.",
+      "answer": "भारत उत्तर व पूर्व गोलार्धात असून आशिया खंडात स्थित आहे. त्याचा विस्तार मोठा आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "ब्राझीलचे स्थान व विस्तार स्पष्ट करा.",
+      "answer": "ब्राझील दक्षिण व पश्चिम गोलार्धात असून दक्षिण अमेरिका खंडात स्थित आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या अक्षवृत्तीय विस्ताराची तुलना करा.",
+      "answer": "ब्राझीलचा अक्षवृत्तीय विस्तार भारतापेक्षा जास्त आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या रेखावृत्तीय विस्ताराची तुलना करा.",
+      "answer": "दोन्ही देशांचा रेखावृत्तीय विस्तार जवळजवळ समान आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "भारताच्या स्थानाचा हवामानावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "मान्सून पर्जन्य व ऋतूंची विविधता दिसते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "ब्राझीलच्या स्थानाचा हवामानावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "विषुववृत्तीय व उष्णकटिबंधीय हवामान आढळते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "भारताच्या सीमांची माहिती द्या.",
+      "answer": "भारताला स्थल व जलसीमा असून अनेक शेजारी देश आहेत."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "ब्राझीलच्या सीमांची माहिती द्या.",
+      "answer": "ब्राझीलला अनेक स्थलसीमा असून अटलांटिक महासागराची किनारपट्टी आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "भारताचा द्वीपकल्पीय प्रदेश स्पष्ट करा.",
+      "answer": "दक्षिणेकडे निमुळता व तीन बाजूंनी समुद्राने वेढलेला."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "ब्राझीलचा किनारी प्रदेश स्पष्ट करा.",
+      "answer": "पूर्वेकडे लांब किनारपट्टी आहे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या आकारमानाची तुलना करा.",
+      "answer": "ब्राझील क्षेत्रफळाने भारतापेक्षा मोठा आहे."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "स्थान-विस्ताराचा लोकजीवनावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "हवामान व संसाधनांवर लोकजीवन अवलंबून असते."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "स्थान-विस्ताराचा शेतीवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "पीकपद्धती हवामानानुसार ठरतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "भारताच्या स्थानाचे भू-राजकीय महत्त्व स्पष्ट करा.",
+      "answer": "आशियातील मध्यवर्ती स्थानामुळे व्यापार व राजकारणात महत्त्व आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "ब्राझीलच्या स्थानाचे भू-राजकीय महत्त्व स्पष्ट करा.",
+      "answer": "दक्षिण अमेरिकेतील प्रमुख शक्ती आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या वेळप्रमाणातील फरक स्पष्ट करा.",
+      "answer": "ब्राझीलमध्ये अनेक प्रमाणवेळा आहेत."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "अक्षांश-रेखांशांचा उपयोग स्पष्ट करा.",
+      "answer": "स्थान निश्चित करण्यासाठी उपयोग होतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "नकाशाच्या साहाय्याने स्थान अभ्यासाचे महत्त्व स्पष्ट करा.",
+      "answer": "दृश्यरूपात समज वाढते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "स्थान-विस्तार अभ्यासाचा अभ्यासक्रमातील उपयोग स्पष्ट करा.",
+      "answer": "प्रदेशीय तुलना सोपी होते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "भारताच्या स्थानामुळे व्यापारावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "समुद्रमार्गे व्यापार सुलभ होतो."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "ब्राझीलच्या स्थानामुळे नैसर्गिक संसाधनांवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "दाट जंगले व नद्या उपलब्ध आहेत."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या नैसर्गिक वैशिष्ट्यांतील फरक स्पष्ट करा.",
+      "answer": "भारत विविध, ब्राझील अधिक वनयुक्त."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "स्थान-विस्तार अभ्यासातून भविष्यातील अंदाज कसा करता येतो?",
+      "answer": "हवामान व संसाधन बदल समजतात."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझील अभ्यासाचे शैक्षणिक महत्त्व स्पष्ट करा.",
+      "answer": "तुलनात्मक भूगोल समजतो."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "स्थान-विस्ताराचा पर्यावरणावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "पर्यावरणीय विविधता निर्माण होते."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या स्थानामुळे संस्कृतीवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "संस्कृतीत भिन्नता दिसते."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "स्थान-विस्तार अभ्यासाचे आर्थिक महत्त्व स्पष्ट करा.",
+      "answer": "संसाधनांचा योग्य वापर शक्य होतो."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "स्थान-विस्तार अभ्यासाचे सामाजिक महत्त्व स्पष्ट करा.",
+      "answer": "लोकसंख्येची रचना समजते."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "स्थान-विस्तार हा भूगोलाचा मूलभूत घटक का आहे?",
+      "answer": "इतर सर्व घटक त्यावर अवलंबून असतात."
+    }
+  ]
+}

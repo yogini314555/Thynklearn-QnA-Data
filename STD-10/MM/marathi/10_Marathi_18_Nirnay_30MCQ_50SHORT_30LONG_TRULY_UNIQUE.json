@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.18",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "निर्णय"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘निर्णय’ हा पाठ कोणत्या प्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वैज्ञानिक कथा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निबंध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "वैज्ञानिक कथा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘निर्णय’ या कथेचे लेखक कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डॉ. सुनील विभुते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "वि. स. खांडेकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "साने गुरुजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पु. ल. देशपांडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "डॉ. सुनील विभुते"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कथेतील हॉटेलचे नाव काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हॉटेल प्राईम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हॉटेल हेरिटेज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हॉटेल स्टार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हॉटेल ग्रँड",
+          "is_correct": false
+        }
+      ],
+      "answer": "हॉटेल हेरिटेज"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कथेचा निवेदक कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोमनाथ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनोज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राजाभाऊ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "एजंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "राजाभाऊ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "हॉटेलमध्ये रोबो वेटर का आणले गेले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कर्मचाऱ्यांच्या समस्यांमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नवलाईसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्मचाऱ्यांच्या समस्यांमुळे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "एका रोबो वेटरची किंमत किती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५०,०००",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१ लाख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "२ लाख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "५ लाख",
+          "is_correct": false
+        }
+      ],
+      "answer": "१ लाख"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रोबो वेटरचे सर्व्हिसिंग किती काळाने करावे लागे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दर महिन्याला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दर दोन महिन्यांनी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दर सहा महिन्यांनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दर वर्षी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दर दोन महिन्यांनी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "रोबो वेटर मानवी वेटरपेक्षा किती काम करेल असे सांगितले होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुप्पट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिप्पट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अर्धे",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुप्पट"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हॉटेलमधील कोणता वेटर प्रामाणिक होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रामू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शामू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मनोज",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विजू",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनोज"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "रोबो वेटरना कोणती नावे दिली होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रामू, श्याम, मोहन, सोहन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रामू, शामू, दिपू, विजू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनू, सोनू, मोनू, टोनू",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राजू, बाजू, काजू, लाजू",
+          "is_correct": false
+        }
+      ],
+      "answer": "रामू, शामू, दिपू, विजू"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रोबो वेटरची बॅटरी कमी झाल्यावर काय घडले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ते थांबले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ते वेगवान झाले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काम मंद झाले",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ते पडले",
+          "is_correct": false
+        }
+      ],
+      "answer": "काम मंद झाले"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "रोबो वेटरच्या बिघाडामुळे काय झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गिऱ्हाईक वाढले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोंधळ निर्माण झाला",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नफा वाढला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम सुरळीत झाले",
+          "is_correct": false
+        }
+      ],
+      "answer": "गोंधळ निर्माण झाला"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कंपनीची सर्व्हिस बंद केल्यावर काय परिणाम झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काहीच नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समस्या वाढल्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नफा दुप्पट झाला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम सोपे झाले",
+          "is_correct": false
+        }
+      ],
+      "answer": "समस्या वाढल्या"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "एसी रूममध्ये कोणाची ड्युटी होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शामू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दिपू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रामू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विजू",
+          "is_correct": false
+        }
+      ],
+      "answer": "रामू"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "एसी रूममध्ये कोण संकटात सापडले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुरुष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वृद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एक स्त्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मुलगा",
+          "is_correct": false
+        }
+      ],
+      "answer": "एक स्त्री"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "त्या स्त्रीला कोणता आजार झाला होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हृदयविकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ब्लड प्रेशर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ब्लड शुगर कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ताप",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्लड शुगर कमी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "रोबो वेटर त्या स्त्रीची मदत का करू शकला नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तो बंद होता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्याला विचार करता येत नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तो घाबरला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तो दूर होता",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्याला विचार करता येत नाही"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "त्या स्त्रीला तत्काळ मदत कोणी केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोबो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राजाभाऊ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोमनाथ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मनोज",
+          "is_correct": true
+        }
+      ],
+      "answer": "मनोज"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मनोजमध्ये कोणते गुण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवेदनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशीलता"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "त्या घटनेनंतर राजाभाऊंची मन:स्थिती कशी झाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंधळलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्‌विधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निश्चिंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्साही",
+          "is_correct": true
+        }
+      ],
+      "answer": "उत्साही"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कथेचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तंत्रज्ञान श्रेष्ठ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "यंत्र माणसाची जागा घेऊ शकते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माणुसकी महत्त्वाची",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पैसा सर्वश्रेष्ठ",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकी महत्त्वाची"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "रोबो वेटरमुळे सुरुवातीला काय झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नुकसान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काम सुरळीत झाले",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हॉटेल बंद झाले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळ झाला",
+          "is_correct": false
+        }
+      ],
+      "answer": "काम सुरळीत झाले"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "रोबो वेटरचा वापर कोणत्या व्यवसायासाठी केला गेला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुग्णालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हॉटेल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कारखाना",
+          "is_correct": false
+        }
+      ],
+      "answer": "हॉटेल"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मनोजने स्त्रीची मदत कशी केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रुग्णवाहिका बोलावून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तिला बाहेर नेऊन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तिला रुग्णालयात पोहोचवून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फोन करून",
+          "is_correct": false
+        }
+      ],
+      "answer": "तिला रुग्णालयात पोहोचवून"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "डॉक्टरांच्या मते स्त्री का वाचली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेळेवर उपचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "औषध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोबो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेळेवर उपचार"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "रोबो वेटरकडून काय मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "माणुसकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त पैसा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संवेदना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भावना",
+          "is_correct": false
+        }
+      ],
+      "answer": "फक्त पैसा"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "मनोजच्या कृतीमुळे काय झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हॉटेल बंद झाले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बदनामी वाढली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बदनामी दूर झाली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नुकसान झाले",
+          "is_correct": false
+        }
+      ],
+      "answer": "बदनामी दूर झाली"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "राजाभाऊंनी शेवटी कोणता निर्णय घेतला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोबो वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हॉटेल बंद करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रोबो न घेणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व्हिस सुरू करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोबो न घेणे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘निर्णय’ या शीर्षकाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांत्रिक निर्णय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यावसायिक निर्णय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानवी निर्णय",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्थिक निर्णय",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी निर्णय"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "हा पाठ वाचून वाचकाला काय जाणवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तंत्रज्ञानावरील विश्वास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माणुसकीचे महत्त्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "निराशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणुसकीचे महत्त्व"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘निर्णय’ हा कोणत्या प्रकारचा पाठ आहे?",
+      "answer": "वैज्ञानिक कथा आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "‘निर्णय’ या कथेचे लेखक कोण?",
+      "answer": "डॉ. सुनील विभुते."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "कथेतील हॉटेलचे नाव काय?",
+      "answer": "हॉटेल हेरिटेज."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "राजाभाऊ कोण आहेत?",
+      "answer": "हॉटेलचे सहमालक."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "सोमनाथ कोण आहे?",
+      "answer": "राजाभाऊंचा मित्र व सहमालक."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "हॉटेलमध्ये मुख्य समस्या कोणती होती?",
+      "answer": "वेटरची."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "रोबो वेटर का खरेदी केले?",
+      "answer": "वेटरच्या समस्यांमुळे."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "रोबो वेटरना कोणती नावे दिली?",
+      "answer": "रामू, शामू, दिपू, विजू."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "मनोज कोण आहे?",
+      "answer": "मानवी वेटर."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "मनोजचे कोणते गुण महत्त्वाचे होते?",
+      "answer": "प्रामाणिकपणा व प्रसंगावधान."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "रोबो वेटर सुरुवातीला कसे काम करत होते?",
+      "answer": "अतिशय सुरळीत."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कंपनीची सर्व्हिस बंद का केली?",
+      "answer": "खर्च वाढल्यामुळे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "सर्व्हिस बंद केल्यावर काय झाले?",
+      "answer": "रोबो बिघडू लागले."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "शामूला काय बिघाड झाला?",
+      "answer": "काम खूप संथ झाले."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "रोबो बिघाडामुळे गिऱ्हाईकांची प्रतिक्रिया काय होती?",
+      "answer": "नाराजी."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "एसी रूममध्ये कोण घटना घडली?",
+      "answer": "एक स्त्री बेशुद्ध पडली."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "त्या स्त्रीची तब्येत का बिघडली?",
+      "answer": "ब्लड शुगर कमी झाल्यामुळे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "रोबो रामूने त्या घटनेत काय केले?",
+      "answer": "काहीच नाही."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "मनोजने काय कृती केली?",
+      "answer": "स्त्रीला रुग्णालयात नेले."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "डॉक्टरांनी काय सांगितले?",
+      "answer": "वेळेवर आणल्यामुळे जीव वाचला."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "त्या घटनेनंतर राजाभाऊ काय विचार करू लागले?",
+      "answer": "रोबो की माणूस?"
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "रोबो वेटरला काय करता येत नाही?",
+      "answer": "विचार व भावना."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "मनोजमध्ये कोणती भावना होती?",
+      "answer": "माणुसकी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रोबोमुळे सुरुवातीला काय फायदा झाला?",
+      "answer": "कमाई वाढली."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "नंतर रोबोमुळे काय झाले?",
+      "answer": "बदनामी झाली."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "मनोजच्या कृतीमुळे काय बदलले?",
+      "answer": "हॉटेलची प्रतिमा सुधारली."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "राजाभाऊंची द्‌विधा कशाबाबत होती?",
+      "answer": "रोबो वेटर घ्यावेत का नाही."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "शेवटी राजाभाऊंची द्‌विधा कशी संपली?",
+      "answer": "मनोजच्या कृतीमुळे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट कसा आहे?",
+      "answer": "निर्णयात्मक."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कथेचा मुख्य विचार काय?",
+      "answer": "माणुसकी श्रेष्ठ आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "रोबो वेटरचे वैशिष्ट्य काय होते?",
+      "answer": "अखंड काम."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "मानवी वेटरचे वैशिष्ट्य काय?",
+      "answer": "संवेदनशीलता."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "राजाभाऊंना शेवटी काय कळले?",
+      "answer": "यंत्र माणसाची जागा घेऊ शकत नाही."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कथेतील ‘निर्णय’ कोणाचा आहे?",
+      "answer": "राजाभाऊंचा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "रोबो वेटर कोणत्या गोष्टीत अपयशी ठरले?",
+      "answer": "मानवी संवेदनांमध्ये."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "मनोजने स्त्रीची मदत का केली?",
+      "answer": "माणुसकीने."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "रोबो वेटर कोणत्या गोष्टीसाठी उपयुक्त आहेत?",
+      "answer": "यांत्रिक कामासाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "मानव कोणत्या गोष्टीसाठी आवश्यक आहे?",
+      "answer": "भावनिक निर्णयासाठी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कथेतील वातावरण कुठले आहे?",
+      "answer": "हॉटेलमधील."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कथेतील संकट कोणते?",
+      "answer": "स्त्रीचे बेशुद्ध पडणे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "त्या संकटात कोण उपयोगी पडला?",
+      "answer": "मनोज."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कथेतील तंत्रज्ञानाचा वापर कसा दाखवला आहे?",
+      "answer": "मर्यादांसह."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कथेचा सामाजिक संदेश काय?",
+      "answer": "माणुसकी महत्त्वाची."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "राजाभाऊंचा स्वभाव कसा आहे?",
+      "answer": "विचारशील."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "सोमनाथचा दृष्टिकोन कसा आहे?",
+      "answer": "व्यवहारिक."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "मनोजचा स्वभाव कसा आहे?",
+      "answer": "संवेदनशील."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कथेचा शेवट कोणत्या भावनेने होतो?",
+      "answer": "समाधान."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "‘निर्णय’ हा पाठ काय शिकवतो?",
+      "answer": "योग्य निवड."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "हा पाठ आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "तंत्रज्ञानाच्या मर्यादा दाखवतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘निर्णय’ या कथेचा आशय स्पष्ट करा.",
+      "answer": "या कथेतील राजाभाऊ आणि त्यांच्या हॉटेलमधील अनुभवांतून तंत्रज्ञान व माणुसकी यांतील फरक स्पष्ट केला आहे. रोबो वेटर काम करू शकतात; पण संवेदनशील निर्णय घेऊ शकत नाहीत, हा या कथेचा मुख्य आशय आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "हॉटेलमध्ये रोबो वेटर आणण्यामागची कारणे लिहा.",
+      "answer": "वेटरच्या सतत बदलणाऱ्या समस्या, कामचुकारपणा आणि भांडणे यांमुळे हॉटेल मालकांनी रोबो वेटर आणले."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "रोबो वेटरचे फायदे व तोटे कथेच्या आधारे स्पष्ट करा.",
+      "answer": "रोबो वेटर सातत्याने काम करतात; पण बिघाड झाल्यास समस्या निर्माण होतात आणि मानवी भावना समजू शकत नाहीत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "मनोजचे व्यक्तिमत्त्व स्पष्ट करा.",
+      "answer": "मनोज प्रामाणिक, संवेदनशील व प्रसंगावधान असलेला माणूस आहे. त्याच्या माणुसकीमुळे एका स्त्रीचा जीव वाचतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "एसी रूममधील घटनेचे वर्णन करा.",
+      "answer": "एका स्त्रीची ब्लड शुगर कमी झाल्यामुळे ती बेशुद्ध पडते; रोबो मदत करत नाही, पण मनोज तत्परतेने मदत करतो."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "‘यंत्र माणसाची जागा घेऊ शकत नाही’ हे विधान स्पष्ट करा.",
+      "answer": "यंत्रे काम करतात; पण भावना, करुणा व माणुसकी फक्त माणसातच असते, हे या कथेने सिद्ध केले आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "राजाभाऊंची द्‌विधा मन:स्थिती का निर्माण झाली?",
+      "answer": "रोबोमुळे मिळणारा नफा आणि होणारी बदनामी यांमुळे ते संभ्रमात होते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "कथेचा सामाजिक संदेश स्पष्ट करा.",
+      "answer": "तंत्रज्ञान उपयोगी असले तरी माणुसकीच माणसाला श्रेष्ठ बनवते, हा सामाजिक संदेश कथेने दिला आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "आजच्या काळात ‘निर्णय’ या कथेची उपयुक्तता स्पष्ट करा.",
+      "answer": "आज तंत्रज्ञान वाढले असले तरी मानवी मूल्यांचे महत्त्व कायम आहे, हे ही कथा सांगते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘निर्णय’ या शीर्षकाची सार्थकता स्पष्ट करा.",
+      "answer": "राजाभाऊंचा रोबो न वापरण्याचा अंतिम निर्णय कथेला योग्य दिशा देतो, म्हणून शीर्षक सार्थ आहे."
+    }
+  ]
+}

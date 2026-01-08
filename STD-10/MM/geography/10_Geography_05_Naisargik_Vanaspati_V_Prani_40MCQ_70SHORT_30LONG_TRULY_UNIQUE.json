@@ -1,0 +1,1569 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.05",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "नैसर्गिक वनस्पती व प्राणी (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "ज्या प्रदेशात वर्षभर पाऊस पडतो तेथे कोणती वने आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पानझडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काटेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सदाहरित",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गवताळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "सदाहरित"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमधील सदाहरित वने कशासाठी प्रसिद्ध आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फळबागा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जैवविविधता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिमवृष्टी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जैवविविधता"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ब्राझीलच्या वर्षावनांना काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जगाचे हृदय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जगाची फुफ्फुसे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हरित पट्टा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वनसमूह",
+          "is_correct": false
+        }
+      ],
+      "answer": "जगाची फुफ्फुसे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारतात सर्वाधिक कोणती वने आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सदाहरित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानझडी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिमालयीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रकाठची",
+          "is_correct": false
+        }
+      ],
+      "answer": "पानझडी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "१०००–२००० मिमी पर्जन्य प्रदेशात कोणती वने आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सदाहरित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानझडी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काटेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गवताळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "पानझडी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "५०० मिमीपेक्षा कमी पर्जन्य प्रदेशात कोणती वने आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पानझडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदाहरित",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काटेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रकाठची",
+          "is_correct": false
+        }
+      ],
+      "answer": "काटेरी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "खारफुटीची वने कुठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पठार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "किनारी दलदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वाळवंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "किनारी दलदल"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "साग हे कोणत्या वनाचे उदाहरण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सदाहरित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानझडी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काटेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिमालयीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पानझडी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "खेजडी ही कोणत्या वनस्पतींची जात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सदाहरित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पानझडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काटेरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्रकाठची",
+          "is_correct": false
+        }
+      ],
+      "answer": "काटेरी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कोणती शेती पद्धत आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "टपरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोका",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सिंचन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हरितक्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोका"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "रोका म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थलांतरित शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यावसायिक शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सिंचन शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थलांतरित शेती"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अमेझॉन खोऱ्यात कोणती वने आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पानझडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदाहरित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "काटेरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समशीतोष्ण",
+          "is_correct": false
+        }
+      ],
+      "answer": "सदाहरित"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये सर्वाधिक वन्यजीव कुठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "किनारी भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पॅंटानल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शहरे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पॅंटानल"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पॅंटानल प्रदेश कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमवृष्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दलदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्वत",
+          "is_correct": false
+        }
+      ],
+      "answer": "दलदल"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ॲनाकोंडा कोणत्या देशात आढळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ब्राझील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऑस्ट्रेलिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्राझील"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारत हा कोणत्या प्राण्यांसाठी वैशिष्ट्यपूर्ण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त सिंह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त वाघ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सिंह व वाघ दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सिंह व वाघ दोन्ही"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भारताचा राष्ट्रीय प्राणी कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सिंह",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाघ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चित्ता",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाघ"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये आढळणारा मोठा पक्षी कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोंडोर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गरुड",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हंस",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोंडोर"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "गुलाबी डॉल्फिन कुठे आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समुद्रात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नद्यांत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तलावात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिमनदीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "नद्यांत"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "भारतातील हिमालयीन भागात कोणते प्राणी आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिमचित्ता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डॉल्फिन",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिमचित्ता"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारतातील वाळवंटी प्रदेशात कोणते प्राणी आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "याक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उंट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मगर",
+          "is_correct": false
+        }
+      ],
+      "answer": "उंट"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कोणत्या माशांची प्रजाती प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोहू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पिरान्हा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कटला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सार्डिन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पिरान्हा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "समुद्रकाठच्या वनांचे दुसरे नाव काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुंद्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खारफुटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पानझडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काटेरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "खारफुटी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "हिमालयीन वने कशावर अवलंबून असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अक्षांश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उंची",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्जन्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माती",
+          "is_correct": false
+        }
+      ],
+      "answer": "उंची"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सूचिपर्णी वने कुठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मैदान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिमालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किनारपट्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाळवंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिमालय"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कीटकांची संख्या जास्त का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थंडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण व आर्द्र हवामान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उंची",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्ण व आर्द्र हवामान"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये एकशिंगी गेंडा कुठे आढळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजस्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आसाम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गुजरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लडाख",
+          "is_correct": false
+        }
+      ],
+      "answer": "आसाम"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सुसर कोणत्या प्रदेशात आढळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नदीखोरे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोंगर",
+          "is_correct": false
+        }
+      ],
+      "answer": "नदीखोरे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये मगरी कुठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दलदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिमप्रदेश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्वत",
+          "is_correct": false
+        }
+      ],
+      "answer": "दलदल"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वनस्पती व प्राणी यांचा परस्पर संबंध काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतंत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परावलंबी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "असंबंधित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरोधी",
+          "is_correct": false
+        }
+      ],
+      "answer": "परावलंबी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "जैवविविधता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकच प्रजाती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वनांची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रजातींची विविधता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हवामान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रजातींची विविधता"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक जैवविविधता कुठे आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजस्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पश्चिम घाट",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पंजाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम घाट"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये निर्वनीकरण कशामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमवृष्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शेती व तस्करी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ज्वालामुखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूकंप",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेती व तस्करी"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये वनसंवर्धन का आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्राणी संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सौंदर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पर्यटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राणी संरक्षण"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "अभयारण्ये का स्थापन केली जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेतीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वन्यजीव संरक्षणासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योगासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वसाहतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वन्यजीव संरक्षणासाठी"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ज्या देशात विषुववृत्तीय वने अधिक आहेत तो देश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ब्राझील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अमेरिका",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्राझील"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या घटकाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नैसर्गिक वनस्पती व प्राणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैसर्गिक वनस्पती व प्राणी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक वनस्पती म्हणजे काय?",
+      "answer": "स्वतः उगवणाऱ्या वनस्पतींना नैसर्गिक वनस्पती म्हणतात."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "सदाहरित वने कशी असतात?",
+      "answer": "वर्षभर हिरवीगार असतात."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "पानझडी वने कशी ओळखली जातात?",
+      "answer": "कोरड्या ऋतूत पाने गळतात."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "काटेरी वने कुठे आढळतात?",
+      "answer": "अल्प पर्जन्य प्रदेशात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "समुद्रकाठची वने कुठे आढळतात?",
+      "answer": "किनारी दलदलीत."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "हिमालयीन वने कशावर आधारित असतात?",
+      "answer": "उंचीवर."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमधील प्रमुख वने कोणती?",
+      "answer": "सदाहरित वने."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमधील वर्षावनांचे महत्त्व काय?",
+      "answer": "प्राणवायू निर्मिती."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "जगाची फुफ्फुसे कोणत्या वनांना म्हणतात?",
+      "answer": "अमेझॉन वर्षावने."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "भारतात सर्वाधिक कोणती वने आढळतात?",
+      "answer": "पानझडी वने."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "साग वृक्ष कुठे आढळतो?",
+      "answer": "पानझडी वनात."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "बांबू कोणत्या वनात आढळतो?",
+      "answer": "पानझडी वनात."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "खेजडी कुठे आढळते?",
+      "answer": "काटेरी वनात."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कोरफड कुठे आढळते?",
+      "answer": "अल्प पर्जन्य प्रदेशात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "खारफुटी वने दुसऱ्या नावाने काय ओळखली जातात?",
+      "answer": "सुंद्री वने."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये रोका शेती म्हणजे काय?",
+      "answer": "स्थलांतरित शेती."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "रोका शेतीचा परिणाम काय होतो?",
+      "answer": "निर्वनीकरण."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये कोणता दलदलीचा प्रदेश आहे?",
+      "answer": "पॅंटानल."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पॅंटानल प्रदेशात कोणते प्राणी आढळतात?",
+      "answer": "ॲनाकोंडा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये मगरी कुठे आढळतात?",
+      "answer": "दलदलीत."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये हत्ती कुठे आढळतात?",
+      "answer": "उष्ण व आर्द्र वनात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "एकशिंगी गेंडा कुठे आढळतो?",
+      "answer": "आसाममध्ये."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हिमचित्ता कुठे आढळतो?",
+      "answer": "हिमालयात."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "याक कुठे आढळतो?",
+      "answer": "उच्च हिमालयात."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "उंट कुठे आढळतो?",
+      "answer": "वाळवंटी प्रदेशात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "गंगा डॉल्फिन कुठे आढळते?",
+      "answer": "नद्यांत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मगर कुठे आढळते?",
+      "answer": "नदी व खाडीत."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "भारताचा राष्ट्रीय प्राणी कोणता?",
+      "answer": "वाघ."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये सिंह कुठे आढळतो?",
+      "answer": "गिर जंगलात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमधील प्रसिद्ध पक्षी कोणते?",
+      "answer": "मकाऊ."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कोंडोर पक्षी कसा आहे?",
+      "answer": "मोठ्या आकाराचा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पिरान्हा मासा कुठे आढळतो?",
+      "answer": "अमेझॉन नदीत."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "जैवविविधता म्हणजे काय?",
+      "answer": "प्रजातींची विविधता."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये जैवविविधता जास्त का आहे?",
+      "answer": "उष्ण व आर्द्र हवामान."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये जैवविविधता कुठे जास्त आहे?",
+      "answer": "पश्चिम घाटात."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वन्यजीव तस्करी म्हणजे काय?",
+      "answer": "बेकायदेशीर व्यापार."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "निर्वनीकरण म्हणजे काय?",
+      "answer": "वनतोड."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये चित्ता का नामशेष झाला?",
+      "answer": "तस्करी व अधिवास नाश."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "वनसंवर्धन म्हणजे काय?",
+      "answer": "वनांचे संरक्षण."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अभयारण्य म्हणजे काय?",
+      "answer": "संरक्षित वन्यजीव क्षेत्र."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "राष्ट्रीय उद्यान म्हणजे काय?",
+      "answer": "प्राणी व वनसंरक्षण क्षेत्र."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वन्यजीव संरक्षण का आवश्यक आहे?",
+      "answer": "जैवसंतुलनासाठी."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "वनस्पती व प्राणी यांचा संबंध काय?",
+      "answer": "परस्परावलंबी."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "परिसंस्था म्हणजे काय?",
+      "answer": "जीव व पर्यावरण यांचे नाते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये निर्वनीकरण कशामुळे वाढते?",
+      "answer": "शेती व उद्योग."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये वनांचा ऱ्हास कशामुळे होतो?",
+      "answer": "लोकसंख्या वाढ."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वनसंवर्धनाचे उपाय कोणते?",
+      "answer": "अभयारण्ये, कायदे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "मोर कुठे आढळतो?",
+      "answer": "वनप्रदेशात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "माळढोक कुठे आढळतो?",
+      "answer": "गवताळ प्रदेशात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "सुसर कुठे आढळतो?",
+      "answer": "नदीमुखात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "खारफुटी वने का महत्त्वाची आहेत?",
+      "answer": "किनार संरक्षणासाठी."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वनस्पतींचा हवामानाशी संबंध काय?",
+      "answer": "पर्जन्यावर अवलंबून."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "प्राणी अधिवास म्हणजे काय?",
+      "answer": "प्राण्यांचे राहण्याचे ठिकाण."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये कीटकांची संख्या जास्त का?",
+      "answer": "उष्ण-आर्द्र हवामान."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भारत हा कोणत्या प्राण्यांसाठी वैशिष्ट्यपूर्ण आहे?",
+      "answer": "सिंह व वाघ."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "वन्यजीव संरक्षणासाठी काय आवश्यक?",
+      "answer": "कडक कायदे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा धडा कशाशी संबंधित आहे?",
+      "answer": "भौतिक भूगोल."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "नैसर्गिक वनस्पती म्हणजे काय? प्रकार स्पष्ट करा.",
+      "answer": "स्वतः उगवणाऱ्या वनस्पती नैसर्गिक वनस्पती होत. सदाहरित, पानझडी, काटेरी, हिमालयीन व समुद्रकाठची असे प्रकार आहेत."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "ब्राझीलमधील सदाहरित वने का महत्त्वाची आहेत?",
+      "answer": "ही वने मोठ्या प्रमाणात प्राणवायू देतात म्हणून त्यांना जगाची फुफ्फुसे म्हणतात."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "भारतातील पानझडी वने सर्वाधिक का आढळतात?",
+      "answer": "मध्यम पर्जन्यमान व ऋतूंच्या बदलामुळे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "काटेरी वनांची वैशिष्ट्ये लिहा.",
+      "answer": "लहान पाने, काटे व कमी पाण्याची गरज."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "खारफुटी वनांचे महत्त्व स्पष्ट करा.",
+      "answer": "किनारी धूप रोखतात व जैवविविधता टिकवतात."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "हिमालयीन वनांचे प्रकार स्पष्ट करा.",
+      "answer": "उंचीनुसार मिश्र, सूचिपर्णी व अल्प वनस्पती."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "ब्राझीलमधील रोका शेती स्पष्ट करा.",
+      "answer": "वनतोड करून तात्पुरती शेती केली जाते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "रोका शेतीचे पर्यावरणीय परिणाम स्पष्ट करा.",
+      "answer": "निर्वनीकरण व मृदा ऱ्हास होतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "पॅंटानल प्रदेशाचे वैशिष्ट्ये लिहा.",
+      "answer": "दलदलीचा प्रदेश व समृद्ध वन्यजीवन."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "ब्राझीलमधील वन्यजीवनाची माहिती द्या.",
+      "answer": "ॲनाकोंडा, मगरी, पिरान्हा, कोंडोर इ."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "भारतामधील वन्यजीवनाची विविधता स्पष्ट करा.",
+      "answer": "हिमालयापासून किनारपट्टीपर्यंत विविध प्राणी आढळतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "भारत हा सिंह व वाघ दोन्ही असलेला देश का आहे?",
+      "answer": "विविध अधिवास उपलब्ध असल्यामुळे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "वन्यजीव तस्करीचे दुष्परिणाम स्पष्ट करा.",
+      "answer": "प्रजाती नामशेष होतात."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "निर्वनीकरणाची कारणे लिहा.",
+      "answer": "शेती, उद्योग, लोकसंख्या वाढ."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "भारतामध्ये चित्ता का नामशेष झाला?",
+      "answer": "अधिवास नाश व तस्करी."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "वनसंवर्धनाचे महत्त्व स्पष्ट करा.",
+      "answer": "जैवसंतुलन राखण्यासाठी."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "अभयारण्ये व राष्ट्रीय उद्याने का आवश्यक आहेत?",
+      "answer": "वन्यजीव संरक्षणासाठी."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "वनस्पती व प्राणी यांचा परस्पर संबंध स्पष्ट करा.",
+      "answer": "एकमेकांवर अवलंबून असतात."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "जैवविविधतेचे महत्त्व स्पष्ट करा.",
+      "answer": "परिसंस्था टिकवण्यासाठी."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या वनस्पतींतील फरक स्पष्ट करा.",
+      "answer": "ब्राझीलमध्ये सदाहरित, भारतात पानझडी अधिक."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या वन्यजीवनातील फरक स्पष्ट करा.",
+      "answer": "ब्राझीलमध्ये कीटक व सरपटणारे अधिक."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "खारफुटी वने नष्ट झाल्यास काय परिणाम होतो?",
+      "answer": "किनारी धूप वाढते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "वन्यजीव संरक्षणासाठी उपाय सुचवा.",
+      "answer": "कायदे, जनजागृती."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "हवामानाचा वनस्पतींवर परिणाम स्पष्ट करा.",
+      "answer": "पर्जन्य व तापमानानुसार प्रकार बदलतात."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "परिसंस्थेतील जैवसाखळी स्पष्ट करा.",
+      "answer": "उत्पादक, उपभोक्ता, विघटक."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये निर्वनीकरण ही समस्या का आहे?",
+      "answer": "रोका शेती व उद्योग."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "भारतामध्ये वनांचा ऱ्हास का होतो?",
+      "answer": "लोकसंख्या व विकास."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "वन्यजीव संरक्षणात सरकारची भूमिका स्पष्ट करा.",
+      "answer": "कायदे व अभयारण्ये."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "नैसर्गिक वनस्पती व प्राणी हा भूगोलाचा महत्त्वाचा घटक का आहे?",
+      "answer": "पर्यावरण समजण्यासाठी."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलमध्ये वनसंवर्धनाची गरज का आहे?",
+      "answer": "जैवविविधता टिकवण्यासाठी."
+    }
+  ]
+}

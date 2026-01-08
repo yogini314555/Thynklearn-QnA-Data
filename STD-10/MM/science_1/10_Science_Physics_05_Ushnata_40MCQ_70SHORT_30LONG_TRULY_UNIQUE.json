@@ -1,0 +1,1569 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Physics.05",
+    "standard": "10",
+    "subject": "Science – Physics",
+    "medium": "Marathi",
+    "chapter_name": "उष्णता"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "उष्णता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बल",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "उष्णतेचे SI एकक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कॅलरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्यूल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वॅट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अँपिअर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्यूल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "तापमान मोजण्यासाठी कोणते उपकरण वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कॅलरीमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तापमापी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बॅरोमीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अॅमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "तापमापी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "उष्णता संक्रमणाचे किती प्रकार आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "उष्णता संक्रमणाचा कोणता प्रकार निर्वातात होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चालन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवहन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विकिरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकिरण"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "घन पदार्थात उष्णता कशी जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवहन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकिरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चालन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संघनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "चालन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "द्रव व वायूमध्ये उष्णता संक्रमण कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चालन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवहन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विकिरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घर्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवहन"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अप्रकट उष्मा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान वाढवणारी उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अवस्थाबदलासाठी शोषलेली उष्णता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गमावलेली उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवस्थाबदलासाठी शोषलेली उष्णता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बर्फ वितळताना तापमान का बदलत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अप्रकट उष्मा शोषला जातो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता गमावली जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब वाढतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "अप्रकट उष्मा शोषला जातो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "बर्फाचा वितळणांक किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0°C",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "4°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "100°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "–10°C",
+          "is_correct": false
+        }
+      ],
+      "answer": "0°C"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पाण्याचा उत्कलनांक किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "90°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "100°C",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "80°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "120°C",
+          "is_correct": false
+        }
+      ],
+      "answer": "100°C"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पुनर्हिमायन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बर्फ वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बर्फ पुन्हा गोठणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाबामुळे वितळून पुन्हा गोठणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वाफ बनणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "दाबामुळे वितळून पुन्हा गोठणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पाण्याचे असंगत आचरण कोणत्या तापमानात दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0–4°C",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "4–10°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "10–20°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "0–100°C",
+          "is_correct": false
+        }
+      ],
+      "answer": "0–4°C"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "पाण्याची घनता सर्वाधिक कधी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "4°C",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "10°C",
+          "is_correct": false
+        }
+      ],
+      "answer": "4°C"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "दवबिंदू तापमान म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमाल तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवा संपृक्त होण्याचे तापमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किमान तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर तापमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवा संपृक्त होण्याचे तापमान"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आर्द्रता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवेचा दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवेतील वाफेचे प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवेचे तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाऱ्याचा वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवेतील वाफेचे प्रमाण"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "सापेक्ष आर्द्रतेचे कमाल मूल्य किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "60%",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "100%",
+          "is_correct": true
+        }
+      ],
+      "answer": "100%"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "उष्णतेचे CGS एकक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्यूल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कॅलरी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वॅट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "न्यूटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कॅलरी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "1 कॅलरी = किती ज्यूल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "4.18 J",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "2 J",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1 J",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "10 J",
+          "is_correct": false
+        }
+      ],
+      "answer": "4.18 J"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "विशिष्ट उष्माधारकता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकक वस्तुमानास लागणारी उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकक तापमान बदलासाठी लागणारी उष्णता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकक तापमान बदलासाठी लागणारी उष्णता"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "विशिष्ट उष्माधारकतेचे SI एकक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "J/kg°C",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "cal/g°C",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "J",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "kg",
+          "is_correct": false
+        }
+      ],
+      "answer": "J/kg°C"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाण्याची विशिष्ट उष्माधारकता किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0.1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "0.5",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "2",
+          "is_correct": false
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "धातूंपैकी कोणाची विशिष्ट उष्माधारकता कमी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पारा",
+          "is_correct": true
+        }
+      ],
+      "answer": "पारा"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "उष्णता विनिमयाचे तत्त्व काय सांगते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता नष्ट होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण = थंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णाने गमावलेली = थंडाने ग्रहण केलेली",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान समान",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णाने गमावलेली = थंडाने ग्रहण केलेली"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कॅलरीमापी कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्णता मापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता मापन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "संवहन कोणत्या माध्यमात शक्य नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्रव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वायू",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": false
+        }
+      ],
+      "answer": "घन"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "विकिरणासाठी माध्यम आवश्यक आहे का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कधी कधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माहित नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "नाही"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "थंड प्रदेशात पाण्यातील सजीव का जिवंत राहतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बर्फ वर तरंगतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पाणी गरम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब जास्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "बर्फ वर तरंगतो"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हिवाळ्यात नळ फुटण्याचे कारण काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गंज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "असंगत आचरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "असंगत आचरण"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "उष्णता व तापमान यातील फरक काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन्ही समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊर्जा व मापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊर्जा व मापन"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वाफेचा अप्रकट उष्मा कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वितळण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बाष्पन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संघनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रवण",
+          "is_correct": false
+        }
+      ],
+      "answer": "बाष्पन"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "बाष्पनाचा विशिष्ट अप्रकट उष्मा पाण्यासाठी किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "333 kJ/kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2256 kJ/kg",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "540 kJ/kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "80 kJ/kg",
+          "is_correct": false
+        }
+      ],
+      "answer": "2256 kJ/kg"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "दवबिंदू तापमानावर सापेक्ष आर्द्रता किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "0%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "50%",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "80%",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "100%",
+          "is_correct": true
+        }
+      ],
+      "answer": "100%"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "उष्णतारोधक पेटी कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता साठवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्णता बाहेर जाऊ न देणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थंड करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मापन",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता बाहेर जाऊ न देणे"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "होपचे उपकरण कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "असंगत आचरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आर्द्रता",
+          "is_correct": false
+        }
+      ],
+      "answer": "असंगत आचरण"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या विषयाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भौतिकशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या इयत्तेचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नववी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दहावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अकरावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बारावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दहावी"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "उष्णता म्हणजे काय?",
+      "answer": "ऊर्जेचे एक रूप."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "तापमान म्हणजे काय?",
+      "answer": "गरमपणा मोजण्याचे माप."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "उष्णतेचे एकक काय?",
+      "answer": "ज्यूल."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "तापमान मोजणारे उपकरण?",
+      "answer": "तापमापी."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "उष्णता संक्रमणाचे प्रकार?",
+      "answer": "चालन, संवहन, विकिरण."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "चालन म्हणजे काय?",
+      "answer": "घनातून उष्णता संक्रमण."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "संवहन म्हणजे काय?",
+      "answer": "द्रव व वायूमधील उष्णता संक्रमण."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "विकिरण म्हणजे काय?",
+      "answer": "माध्यमाविना उष्णता संक्रमण."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "अप्रकट उष्मा म्हणजे काय?",
+      "answer": "अवस्थाबदलातील उष्णता."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "बर्फ वितळताना तापमान?",
+      "answer": "स्थिर राहते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "वितळणाचा अप्रकट उष्मा म्हणजे काय?",
+      "answer": "बर्फ→पाणी उष्णता."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "बाष्पनाचा अप्रकट उष्मा म्हणजे काय?",
+      "answer": "द्रव→वाफ उष्णता."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "पुनर्हिमायन म्हणजे काय?",
+      "answer": "दाबामुळे वितळून पुन्हा गोठणे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पाण्याचे असंगत आचरण म्हणजे काय?",
+      "answer": "0–4°C दरम्यान आकुंचन."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाण्याची घनता जास्त कधी?",
+      "answer": "4°C ला."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "दवबिंदू तापमान म्हणजे काय?",
+      "answer": "हवा संपृक्त होण्याचे तापमान."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "आर्द्रता म्हणजे काय?",
+      "answer": "हवेतील वाफेचे प्रमाण."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सापेक्ष आर्द्रता म्हणजे काय?",
+      "answer": "प्रत्यक्ष/कमाल वाफ गुणोत्तर."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "100% आर्द्रता कधी?",
+      "answer": "दवबिंदू तापमानावर."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "1 कॅलरी म्हणजे काय?",
+      "answer": "1 g पाणी 1°C वाढवणारी उष्णता."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "किलोकॅलरी म्हणजे काय?",
+      "answer": "1000 कॅलरी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "विशिष्ट उष्माधारकता म्हणजे काय?",
+      "answer": "1 kg तापमान 1°C बदल."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "विशिष्ट उष्माधारकतेचे एकक?",
+      "answer": "J/kg°C."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पाण्याची विशिष्ट उष्माधारकता जास्त का?",
+      "answer": "तापमान बदल कमी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "उष्णता विनिमयाचे तत्त्व?",
+      "answer": "उष्ण = थंड."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कॅलरीमापी म्हणजे काय?",
+      "answer": "उष्णता मापन साधन."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "उष्णतारोधक पेटी म्हणजे काय?",
+      "answer": "उष्णता बाहेर न जाऊ देणारी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "होपचे उपकरण कशासाठी?",
+      "answer": "असंगत आचरण अभ्यास."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "थंड प्रदेशात मासे का जिवंत?",
+      "answer": "बर्फ वर तरंगतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "नळ हिवाळ्यात फुटतात का?",
+      "answer": "असंगत आचरणामुळे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वाफेचे संघनन म्हणजे काय?",
+      "answer": "वाफ→पाणी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "दव कसे पडते?",
+      "answer": "संघननामुळे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "आर्द्रता जास्त असता हवा कशी?",
+      "answer": "दमट."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "आर्द्रता कमी असता हवा?",
+      "answer": "कोरडी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "उष्णता ऊर्जा आहे का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "तापमान ऊर्जा आहे का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "उष्णता मोजता येते का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "तापमान मोजता येते का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "उष्णता नेहमी कुठून कुठे जाते?",
+      "answer": "गरम→थंड."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "संवहन प्रवाह कशामुळे?",
+      "answer": "घनता फरक."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "विकिरण सूर्यापासून कसे?",
+      "answer": "माध्यमाविना."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "पुनर्हिमायन प्रयोगात तार का जातो?",
+      "answer": "दाबामुळे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "उष्णतेचे व्यावहारिक उपयोग?",
+      "answer": "स्वयंपाक, हवामान."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "पाण्याचे असंगत आचरण महत्त्व?",
+      "answer": "जलीय जीवन."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "उष्णतेचा अभ्यास का आवश्यक?",
+      "answer": "दैनंदिन उपयोग."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "उष्णता व तापमान फरक?",
+      "answer": "ऊर्जा व मापन."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "उष्णतेचा परिणाम काय?",
+      "answer": "तापमान बदल."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तापमान वाढ म्हणजे काय?",
+      "answer": "ऊर्जा वाढ."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "विशिष्ट उष्माधारकता कमी म्हणजे?",
+      "answer": "जलद ताप बदल."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "धातू लवकर तापतात का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पाणी हळू तापते का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "उष्णता स्थानांतरण का?",
+      "answer": "तापमान फरक."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "अवस्थाबदलात तापमान?",
+      "answer": "स्थिर."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "उष्णतेचा उपयोग उद्योगात?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी उपयुक्त?",
+      "answer": "भौतिक संकल्पना."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा विषय कोणता?",
+      "answer": "भौतिकशास्त्र."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "उष्णता व तापमान यातील फरक स्पष्ट करा.",
+      "answer": "उष्णता ऊर्जा आहे, तापमान मापन."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "उष्णता संक्रमणाचे प्रकार स्पष्ट करा.",
+      "answer": "चालन, संवहन, विकिरण."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "अप्रकट उष्मा म्हणजे काय? प्रकार लिहा.",
+      "answer": "वितळण व बाष्पन."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "बर्फ वितळताना तापमान स्थिर का?",
+      "answer": "अप्रकट उष्मा शोषण."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "पाण्याचे असंगत आचरण स्पष्ट करा.",
+      "answer": "0–4°C आकुंचन."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "पुनर्हिमायन स्पष्ट करा.",
+      "answer": "दाबामुळे वितळणे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "थंड प्रदेशात जलीय सजीव कसे जिवंत?",
+      "answer": "बर्फ वर तरंगतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "दवबिंदू तापमान स्पष्ट करा.",
+      "answer": "हवा संपृक्त तापमान."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "आर्द्रता म्हणजे काय? प्रकार लिहा.",
+      "answer": "निरपेक्ष व सापेक्ष."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "उष्णतेची एकके स्पष्ट करा.",
+      "answer": "ज्यूल, कॅलरी."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "विशिष्ट उष्माधारकता स्पष्ट करा.",
+      "answer": "m×c×ΔT."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "पाण्याची विशिष्ट उष्माधारकता जास्त का?",
+      "answer": "हवामान संतुलन."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "उष्णता विनिमयाचे तत्त्व स्पष्ट करा.",
+      "answer": "उष्ण=थंड."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "कॅलरीमापीची रचना व उपयोग.",
+      "answer": "उष्णता मापन."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "होपचे उपकरण स्पष्ट करा.",
+      "answer": "असंगत आचरण."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "संवहन प्रवाह कसा तयार होतो?",
+      "answer": "घनता फरक."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "विकिरणाची वैशिष्ट्ये लिहा.",
+      "answer": "माध्यम नको."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "उष्णतारोधक पेटी म्हणजे काय?",
+      "answer": "उष्णता अलग."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "हिवाळ्यात नळ का फुटतात?",
+      "answer": "असंगत आचरण."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "दव कसे पडते?",
+      "answer": "संघनन."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "उष्णतेचे दैनंदिन उपयोग लिहा.",
+      "answer": "स्वयंपाक."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "उद्योगात उष्णतेचा वापर.",
+      "answer": "धातुकर्म."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "अवस्थाबदलात उष्णतेची भूमिका.",
+      "answer": "बंध तुटणे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "वितळण व उत्कलन फरक.",
+      "answer": "स्थायू→द्रव, द्रव→वायू."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "उष्णता व ऊर्जा संबंध.",
+      "answer": "उष्णता ऊर्जा."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "पुनर्हिमायनाचे उदाहरण.",
+      "answer": "तार प्रयोग."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "आर्द्रतेचा हवामानावर परिणाम.",
+      "answer": "दमट/कोरडे."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "उष्णता अभ्यासाचे महत्त्व.",
+      "answer": "नैसर्गिक प्रक्रिया."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "SSC परीक्षेसाठी धड्याचे महत्त्व.",
+      "answer": "संकल्पना स्पष्ट."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "हा धडा समजावून घेण्याचे फायदे.",
+      "answer": "दैनंदिन उपयोग."
+    }
+  ]
+}

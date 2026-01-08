@@ -1,0 +1,1171 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.02",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "बोलतो मराठी"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘बोलतो मराठी’ हा पाठ कोणत्या प्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ललित लेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ललित लेख"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या पाठाच्या लेखिका कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मालती बेडेकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नीलिमा गुंडी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सावित्रीबाई फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्या बाळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीलिमा गुंडी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘बनवणे’ या शब्दाच्या चुकीच्या वापरामुळे काय निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्पष्टता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विनोद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सौंदर्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "विनोद"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "मराठीत स्वयंपाकासाठी वेगवेगळे शब्द का आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "परंपरेमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषेच्या श्रीमंतीमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गरजेपोटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोगाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषेच्या श्रीमंतीमुळे"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘मारणे’ या क्रियापदाचे वैशिष्ट्य काय सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकच अर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनेक अर्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कठीण अर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परदेशी अर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनेक अर्थ"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "वाक्प्रचारांचा उपयोग कशासाठी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थेट अर्थासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषा सुंदर करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संक्षेपासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषा सुंदर करण्यासाठी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘खस्ता खाणे’ या वाक्प्रचाराचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खाणे खाणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रास सहन करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपाशी राहणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रास सहन करणे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "शब्दांचा चुकीचा वापर केल्यास काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अर्थवृद्धी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्थाचा अनर्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सौंदर्य वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भाषा सोपी होते",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थाचा अनर्थ"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "शब्दकोश वापरण्याची सवय का लावावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ वाचतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्थ नीट समजतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भाषा बदलते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळ वाढतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थ नीट समजतो"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘अनसूया’ या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मत्सरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मत्सररहित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हुशार",
+          "is_correct": false
+        }
+      ],
+      "answer": "मत्सररहित"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "उच्चारांमुळे अर्थ बदलतो हे कशातून स्पष्ट होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदाहरणांमधून",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "इतिहासातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कथेतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संवादातून",
+          "is_correct": false
+        }
+      ],
+      "answer": "उदाहरणांमधून"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘पुराणातली वानगी पुराणात’ याचा योग्य अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वांग्याची गोष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उदाहरणापुरते मर्यादित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धार्मिक कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "उदाहरणापुरते मर्यादित"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सारखी शब्दरूपे असली तरी फरक कशामुळे कळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लेखनामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उच्चारामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संदर्भामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लांबीमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "संदर्भामुळे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लेखिकेने भाषेला कोणती उपमा दिली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शाळा",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मराठीने कोणत्या भाषांमधले शब्द स्वीकारले आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त इंग्रजी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनेक भाषांमधले",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनेक भाषांमधले"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "गरज नसताना परकीय शब्द वापरणे का अयोग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषा कठीण होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्थ बदलतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मराठी व्याकरण बिघडते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "‘मी स्टडी केली’ ऐवजी काय योग्य आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मी अभ्यास केला",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "मी शिकलो",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मी वाचले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मी ऐकले",
+          "is_correct": false
+        }
+      ],
+      "answer": "मी अभ्यास केला"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती शोधल्याने काय कळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांचा इतिहास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त अर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त उच्चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त लेखन",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दांचा इतिहास"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भाषेतील गंमत कशामुळे निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दप्रयोगांमुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "चुकीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गोंधळामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अज्ञानामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दप्रयोगांमुळे"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "प्रत्यय चुकीचा वापरल्यास काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अर्थ स्पष्ट होतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्थ बदलतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भाषा सुंदर होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाक्य लहान होते",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थ बदलतो"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘तुला मदत करणे’ हे वाक्य योग्य का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "व्याकरणदृष्ट्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "परंपरेने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयोगाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुकीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्याकरणदृष्ट्या"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "भाषेचा योग्य सन्मान कशामुळे राखला जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्ञानामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वापरामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "भाषा प्रवाही आहे असे का म्हटले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती बदलत राहते",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "ती स्थिर असते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ती कठीण आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती जुनी आहे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती बदलत राहते"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "वाक्यरचनेमुळे काय खुलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाव",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गोंधळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाव"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "भाषेचे अर्थसौंदर्य कशातून कळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभ्यासातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाचनातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "योग्य वापरातून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘लाभले आम्हांस भाग्य बोलतो मराठी’ हे कोणाचे शब्द आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वि.स.खांडेकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरेश भट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कुसुमाग्रज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाडगावकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरेश भट"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "हा पाठ मुख्यत्वे कशावर भर देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषेचा सन्मान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "व्याकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषेचा सन्मान"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "लेखिकेचा दृष्टिकोन कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेमळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेमळ"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणती जाणीव निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषाप्रेम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषाप्रेम"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "या पाठाचा मुख्य विषय काय आहे?",
+      "answer": "मराठी भाषेचा योग्य वापर आणि सन्मान हा या पाठाचा मुख्य विषय आहे."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘बनवणे’ या शब्दावर लेखिकेने टीका का केली आहे?",
+      "answer": "कारण त्याचा अयोग्य आणि सार्वत्रिक वापर अर्थबदल घडवतो."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "मराठी भाषेची श्रीमंती कशातून दिसते?",
+      "answer": "वेगवेगळ्या अचूक शब्दप्रयोगांतून दिसते."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "‘मारणे’ या क्रियापदाचे उदाहरणे का दिली आहेत?",
+      "answer": "एका शब्दाचे अनेक अर्थ कसे असू शकतात हे दाखवण्यासाठी."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "वाक्प्रचार म्हणजे काय?",
+      "answer": "शब्दशः अर्थापेक्षा वेगळा अर्थ देणारे शब्दसमूह म्हणजे वाक्प्रचार."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "‘खांदा लावणे’ आणि ‘खांदा देणे’ यात फरक काय?",
+      "answer": "पहिले सहकार्य दर्शवते, दुसरे अंत्यसंस्काराशी संबंधित आहे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "शब्दकोशाचा उपयोग काय?",
+      "answer": "शब्दांचा अचूक अर्थ आणि वापर समजण्यासाठी."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती म्हणजे काय?",
+      "answer": "शब्दाची मूळ उत्पत्ती आणि इतिहास."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "‘मोरांबा’ या शब्दाचे मूळ काय आहे?",
+      "answer": "साखरेशी संबंधित ‘मोरस’ या शब्दाशी."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "उच्चार का महत्त्वाचा आहे?",
+      "answer": "उच्चार बदलल्यास अर्थ बदलू शकतो."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "‘अनसूया’ या शब्दाची संधी कशी आहे?",
+      "answer": "अन् + असूया अशी."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "शब्द तोड चुकीची केल्यास काय होते?",
+      "answer": "हास्यास्पद किंवा चुकीचा अर्थ होतो."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "म्हणींचा अर्थ शब्दशः का घेऊ नये?",
+      "answer": "त्यांचा अर्थ रूपकात्मक असतो."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "सारखी शब्दरूपे चकवतात म्हणजे काय?",
+      "answer": "एकाच शब्दाला वेगवेगळे अर्थ असू शकतात."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "भाषेवर प्रेम करणे म्हणजे काय?",
+      "answer": "तिचा योग्य वापर आणि सन्मान करणे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "लेखिकेने भाषेला आई का म्हटले आहे?",
+      "answer": "कारण ती आपल्या भावविश्वाला आकार देते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "भाषा हवेसारखी आहे असे का म्हटले आहे?",
+      "answer": "ती सतत आपल्या जीवनात असते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "नवे शब्द भाषेत कसे येतात?",
+      "answer": "समाजातील बदलांमुळे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "परकीय शब्द स्वीकारणे केव्हा योग्य आहे?",
+      "answer": "गरज असल्यास आणि व्याकरण पाळल्यास."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "‘मी अभ्यास केला’ हे वाक्य योग्य का?",
+      "answer": "ते शुद्ध मराठी आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "प्रत्यय म्हणजे काय?",
+      "answer": "नामासोबत लागणारे शब्दरूप बदलणारे घटक."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "प्रत्यय चुकल्यास काय बिघडते?",
+      "answer": "वाक्याचा अर्थ."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भाषेतील विनोद कसा निर्माण होतो?",
+      "answer": "चुकीच्या शब्दप्रयोगामुळे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "लेखिकेचा लेखनशैली कशी आहे?",
+      "answer": "सोपी, उदाहरणांनी स्पष्ट करणारी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "भाषेचे अर्थसौंदर्य म्हणजे काय?",
+      "answer": "भाव सूक्ष्मपणे व्यक्त करण्याची क्षमता."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "हा पाठ विद्यार्थ्यांसाठी उपयुक्त का आहे?",
+      "answer": "तो भाषेबद्दल जागरूकता निर्माण करतो."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "शब्दांचा संदर्भ का महत्त्वाचा आहे?",
+      "answer": "त्यावर अर्थ ठरतो."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भाषेचा सन्मान कसा राखता येतो?",
+      "answer": "शुद्ध आणि योग्य वापर करून."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "लेखिकेने कोणत्या सवयी लावण्यास सांगितल्या आहेत?",
+      "answer": "शब्दकोश वापरण्याची."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भाषा आणि संस्कृती यांचा संबंध काय?",
+      "answer": "भाषा संस्कृती व्यक्त करते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या भावनेतून लिहिला आहे?",
+      "answer": "भाषाप्रेमातून."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भाषा बदलत राहते याचा अर्थ काय?",
+      "answer": "नवे शब्द स्वीकारते."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "चुकीच्या वाक्यरचनेचा परिणाम काय होतो?",
+      "answer": "अर्थ गोंधळात पडतो."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "म्हणी आणि वाक्प्रचार यात फरक काय?",
+      "answer": "म्हणी अनुभवसिद्ध, वाक्प्रचार भाषिक शैली."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "भाषेची गंमत कशात आहे?",
+      "answer": "अर्थछटांमध्ये."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "‘कदर करणे’ या शब्दाचा अर्थ काय?",
+      "answer": "गुणांची पारख करणे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "भाषेचे ज्ञान का आवश्यक आहे?",
+      "answer": "योग्य अभिव्यक्तीसाठी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "लेखिकेचा मुख्य संदेश काय?",
+      "answer": "मराठीचा सन्मान राखा."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "भाषा व्यक्तिमत्त्वावर कसा परिणाम करते?",
+      "answer": "विचार स्पष्ट करते."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भाषा आणि भावना यांचा संबंध काय?",
+      "answer": "भाषा भावना व्यक्त करते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "या पाठातून काय शिकायला मिळते?",
+      "answer": "भाषेचा योग्य वापर."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "भाषा का जिवंत मानली जाते?",
+      "answer": "ती सतत विकसित होते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "शब्दप्रयोग चुकीचा असेल तर काय होते?",
+      "answer": "अर्थाचा अनर्थ होतो."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भाषेचे सामर्थ्य कशात आहे?",
+      "answer": "अर्थछटांमध्ये."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "लेखिकेचा दृष्टिकोन कसा आहे?",
+      "answer": "संवेदनशील आणि अभ्यासपूर्ण."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "हा पाठ का महत्त्वाचा आहे?",
+      "answer": "भाषिक जाणीव वाढवतो."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "भाषा जपण्याची जबाबदारी कोणाची?",
+      "answer": "प्रत्येक भाषिकाची."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "या पाठाचा परिणाम वाचकावर काय होतो?",
+      "answer": "भाषेबद्दल अभिमान वाटतो."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "‘बोलतो मराठी’ या पाठातून लेखिकेने मराठी भाषेचे कोणते पैलू उलगडले आहेत?",
+      "answer": "या पाठातून लेखिकेने मराठी भाषेची श्रीमंती, शब्दप्रयोगांची विविधता आणि अर्थछटा स्पष्ट केल्या आहेत. चुकीच्या शब्दवापरामुळे होणारा विनोद आणि अर्थबदल तिने उदाहरणांसह दाखवला आहे. भाषेचा सन्मान राखण्यासाठी योग्य वापर किती आवश्यक आहे हे अधोरेखित केले आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "शब्दप्रयोग आणि वाक्प्रचार यांचे महत्त्व पाठाच्या आधारे स्पष्ट करा.",
+      "answer": "शब्दप्रयोग आणि वाक्प्रचार हे भाषेचे सौंदर्य वाढवतात. त्यांचा योग्य वापर केल्यास भाषा प्रभावी होते, पण चुकीचा वापर अर्थाचा अनर्थ घडवतो. पाठात दिलेली उदाहरणे हे स्पष्ट करतात."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "चुकीच्या शब्दवापरामुळे विनोद कसा निर्माण होतो हे स्पष्ट करा.",
+      "answer": "‘बनवणे’ या शब्दाच्या उदाहरणातून लेखिकेने हे दाखवले आहे. अयोग्य ठिकाणी वापरलेला शब्द अनपेक्षित अर्थ निर्माण करतो आणि त्यामुळे विनोद होतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "व्युत्पत्ती जाणून घेण्याचे फायदे पाठाच्या आधारे लिहा.",
+      "answer": "व्युत्पत्तीमुळे शब्दांचा मूळ अर्थ समजतो. चुका टळतात आणि शब्द मनात पक्के रुजतात. ‘मोरांबा’ आणि ‘अनसूया’ याची उदाहरणे दिली आहेत."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "उच्चाराचे महत्त्व लेखिकेने कसे स्पष्ट केले आहे?",
+      "answer": "एकाच शब्दाचे वेगवेगळे उच्चार वेगळे अर्थ देतात. लेखिकेने ‘कलेवर’ या उदाहरणातून हे स्पष्ट केले आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "भाषेतील म्हणी आणि त्यांचा अर्थ स्पष्ट करा.",
+      "answer": "म्हणींचा अर्थ शब्दशः नसतो. ‘पुराणातली वानगी पुराणात’ या म्हणीचे उदाहरण देऊन हे सांगितले आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "मराठी भाषेचा सन्मान राखण्यासाठी काय करायला हवे?",
+      "answer": "शुद्ध शब्दप्रयोग, योग्य प्रत्यय आणि शब्दकोशाचा वापर करायला हवा. गरज नसताना परकीय शब्द टाळायला हवेत."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "भाषा आणि संस्कृती यांचा संबंध स्पष्ट करा.",
+      "answer": "भाषा संस्कृतीची वाहक असते. भाषेतील शब्दप्रयोग आणि म्हणी समाजाचा अनुभव सांगतात."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "लेखिकेने भाषेला आईची उपमा का दिली आहे?",
+      "answer": "भाषा आपल्या भावविश्वाला आकार देते. ती आपली ओळख घडवते म्हणून तिला आईची उपमा दिली आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "हा पाठ आजच्या काळात का महत्त्वाचा आहे?",
+      "answer": "आज परकीय शब्दांचा अतिरेक वाढला आहे. अशा वेळी मराठीचा सन्मान आणि योग्य वापर शिकवणारा हा पाठ महत्त्वाचा आहे."
+    }
+  ]
+}

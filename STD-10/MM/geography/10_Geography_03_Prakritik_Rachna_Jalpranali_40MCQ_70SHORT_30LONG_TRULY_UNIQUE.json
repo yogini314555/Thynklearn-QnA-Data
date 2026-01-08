@@ -1,0 +1,1575 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.03",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "प्राकृतिक रचना व जलप्रणाली (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "भारताची प्राकृतिक रचना किती प्रमुख विभागांत विभागली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "३",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "४",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "५",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "६",
+          "is_correct": false
+        }
+      ],
+      "answer": "५"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "हिमालय कोणत्या प्रकारचा पर्वत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राचीन वली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्वाचीन वली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अग्निजन्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रूपांतरित",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्वाचीन वली"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "हिमालय भारतात कोणत्या दिशेने पसरलेला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर-दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व-पश्चिम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ईशान्य-नैऋत्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वायव्य-आग्नेय",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व-पश्चिम"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "हिमालयातील सर्वांत दक्षिणेकडील रांग कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमाद्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लघु हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिवालिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "काराकोरम",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिवालिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "उत्तर भारतीय मैदानाचा सर्वसाधारण उतार कोणत्या दिशेने आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पूर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "सुंदरबन त्रिभुज प्रदेश कोणत्या नद्यांमुळे तयार झाला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सिंधू-सतलज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोदावरी-कृष्णा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गंगा-ब्रह्मपुत्रा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नर्मदा-तापी",
+          "is_correct": false
+        }
+      ],
+      "answer": "गंगा-ब्रह्मपुत्रा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारतातील वाळवंट कोणत्या राज्यात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गुजरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पंजाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राजस्थान",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हरियाणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "राजस्थान"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारतीय द्वीपकल्पाचा आकार कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तुळाकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रिकोणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चौकोनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्रिकोणी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "दख्खन पठार कोणत्या खडकांनी बनलेले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाळाचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बेसाल्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रॅनाइट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुनखडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेसाल्ट"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "पश्चिम घाट व पूर्व घाट यांपैकी कोणता अधिक उंच आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व घाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम घाट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणताही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम घाट"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "पश्चिम घाटाला जलविभाजक का म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंची कमी असल्यामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन समुद्रांना नद्या पुरवतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नद्या दोन दिशांना वाहतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जंगले असल्यामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "नद्या दोन दिशांना वाहतात"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भारताच्या पश्चिम किनाऱ्यावर नद्या कशा असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांब व संथ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लहान व वेगवान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हंगामी नसतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "त्रिभुज तयार करतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "लहान व वेगवान"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "पूर्व किनाऱ्यावर त्रिभुज प्रदेश का आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नद्यांचा वेग जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गाळाचे संचयन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खडकाळ किनारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्जन्य कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "गाळाचे संचयन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लक्षद्वीप बेटे कोणत्या प्रकारची आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ज्वालामुखीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खंडीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवाळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "डोंगरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रवाळ"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "अंदमान-निकोबार बेटे कशामुळे प्रसिद्ध आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रवाळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्वालामुखी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिमनद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्वालामुखी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा सर्वाधिक भाग कोणत्या प्रदेशाने व्यापलेला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मैदानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उच्चभूमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किनारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्वतीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "उच्चभूमी"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ब्राझीलची उच्चभूमी कोणत्या खंडाचा गाभा मानली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आफ्रिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशिया",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दक्षिण अमेरिका",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "युरोप",
+          "is_correct": false
+        }
+      ],
+      "answer": "दक्षिण अमेरिका"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमधील सर्वोच्च शिखर कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पिको दी नेब्लीना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अकोंकाग्वा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "किलिमांजारो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फुजी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पिको दी नेब्लीना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमधील अजस्र कड्यांचा परिणाम कशावर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामानावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "शेतीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्येवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उद्योगावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामानावर"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ब्राझीलची किनारपट्टी कोणत्या महासागरालगत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पॅसिफिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अटलांटिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अटलांटिक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "अमेझॉन नदीचे खोरे कोणत्या प्रकारचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कोरडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दलदलीचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगराळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाळवंटी",
+          "is_correct": false
+        }
+      ],
+      "answer": "दलदलीचे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "अमेझॉन नदीचा उगम कुठे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ब्राझील",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्हेनेझुएला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पेरू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोलंबिया",
+          "is_correct": false
+        }
+      ],
+      "answer": "पेरू"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "अमेझॉन नदीच्या मुखाशी त्रिभुज प्रदेश का आढळत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गाळ कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेग जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्र खोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्जन्य कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेग जास्त"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "पॅंटानल प्रदेश कशासाठी प्रसिद्ध आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दलदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्वत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिमनद्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "दलदल"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमधील पॅराग्वे-पॅराना नद्या कुठे मिळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेझॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्लाटा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अटलांटिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पॅसिफिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्लाटा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "सावो फ्रान्सिस्को नदी कोणत्या दिशेने वाहते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारताच्या नद्यांचे वर्गीकरण कशावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लांबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उगमक्षेत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खोरे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवाह",
+          "is_correct": false
+        }
+      ],
+      "answer": "उगमक्षेत्र"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "हिमालयीन नद्या कशा असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हंगामी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बारमाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोरड्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लहान",
+          "is_correct": false
+        }
+      ],
+      "answer": "बारमाही"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "सिंधू नदी कोणत्या समुद्राला मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंगाल उपसागर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिंद महासागर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अरबी समुद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अटलांटिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अरबी समुद्र"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "गंगा नदी कोणत्या हिमनदीतून उगम पावते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यमुनोत्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गंगोत्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सियाचिन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोलाहोई",
+          "is_correct": false
+        }
+      ],
+      "answer": "गंगोत्री"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ब्रह्मपुत्रा नदीला त्सांग पो हे नाव कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाकिस्तान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तिबेट",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बांगलादेश",
+          "is_correct": false
+        }
+      ],
+      "answer": "तिबेट"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "द्वीपकल्पीय नद्या कशा असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बारमाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हंगामी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिमनदीजन्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अत्यंत लांब",
+          "is_correct": false
+        }
+      ],
+      "answer": "हंगामी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "नर्मदा व तापी नद्या कोणत्या दिशेने वाहतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "गोदावरी नदीचा उगम कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व घाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पश्चिम घाट",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सातपुडा",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम घाट"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारताच्या कोणत्या किनाऱ्यावर नैसर्गिक बंदरे कमी आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दक्षिण",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये पश्चिमवाहिनी नद्या का आढळत नाहीत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्वतरचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उताराची दिशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्जन्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समुद्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "उताराची दिशा"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या घटकावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्राकृतिक रचना व जलप्रणाली",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राकृतिक रचना व जलप्रणाली"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "प्राकृतिक रचना म्हणजे काय?",
+      "answer": "भूपृष्ठावरील नैसर्गिक भूरूपांची रचना."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "भारताचे प्रमुख प्राकृतिक विभाग किती?",
+      "answer": "पाच."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "हिमालयाचा विस्तार कुठे आहे?",
+      "answer": "जम्मू-काश्मीर ते अरुणाचल प्रदेश."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "शिवालिक पर्वतरांग कशी आहे?",
+      "answer": "सर्वांत नवीन पर्वतरांग."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "उत्तर भारतीय मैदान कसे आहे?",
+      "answer": "सखल व सुपीक."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "गंगेच्या मैदानाचा उतार कुठे आहे?",
+      "answer": "पूर्वेकडे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "सुंदरबन कुठे आहे?",
+      "answer": "गंगा-ब्रह्मपुत्रा त्रिभुज प्रदेशात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "थरचे वाळवंट कुठे आहे?",
+      "answer": "राजस्थानमध्ये."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "भारतीय द्वीपकल्प कोणत्या समुद्रात घुसलेला आहे?",
+      "answer": "हिंद महासागर."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "अरवली पर्वत कसा आहे?",
+      "answer": "प्राचीन वली पर्वत."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "विंध्य-सातपुडा कशासाठी प्रसिद्ध आहेत?",
+      "answer": "जलविभाजक."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "पश्चिम घाटाची उंची कशी आहे?",
+      "answer": "पूर्व घाटापेक्षा जास्त."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "पूर्व घाट कसे आहेत?",
+      "answer": "खंडित."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "पश्चिम किनारा कसा आहे?",
+      "answer": "खडकाळ व अरुंद."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पूर्व किनारा कसा आहे?",
+      "answer": "सपाट व रुंद."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "लक्षद्वीप बेटे कशी तयार झाली?",
+      "answer": "प्रवाळातून."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "अंदमान बेटे कशी आहेत?",
+      "answer": "ज्वालामुखीय."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची उच्चभूमी काय आहे?",
+      "answer": "ढालक्षेत्र."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "गियाना उच्चभूमी कुठे आहे?",
+      "answer": "ब्राझीलच्या उत्तरेस."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पिको दी नेब्लीना कुठे आहे?",
+      "answer": "ब्राझील-व्हेनेझुएला सीमेवर."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अजस्र कड्यांचा हवामानावर काय परिणाम होतो?",
+      "answer": "पर्जन्यछाया तयार होते."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची किनारपट्टी किती लांब आहे?",
+      "answer": "सुमारे 7400 किमी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "अमेझॉन खोरे कसे आहे?",
+      "answer": "दाट जंगलांनी व्यापलेले."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "अमेझॉन खोऱ्याचा उतार कुठे आहे?",
+      "answer": "पूर्वेकडे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पॅंटानल म्हणजे काय?",
+      "answer": "दलदलीचा प्रदेश."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पॅराग्वे-पॅराना नद्या कुठे वाहतात?",
+      "answer": "दक्षिण ब्राझीलमध्ये."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सावो फ्रान्सिस्को नदी कुठे वाहते?",
+      "answer": "पूर्व ब्राझीलमध्ये."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "भारत जलप्रणालीचे प्रमुख प्रकार कोणते?",
+      "answer": "हिमालयीन व द्वीपकल्पीय."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "हिमालयीन नद्या बारमाही का असतात?",
+      "answer": "हिमनद्यांमुळे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सिंधू नदीचा उगम कुठे आहे?",
+      "answer": "मानसरोवराजवळ."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "सतलज नदी कुठे उगम पावते?",
+      "answer": "मानसरोवराजवळ."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "गंगा नदीचा उगम कुठे आहे?",
+      "answer": "गंगोत्री हिमनदी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "यमुना नदीचा उगम कुठे आहे?",
+      "answer": "यमुनोत्री."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ब्रह्मपुत्रा भारतात कोणत्या नावाने ओळखली जाते?",
+      "answer": "दिहांग."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "गंगा-ब्रह्मपुत्रा खोरे कशासाठी प्रसिद्ध आहे?",
+      "answer": "सुपीक मैदान."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "द्वीपकल्पीय नद्यांचा विसर्ग कशावर अवलंबून असतो?",
+      "answer": "पावसावर."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पश्चिमवाहिनी नद्यांची लांबी कशी असते?",
+      "answer": "कमी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "नर्मदा नदी कुठे मिळते?",
+      "answer": "अरबी समुद्राला."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "तापी नदी कुठे मिळते?",
+      "answer": "अरबी समुद्राला."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "लुनी नदी कुठे मिळते?",
+      "answer": "कच्छच्या आखातात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "पूर्ववाहिनी नद्यांची उदाहरणे सांगा.",
+      "answer": "गोदावरी, कृष्णा, कावेरी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "गोदावरी नदीचे महत्त्व काय?",
+      "answer": "मोठे पाणलोट क्षेत्र."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "कृष्णा नदीच्या उपनद्या कोणत्या?",
+      "answer": "भीमा, तुंगभद्रा."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "कावेरी नदी कशासाठी प्रसिद्ध आहे?",
+      "answer": "जलसिंचन."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "भारताच्या पूर्व किनाऱ्यावर बंदरे कमी का आहेत?",
+      "answer": "गाळ संचयनामुळे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये नद्यांचा वेग कसा असतो?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "अमेझॉन नदी जलवाहतुकीस योग्य का आहे?",
+      "answer": "रुंद पात्रामुळे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "हिमालयीन नद्या पूर का आणतात?",
+      "answer": "हिम वितळ व पाऊस."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "द्वीपकल्पीय नद्या पूर कमी का आणतात?",
+      "answer": "हंगामी स्वरूप."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "ढालक्षेत्र म्हणजे काय?",
+      "answer": "अतिप्राचीन खडकांचा भाग."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ब्राझील व गियाना ढालक्षेत्रे कशासाठी ओळखली जातात?",
+      "answer": "खंडाचे गाभा."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "भारताच्या प्राकृतिक रचनेत विविधता का आहे?",
+      "answer": "भूरचना व हवामानामुळे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये विस्तीर्ण मैदाने का कमी आहेत?",
+      "answer": "उच्चभूमीमुळे."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "जलप्रणाली म्हणजे काय?",
+      "answer": "नद्यांचे जाळे व खोरे."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "नदीखोरे म्हणजे काय?",
+      "answer": "नदीचा पाणलोट प्रदेश."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "त्रिभुज प्रदेश कसा तयार होतो?",
+      "answer": "गाळ संचयनामुळे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भारत व ब्राझीलचा अभ्यास का केला आहे?",
+      "answer": "तुलनात्मक भूगोलासाठी."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा कशाशी संबंधित आहे?",
+      "answer": "भौतिक भूगोलाशी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "भारताची प्राकृतिक रचना स्पष्ट करा.",
+      "answer": "भारताचे हिमालय, उत्तर भारतीय मैदान, द्वीपकल्प, किनारपट्टी व द्वीपसमूह असे पाच प्रमुख विभाग आहेत."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "हिमालयाची वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "हिमालय अर्वाचीन वली पर्वत असून अनेक समांतर रांगा व हिमनद्यांनी युक्त आहे."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "उत्तर भारतीय मैदानाची वैशिष्ट्ये लिहा.",
+      "answer": "हे मैदान सखल, सुपीक व घनवस्तीचे आहे."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "भारतीय द्वीपकल्पाची रचना स्पष्ट करा.",
+      "answer": "दक्षिणेकडे निमुळता होत जाणारा पठारी प्रदेश म्हणजे द्वीपकल्प."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "पश्चिम व पूर्व घाटांची तुलना करा.",
+      "answer": "पश्चिम घाट उंच व सलग, तर पूर्व घाट खंडित व कमी उंचीचे आहेत."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "भारताच्या पश्चिम व पूर्व किनाऱ्यांतील फरक स्पष्ट करा.",
+      "answer": "पश्चिम किनारा खडकाळ, तर पूर्व किनारा गाळयुक्त आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "भारताच्या द्वीपसमूहांची माहिती द्या.",
+      "answer": "लक्षद्वीप प्रवाळ बेटांचा, तर अंदमान-निकोबार ज्वालामुखीय बेटांचा समूह आहे."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "ब्राझीलची प्राकृतिक रचना स्पष्ट करा.",
+      "answer": "ब्राझीलमध्ये उच्चभूमी, अजस्र कडा, किनारी प्रदेश व मैदाने आहेत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "ब्राझील उच्चभूमीचे वैशिष्ट्ये लिहा.",
+      "answer": "ही ढालक्षेत्र असून उंची टप्प्याटप्प्याने कमी होते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "अजस्र कड्यांचा हवामानावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "व्यापारी वारे अडवले जाऊन पर्जन्यछाया निर्माण होते."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "अमेझॉन खोऱ्याचे वर्णन करा.",
+      "answer": "अमेझॉन खोरे विस्तीर्ण, दलदलीचे व दाट जंगलांनी व्यापलेले आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "पॅंटानल प्रदेशाची माहिती द्या.",
+      "answer": "हा जगातील मोठ्या दलदलींपैकी एक प्रदेश आहे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "भारत जलप्रणालीचे वर्गीकरण स्पष्ट करा.",
+      "answer": "नद्यांचे हिमालयीन व द्वीपकल्पीय असे वर्गीकरण केले जाते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "हिमालयीन नद्यांची वैशिष्ट्ये लिहा.",
+      "answer": "या नद्या बारमाही व पूरप्रवण असतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "सिंधू नदी प्रणाली स्पष्ट करा.",
+      "answer": "सिंधू व तिच्या उपनद्यांमुळे पंजाब मैदान तयार झाले आहे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "गंगा नदी प्रणालीचे वर्णन करा.",
+      "answer": "गंगा व तिच्या उपनद्यांनी विस्तीर्ण सुपीक मैदान निर्माण केले आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "ब्रह्मपुत्रा नदीचे वैशिष्ट्ये लिहा.",
+      "answer": "या नदीचा विसर्ग प्रचंड असून त्रिभुज प्रदेश तयार होतो."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "द्वीपकल्पीय नद्यांची वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "या नद्या हंगामी व पावसावर अवलंबून असतात."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "पश्चिमवाहिनी नद्यांचे उदाहरणांसह वर्णन करा.",
+      "answer": "नर्मदा, तापी या पश्चिमवाहिनी नद्या आहेत."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "पूर्ववाहिनी नद्यांचे उदाहरणांसह वर्णन करा.",
+      "answer": "गोदावरी, कृष्णा, कावेरी या पूर्ववाहिनी नद्या आहेत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "भारताच्या पूर्व किनाऱ्यावर त्रिभुज प्रदेश का तयार होतात?",
+      "answer": "मंद उतार व गाळ संचयनामुळे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये पश्चिमवाहिनी नद्या का नाहीत?",
+      "answer": "भूपृष्ठाचा उतार पूर्वेकडे असल्यामुळे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या प्राकृतिक रचनेतील फरक लिहा.",
+      "answer": "भारतामध्ये उंच पर्वत व मैदाने, तर ब्राझीलमध्ये उच्चभूमी अधिक आहे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "भारताच्या प्राकृतिक रचनेचा लोकजीवनावर परिणाम स्पष्ट करा.",
+      "answer": "शेती, वस्ती व उपजीविकेवर परिणाम होतो."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "ब्राझीलच्या जलप्रणालीचा आर्थिक उपयोग स्पष्ट करा.",
+      "answer": "जलवाहतूक व जलविद्युत निर्मितीस उपयोग होतो."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "नदीखोऱ्यांचे महत्त्व स्पष्ट करा.",
+      "answer": "सुपीक जमीन व पाणीपुरवठा मिळतो."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "त्रिभुज प्रदेशाचे महत्त्व स्पष्ट करा.",
+      "answer": "सुपीक जमीन व घनवस्ती आढळते."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "जलप्रणालीचा पर्यावरणावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "परिसंस्था व जैवविविधता टिकते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलचा तुलनात्मक अभ्यास का आवश्यक आहे?",
+      "answer": "भौगोलिक समज वाढवण्यासाठी."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "प्राकृतिक रचना व जलप्रणाली हा भूगोलाचा महत्त्वाचा घटक का आहे?",
+      "answer": "इतर सर्व भौगोलिक घटक यावर अवलंबून असतात."
+    }
+  ]
+}

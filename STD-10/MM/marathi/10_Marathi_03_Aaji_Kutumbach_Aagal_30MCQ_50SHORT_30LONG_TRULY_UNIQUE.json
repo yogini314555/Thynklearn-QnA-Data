@@ -1,0 +1,1199 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.03",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "आजी : कुटुंबाचं आगळ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘आजी : कुटुंबाचं आगळ’ हा पाठ कोणत्या प्रकारात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ललित लेख",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ललित लेख"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "या पाठाचे लेखक कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "महेंद्र कदम",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कुसुमाग्रज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वि.स.खांडेकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पु.ल.देशपांडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "महेंद्र कदम"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पाठात आजीची भूमिका कशी दर्शवली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निष्क्रिय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कुटुंबप्रमुख",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्षित",
+          "is_correct": false
+        }
+      ],
+      "answer": "कुटुंबप्रमुख"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "आजीच्या स्वभावाचे मुख्य वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिस्तप्रिय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिस्तप्रिय"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘आगळ’ या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दागिना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दरवाजाचा अडसर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेतीचे अवजार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दरवाजाचा अडसर"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "पाठात आजीची तुलना कशाशी केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आईशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाड्याच्या आगळशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नदीशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देवाशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाड्याच्या आगळशी"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "आजीचे कुटुंबावर नियंत्रण कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीतीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेम व शिस्तीने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सक्तीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्षाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेम व शिस्तीने"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "आजीच्या उपस्थितीमुळे घरात काय निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंधळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "असुरक्षितता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शिस्त व सुरक्षितता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिस्त व सुरक्षितता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "पाठात ग्रामीण जीवनाचे कोणते चित्रण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शहरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "काल्पनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ग्रामीण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आधुनिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "आजीचे दूधवाटपाबाबतचे धोरण काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांना आधी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वांना एकत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बाहेरून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कधीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुलांना आधी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "आजी कोणत्या जागी बसून पहारा देत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वयंपाकघर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ढाळज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओसरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेत",
+          "is_correct": false
+        }
+      ],
+      "answer": "ढाळज"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ढाळजला गावाचे वर्तमानपत्र का म्हटले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तिथे पुस्तके असत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तिथे बातम्या गोळा होत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिथे शिक्षण होत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिथे खेळ होत",
+          "is_correct": false
+        }
+      ],
+      "answer": "तिथे बातम्या गोळा होत"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आजीची झोप कशी वर्णन केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अस्वस्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सावध",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आळशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सावध"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आजी घरात कामांची वाटणी कशी करत असे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनमानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोटेशनप्रमाणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "एकालाच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणालाच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "रोटेशनप्रमाणे"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाठात कोणते मूल्य ठळकपणे दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकत्र कुटुंब",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभाजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकत्र कुटुंब"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आजीचा दरवाजावरील आगळ कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कैद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अडथळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दडपशाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षा"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "पाठातील मुलांचे बालपण कसे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्गसंपन्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "एकाकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिस्तहीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्गसंपन्न"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "पाठात कोणते खेळ उल्लेखले आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त मैदानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त बैठे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "आजीचे बोलणे कसे परिणामकारक होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठोर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संयमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अर्थपूर्ण",
+          "is_correct": true
+        }
+      ],
+      "answer": "अर्थपूर्ण"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "पाठात कुटुंबातील नातेसंबंध कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दूरावलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ताणलेले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जिव्हाळ्याचे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "औपचारिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिव्हाळ्याचे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "आजीचे व्यक्तिमत्त्व कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमकुवत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सशक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निष्क्रिय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सशक्त"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "पाठात ग्रामीण संस्कृतीचे महत्त्व कसे मांडले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदाहरणांद्वारे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "टीकेद्वारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुर्लक्ष करून",
+          "is_correct": false
+        }
+      ],
+      "answer": "उदाहरणांद्वारे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "आजी मुलांना काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिस्त व मूल्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिस्त व मूल्ये"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "आजीच्या मायेचा परिणाम कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दडपणकारक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संरक्षणात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नकारात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षणात्मक"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पाठातील वातावरण कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तणावपूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उबदार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निरस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयभीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "उबदार"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "आजीचे कुटुंबातील स्थान काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुय्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केंद्रीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अगदी किरकोळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तात्पुरते",
+          "is_correct": false
+        }
+      ],
+      "answer": "केंद्रीय"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "पाठात एकत्र कुटुंबपद्धतीचे कोणते लाभ दिसतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुरक्षितता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "गोंधळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मत्सर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षितता"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आजीची तुलना ‘कवच’शी का केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ती कठोर आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ती संरक्षण देते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ती अडथळा आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ती भीतीदायक आहे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ती संरक्षण देते"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "पाठाचा मुख्य आशय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आठवणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ग्रामीण जीवन व नाती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिस्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "खेळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "ग्रामीण जीवन व नाती"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "या पाठातून कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्वेष",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "या पाठात आजीचे वर्णन कसे केले आहे?",
+      "answer": "आजीचे वर्णन सशक्त, शिस्तप्रिय आणि मायेने भरलेले केले आहे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "‘आगळ’ या शब्दाचा पाठातील संदर्भ काय आहे?",
+      "answer": "तो घराच्या सुरक्षिततेचे प्रतीक आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "आजी कुटुंबासाठी महत्त्वाची का आहे?",
+      "answer": "ती कुटुंबाला शिस्त आणि सुरक्षितता देते."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "ढाळजचे महत्त्व काय होते?",
+      "answer": "ते सामाजिक संवादाचे केंद्र होते."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "आजीच्या शिस्तीचा परिणाम कसा होता?",
+      "answer": "घरात सुव्यवस्था राहायची."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "आजी मुलांवर कसा पहारा ठेवत असे?",
+      "answer": "प्रेमळ पण सतर्क दृष्टीने."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "पाठात ग्रामीण जीवन कसे दिसते?",
+      "answer": "साधे, निसर्गाशी जोडलेले आणि सामूहिक."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "आजीची कामांची वाटणी कशी होती?",
+      "answer": "न्याय्य आणि रोटेशनप्रमाणे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "आजीच्या मायेचा प्रभाव काय होता?",
+      "answer": "मुलांना सुरक्षिततेची भावना मिळत असे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "पाठात कोणती कौटुंबिक मूल्ये दिसतात?",
+      "answer": "एकता, शिस्त आणि आपुलकी."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "आजीची झोप ‘सावध’ का म्हटली आहे?",
+      "answer": "ती कधीही जागी होऊ शकत असे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "मुलांचे बालपण कसे होते?",
+      "answer": "खेळकर आणि निसर्गसंपन्न."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "आजीच्या बोलण्याचा परिणाम काय असे?",
+      "answer": "ती सर्वांना वठणीवर आणत असे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "आजीचे व्यक्तिमत्त्व कसे भासते?",
+      "answer": "कर्तव्यदक्ष आणि प्रेमळ."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "पाठात एकत्र कुटुंबाचे फायदे कसे दाखवले आहेत?",
+      "answer": "सुरक्षितता आणि परस्पर आधारातून."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "आजी घराचे ‘आगळ’ कशी आहे?",
+      "answer": "ती घराचे संरक्षण करते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पाठातील खेळांचे वैशिष्ट्य काय आहे?",
+      "answer": "ते निसर्गाशी जोडलेले आहेत."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "आजी मुलांना काय शिकवत असे?",
+      "answer": "शिस्त, कर्तव्य आणि मूल्ये."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "आजीचे स्थान घरात कसे आहे?",
+      "answer": "सर्वोच्च आणि आदरणीय."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "पाठातील वातावरण कसे वाटते?",
+      "answer": "उबदार आणि जिव्हाळ्याचे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "आजीची शिस्त कशी होती?",
+      "answer": "कठोर पण न्याय्य."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "पाठातील नातेसंबंध कसे आहेत?",
+      "answer": "घनिष्ठ आणि सुरक्षित."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "आजीच्या उपस्थितीचा परिणाम काय?",
+      "answer": "घरात स्थैर्य राहते."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "पाठातून कोणती संस्कृती दिसते?",
+      "answer": "ग्रामीण संस्कृती."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "आजी घरात निर्णय कसे घेत असे?",
+      "answer": "अनुभवाच्या आधारे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पाठात आजीचे वर्णन का महत्त्वाचे आहे?",
+      "answer": "ती कुटुंबाचा आधार आहे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "मुलांसाठी आजी काय आहे?",
+      "answer": "संरक्षक आणि मार्गदर्शक."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "पाठातील स्मृती कशा आहेत?",
+      "answer": "जिवंत आणि भावनिक."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आजीचे व्यक्तिमत्त्व प्रेरणादायी का आहे?",
+      "answer": "ती कुटुंब एकत्र ठेवते."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "पाठातून काय शिकायला मिळते?",
+      "answer": "कौटुंबिक नात्यांचे महत्त्व."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आजीचे घरावर नियंत्रण कसे होते?",
+      "answer": "शिस्तीने आणि प्रेमाने."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पाठातील ग्रामीण घर कसे आहे?",
+      "answer": "सुरक्षित आणि सामूहिक."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "आजीचा दरवाजावरील आगळ कशाचे प्रतीक आहे?",
+      "answer": "संरक्षणाचे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "पाठातील मुलांचे खेळ कसे होते?",
+      "answer": "सर्जनशील आणि सामूहिक."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "आजीची माया कशी व्यक्त होते?",
+      "answer": "काळजी आणि पहाऱ्यातून."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "पाठात शिस्त का आवश्यक आहे?",
+      "answer": "घरातील सुव्यवस्थेसाठी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "आजीचा आवाज घरात कसा प्रभावी आहे?",
+      "answer": "आदरामुळे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "पाठातील निसर्गाचे स्थान काय आहे?",
+      "answer": "बालपणाचा अविभाज्य भाग."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आजीची तुलना कवचाशी का केली आहे?",
+      "answer": "ती घराचे रक्षण करते."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "पाठाचा सामाजिक संदेश काय आहे?",
+      "answer": "एकत्र कुटुंबाचे महत्त्व."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "आजीचे निर्णय कसे असतात?",
+      "answer": "अनुभवाधारित."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पाठातील ग्रामीण जीवन आज दुर्मीळ का आहे?",
+      "answer": "शहरीकरणामुळे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "आजीचे अस्तित्व कुटुंबासाठी काय आहे?",
+      "answer": "सुरक्षाकवच."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "पाठातील आठवणी कशा मांडल्या आहेत?",
+      "answer": "चित्रमय पद्धतीने."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "आजीची शिस्त मुलांवर कशी परिणाम करते?",
+      "answer": "त्यांना जबाबदार बनवते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "पाठातील जीवनशैली कशी आहे?",
+      "answer": "साधी आणि निसर्गाशी जोडलेली."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "आजीचा प्रभाव पिढ्यांवर कसा आहे?",
+      "answer": "दीर्घकालीन."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "या पाठाचा वाचकांवर काय परिणाम होतो?",
+      "answer": "आपुलकीची भावना जागृत होते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "‘आजी : कुटुंबाचं आगळ’ या पाठात आजीचे व्यक्तिमत्त्व सविस्तर स्पष्ट करा.",
+      "answer": "या पाठात आजीचे व्यक्तिमत्त्व सशक्त, शिस्तप्रिय आणि मायेने भरलेले दाखवले आहे. ती कुटुंबातील सर्व निर्णय अनुभवाच्या आधारे घेते. घरातील प्रत्येक सदस्यावर तिचे लक्ष असते. तिच्या उपस्थितीमुळे घरात सुरक्षितता आणि स्थैर्य निर्माण होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "आजीला ‘कुटुंबाचं आगळ’ का म्हटले आहे ते स्पष्ट करा.",
+      "answer": "आजी घराचे संरक्षण करते. जसे आगळ दरवाजाचे रक्षण करते तसेच आजी कुटुंबाचे रक्षण करते. म्हणून तिला कुटुंबाचं आगळ म्हटले आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "पाठात चित्रित केलेली एकत्र कुटुंबपद्धती स्पष्ट करा.",
+      "answer": "या पाठात एकत्र कुटुंबातील परस्पर सहकार्य, शिस्त आणि आपुलकी दाखवली आहे. सर्व सदस्य एकमेकांवर अवलंबून आहेत. यामुळे सुरक्षिततेची भावना निर्माण होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "आजीच्या शिस्तीचा कुटुंबावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "आजीच्या शिस्तीमुळे घरात सुव्यवस्था राहते. कामांची वाटणी योग्य पद्धतीने होते. मुलांमध्ये जबाबदारीची भावना निर्माण होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "पाठातील ग्रामीण जीवनाचे वर्णन स्पष्ट करा.",
+      "answer": "ग्रामीण जीवन साधे, निसर्गाशी जोडलेले आणि सामूहिक आहे. खेळ, कामे आणि नातेसंबंध यांतून हे चित्रण दिसते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "ढाळजचे सामाजिक महत्त्व पाठाच्या आधारे लिहा.",
+      "answer": "ढाळज हे गावातील संवादाचे केंद्र आहे. तिथे बातम्या, चर्चा आणि सामाजिक व्यवहार घडतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "आजीच्या मायेचा मुलांच्या बालपणावर कसा प्रभाव पडतो?",
+      "answer": "आजीची माया मुलांना सुरक्षिततेची भावना देते. त्यामुळे त्यांचे बालपण निर्भय आणि आनंदी होते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "पाठातील खेळांचे वर्णन बालपणाच्या दृष्टीने महत्त्वाचे का आहे?",
+      "answer": "हे खेळ मुलांची सर्जनशीलता आणि शारीरिक क्षमता वाढवतात. ते निसर्गाशी नाते जोडतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "आजीच्या निर्णयक्षमतेचे उदाहरणे पाठातून स्पष्ट करा.",
+      "answer": "कामांची वाटणी, शिस्त आणि घराचे नियोजन ही तिची निर्णयक्षमता दर्शवतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "या पाठाचा सामाजिक संदेश स्पष्ट करा.",
+      "answer": "एकत्र कुटुंब, शिस्त आणि आपुलकी यांचे महत्त्व हा या पाठाचा सामाजिक संदेश आहे."
+    }
+  ]
+}

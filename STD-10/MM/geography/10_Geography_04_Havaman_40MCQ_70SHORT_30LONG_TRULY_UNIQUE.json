@@ -1,0 +1,1569 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.04",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "हवामान (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "हवामान म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दैनंदिन हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दीर्घकालीन हवामान स्थिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्जन्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तापमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "दीर्घकालीन हवामान स्थिती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "भारताचे हवामान कोणत्या प्रकारात मोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूमध्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समशीतोष्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मान्सून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "मान्सून"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचा बहुतांश भाग कोणत्या कटिबंधात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समशीतोष्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उष्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्ण"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारताच्या मध्यातून कोणता अक्षवृत्त जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विषुववृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कर्कवृत्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मकरवृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्कवृत्त"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमधून कोणता अक्षवृत्त जातो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विषुव",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "आर्क्टिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "विषुव"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "भारताला पाऊस मुख्यतः कशामुळे पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पश्चिम वारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मान्सून वारे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्रुवीय वारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर वारे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मान्सून वारे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये पर्जन्य मुख्यतः कोणत्या वाऱ्यांमुळे पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मान्सून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्यापारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्रुवीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्यापारी"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अवर्षण चतुष्कोण प्रदेश कोणत्या देशात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ब्राझील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पेरू",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्राझील"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारताच्या पश्चिम किनाऱ्यावर पाऊस जास्त का पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उतारामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिरोध पर्जन्यामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संवहनामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चक्रीवादळांमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिरोध पर्जन्यामुळे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ब्राझीलच्या ईशान्य भागात पाऊस कमी का पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पर्जन्यछाया",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अक्षांश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समुद्रदूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवीय वारे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्जन्यछाया"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अमेझॉन खोऱ्यात सरासरी तापमान किती असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "10–15°",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "15–20°",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "25–28°",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "30–35°",
+          "is_correct": false
+        }
+      ],
+      "answer": "25–28°"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक पर्जन्य कुठे पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजस्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मेघालय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गुजरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तमिळनाडू",
+          "is_correct": false
+        }
+      ],
+      "answer": "मेघालय"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक कोरडा भाग कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मेघालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पश्चिम राजस्थान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोकण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बंगाल",
+          "is_correct": false
+        }
+      ],
+      "answer": "पश्चिम राजस्थान"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "ब्राझीलच्या दक्षिण भागात कोणते हवामान आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समशीतोष्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ध्रुवीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मान्सून",
+          "is_correct": false
+        }
+      ],
+      "answer": "समशीतोष्ण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "मान्सून परतीचा काळ कोणत्या ऋतूत येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उन्हाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पावसाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हिवाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शरद",
+          "is_correct": true
+        }
+      ],
+      "answer": "शरद"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये किती ऋतू मानले जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "४",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "५",
+          "is_correct": false
+        }
+      ],
+      "answer": "४"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "उन्हाळ्यात भारतात कोणता दाब निर्माण होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चल",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "हिमालयाचा हवामानावर काय परिणाम होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाऊस वाढतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थंड वारे अडवतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान वाढवतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वादळे वाढवतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "थंड वारे अडवतो"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये चक्रीवादळे कमी का होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समुद्र दूर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ITCZ कमकुवत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्जन्य कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवीय वारे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ITCZ कमकुवत"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "चेन्नईला जास्त पाऊस कधी पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जून–जुलै",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऑगस्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑक्टोबर–नोव्हेंबर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "डिसेंबर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऑक्टोबर–नोव्हेंबर"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "मुंबईत जास्त पाऊस कधी पडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिवाळ्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मान्सून काळात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उन्हाळ्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "परतीच्या मान्सूनमध्ये",
+          "is_correct": false
+        }
+      ],
+      "answer": "मान्सून काळात"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "दिल्लीचे हवामान कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सागरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खंडीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समशीतोष्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विषुववृत्तीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "खंडीय"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कोलकात्याचे हवामान कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सागरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खंडीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उष्ण-आर्द्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्ण-आर्द्र"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "ब्राझीलच्या किनारी भागात तापमान कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अतिशय जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अतिशय कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सौम्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अस्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सौम्य"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पर्जन्यछाया म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी पावसाचा प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वादळी भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "किनारी भाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी पावसाचा प्रदेश"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये मान्सून वारे कुठून येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ईशान्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नैऋत्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पश्चिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैऋत्य"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ईशान्य मान्सून वारे पाऊस कुठे देतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पंजाब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राजस्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तमिळनाडू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गुजरात",
+          "is_correct": false
+        }
+      ],
+      "answer": "तमिळनाडू"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये हिमवर्षाव सामान्यतः का होत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्ण कटिबंध",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समुद्र जवळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उंची कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वारे",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्ण कटिबंध"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये तापमान दक्षिणेकडून कसे बदलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाढते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सारखे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाढते"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये विषुववृत्ताजवळ तापमान कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक थंड भाग कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजस्थान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लडाख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोकण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गुजरात",
+          "is_correct": false
+        }
+      ],
+      "answer": "लडाख"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमधील पॅंटानल प्रदेश कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाळवंटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दलदलीचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगराळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोरडा",
+          "is_correct": false
+        }
+      ],
+      "answer": "दलदलीचा"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये पर्जन्याचा प्रकार मुख्यतः कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवहन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिरोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मान्सून",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चक्री",
+          "is_correct": false
+        }
+      ],
+      "answer": "मान्सून"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये पर्जन्याचा प्रमुख प्रकार कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संवहन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिरोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चक्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिम",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवहन"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "मान्सून शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाऊस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाऱ्यांचा बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तापमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दाब",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाऱ्यांचा बदल"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हवामानाचा शेतीवर परिणाम कशावर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पीक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्पन्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पीकपद्धती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या घटकावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवामान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "माती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उद्योग",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामान"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "हवामान म्हणजे काय?",
+      "answer": "एखाद्या प्रदेशाची दीर्घकालीन सरासरी हवामान स्थिती."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "हवामान व हवामानातील फरक काय?",
+      "answer": "हवामान दीर्घकालीन, तर हवामान दैनंदिन असते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "भारताचे हवामान कोणत्या प्रकारचे आहे?",
+      "answer": "मान्सून प्रकारचे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचा बहुतांश भाग कोणत्या कटिबंधात आहे?",
+      "answer": "उष्ण कटिबंधात."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कर्कवृत्त भारतातून कुठून जाते?",
+      "answer": "मध्यभागातून."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "विषुववृत्त ब्राझीलमधून कुठून जाते?",
+      "answer": "उत्तरेकडून."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "मान्सून वारे कुठून येतात?",
+      "answer": "नैऋत्य दिशेने."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "मान्सून परतीचा काळ कधी असतो?",
+      "answer": "ऑक्टोबर-नोव्हेंबर."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये किती ऋतू मानले जातात?",
+      "answer": "चार."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "उन्हाळ्यात भारतात दाब कसा असतो?",
+      "answer": "कमी दाब."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "हिवाळ्यात भारतात दाब कसा असतो?",
+      "answer": "जास्त दाब."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "हिमालयाचा मान्सूनवर काय परिणाम होतो?",
+      "answer": "वारे अडवतो."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये सर्वाधिक पर्जन्य कुठे पडतो?",
+      "answer": "मेघालयात."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये सर्वात कोरडा प्रदेश कोणता?",
+      "answer": "पश्चिम राजस्थान."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये अवर्षण चतुष्कोण कुठे आहे?",
+      "answer": "ईशान्य भागात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अमेझॉन खोऱ्यात हवामान कसे असते?",
+      "answer": "उष्ण व आर्द्र."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या दक्षिण भागात हवामान कसे असते?",
+      "answer": "समशीतोष्ण."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भारताच्या पश्चिम किनाऱ्यावर पाऊस जास्त का पडतो?",
+      "answer": "प्रतिरोध पर्जन्यामुळे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "पूर्व घाटांच्या पलीकडे पाऊस कमी का पडतो?",
+      "answer": "पर्जन्यछायेने."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "पर्जन्यछाया म्हणजे काय?",
+      "answer": "कमी पावसाचा प्रदेश."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "चेन्नईला जास्त पाऊस कधी पडतो?",
+      "answer": "परतीच्या मान्सूनमध्ये."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मुंबईचे हवामान कसे आहे?",
+      "answer": "उष्ण व आर्द्र."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "दिल्लीचे हवामान कसे आहे?",
+      "answer": "खंडीय."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कोलकात्याचे हवामान कसे आहे?",
+      "answer": "उष्ण-आर्द्र."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये हिमवृष्टी कुठे होते?",
+      "answer": "हिमालयीन भागात."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये हिमवृष्टी का होत नाही?",
+      "answer": "उष्ण कटिबंधामुळे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मान्सूनचा शेतीवर काय परिणाम होतो?",
+      "answer": "पीकपद्धती ठरते."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हवामानाचा लोकजीवनावर काय परिणाम होतो?",
+      "answer": "जीवनशैली ठरते."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "तापमान कक्षा म्हणजे काय?",
+      "answer": "कमाल-किमान तापमानातील फरक."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सागरी हवामान कसे असते?",
+      "answer": "सौम्य."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "खंडीय हवामान कसे असते?",
+      "answer": "अत्यंत."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "ब्राझीलच्या किनाऱ्यावर तापमान कसे असते?",
+      "answer": "सौम्य."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये चक्रीवादळे कुठे होतात?",
+      "answer": "किनारी भागात."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये चक्रीवादळे कमी का होतात?",
+      "answer": "ITCZ कमकुवत."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मान्सून शब्द कुठून आला?",
+      "answer": "अरबी भाषेतून."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ITCZ म्हणजे काय?",
+      "answer": "व्यापारी वाऱ्यांचा संगम पट्टा."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये पर्जन्याचा मुख्य प्रकार कोणता?",
+      "answer": "मान्सून."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये पर्जन्याचा प्रकार कोणता?",
+      "answer": "संवहन."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "हवामानाचा उद्योगावर काय परिणाम होतो?",
+      "answer": "उत्पादन ठरते."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "हवामानाचा वाहतुकीवर काय परिणाम होतो?",
+      "answer": "अडथळे निर्माण होतात."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये सर्वाधिक उष्ण भाग कोणता?",
+      "answer": "राजस्थान."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये सर्वाधिक उष्ण भाग कोणता?",
+      "answer": "विषुववृत्तीय प्रदेश."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये थंडी जास्त कुठे पडते?",
+      "answer": "लडाख."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये थंडी कमी का पडते?",
+      "answer": "अक्षांश कमी."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "मान्सून अनियमित का असतो?",
+      "answer": "दाबातील बदलामुळे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "हवामानाचा पर्यावरणावर परिणाम काय?",
+      "answer": "परिसंस्था बदलते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "पर्जन्याचे मापन कशात करतात?",
+      "answer": "मिमी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "तापमान मापन कशात करतात?",
+      "answer": "सेल्सिअस."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "हवामान अभ्यासासाठी कोणते साधन वापरतात?",
+      "answer": "नकाशे व आलेख."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "हवामान नकाशात काय दाखवतात?",
+      "answer": "तापमान व पर्जन्य."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये नैसर्गिक आपत्ती कोणत्या?",
+      "answer": "पूर, दुष्काळ."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये पूर कुठे येतो?",
+      "answer": "अमेझॉन खोऱ्यात."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "हवामानाचा आरोग्यावर परिणाम काय?",
+      "answer": "रोगप्रसार."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "हवामानाचा पाण्यावर परिणाम काय?",
+      "answer": "उपलब्धता बदलते."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "हवामान अभ्यास का महत्त्वाचा आहे?",
+      "answer": "नियोजनासाठी."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या शाखेशी संबंधित आहे?",
+      "answer": "भौतिक भूगोल."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भारत व ब्राझीलचा हवामान अभ्यास का केला आहे?",
+      "answer": "तुलनासाठी."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "हवामान म्हणजे काय? स्पष्ट करा.",
+      "answer": "हवामान म्हणजे एखाद्या प्रदेशातील तापमान, पर्जन्य, वारे इत्यादींची दीर्घकालीन सरासरी स्थिती."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "भारताच्या हवामानाची वैशिष्ट्ये लिहा.",
+      "answer": "भारताचे हवामान मान्सून प्रकारचे असून ऋतुनुसार बदलते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "ब्राझीलच्या हवामानाची वैशिष्ट्ये लिहा.",
+      "answer": "ब्राझीलमध्ये उष्ण व समशीतोष्ण हवामान आढळते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "मान्सूनची निर्मिती कशी होते?",
+      "answer": "उन्हाळ्यात कमी दाबामुळे समुद्रावरून बाष्पयुक्त वारे येतात."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "हिमालयाचा भारतीय हवामानावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "हिमालय थंड वारे अडवतो व पर्जन्य वाढवतो."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "भारतामध्ये पर्जन्याचे वितरण स्पष्ट करा.",
+      "answer": "पश्चिम घाट व ईशान्य भारतात जास्त, तर राजस्थानमध्ये कमी पाऊस."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "ब्राझीलमधील अवर्षण चतुष्कोण स्पष्ट करा.",
+      "answer": "उच्चभूमीच्या पर्जन्यछायेने हा प्रदेश कोरडा राहतो."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "अमेझॉन खोऱ्याचे हवामान स्पष्ट करा.",
+      "answer": "येथे वर्षभर उष्ण व भरपूर पर्जन्य असतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या हवामानाची तुलना करा.",
+      "answer": "भारत मान्सूनप्रधान, तर ब्राझील विषुववृत्तीय प्रभावाखाली आहे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "मान्सून परतीचा काळ स्पष्ट करा.",
+      "answer": "ऑक्टोबर-नोव्हेंबरमध्ये ईशान्य वाऱ्यांमुळे पाऊस पडतो."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "चेन्नईच्या पर्जन्याचे कारण स्पष्ट करा.",
+      "answer": "परतीच्या मान्सूनमुळे चेन्नईला पाऊस पडतो."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "मुंबईच्या पर्जन्याचे कारण स्पष्ट करा.",
+      "answer": "पश्चिम घाटामुळे प्रतिरोध पर्जन्य होतो."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "हवामानाचा शेतीवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "पीकपद्धती व उत्पादन हवामानावर अवलंबून असते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "हवामानाचा लोकजीवनावर होणारा परिणाम स्पष्ट करा.",
+      "answer": "वस्ती, अन्न व वस्त्र ठरतात."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "भारतामध्ये नैसर्गिक आपत्ती का होतात?",
+      "answer": "अनियमित मान्सूनमुळे पूर व दुष्काळ होतात."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये चक्रीवादळे कमी का होतात?",
+      "answer": "ITCZ कमकुवत व समुद्रस्थितीमुळे."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "सागरी व खंडीय हवामानातील फरक स्पष्ट करा.",
+      "answer": "सागरी सौम्य, खंडीय तीव्र असते."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "हवामान नकाशाचे महत्त्व स्पष्ट करा.",
+      "answer": "वितरण समजण्यास मदत होते."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "तापमान व पर्जन्य आलेखांचे महत्त्व लिहा.",
+      "answer": "हवामानाची तुलना करता येते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "भारतामध्ये ऋतू कसे बदलतात ते स्पष्ट करा.",
+      "answer": "उन्हाळा, पावसाळा, परतीचा मान्सून व हिवाळा."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये ऋतूंची रचना स्पष्ट करा.",
+      "answer": "विषुववृत्तीय व समशीतोष्ण भागांनुसार बदल."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "हवामानाचा जलसंपत्तीवर परिणाम स्पष्ट करा.",
+      "answer": "पाणी उपलब्धता बदलते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "हवामानाचा उद्योगावर परिणाम स्पष्ट करा.",
+      "answer": "उत्पादन व वाहतूक प्रभावित होते."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "भारतामध्ये हिमवृष्टी कुठे व का होते?",
+      "answer": "हिमालयात उंचीमुळे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये हिमवृष्टी क्वचित का होते?",
+      "answer": "उष्ण कटिबंधीय स्थानामुळे."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "मान्सून अनियमिततेची कारणे लिहा.",
+      "answer": "दाब व समुद्रस्थिती बदल."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "हवामान बदलाचे परिणाम स्पष्ट करा.",
+      "answer": "तापमान वाढ, अनियमित पाऊस."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "हवामान अभ्यासाचे शैक्षणिक महत्त्व स्पष्ट करा.",
+      "answer": "भविष्य नियोजनासाठी."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलचा हवामान तुलनात्मक अभ्यास का आवश्यक आहे?",
+      "answer": "भौगोलिक समज वाढवण्यासाठी."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "हवामान हा भूगोलाचा महत्त्वाचा घटक का आहे?",
+      "answer": "इतर घटक त्यावर अवलंबून असतात."
+    }
+  ]
+}

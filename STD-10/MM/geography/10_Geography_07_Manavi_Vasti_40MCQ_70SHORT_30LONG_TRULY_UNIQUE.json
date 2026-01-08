@@ -1,0 +1,1529 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.07",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "मानवी वस्ती (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "मानवी वस्ती म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोक राहतात तो प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जंगल",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोक राहतात तो प्रदेश"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "वस्त्यांचे मुख्य प्रकार कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ग्रामीण व नागरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केंद्रित व विखुरलेली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रेषाकृती व ताराकृती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ग्रामीण वस्तीचा मुख्य व्यवसाय कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेती"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "नागरी वस्तीचा मुख्य आधार कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग व सेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वनउपज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मत्स्यव्यवसाय",
+          "is_correct": false
+        }
+      ],
+      "answer": "उद्योग व सेवा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "केंद्रित वस्ती कुठे आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "डोंगराळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मैदानी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जंगल",
+          "is_correct": false
+        }
+      ],
+      "answer": "मैदानी"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "विखुरलेली वस्ती कुठे आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुपीक मैदान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नदीखोरे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगराळ प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "किनारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगराळ प्रदेश"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "रेषाकृती वस्ती कशाजवळ आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रस्ता/रेल्वे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जंगल",
+          "is_correct": false
+        }
+      ],
+      "answer": "रस्ता/रेल्वे"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "ताराकृती वस्ती कुठे आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चौक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "चौक"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये केंद्रित वस्त्या कुठे जास्त आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर भारतीय मैदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "थर वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंदमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर भारतीय मैदान"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये दाट वस्ती कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेझॉन खोरे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उच्चभूमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "किनारी भाग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पश्चिम भाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "किनारी भाग"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "अमेझॉन खोऱ्यात वस्ती विरळ का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुपीक जमीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दाट वने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाहतूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "दाट वने"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सावो पावलो कोणत्या देशातील महानगर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ब्राझील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अर्जेंटिना",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्राझील"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "सावो पावलो येथे वस्ती दाट का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग व वाहतूक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाळवंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "उद्योग व वाहतूक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वस्त्यांच्या आकृतिबंधावर कोणते घटक परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भूरचना",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "पाण्याची उपलब्धता वस्तीवर कसा परिणाम करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्ती कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्ती वाढ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परिणाम नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थलांतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्ती वाढ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये विखुरलेल्या वस्त्या कुठे आढळतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नदीखोरे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगराळ व वनाच्छादित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किनारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मैदान",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगराळ व वनाच्छादित"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "नागरीकरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ग्रामीण वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शहरी लोकसंख्येची वाढ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योग वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शहरी लोकसंख्येची वाढ"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "२०११ मध्ये भारतातील नागरीकरण किती टक्के होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२५%",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "३१.२%",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "४०%",
+          "is_correct": false
+        }
+      ],
+      "answer": "३१.२%"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक नागरीकरण झालेले राज्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "महाराष्ट्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बिहार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राजस्थान",
+          "is_correct": false
+        }
+      ],
+      "answer": "गोवा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "दिल्लीमध्ये नागरीकरण किती टक्क्यांपेक्षा जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "६०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "७०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "८०%",
+          "is_correct": true
+        }
+      ],
+      "answer": "८०%"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये नागरीकरण किती टक्क्यांपेक्षा जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "६०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "७०%",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "८५%",
+          "is_correct": true
+        }
+      ],
+      "answer": "८५%"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये नागरीकरण कुठे जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेझॉन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आग्नेय भाग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्तर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आग्नेय भाग"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये नागरीकरण कमी कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सावो पावलो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "किनारपट्टी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अमेझॉन खोरे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक क्षेत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "अमेझॉन खोरे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भारतात नागरीकरणाचा वेग कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खूप जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "नवीन शहरे कशामुळे उदयास येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जंगल",
+          "is_correct": false
+        }
+      ],
+      "answer": "उद्योग"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वाहतुकीच्या सोयी वस्तीवर कसा परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्ती कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्ती वाढ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परिणाम नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थलांतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्ती वाढ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भूरचना अनुकूल नसल्यास वस्ती कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दाट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विरळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केंद्रित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नागरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विरळ"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "सम व सुपीक जमीन वस्तीला कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अडथळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुकूल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निरुपयोगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अप्रभावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुकूल"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "नागरी वस्त्यांचा विस्तार कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ग्रामीण-नागरी स्थलांतर कशामुळे होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रोजगार",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुविधा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "वस्त्यांचे केंद्रीकरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विखुरणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एका ठिकाणी एकत्र येणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थलांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विकास",
+          "is_correct": false
+        }
+      ],
+      "answer": "एका ठिकाणी एकत्र येणे"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये कोणत्या प्रदेशात नागरीकरण कमी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दक्षिण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तरे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हिमालयीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "औद्योगिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिमालयीन"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ब्राझील सरकारचे 'पश्चिमेकडे चला' धोरण कशासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नागरीकरण वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विकेंद्रीकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शेती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पर्यटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकेंद्रीकरण"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये प्राचीन नागरी वस्त्यांचे उदाहरण कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिल्ली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हडप्पा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाराणसी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "नागरीकरणाचा अर्थव्यवस्थेवर परिणाम काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नसतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सकारात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मर्यादित",
+          "is_correct": false
+        }
+      ],
+      "answer": "सकारात्मक"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या घटकावर आधारित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मानवी वस्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "माती",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी वस्ती"
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "मानवी वस्ती म्हणजे काय?",
+      "answer": "लोक राहतात तो प्रदेश म्हणजे मानवी वस्ती."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "वस्त्यांचे मुख्य प्रकार कोणते?",
+      "answer": "ग्रामीण व नागरी."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "ग्रामीण वस्ती म्हणजे काय?",
+      "answer": "शेतीप्रधान वस्ती."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "नागरी वस्ती म्हणजे काय?",
+      "answer": "उद्योग व सेवांवर आधारित वस्ती."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "केंद्रित वस्ती म्हणजे काय?",
+      "answer": "घरे जवळजवळ असलेली वस्ती."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "विखुरलेली वस्ती म्हणजे काय?",
+      "answer": "घरे दूरदूर असलेली वस्ती."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "रेषाकृती वस्ती म्हणजे काय?",
+      "answer": "रस्ता किंवा नदीलगतची वस्ती."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "ताराकृती वस्ती म्हणजे काय?",
+      "answer": "चौकाभोवती पसरलेली वस्ती."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये केंद्रित वस्त्या कुठे आढळतात?",
+      "answer": "उत्तर भारतीय मैदानात."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "विखुरलेल्या वस्त्या कुठे आढळतात?",
+      "answer": "डोंगराळ भागात."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "पाण्याची उपलब्धता वस्तीवर कसा परिणाम करते?",
+      "answer": "वस्ती वाढते."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "हवामानाचा वस्तीवर काय परिणाम होतो?",
+      "answer": "अनुकूल असल्यास वस्ती वाढते."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "भूरचना वस्तीवर कसा परिणाम करते?",
+      "answer": "सम भूमीवर वस्ती दाट."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "सुपीक जमीन वस्तीला का अनुकूल?",
+      "answer": "शेतीसाठी उपयुक्त."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये विखुरलेल्या वस्त्या कुठे आहेत?",
+      "answer": "हिमालयीन भागात."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये दाट वस्ती कुठे आहे?",
+      "answer": "किनारी भागात."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "अमेझॉन खोऱ्यात वस्ती विरळ का आहे?",
+      "answer": "दाट वने व रोगट हवामान."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "सावो पावलो कुठे आहे?",
+      "answer": "ब्राझीलमध्ये."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सावो पावलो येथे वस्ती दाट का आहे?",
+      "answer": "उद्योग व वाहतूक."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "नागरीकरण म्हणजे काय?",
+      "answer": "शहरी लोकसंख्येची वाढ."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये नागरीकरण किती आहे?",
+      "answer": "सुमारे ३१%."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये नागरीकरण किती आहे?",
+      "answer": "८५% पेक्षा जास्त."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये नागरीकरणाचा वेग कसा आहे?",
+      "answer": "कमी."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये नागरीकरणाचा वेग कसा आहे?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "नवीन शहरे कशामुळे तयार होतात?",
+      "answer": "उद्योगांमुळे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "वाहतुकीच्या सोयी वस्तीवर कसा परिणाम करतात?",
+      "answer": "वस्ती वाढते."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ग्रामीण-नागरी स्थलांतर म्हणजे काय?",
+      "answer": "ग्रामीण भागातून शहरांकडे जाणे."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "स्थलांतराची कारणे कोणती?",
+      "answer": "रोजगार व सुविधा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "वस्त्यांचे केंद्रीकरण म्हणजे काय?",
+      "answer": "लोकांचे एका ठिकाणी एकत्र येणे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वस्त्यांचे विकेंद्रीकरण म्हणजे काय?",
+      "answer": "लोकांचे विविध ठिकाणी पसरने."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये नागरीकरण कुठे जास्त आहे?",
+      "answer": "दक्षिण भारतात."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "गोवा राज्यात नागरीकरण किती आहे?",
+      "answer": "सुमारे ६२%."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "दिल्लीचे नागरीकरण किती आहे?",
+      "answer": "८०% पेक्षा जास्त."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "हिमालयीन प्रदेशात वस्ती कशी आहे?",
+      "answer": "विरळ."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "किनारी प्रदेशात वस्ती कशी आहे?",
+      "answer": "दाट."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वस्त्यांच्या आकृतिबंधावर पाण्याचा परिणाम काय?",
+      "answer": "नदीकाठी वस्ती वाढते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वस्त्यांच्या आकृतिबंधावर शेतीचा परिणाम काय?",
+      "answer": "सुपीक भागात केंद्रित."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये प्राचीन नागरी वस्त्यांची उदाहरणे?",
+      "answer": "हडप्पा, वाराणसी."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये नागरीकरण वाढत आहे का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये नागरीकरण वाढ का मंदावले?",
+      "answer": "शहरी मर्यादा."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "पश्चिमेकडे चला धोरण कशासाठी?",
+      "answer": "लोकसंख्या विकेंद्रीकरणासाठी."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "नागरी वस्त्यांचा विस्तार कशामुळे होतो?",
+      "answer": "लोकसंख्या वाढ."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वस्त्यांचा विकास कशावर अवलंबून असतो?",
+      "answer": "सुविधांवर."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "शिक्षणाचा वस्तीवर परिणाम काय?",
+      "answer": "नागरीकरण वाढते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "आरोग्य सुविधा वस्तीवर कसा परिणाम करतात?",
+      "answer": "वस्ती आकर्षित करतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "उद्योगांचा वस्तीवर परिणाम काय?",
+      "answer": "नागरी वस्ती वाढते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "वस्त्यांचा अभ्यास का आवश्यक आहे?",
+      "answer": "नियोजनासाठी."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "वस्ती व लोकसंख्या यांचा संबंध काय?",
+      "answer": "परस्परावलंबी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "नागरीकरणाचे फायदे कोणते?",
+      "answer": "सुविधा व रोजगार."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "नागरीकरणाचे तोटे कोणते?",
+      "answer": "गर्दी व प्रदूषण."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "ग्रामीण वस्त्यांचे महत्त्व काय?",
+      "answer": "अन्न उत्पादन."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "नागरी वस्त्यांचे महत्त्व काय?",
+      "answer": "आर्थिक विकास."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "वस्त्यांचा पर्यावरणावर परिणाम काय?",
+      "answer": "संसाधनांवर ताण."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या शाखेशी संबंधित आहे?",
+      "answer": "मानवी भूगोल."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "भारत व ब्राझीलचा तुलनात्मक अभ्यास का केला आहे?",
+      "answer": "भौगोलिक समज वाढवण्यासाठी."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "मानवी वस्ती म्हणजे काय? स्पष्ट करा.",
+      "answer": "मानवी वस्ती म्हणजे लोक राहतात, उपजीविका करतात असा प्रदेश. ती मानवी जीवनाचा आधार आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "वस्त्यांचे प्रकार स्पष्ट करा.",
+      "answer": "ग्रामीण व नागरी तसेच केंद्रित, विखुरलेली, रेषाकृती, ताराकृती असे प्रकार आहेत."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "ग्रामीण व नागरी वस्त्यांतील फरक स्पष्ट करा.",
+      "answer": "ग्रामीण वस्ती शेतीप्रधान तर नागरी वस्ती उद्योगप्रधान असते."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "केंद्रित वस्तीची वैशिष्ट्ये लिहा.",
+      "answer": "घरे जवळजवळ असतात व सुविधा एकत्र असतात."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "विखुरलेल्या वस्त्यांची वैशिष्ट्ये लिहा.",
+      "answer": "घरे दूरदूर असतात व लोकसंख्या कमी असते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "रेषाकृती वस्ती कशी तयार होते?",
+      "answer": "रस्ता, रेल्वे किंवा नदीलगत वस्ती वाढते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "वस्त्यांच्या आकृतिबंधावर परिणाम करणारे घटक स्पष्ट करा.",
+      "answer": "हवामान, पाणी, भूरचना, शेती व वाहतूक."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "भारतामधील वस्त्यांचे वितरण स्पष्ट करा.",
+      "answer": "मैदानी भागात दाट तर डोंगराळ भागात विरळ."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "ब्राझीलमधील वस्त्यांचे वितरण स्पष्ट करा.",
+      "answer": "किनारी व औद्योगिक भागात दाट व अमेझॉनमध्ये विरळ."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "अमेझॉन खोऱ्यात वस्ती विरळ का आहे?",
+      "answer": "दाट वने, रोगट हवामान व दुर्गमता."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "सावो पावलो येथे वस्ती दाट का आहे?",
+      "answer": "उद्योग, वाहतूक व सुविधा."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "नागरीकरण म्हणजे काय?",
+      "answer": "शहरी लोकसंख्येची वाढ म्हणजे नागरीकरण."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "भारतामध्ये नागरीकरणाची स्थिती स्पष्ट करा.",
+      "answer": "नागरीकरणाचा वेग कमी पण वाढ होत आहे."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये नागरीकरणाची स्थिती स्पष्ट करा.",
+      "answer": "नागरीकरण जास्त असून काही भागांत केंद्रीकरण आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या नागरीकरणाची तुलना करा.",
+      "answer": "ब्राझीलमध्ये नागरीकरण जास्त, भारतात कमी आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "नागरीकरणावर परिणाम करणारे घटक स्पष्ट करा.",
+      "answer": "उद्योग, रोजगार, शिक्षण, वाहतूक."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "ग्रामीण-नागरी स्थलांतराची कारणे लिहा.",
+      "answer": "रोजगार, शिक्षण व सुविधा."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "नागरीकरणाचे फायदे स्पष्ट करा.",
+      "answer": "रोजगार, सुविधा व विकास."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "नागरीकरणाचे तोटे स्पष्ट करा.",
+      "answer": "गर्दी, प्रदूषण, झोपडपट्ट्या."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "भारतामध्ये नागरीकरण वाढत का आहे?",
+      "answer": "औद्योगिकीकरण व सेवा क्षेत्रामुळे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "ब्राझील सरकारचे 'पश्चिमेकडे चला' धोरण स्पष्ट करा.",
+      "answer": "लोकसंख्या विकेंद्रीकरणासाठी."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "वस्त्यांचे केंद्रीकरण व विकेंद्रीकरण स्पष्ट करा.",
+      "answer": "एका ठिकाणी एकत्र येणे व पसरने."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "वस्त्यांचा पर्यावरणावर परिणाम स्पष्ट करा.",
+      "answer": "संसाधनांवर ताण व प्रदूषण."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "वस्त्यांचा अर्थव्यवस्थेवर परिणाम स्पष्ट करा.",
+      "answer": "उत्पादन व सेवा वाढतात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "प्राचीन नागरी वस्त्यांचे महत्त्व स्पष्ट करा.",
+      "answer": "इतिहास व संस्कृती समजते."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "वस्त्यांचा अभ्यास का आवश्यक आहे?",
+      "answer": "योजना व विकासासाठी."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "भारतामध्ये नागरीकरण असमान का आहे?",
+      "answer": "प्रदेशीय असमतोलामुळे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये नागरीकरण काही भागांतच का केंद्रित आहे?",
+      "answer": "उद्योग व सुविधा मर्यादित भागात."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "मानवी वस्ती व लोकसंख्या यांचा संबंध स्पष्ट करा.",
+      "answer": "लोकसंख्या वस्तीचा आकार ठरवते."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "मानवी वस्ती हा भूगोलाचा महत्त्वाचा घटक का आहे?",
+      "answer": "मानवी जीवन व विकास समजण्यासाठी."
+    }
+  ]
+}

@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.01",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "जय जय हे भारत देशा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘जय जय हे भारत देशा’ या कवितेचा मुख्य उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशभक्ती जागवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "टीका करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इतिहास सांगणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशभक्ती जागवणे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताची ताकद कशात असल्याचे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकांमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शस्त्रांमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्तेत",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकांमध्ये"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवी भारत देशाला कशामुळे महान मानतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भूभागामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकांच्या त्यागामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राज्यकर्त्यांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्तीमुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकांच्या त्यागामुळे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत कष्टाचे प्रतीक कोण आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सैनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कामगार",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापारी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कामगार"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "कवितेतील भावविश्व कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उत्साही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्साही"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवी भारताच्या भविष्यासाठी काय अपेक्षा करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थैर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रगती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अधोगती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्थिरता",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रगती"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेचा सूर कशामुळे प्रभावी होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषेमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लयेमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विचारांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणते मूल्य ठळकपणे दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कर्तव्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्य"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताला कोणत्या रूपात दाखवले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्बल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वाभिमानी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पराधीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीग्रस्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वाभिमानी"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कवी कोणत्या वर्गाला विशेष महत्त्व देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "श्रीमंत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सामान्य जनता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नेते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विद्यार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामान्य जनता"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अलंकारिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सरळ-सोपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "परदेशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ-सोपे"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "कवितेतील संदेश कोणासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त युवकांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त शेतकऱ्यांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्व नागरिकांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त सैनिकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व नागरिकांसाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताच्या कोणत्या गुणांचा गौरव आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्बलता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अराजकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेत कवी कोणाला नमन करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राज्यकर्ते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कष्टकरी लोक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विदेशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "श्रीमंत",
+          "is_correct": false
+        }
+      ],
+      "answer": "कष्टकरी लोक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेचा शेवट कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीदायक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळलेला",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशादायी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेतून कोणती भावना जागृत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिमान"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताची ओळख कशाशी जोडली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संघर्षाशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पराधीनतेशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थाशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळसाशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "संघर्षाशी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवितेतील विचारधारा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नकारात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सकारात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "सकारात्मक"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेत कशासाठी आवाहन केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संघर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कर्तव्यपालन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पलायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विरोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्यपालन"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवितेचा आशय कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काल्पनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वास्तववादी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "वास्तववादी"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवितेतील भारत कसा दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतंत्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कमकुवत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भयभीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळलेला",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतंत्र"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणता घटक केंद्रस्थानी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जनता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूभाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "जनता"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवितेचा भावनिक प्रभाव कशामुळे होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दांमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संदेशामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अनुभवामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कवितेतील विचार कोणत्या मूल्यांवर आधारले आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "त्याग",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्याग"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताच्या प्रगतीचा आधार काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तंत्रज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परकीय मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "कवितेतून कोणती शिकवण मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कर्तव्यभावना",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्तव्यभावना"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य विषय काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निसर्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रेम",
+          "is_correct": false
+        }
+      ],
+      "answer": "देश"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवितेत भारताचे चित्रण कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गौरवपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "निराशाजनक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "गौरवपूर्ण"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "कवितेचा उद्देश वाचकांमध्ये काय निर्माण करणे हा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मविश्वास"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "कवितेत कवी भारताकडून काय अपेक्षा करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकजूट",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "विभाजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निष्क्रियता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकजूट"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "कवितेचे शीर्षक देशप्रेम कसे व्यक्त करते?",
+      "answer": "शीर्षकातून भारत देशावरील अभिमान आणि प्रेम स्पष्ट होते."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची खरी ताकद कशात सांगितली आहे?",
+      "answer": "भारताची खरी ताकद त्याच्या लोकांमध्ये आहे असे सांगितले आहे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "कवी कष्टाला महत्त्व का देतो?",
+      "answer": "कष्टामुळेच देशाची उन्नती होते असे कवी मानतो."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या भावनेचा प्रभाव अधिक आहे?",
+      "answer": "देशभक्तीची भावना प्रभावी आहे."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा वाचकांना कशी वाटते?",
+      "answer": "भाषा सोपी व प्रेरणादायी वाटते."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताचे भविष्य कसे दाखवले आहे?",
+      "answer": "भारताचे भविष्य उज्ज्वल असल्याचे दाखवले आहे."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "कवितेत सामान्य माणसाचे महत्त्व काय आहे?",
+      "answer": "सामान्य माणूस देशाचा आधारस्तंभ आहे असे सांगितले आहे."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "कवितेत कवी कोणत्या मूल्यांचा पुरस्कार करतो?",
+      "answer": "त्याग, एकता आणि कर्तव्यभावना यांचा."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कवितेचा वाचकांवर काय परिणाम होतो?",
+      "answer": "वाचकांच्या मनात देशप्रेम जागृत होते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताचे चित्रण कसे केले आहे?",
+      "answer": "भारताचे गौरवपूर्ण चित्रण केले आहे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "कवितेत परिश्रमाचे महत्त्व कसे मांडले आहे?",
+      "answer": "परिश्रमामुळेच प्रगती साध्य होते असे मांडले आहे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश कोणासाठी आहे?",
+      "answer": "हा संदेश सर्व भारतीयांसाठी आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "कवितेत एकतेचे महत्त्व कसे दाखवले आहे?",
+      "answer": "एकतेमुळे देश मजबूत होतो असे दाखवले आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कवितेचा आशय वास्तवाशी कसा जोडलेला आहे?",
+      "answer": "देशाच्या परिस्थितीशी तो संबंधित आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कवितेत कवी कोणाचा गौरव करतो?",
+      "answer": "कष्टकरी जनतेचा गौरव करतो."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवितेतील विचार कसे आहेत?",
+      "answer": "विचार सकारात्मक आणि प्रेरणादायी आहेत."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कवितेचा भावनिक सूर कसा आहे?",
+      "answer": "भावनिक सूर उत्साहवर्धक आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवितेत देशासाठी काय करण्याचे आवाहन आहे?",
+      "answer": "देशासाठी प्रामाणिक कर्तव्य बजावण्याचे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताला कोणते स्थान दिले आहे?",
+      "answer": "भारताला महान राष्ट्र म्हणून स्थान दिले आहे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कवितेचा शेवट कसा प्रभाव टाकतो?",
+      "answer": "शेवट आशा निर्माण करतो."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेत लोकशक्ती का महत्त्वाची आहे?",
+      "answer": "लोकशक्तीमुळे देश घडतो."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश आजही लागू का आहे?",
+      "answer": "देशप्रेम आणि कर्तव्य आजही आवश्यक आहेत."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताचा स्वभाव कसा दाखवला आहे?",
+      "answer": "स्वाभिमानी आणि मेहनती असा."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेचा प्रेरणादायी भाग कोणता आहे?",
+      "answer": "परिश्रम आणि एकतेवर भर देणारा भाग."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणती शिकवण मिळते?",
+      "answer": "देशासाठी जबाबदारीने वागण्याची."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेत देशप्रेम कसे प्रकट होते?",
+      "answer": "गौरवपूर्ण शब्दांमधून प्रकट होते."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेतील विचार कोणत्या दिशेने नेतात?",
+      "answer": "देशहिताच्या दिशेने."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताचे सामर्थ्य कसे दर्शवले आहे?",
+      "answer": "जनतेच्या कष्टांमधून."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेचा सामाजिक संदेश काय आहे?",
+      "answer": "सर्वांनी एकत्र येऊन देशासाठी काम करावे."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेत कवी आशावादी का आहे?",
+      "answer": "कारण त्याला लोकांवर विश्वास आहे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावनांचा परिणाम काय होतो?",
+      "answer": "उत्साह आणि अभिमान निर्माण होतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेत राष्ट्रभावना कशी व्यक्त झाली आहे?",
+      "answer": "देशाच्या गौरवातून."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेत कष्टकरी वर्गाचे स्थान काय आहे?",
+      "answer": "ते देशाचे खरे नायक आहेत."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा प्रभावी का आहे?",
+      "answer": "ती सरळ आणि अर्थपूर्ण आहे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताचा आत्मा कशात दिसतो?",
+      "answer": "लोकांच्या परिश्रमात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवितेचा आशय विद्यार्थ्यांसाठी उपयुक्त का आहे?",
+      "answer": "तो जबाबदारीची जाणीव करून देतो."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवितेत भविष्याबद्दल कोणती भावना आहे?",
+      "answer": "आशावादाची भावना आहे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेतील विचार समाजाला काय सांगतात?",
+      "answer": "एकतेचे महत्त्व सांगतात."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणता आदर्श समोर येतो?",
+      "answer": "कर्तव्यनिष्ठ नागरिकाचा."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य संदेश एका वाक्यात सांगा.",
+      "answer": "देशप्रेम आणि कर्तव्य हीच खरी ताकद आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताची ओळख कशी ठरते?",
+      "answer": "जनतेच्या त्यागामुळे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवितेत कवी विश्वास कशावर ठेवतो?",
+      "answer": "लोकांच्या मेहनतीवर."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कवितेत देशासाठी कोणती भावना महत्त्वाची आहे?",
+      "answer": "एकात्मतेची भावना."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेतील विचार प्रेरणादायी का आहेत?",
+      "answer": "ते सकारात्मक बदलासाठी प्रवृत्त करतात."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवितेत भारताचे मूल्य कशात आहे?",
+      "answer": "मानवी मूल्यांमध्ये."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवितेतून काय शिकायला मिळते?",
+      "answer": "देशासाठी काम करण्याची प्रेरणा."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कवितेचा सामाजिक संदर्भ काय आहे?",
+      "answer": "राष्ट्रनिर्माणाचा."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेत कवी कोणत्या आशेने बोलतो?",
+      "answer": "भारत उज्ज्वल होईल या आशेने."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश कायमस्वरूपी का आहे?",
+      "answer": "तो मूल्यांवर आधारित आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘जय जय हे भारत देशा’ या कवितेत कवीने भारत देशाचे कोणते चित्र उभे केले आहे ते स्पष्ट करा.",
+      "answer": "या कवितेत भारत देशाचे चित्र एक स्वाभिमानी, कष्टकरी आणि एकसंध राष्ट्र म्हणून उभे केले आहे. कवीने सामान्य माणसाच्या परिश्रमांना देशाची खरी ताकद मानले आहे. त्याग, एकता आणि कर्तव्य या मूल्यांमुळेच भारत महान बनतो असा विचार मांडला आहे. ही कविता वाचकांमध्ये देशाबद्दल अभिमान निर्माण करते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "कवितेत कष्टकरी जनतेचे महत्त्व कसे अधोरेखित केले आहे ते लिहा.",
+      "answer": "कवीने कवितेत शेतकरी, कामगार आणि सामान्य नागरिक यांच्या कष्टांचा गौरव केला आहे. त्यांच्या मेहनतीवरच देशाची उभारणी होते असे तो सांगतो. कष्टकरी जनता हीच राष्ट्राची खरी संपत्ती आहे असा संदेश कवितेतून मिळतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "या कवितेतील राष्ट्रभावना आजच्या काळात किती उपयुक्त आहे ते स्पष्ट करा.",
+      "answer": "आजच्या काळात स्वार्थ आणि विभाजन वाढत असताना ही कविता एकतेचा संदेश देते. देशासाठी जबाबदारीने काम करण्याची गरज अधोरेखित करते. म्हणूनच ही राष्ट्रभावना आजही तितकीच उपयुक्त आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "कवितेतील एकतेच्या संकल्पनेचे महत्त्व स्पष्ट करा.",
+      "answer": "कवीने देशाच्या प्रगतीसाठी एकतेला अत्यंत महत्त्व दिले आहे. सर्व नागरिकांनी एकत्र येऊन काम केल्यासच देश मजबूत होतो असा विचार मांडला आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "कवितेतून मिळणाऱ्या सामाजिक संदेशावर सविस्तर लिहा.",
+      "answer": "ही कविता समाजाला परिश्रम, एकता आणि कर्तव्य यांचे महत्त्व सांगते. सामाजिक जबाबदारीची जाणीव करून देणारा हा संदेश आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "कवितेतील भाषा आणि भाव यांचा परिणाम स्पष्ट करा.",
+      "answer": "सरळ आणि प्रभावी भाषेमुळे कविता मनाला भिडते. भावनात्मक आशयामुळे वाचकांमध्ये देशप्रेम जागृत होते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "कवितेत भारताच्या भविष्याबद्दल व्यक्त केलेला आशावाद स्पष्ट करा.",
+      "answer": "कवीला लोकांच्या कष्टांवर विश्वास आहे. त्यामुळे भारताचे भविष्य उज्ज्वल होईल असा आशावाद दिसतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "या कवितेतील प्रेरणादायी घटक कोणते आहेत ते लिहा.",
+      "answer": "परिश्रम, एकता आणि कर्तव्यभावना हे प्रमुख प्रेरणादायी घटक आहेत. ते वाचकांना सकारात्मक कृतीस प्रवृत्त करतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "कवितेतून मिळणाऱ्या नागरिक कर्तव्यांवर प्रकाश टाका.",
+      "answer": "देशासाठी प्रामाणिकपणे काम करणे हे प्रत्येक नागरिकाचे कर्तव्य आहे. हा विचार कवितेत ठळकपणे मांडला आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘जय जय हे भारत देशा’ या कवितेचा आजच्या युवकांवर होणारा परिणाम स्पष्ट करा.",
+      "answer": "ही कविता युवकांमध्ये देशप्रेम आणि जबाबदारीची भावना निर्माण करते. राष्ट्रनिर्माणात सहभाग घेण्याची प्रेरणा देते."
+    }
+  ]
+}

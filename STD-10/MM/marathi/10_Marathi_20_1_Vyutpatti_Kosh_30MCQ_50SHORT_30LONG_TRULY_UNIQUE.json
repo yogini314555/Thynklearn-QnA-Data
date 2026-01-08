@@ -1,0 +1,1199 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.20.1",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "व्युत्पत्ती कोश (स्थूलवाचन)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘व्युत्पत्ती’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दाचा सध्याचा अर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दाचा मूळ अर्थ व उगम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शब्दाचा उच्चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शब्दाचा उपयोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दाचा मूळ अर्थ व उगम"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती सांगणाऱ्या ग्रंथाला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्दकोश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्याकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "व्युत्पत्ती कोश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विश्वकोश",
+          "is_correct": false
+        }
+      ],
+      "answer": "व्युत्पत्ती कोश"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘इनाम’ हा शब्द कोणत्या भाषेतून आला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फारसी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अरबी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्राकृत",
+          "is_correct": false
+        }
+      ],
+      "answer": "अरबी"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "‘दार’ हा प्रत्यय कोणत्या भाषेतील आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मराठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फारसी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हिंदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "फारसी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘इनामदार’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इनाम देणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इनाम घेणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इनाम नसलेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "इनाम नाकारणारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "इनाम घेणारा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती कोशाचा मुख्य उपयोग कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शब्द लिहिणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दाचे मूळ शोधणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वाक्य बनवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उच्चार सुधारणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दाचे मूळ शोधणे"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘अग्नि’ पासून मराठीत कोणता शब्द तयार झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अग्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अग्गि",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आग"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "संस्कृत ‘अग्नि’ पासून ‘आग’ होण्याच्या प्रक्रियेला काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीणीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुलभीकरण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विभाजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुलभीकरण"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भाषेत शब्दांमध्ये बदल का होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपरिहार्य बदलामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चुकीमुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नियम नसल्यामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "अपरिहार्य बदलामुळे"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "दोन भाषा संपर्कात आल्यावर काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषा नष्ट होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शब्दांची देवाणघेवाण होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भांडण होते",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकच भाषा उरते",
+          "is_correct": false
+        }
+      ],
+      "answer": "शब्दांची देवाणघेवाण होते"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘दीपावली’ पासून कोणता मराठी शब्द तयार झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिवाळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दिवाळी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दिवस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिवाळी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘दिवाळी’ हा शब्द कोणत्या लिंगाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुल्लिंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नपुंसकलिंगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्त्रीलिंगी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उभयलिंगी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रीलिंगी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘पाठ’ या शब्दाचा किती अर्थांमध्ये वापर होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दोन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चार",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "‘पाठ दुखते’ या वाक्यात ‘पाठ’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धडा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शरीराचा अवयव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पुस्तक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शरीराचा अवयव"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘पाठ सोपा आहे’ या वाक्यात ‘पाठ’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अवयव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धडा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मागे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ओळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "धडा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती कोशात शब्दासोबत काय दिलेले असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फोटो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "व्याकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लघुरूपे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उदाहरणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लघुरूपे"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "‘सं.’ हे लघुरूप कशासाठी वापरले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संघ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संशोधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संयोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "संस्कृत"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "‘हिं.’ हे लघुरूप कोणत्या भाषेसाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिंदी",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "हिंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिंसा",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिंदी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "‘गु.’ हे लघुरूप कोणत्या भाषेचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गोंडी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुजराती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गुप्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्राम",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुजराती"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती कोश शब्दातील बदल कशामुळे दाखवतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनमानी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इतिहास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कविता",
+          "is_correct": false
+        }
+      ],
+      "answer": "इतिहास"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘शहाणा’ या शब्दाचा जुना अर्थ कोणता होता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मूर्ख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हुशार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "हुशार"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आधुनिक काळात ‘शहाणा’ या शब्दाचा नवा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हुशार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अतिशहाणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मूर्ख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शांत",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतिशहाणा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "‘वात, पवन, समीर’ हे शब्द कशाचे उदाहरण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनेक शब्द – एक अर्थ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "एक शब्द – अनेक अर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विरुद्धार्थी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समानार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनेक शब्द – एक अर्थ"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "‘ऑफिस’ हा शब्द मराठीत कसा आला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृतमधून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इंग्रजीतून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फारसीतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अरबीमधून",
+          "is_correct": false
+        }
+      ],
+      "answer": "इंग्रजीतून"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "‘नापास’ हा शब्द कसा तयार झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संस्कृत + हिंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फारसी + इंग्रजी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मराठी + संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हिंदी + अरबी",
+          "is_correct": false
+        }
+      ],
+      "answer": "फारसी + इंग्रजी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती कोश निर्मितीचा ठराव कधी झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९३८",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "१९४६",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१९२०",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९३८"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती कोशाचे पहिले प्रकाशन कधी झाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९३८",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१९४०",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९४६",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१९५२",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९४६"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "व्युत्पत्ती कोश निर्मितीची जबाबदारी कोणावर होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सावरकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृ. पां. कुलकर्णी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जयकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तुळजापूरकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृ. पां. कुलकर्णी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "हा पाठ कोणत्या विभागात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कविता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नाटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्थूलवाचन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "व्याकरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्थूलवाचन"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य उद्देश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा सांगणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भाषासमृद्धी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "भाषासमृद्धी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती म्हणजे काय?",
+      "answer": "शब्दाच्या मूळ अर्थाचे व उगमाचे ज्ञान."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश म्हणजे काय?",
+      "answer": "शब्दांच्या व्युत्पत्तींचा संग्रह असलेला ग्रंथ."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "‘इनाम’ या शब्दाचा अर्थ काय?",
+      "answer": "बक्षीस."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "‘इनामदार’ म्हणजे कोण?",
+      "answer": "ज्याच्याकडे इनाम आहे तो."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "‘दार’ हा प्रत्यय काय दर्शवतो?",
+      "answer": "स्वामित्व."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश भाषेसाठी का महत्त्वाचा आहे?",
+      "answer": "भाषेचा विकास समजण्यासाठी."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "भाषेत शब्द बदल का होतात?",
+      "answer": "काळानुसार."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "‘अग्नि’ पासून ‘आग’ कसा तयार झाला?",
+      "answer": "सुलभीकरणामुळे."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "दोन भाषांच्या संपर्काने काय होते?",
+      "answer": "शब्दांची देवाणघेवाण होते."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "‘दिवाळी’ हा शब्द कुठून आला?",
+      "answer": "संस्कृत ‘दीपावली’ पासून."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘दिवाळी’ या शब्दाचे लिंग कोणते?",
+      "answer": "स्त्रीलिंगी."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "‘पाठ’ या शब्दाचा एक अर्थ कोणता?",
+      "answer": "शरीराचा अवयव."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "‘पाठ’ या शब्दाचा दुसरा अर्थ कोणता?",
+      "answer": "पुस्तकातील धडा."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "एक शब्द अनेक अर्थ असण्याला काय म्हणतात?",
+      "answer": "बहुअर्थीपणा."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "अनेक शब्द एक अर्थ असण्याला काय म्हणतात?",
+      "answer": "समानार्थकता."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोशात लघुरूपे का दिली जातात?",
+      "answer": "भाषा ओळखण्यासाठी."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "‘सं.’ हे लघुरूप कशासाठी आहे?",
+      "answer": "संस्कृत."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "‘प्रा.’ हे लघुरूप कशासाठी आहे?",
+      "answer": "प्राकृत."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "‘गु.’ हे लघुरूप कशासाठी आहे?",
+      "answer": "गुजराती."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "भाषेतील बदल अपरिहार्य का असतात?",
+      "answer": "समाज बदलतो म्हणून."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "‘शहाणा’ या शब्दाचा मूळ अर्थ काय होता?",
+      "answer": "हुशार."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "आज ‘शहाणा’ या शब्दाचा वापर कसा होतो?",
+      "answer": "उपरोधिक."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "‘वात, पवन’ हे शब्द कशाचे उदाहरण?",
+      "answer": "समानार्थी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "इंग्रजीतून मराठीत आलेला एक शब्द लिहा.",
+      "answer": "ऑफिस."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "प्रत्यय म्हणजे काय?",
+      "answer": "शब्दाच्या शेवटी लागणारा भाग."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उपसर्ग म्हणजे काय?",
+      "answer": "शब्दाच्या सुरुवातीला लागणारा भाग."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "‘नापास’ हा शब्द कसा तयार झाला?",
+      "answer": "दोन भाषांच्या मिश्रणातून."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश निर्मितीचा ठराव कधी झाला?",
+      "answer": "१९३८ साली."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "या ठरावाचे अध्यक्ष कोण होते?",
+      "answer": "स्वातंत्र्यवीर सावरकर."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोशाचे पहिले प्रकाशन कधी झाले?",
+      "answer": "१९४६ साली."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश निर्मितीची जबाबदारी कोणावर होती?",
+      "answer": "कृ. पां. कुलकर्णी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश निर्मितीस आर्थिक मदत कोणी केली?",
+      "answer": "बॅ. मुकुंदराव जयकर."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश कोणत्या भाषेचा आहे?",
+      "answer": "मराठी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "या पाठाचा मुख्य उद्देश काय आहे?",
+      "answer": "शब्दांची व्युत्पत्ती समजावणे."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या वर्गासाठी आहे?",
+      "answer": "इयत्ता दहावी."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश कोणते बदल स्पष्ट करतो?",
+      "answer": "उच्चार व अर्थातील बदल."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "भाषा कशी समृद्ध होते?",
+      "answer": "शब्दसंपत्ती वाढल्याने."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "इतर भाषांमधून शब्द येण्याला काय म्हणतात?",
+      "answer": "देवाणघेवाण."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "‘ताकास तूर लागू न देणे’ म्हणजे काय?",
+      "answer": "थांग लागू न देणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "‘ताका’ म्हणजे काय?",
+      "answer": "विणलेले कापड."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "‘तूर’ म्हणजे काय?",
+      "answer": "कापड गुंडाळायचे लाकूड."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "वाक्प्रचारांचा अभ्यास कशातून होतो?",
+      "answer": "व्युत्पत्ती कोशातून."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भाषेत शब्द कशामुळे येतात?",
+      "answer": "व्यवहारामुळे."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "हा पाठ कोणत्या प्रकारचा आहे?",
+      "answer": "माहितीपर."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती अभ्यासाचा फायदा काय?",
+      "answer": "भाषाजाणीव वाढते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "शब्दांचा मूळ अर्थ जाणून घेणे का आनंददायी आहे?",
+      "answer": "भाषासमृद्धीमुळे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "व्युत्पत्ती कोश विद्यार्थ्यांना काय शिकवतो?",
+      "answer": "शब्दांची मूळ ओळख."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "या पाठातून काय शिकायला मिळते?",
+      "answer": "भाषेचा इतिहास."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "व्युत्पत्ती कोश म्हणजे काय? त्याचे महत्त्व स्पष्ट करा.",
+      "answer": "व्युत्पत्ती कोश म्हणजे शब्दांच्या मूळ अर्थांचा, उगमाचा आणि बदलांचा संग्रह असलेला ग्रंथ. तो भाषेचा इतिहास, विकास आणि अर्थबदल समजून घेण्यासाठी अत्यंत महत्त्वाचा आहे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘इनाम’ व ‘इनामदार’ या शब्दांची व्युत्पत्ती स्पष्ट करा.",
+      "answer": "‘इनाम’ हा शब्द अरबी भाषेतून आलेला आहे. ‘दार’ हा फारसी प्रत्यय असून ‘इनामदार’ म्हणजे ज्याच्याकडे इनाम आहे तो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "भाषेत शब्दांमध्ये बदल का होतात?",
+      "answer": "काळ, समाज, उच्चारातील सोपेपणा आणि भाषिक संपर्क यांमुळे शब्दांमध्ये बदल होतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "‘अग्नि’ ते ‘आग’ हा शब्दप्रवास स्पष्ट करा.",
+      "answer": "संस्कृत ‘अग्नि’ पासून प्राकृत ‘अग्गि’ आणि नंतर मराठीत ‘आग’ हा शब्द सुलभीकरणामुळे तयार झाला."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "व्युत्पत्ती कोश शब्दांचे कोणते बदल दाखवतो?",
+      "answer": "तो उच्चारातील, अर्थातील आणि रूपातील बदल स्पष्ट करतो."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "एक शब्द अनेक अर्थ व अनेक शब्द एक अर्थ यातील फरक स्पष्ट करा.",
+      "answer": "‘पाठ’ हा एक शब्द अनेक अर्थ दाखवतो, तर ‘वात, पवन’ हे अनेक शब्द एकच अर्थ दर्शवतात."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "व्युत्पत्ती कोश कसा पाहावा?",
+      "answer": "शब्द, त्याचे लघुरूप, मूळ भाषा आणि अर्थातील बदल पाहून व्युत्पत्ती समजून घ्यावी."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "व्युत्पत्ती कोश निर्मितीचा इतिहास लिहा.",
+      "answer": "१९३८ साली ठराव झाला, कृ. पां. कुलकर्णी यांच्यावर जबाबदारी आली आणि १९४६ साली पहिले प्रकाशन झाले."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "भाषा समृद्ध कशी होते हे पाठाच्या आधारे स्पष्ट करा.",
+      "answer": "इतर भाषांतील शब्द, उच्चारातील बदल, उपसर्ग–प्रत्यय यांमुळे भाषा समृद्ध होते."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "आजच्या काळात व्युत्पत्ती कोशाचे महत्त्व स्पष्ट करा.",
+      "answer": "आज भाषेतील बदल समजून घेण्यासाठी आणि शब्दांचा योग्य वापर करण्यासाठी व्युत्पत्ती कोश अत्यंत उपयुक्त आहे."
+    }
+  ]
+}

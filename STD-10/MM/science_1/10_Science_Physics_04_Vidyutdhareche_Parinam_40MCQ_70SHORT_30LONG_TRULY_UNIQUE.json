@@ -1,0 +1,1603 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Physics.04",
+    "standard": "10",
+    "subject": "Science – Physics",
+    "medium": "Marathi",
+    "chapter_name": "विद्युतधारेचे परिणाम"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "विद्युतधारा म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऊर्जा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रभाराचा प्रवाह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वोल्टेज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रभाराचा प्रवाह"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "विद्युतधारेचे औष्णिक परिणाम कोणत्या नियमाने व्यक्त होतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओह्म",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्यूल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फॅरेडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "केप्लर",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्यूल"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "ज्यूलचा उष्णताविषयक नियम कोणते सूत्र देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "H=VIt",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "H=I²Rt",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "H=V²/R",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "विद्युतशक्तीचे सूत्र कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "P=VI",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "P=I²R",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "P=V²/R",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "सर्व"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "विद्युतशक्तीचे SI एकक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जूल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वॅट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अँपिअर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "व्होल्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "वॅट"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "1 kWh म्हणजे किती जूल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "3.6×10⁵",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3.6×10⁶",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "3.6×10⁷",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "3600",
+          "is_correct": false
+        }
+      ],
+      "answer": "3.6×10⁶"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "विद्युतधारेचा औष्णिक परिणाम कोणत्या उपकरणात वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जनित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "इस्त्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गॅल्व्हॅनोमीटर",
+          "is_correct": false
+        }
+      ],
+      "answer": "इस्त्री"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "इस्त्रीमध्ये कोणती मिश्रधातू वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अॅल्युमिनियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नायक्रोम",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोखंड",
+          "is_correct": false
+        }
+      ],
+      "answer": "नायक्रोम"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "बल्बमध्ये कोणती तार वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नायक्रोम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "टंगस्टन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अॅल्युमिनियम",
+          "is_correct": false
+        }
+      ],
+      "answer": "टंगस्टन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "लघुपरिपथ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धारा कमी होणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धारा जास्त होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रोध वाढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वोल्टेज कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "धारा जास्त होणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "लघुपरिपथात उष्णता का वाढते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "V वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "I वाढते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "R वाढतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ वाढते",
+          "is_correct": false
+        }
+      ],
+      "answer": "I वाढते"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "फ्यूज का वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शक्ती वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धारा कमी करण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपकरण सुरू करण्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षेसाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "फ्यूज कोणत्या धातूचा बनवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्च वितळबिंदू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी वितळबिंदू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्टील",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तांबे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी वितळबिंदू"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "MCB चे पूर्ण नाव काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Mini Circuit Box",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Main Circuit Breaker",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Miniature Circuit Breaker",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "Magnetic Circuit Breaker",
+          "is_correct": false
+        }
+      ],
+      "answer": "Miniature Circuit Breaker"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "MCB चे कार्य काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धारा वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिपथ तोडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऊर्जा साठवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोध कमी करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिपथ तोडणे"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "विद्युतधारेचा चुंबकीय परिणाम प्रथम कोणी दाखविला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फॅरेडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ओरस्टेड",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मॅक्सवेल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फ्लेमिंग",
+          "is_correct": false
+        }
+      ],
+      "answer": "ओरस्टेड"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ओरस्टेडच्या प्रयोगात काय दिसते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रकाश",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चुंबकसूची वळते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ध्वनी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चुंबकसूची वळते"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "सरळ तारेभोवती चुंबकीय क्षेत्र कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समांतर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समकेंद्री वर्तुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "समकेंद्री वर्तुळे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "उजव्या हाताच्या अंगठ्याचा नियम कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्षेत्र दिशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षेत्र दिशा"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "नालकुंतल म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरळ तार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेटोळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चुंबक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेटोळे"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "नालकुंतलाचे चुंबकीय क्षेत्र कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनियमित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकसमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कमकुवत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकसमान"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "फ्लेमिंगचा डाव्या हाताचा नियम कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्रवर्तन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोटर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जनित्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोटर"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "विद्युतचलित्राचे कार्य काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यांत्रिक→विद्युत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युत→यांत्रिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रकाश",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत→यांत्रिक"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "विद्युतचलित्रात कोणते कडे वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुभंगलेले",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लहान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुभंगलेले"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "फॅरेडेचा नियम कशाशी संबंधित?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्वनी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रवर्तन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रवर्तन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "प्रवर्तित विद्युतधारा कधी निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धारा स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्षेत्र बदल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रोध वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वेळ वाढ",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षेत्र बदल"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "फ्लेमिंगचा उजव्या हाताचा नियम कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जनित्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फ्यूज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "MCB",
+          "is_correct": false
+        }
+      ],
+      "answer": "जनित्र"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "AC म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दिष्ट धारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रत्यावर्ती धारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर धारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य धारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यावर्ती धारा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "भारतामधील AC वारंवारिता किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "25 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "50 Hz",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "60 Hz",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "100 Hz",
+          "is_correct": false
+        }
+      ],
+      "answer": "50 Hz"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "घरगुती पुरवठा कोणता असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "DC",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "AC",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कोणताही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "AC"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "जनित्राचे कार्य काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धारा वापरणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वीजनिर्मिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धारा साठवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोध वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "वीजनिर्मिती"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "AC जनित्रात कोणती धारा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दिष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "प्रत्यावर्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रत्यावर्ती"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "DC जनित्रात कोणती कडे वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पूर्ण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुभंगलेले",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ब्रश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रोध",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुभंगलेले"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "कार्बन ब्रश का वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रोध वाढवण्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घर्षण कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संपर्कासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता",
+          "is_correct": false
+        }
+      ],
+      "answer": "संपर्कासाठी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "विद्युतशक्तीचे व्यावहारिक एकक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "W",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "kWh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "J",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "V",
+          "is_correct": false
+        }
+      ],
+      "answer": "kWh"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "1 युनिट म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1W",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1kW",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1kWh",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1000J",
+          "is_correct": false
+        }
+      ],
+      "answer": "1kWh"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "विद्युतधारेचे किती मुख्य परिणाम आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "3",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "answer": "3"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या विषयाचा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भौतिकशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "विद्युतधारा म्हणजे काय?",
+      "answer": "विद्युतप्रभाराचा प्रवाह."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "विद्युतधारेचे औष्णिक परिणाम म्हणजे काय?",
+      "answer": "धारेमुळे उष्णता निर्माण होणे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "ज्यूलचा नियम काय सांगतो?",
+      "answer": "उष्णता I²Rt इतकी."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "विद्युतशक्ती म्हणजे काय?",
+      "answer": "ऊर्जा वापरण्याचा दर."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "विद्युतशक्तीचे एकक काय?",
+      "answer": "वॅट."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "1 kWh म्हणजे किती जूल?",
+      "answer": "3.6×10⁶ J."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "इस्त्रीमध्ये नायक्रोम का वापरतात?",
+      "answer": "उच्च रोध."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "बल्बमध्ये टंगस्टन का वापरतात?",
+      "answer": "उच्च वितळबिंदू."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "लघुपरिपथ म्हणजे काय?",
+      "answer": "अतिजास्त धारा."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "लघुपरिपथाचा धोका काय?",
+      "answer": "आग."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "फ्यूजचे कार्य काय?",
+      "answer": "परिपथ तोडणे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "फ्यूज कोणत्या गुणधर्माचा असतो?",
+      "answer": "कमी वितळबिंदू."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "MCB म्हणजे काय?",
+      "answer": "स्वयंचलित सुरक्षा कळ."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "MCB फ्यूजपेक्षा कसे?",
+      "answer": "पुन्हा वापरता येते."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "विद्युतधारेचा चुंबकीय परिणाम म्हणजे काय?",
+      "answer": "चुंबकीय क्षेत्र निर्मिती."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "ओरस्टेडने काय दाखवले?",
+      "answer": "धारा-चुंबक संबंध."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र म्हणजे काय?",
+      "answer": "चुंबकीय प्रभाव क्षेत्र."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "सरळ तारेभोवती क्षेत्र कसे?",
+      "answer": "वर्तुळाकार."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "उजव्या हाताचा अंगठा नियम काय?",
+      "answer": "क्षेत्र दिशा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "नालकुंतल म्हणजे काय?",
+      "answer": "अनेक वेटोळ्यांची रचना."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "नालकुंतलाचे क्षेत्र कसे?",
+      "answer": "एकसमान."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "फ्लेमिंगचा डावा हात नियम कशासाठी?",
+      "answer": "मोटर दिशा."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "विद्युतचलित्र म्हणजे काय?",
+      "answer": "विद्युत→यांत्रिक."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "विद्युतचलित्राचा उपयोग कुठे?",
+      "answer": "पंखा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "दुभंगलेले कडे कशासाठी?",
+      "answer": "धारा उलट."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "विद्युतचुंबकीय प्रवर्तन म्हणजे काय?",
+      "answer": "क्षेत्र बदलाने धारा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "फॅरेडे कोण होते?",
+      "answer": "शास्त्रज्ञ."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "प्रवर्तन कधी होते?",
+      "answer": "क्षेत्र बदलल्यास."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "फ्लेमिंग उजवा हात नियम कशासाठी?",
+      "answer": "जनित्र."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "AC म्हणजे काय?",
+      "answer": "प्रत्यावर्ती धारा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "DC म्हणजे काय?",
+      "answer": "दिष्ट धारा."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "भारताची वारंवारिता किती?",
+      "answer": "50 Hz."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "AC का वापरतात?",
+      "answer": "कमी तोटा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "जनित्र म्हणजे काय?",
+      "answer": "वीजनिर्मिती यंत्र."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "AC जनित्रात कडे कसे?",
+      "answer": "पूर्ण."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "DC जनित्रात कडे कसे?",
+      "answer": "दुभंगलेले."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कार्बन ब्रशचे कार्य काय?",
+      "answer": "संपर्क."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "विद्युतऊर्जेचे एकक काय?",
+      "answer": "kWh."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "वीज बिलात युनिट म्हणजे?",
+      "answer": "kWh."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "औष्णिक परिणामाचा एक उपयोग?",
+      "answer": "हीटर."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "चुंबकीय परिणामाचा एक उपयोग?",
+      "answer": "मोटर."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "प्रवर्तनाचा उपयोग?",
+      "answer": "जनित्र."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "विद्युतरोध म्हणजे काय?",
+      "answer": "धारेचा विरोध."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "रोध वाढल्यास उष्णता?",
+      "answer": "वाढते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "I दुप्पट केल्यास उष्णता?",
+      "answer": "चारपट."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "विद्युतपरिपथ म्हणजे काय?",
+      "answer": "बंद मार्ग."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "व्होल्टमीटर कशासाठी?",
+      "answer": "विभवांतर."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "अॅमीटर कशासाठी?",
+      "answer": "धारा."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "गॅल्व्हॅनोमीटर कशासाठी?",
+      "answer": "सूक्ष्म धारा."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "नालकुंतलाचे टोक कसे वागते?",
+      "answer": "ध्रुवांसारखे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "चुंबकीय क्षेत्र तीव्रता कशावर?",
+      "answer": "धारा."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "धारा वाढल्यास क्षेत्र?",
+      "answer": "वाढते."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "घरगुती उपकरणे AC वर का?",
+      "answer": "सुलभता."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "विद्युत अपघात टाळण्यासाठी काय?",
+      "answer": "भूसंपर्क."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "भूसंपर्काचे कार्य काय?",
+      "answer": "सुरक्षा."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा धडा कशाबद्दल आहे?",
+      "answer": "विद्युत परिणाम."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हा विषय कोणता?",
+      "answer": "भौतिकशास्त्र."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "विद्युतधारेचे औष्णिक परिणाम स्पष्ट करा.",
+      "answer": "धारा वाहिल्याने उष्णता निर्माण होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "ज्यूलचा उष्णताविषयक नियम स्पष्ट करा.",
+      "answer": "H=I²Rt हे सूत्र."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "विद्युतशक्ती म्हणजे काय? सूत्र लिहा.",
+      "answer": "P=VI."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "लघुपरिपथ म्हणजे काय? परिणाम लिहा.",
+      "answer": "अतिधारा व आग."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "फ्यूजचे कार्य व महत्त्व स्पष्ट करा.",
+      "answer": "सुरक्षा साधन."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "MCB म्हणजे काय? फायदे लिहा.",
+      "answer": "स्वयंचलित सुरक्षा."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "विद्युतधारेचा चुंबकीय परिणाम स्पष्ट करा.",
+      "answer": "धारेमुळे क्षेत्र."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "ओरस्टेडचा प्रयोग स्पष्ट करा.",
+      "answer": "सूची वळते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "उजव्या हाताचा अंगठा नियम स्पष्ट करा.",
+      "answer": "क्षेत्र दिशा."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "नालकुंतल म्हणजे काय? क्षेत्र स्पष्ट करा.",
+      "answer": "एकसमान क्षेत्र."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "फ्लेमिंगचा डावा हात नियम स्पष्ट करा.",
+      "answer": "मोटर दिशा."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "विद्युतचलित्राची रचना व कार्य लिहा.",
+      "answer": "विद्युत→यांत्रिक."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "दुभंगलेले कडे का वापरतात?",
+      "answer": "दिशा बदल."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "विद्युतचुंबकीय प्रवर्तन स्पष्ट करा.",
+      "answer": "क्षेत्र बदल."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "फॅरेडेचे प्रयोग स्पष्ट करा.",
+      "answer": "प्रवर्तन शोध."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "फ्लेमिंग उजवा हात नियम स्पष्ट करा.",
+      "answer": "जनित्र दिशा."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "AC व DC मधील फरक लिहा.",
+      "answer": "दोलायमान व स्थिर."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "भारतामध्ये AC का वापरतात?",
+      "answer": "कमी तोटा."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "विद्युत जनित्राची रचना व कार्य.",
+      "answer": "यांत्रिक→विद्युत."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "AC जनित्राचे कार्य स्पष्ट करा.",
+      "answer": "प्रत्यावर्ती धारा."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "DC जनित्र कसे कार्य करते?",
+      "answer": "दिष्ट धारा."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "कार्बन ब्रशचे कार्य स्पष्ट करा.",
+      "answer": "संपर्क राखणे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "विद्युतऊर्जा मोजण्याचे एकक स्पष्ट करा.",
+      "answer": "kWh."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "वीज बिलातील युनिट समजावून सांगा.",
+      "answer": "1 kWh."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "औष्णिक परिणामाचे उपयोग लिहा.",
+      "answer": "इस्त्री, हीटर."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "चुंबकीय परिणामाचे उपयोग लिहा.",
+      "answer": "मोटर."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "प्रवर्तनाचे उपयोग लिहा.",
+      "answer": "जनित्र."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "भूसंपर्क का आवश्यक?",
+      "answer": "अपघात टाळणे."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "विद्युत अपघात टाळण्याचे उपाय.",
+      "answer": "फ्यूज, MCB."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "हा धडा अभ्यासाचे महत्त्व लिहा.",
+      "answer": "दैनंदिन उपयोग."
+    }
+  ]
+}

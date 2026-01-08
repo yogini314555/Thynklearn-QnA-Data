@@ -1,0 +1,1637 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.08",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "अर्थव्यवस्था आणि व्यवसाय (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अर्थव्यवस्था म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "करप्रणाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशातील व्यवसायांची रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भूभाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशातील व्यवसायांची रचना"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "अर्थव्यवस्थेचे मुख्य प्रकार किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "प्राथमिक व्यवसाय कोणत्या घटकावर आधारित असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यंत्रे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निसर्ग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडवल",
+          "is_correct": false
+        }
+      ],
+      "answer": "निसर्ग"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "शेती हा कोणत्या प्रकारचा व्यवसाय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चतुर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "खनन हा कोणत्या प्रकारचा व्यवसाय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "उद्योग हा कोणत्या प्रकारचा व्यवसाय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्वितीयक"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वाहतूक कोणत्या व्यवसायात येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चतुर्थक",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "अध्यापन कोणत्या व्यवसायात मोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "भारताची अर्थव्यवस्था कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भांडवलशाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाजवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मिश्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अविकसित",
+          "is_correct": false
+        }
+      ],
+      "answer": "मिश्र"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ब्राझीलची अर्थव्यवस्था कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मिश्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "समाजवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भांडवलशाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अविकसित",
+          "is_correct": false
+        }
+      ],
+      "answer": "मिश्र"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "भारत व ब्राझील कोणत्या प्रकारचे देश आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विकसित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अविकसित",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विकसनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अतिविकसित",
+          "is_correct": false
+        }
+      ],
+      "answer": "विकसनशील"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "स्थूल अंतर्देशीय उत्पादन (GDP) म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एकूण उत्पादन मूल्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्षेत्रफळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निर्यात",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकूण उत्पादन मूल्य"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "स्थूल राष्ट्रीय उत्पादन (GNP) मध्ये काय समाविष्ट असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त देशांतर्गत उत्पन्न",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देशांतर्गत + परदेशी उत्पन्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त कर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "देशांतर्गत + परदेशी उत्पन्न"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये कोणत्या व्यवसायात सर्वाधिक लोकसंख्या कार्यरत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कोणत्या व्यवसायात लोकसंख्या जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये GDP मध्ये सर्वाधिक योगदान कोणत्या व्यवसायाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये GDP मध्ये कोणत्या व्यवसायाचे योगदान जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "शेतीवर आधारित उद्योग कोणत्या व्यवसायात येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्वितीयक"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "खनिजांवर आधारित उद्योग कोणत्या प्रकारात येतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "द्वितीयक"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "व्यापार कोणत्या व्यवसायात मोडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक रोजगार कोणत्या क्षेत्रात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सेवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शेती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "व्यापार",
+          "is_correct": false
+        }
+      ],
+      "answer": "शेती"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कृषीपेक्षा कोणता व्यवसाय अधिक विकसित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तृतीयक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "तृतीयक"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मिश्र अर्थव्यवस्थेचे वैशिष्ट्य कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त खासगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त सरकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही क्षेत्रे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही क्षेत्रे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये बँकिंग क्षेत्र कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त सरकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त खासगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "रेल्वे सेवा भारतात कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खासगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरकारी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये दूरसंचार सेवा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सरकारी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खासगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये वीज निर्मिती मुख्यत्वे कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खासगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरकारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरकारी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये कॉफी हा कोणत्या प्रकारचा उत्पादन व्यवसाय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "रोका शेती कोणत्या देशात आढळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ब्राझील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जपान",
+          "is_correct": false
+        }
+      ],
+      "answer": "ब्राझील"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये मासेमारी कोणत्या प्रकारात मोडते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राथमिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "द्वितीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तृतीयक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राथमिक"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये मासेमारी कुठे अधिक विकसित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंतर्गत भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "किनारी भाग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "डोंगर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वाळवंट",
+          "is_correct": false
+        }
+      ],
+      "answer": "किनारी भाग"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये उद्योगांचे केंद्रीकरण कशावर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कच्चा माल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कच्चा माल"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये उद्योग कुठे जास्त केंद्रित आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उत्तर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दक्षिण व आग्नेय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पश्चिम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अमेझॉन",
+          "is_correct": false
+        }
+      ],
+      "answer": "दक्षिण व आग्नेय"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "व्यापार संतुलन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निर्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आयात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निर्यात-आयात फरक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कर",
+          "is_correct": false
+        }
+      ],
+      "answer": "निर्यात-आयात फरक"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारताचे व्यापार संतुलन सामान्यतः कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुकूल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिकूल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समतोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रतिकूल"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचे व्यापार संतुलन कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अनुकूल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "प्रतिकूल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "समतोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुकूल"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "BRICS मध्ये भारत व ब्राझील सोबत कोणते देश आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेरिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रशिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जपान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फ्रान्स",
+          "is_correct": false
+        }
+      ],
+      "answer": "रशिया"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "GST ही कोणत्या देशात लागू आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त ब्राझील",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेही नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या घटकाशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्थव्यवस्था",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माती",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्थव्यवस्था"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "अर्थव्यवस्था म्हणजे काय?",
+      "answer": "देशातील विविध व्यवसायांची एकत्रित रचना म्हणजे अर्थव्यवस्था."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "अर्थव्यवस्थेचे किती प्रकार आहेत?",
+      "answer": "तीन प्रकार आहेत."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "प्राथमिक व्यवसाय म्हणजे काय?",
+      "answer": "निसर्गावर आधारित व्यवसाय."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "द्वितीयक व्यवसाय म्हणजे काय?",
+      "answer": "कच्च्या मालावर प्रक्रिया करणारे व्यवसाय."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "तृतीयक व्यवसाय म्हणजे काय?",
+      "answer": "सेवा पुरवणारे व्यवसाय."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "शेती कोणत्या व्यवसायात येते?",
+      "answer": "प्राथमिक."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "खनन कोणत्या व्यवसायात येते?",
+      "answer": "प्राथमिक."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "उद्योग कोणत्या व्यवसायात येतात?",
+      "answer": "द्वितीयक."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "वाहतूक कोणत्या व्यवसायात येते?",
+      "answer": "तृतीयक."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "अध्यापन कोणत्या व्यवसायात येते?",
+      "answer": "तृतीयक."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "भारताची अर्थव्यवस्था कशी आहे?",
+      "answer": "मिश्र प्रकारची."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची अर्थव्यवस्था कशी आहे?",
+      "answer": "मिश्र प्रकारची."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "भारत व ब्राझील कोणत्या प्रकारचे देश आहेत?",
+      "answer": "विकसनशील."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "GDP म्हणजे काय?",
+      "answer": "देशांतर्गत उत्पादनाचे एकूण मूल्य."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "GNP म्हणजे काय?",
+      "answer": "देशांतर्गत व परदेशी उत्पन्न मिळून एकूण उत्पादन."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये सर्वाधिक लोकसंख्या कुठल्या व्यवसायात आहे?",
+      "answer": "प्राथमिक."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये सर्वाधिक लोकसंख्या कुठल्या व्यवसायात आहे?",
+      "answer": "तृतीयक."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये GDP मध्ये कोणता व्यवसाय पुढे आहे?",
+      "answer": "तृतीयक."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये GDP मध्ये कोणता व्यवसाय पुढे आहे?",
+      "answer": "तृतीयक."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मिश्र अर्थव्यवस्था म्हणजे काय?",
+      "answer": "खासगी व सरकारी दोन्ही क्षेत्रांचा सहभाग."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये बँका कशा आहेत?",
+      "answer": "खासगी व सरकारी दोन्ही."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये रेल्वे कशी आहे?",
+      "answer": "सरकारी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये दूरसंचार कसे आहे?",
+      "answer": "खासगी व सरकारी दोन्ही."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "शेतीवर आधारित उद्योग म्हणजे काय?",
+      "answer": "शेती उत्पादनावर आधारित उद्योग."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "खनिजांवर आधारित उद्योग म्हणजे काय?",
+      "answer": "खनिज कच्चा माल वापरणारे उद्योग."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये उद्योग कुठे केंद्रित आहेत?",
+      "answer": "कच्च्या मालाच्या भागात."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये उद्योग कुठे केंद्रित आहेत?",
+      "answer": "दक्षिण व आग्नेय भागात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "व्यापार म्हणजे काय?",
+      "answer": "वस्तू व सेवांची देवाणघेवाण."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "निर्यात म्हणजे काय?",
+      "answer": "परदेशात वस्तू विकणे."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "आयात म्हणजे काय?",
+      "answer": "परदेशातून वस्तू खरेदी करणे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "व्यापार संतुलन म्हणजे काय?",
+      "answer": "निर्यात व आयात यातील फरक."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अनुकूल व्यापार संतुलन म्हणजे काय?",
+      "answer": "निर्यात जास्त असणे."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "प्रतिकूल व्यापार संतुलन म्हणजे काय?",
+      "answer": "आयात जास्त असणे."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "भारताचे व्यापार संतुलन कसे असते?",
+      "answer": "बहुतेक वेळा प्रतिकूल."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचे व्यापार संतुलन कसे असते?",
+      "answer": "बहुतेक वेळा अनुकूल."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "BRICS म्हणजे काय?",
+      "answer": "पाच विकसनशील देशांचा गट."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "BRICS मध्ये भारतासोबत कोणते देश आहेत?",
+      "answer": "ब्राझील, रशिया, चीन, दक्षिण आफ्रिका."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "GST म्हणजे काय?",
+      "answer": "वस्तू व सेवा कर."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये GST कधी लागू झाले?",
+      "answer": "२०१७ मध्ये."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये GSTसदृश प्रणाली कधीपासून आहे?",
+      "answer": "१९८४ पासून."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "शेती भारतात महत्त्वाची का आहे?",
+      "answer": "जास्त लोकसंख्या त्यावर अवलंबून."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये शेती कुठे केंद्रित आहे?",
+      "answer": "उच्चभूमी व किनारी भागात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये मासेमारी कुठे केली जाते?",
+      "answer": "किनारी व अंतर्गत जलाशयांत."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये मासेमारी कुठे केली जाते?",
+      "answer": "मुख्यतः किनारी भागात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये गोड्या पाण्यातील मासेमारी कशी आहे?",
+      "answer": "अधिक विकसित."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये गोड्या पाण्यातील मासेमारी कमी का आहे?",
+      "answer": "नद्यांचा वेग जास्त."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "खनन व्यवसाय कुठे जास्त आहे?",
+      "answer": "खनिज साठ्यांच्या भागात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये कोळसा कुठे आढळतो?",
+      "answer": "छोटा नागपूर पठार."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये लोहखनिज कुठे आढळते?",
+      "answer": "पूर्व भागात."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "उद्योगांचे केंद्रीकरण का होते?",
+      "answer": "कच्चा माल व ऊर्जा उपलब्धतेमुळे."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "सेवा व्यवसाय वाढण्याचे कारण काय?",
+      "answer": "शहरीकरण व शिक्षण."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अर्थव्यवस्थेचा विकास कशावर अवलंबून असतो?",
+      "answer": "व्यवसायांच्या विकासावर."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "भारत व ब्राझीलमध्ये सेवा व्यवसाय का वाढत आहे?",
+      "answer": "आधुनिकरणामुळे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "प्राथमिक व्यवसायाचा GDP मधील वाटा कमी का होत आहे?",
+      "answer": "द्वितीयक व तृतीयक वाढल्यामुळे."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये उद्योग असमान का आहेत?",
+      "answer": "प्रदेशीय साधनसंपत्तीमुळे."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये उद्योग काही भागांतच का आहेत?",
+      "answer": "सुविधा मर्यादित असल्यामुळे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "व्यापाराचे महत्त्व काय?",
+      "answer": "परकीय चलन मिळते."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "अर्थव्यवस्था व व्यवसाय यांचा संबंध काय?",
+      "answer": "व्यवसाय अर्थव्यवस्था घडवतात."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या देशांशी संबंधित आहे?",
+      "answer": "भारत व ब्राझील."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "अर्थव्यवस्था म्हणजे काय? तिचे प्रकार स्पष्ट करा.",
+      "answer": "अर्थव्यवस्था म्हणजे देशातील विविध व्यवसायांची रचना. प्राथमिक, द्वितीयक व तृतीयक असे तीन प्रकार आहेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "प्राथमिक, द्वितीयक व तृतीयक व्यवसाय स्पष्ट करा.",
+      "answer": "प्राथमिक निसर्गावर, द्वितीयक प्रक्रियेवर व तृतीयक सेवांवर आधारित असतात."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "भारताची अर्थव्यवस्था मिश्र का आहे?",
+      "answer": "सरकारी व खासगी दोन्ही क्षेत्रांचा सहभाग असल्यामुळे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "ब्राझीलची अर्थव्यवस्था मिश्र का आहे?",
+      "answer": "खासगी व सार्वजनिक व्यवसाय एकत्र अस्तित्वात आहेत."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझील हे विकसनशील देश का आहेत?",
+      "answer": "औद्योगिकीकरण व सेवा वाढत असली तरी पूर्ण विकसित नाहीत."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "GDP व GNP यातील फरक स्पष्ट करा.",
+      "answer": "GDP देशांतर्गत उत्पादन, GNP मध्ये परदेशी उत्पन्नही समाविष्ट."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "भारतामध्ये प्राथमिक व्यवसायात जास्त लोकसंख्या का आहे?",
+      "answer": "शेतीवर मोठी लोकसंख्या अवलंबून आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये तृतीयक व्यवसाय का वाढले आहेत?",
+      "answer": "शहरीकरण व सेवा क्षेत्रामुळे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "भारतामध्ये GDP मध्ये तृतीयक क्षेत्राचे योगदान वाढण्याचे कारण काय?",
+      "answer": "सेवा व माहिती तंत्रज्ञानाचा विकास."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "मिश्र अर्थव्यवस्थेची वैशिष्ट्ये लिहा.",
+      "answer": "सरकारी नियंत्रण व खासगी गुंतवणूक."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "शेतीवर आधारित उद्योग स्पष्ट करा.",
+      "answer": "साखर, कापूस, ताग उद्योग."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "खनिजांवर आधारित उद्योग स्पष्ट करा.",
+      "answer": "लोह-पोलाद, सिमेंट उद्योग."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "भारतामध्ये उद्योगांचे केंद्रीकरण कशावर अवलंबून आहे?",
+      "answer": "कच्चा माल, ऊर्जा व वाहतूक."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये उद्योग दक्षिण व आग्नेय भागात का केंद्रित आहेत?",
+      "answer": "खनिजे व सुविधा उपलब्ध असल्यामुळे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "भारतामध्ये मासेमारीचे महत्त्व स्पष्ट करा.",
+      "answer": "रोजगार व पोषणासाठी."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये मासेमारी किनारी भागात का केंद्रित आहे?",
+      "answer": "सागरी प्रवाह व खंडमंचामुळे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "व्यापार म्हणजे काय? त्याचे प्रकार स्पष्ट करा.",
+      "answer": "निर्यात व आयात."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "व्यापार संतुलन म्हणजे काय?",
+      "answer": "निर्यात व आयात यातील फरक."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "भारताचे व्यापार संतुलन बहुतेक वेळा प्रतिकूल का असते?",
+      "answer": "आयात जास्त असल्यामुळे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "ब्राझीलचे व्यापार संतुलन अनुकूल का असते?",
+      "answer": "निर्यात जास्त असल्यामुळे."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "भारत-ब्राझील व्यापार संबंध स्पष्ट करा.",
+      "answer": "दोन्ही देश एकमेकांचे व्यापारी भागीदार आहेत."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "BRICS गटाचे महत्त्व स्पष्ट करा.",
+      "answer": "विकसनशील देशांचे सहकार्य."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "GST प्रणालीचे महत्त्व स्पष्ट करा.",
+      "answer": "कर सुलभीकरणासाठी."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "भारतामध्ये GST का लागू करण्यात आले?",
+      "answer": "एकसमान करप्रणालीसाठी."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये करप्रणाली कशी आहे?",
+      "answer": "बहुस्तरीय."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "अर्थव्यवस्थेच्या विकासात व्यवसायांची भूमिका स्पष्ट करा.",
+      "answer": "व्यवसाय रोजगार व उत्पन्न निर्माण करतात."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "प्राथमिक व्यवसायांचा वाटा कमी का होत आहे?",
+      "answer": "औद्योगिकीकरणामुळे."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "द्वितीयक व तृतीयक व्यवसाय विकासाला कसे मदत करतात?",
+      "answer": "मूल्यवर्धन व सेवा."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या अर्थव्यवस्थेची तुलना करा.",
+      "answer": "दोन्ही मिश्र व विकसनशील आहेत."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "अर्थव्यवस्था आणि व्यवसाय हा भूगोलाचा महत्त्वाचा धडा का आहे?",
+      "answer": "देशाचा विकास समजण्यासाठी."
+    }
+  ]
+}

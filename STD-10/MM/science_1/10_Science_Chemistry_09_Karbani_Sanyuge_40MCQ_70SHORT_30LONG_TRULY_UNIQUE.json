@@ -1,0 +1,1627 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Chemistry.09",
+    "standard": "10",
+    "subject": "Science – Chemistry",
+    "medium": "Marathi",
+    "chapter_name": "कार्बनी संयुगे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "कार्बनी संयुगांमध्ये कोणते मूलद्रव्य आवश्यक असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑक्सिजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नायट्रोजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कार्बन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "हायड्रोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्बन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कार्बनचे आवर्त सारणीतील गण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "14",
+          "is_correct": true
+        }
+      ],
+      "answer": "14"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कार्बनची संयुजा किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "answer": "4"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कार्बनी संयुगांमधील बंध कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आयनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहसंयुज",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धात्विक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हायड्रोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहसंयुज"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "मीथेनचे रेणुसूत्र कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CH2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "CH4",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "C2H6",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "CO2",
+          "is_correct": false
+        }
+      ],
+      "answer": "CH4"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "एकेरी बंधात किती इलेक्ट्रॉन जोड असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "दुहेरी बंध कोणत्या रेणूमध्ये?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CH4",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "O2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "N2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "H2",
+          "is_correct": false
+        }
+      ],
+      "answer": "O2"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "तिहेरी बंध कोणत्या रेणूमध्ये?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "O2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "N2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "H2O",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "CO2",
+          "is_correct": false
+        }
+      ],
+      "answer": "N2"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कार्बनची शृंखलाबंधन शक्ती काय म्हणतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयुजा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समघटकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कॅटेनेशन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऑक्सिडीकरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "कॅटेनेशन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "संपृक्त हायड्रोकार्बन कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्कीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्काइन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अल्केन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अॅरोमॅटिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्केन"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "असंपृक्त हायड्रोकार्बन कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्केन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्कीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अल्कोहोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईथर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्कीन"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "अल्केनचे सामान्य सूत्र?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CnH2n",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "CnH2n+2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "CnH2n-2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "CnHn",
+          "is_correct": false
+        }
+      ],
+      "answer": "CnH2n+2"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अल्कीनचे सामान्य सूत्र?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CnH2n",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "CnH2n+2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "CnH2n-2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "CnHn",
+          "is_correct": false
+        }
+      ],
+      "answer": "CnH2n"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "अल्काइनचे सामान्य सूत्र?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CnH2n",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "CnH2n+2",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "CnH2n-2",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "CnHn",
+          "is_correct": false
+        }
+      ],
+      "answer": "CnH2n-2"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "समघटकता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकच सूत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भिन्न सूत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "एकच रेणुसूत्र, भिन्न रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "एकच रचना",
+          "is_correct": false
+        }
+      ],
+      "answer": "एकच रेणुसूत्र, भिन्न रचना"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "C4H10 चे किती समघटक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "answer": "2"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वलयांकित हायड्रोकार्बन उदाहरण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मीथेन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रोपेन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सायक्लोहेक्झेन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ईथेन",
+          "is_correct": false
+        }
+      ],
+      "answer": "सायक्लोहेक्झेन"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "अॅरोमॅटिक संयुग उदाहरण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मीथेन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ईथेन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "बेंझीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोपेन",
+          "is_correct": false
+        }
+      ],
+      "answer": "बेंझीन"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "क्रियात्मक गट म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्बन शृंखला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विशिष्ट गुण देणारा गट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बंध प्रकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रेणुसूत्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "विशिष्ट गुण देणारा गट"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "-OH हा कोणता गट?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्डिहाइड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अमीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अल्कोहोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कीटोन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्कोहोल"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "-COOH हा कोणता गट?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्कोहोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्बॉक्सिलिक आम्ल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ईथर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईस्टर",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्बॉक्सिलिक आम्ल"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "-CHO हा कोणता गट?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अल्डिहाइड",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कीटोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अमीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ईस्टर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्डिहाइड"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "समजातीय श्रेणी म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भिन्न गुणधर्म",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समान क्रियात्मक गट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भिन्न सूत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भिन्न शृंखला",
+          "is_correct": false
+        }
+      ],
+      "answer": "समान क्रियात्मक गट"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "समजातीय श्रेणीत फरक किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "-CH3",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "-CH2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "-H",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "-OH",
+          "is_correct": false
+        }
+      ],
+      "answer": "-CH2"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "समजातीय श्रेणीतील रेणुवस्तुमान फरक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12 u",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "14 u",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "16 u",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "18 u",
+          "is_correct": false
+        }
+      ],
+      "answer": "14 u"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ज्वलन अभिक्रियेत उत्पादने?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CO व H2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "CO2 व H2O",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "C व O2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "H2 व O2",
+          "is_correct": false
+        }
+      ],
+      "answer": "CO2 व H2O"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कार्बनी संयुगांचे ज्वलन कसे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्माग्राही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऊष्मादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ऊष्मादायी"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "अपूर्ण ज्वलनात काय तयार होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CO2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "CO",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "H2O",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "O2",
+          "is_correct": false
+        }
+      ],
+      "answer": "CO"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ऑक्सिडीकरण म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "H काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "O वाढवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बंधन तोडणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उष्णता देणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "O वाढवणे"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ऑक्सिडीकारक उदाहरण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "HCl",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "KMnO4",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "NaOH",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "H2O",
+          "is_correct": false
+        }
+      ],
+      "answer": "KMnO4"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "इथेनॉलचे ऑक्सिडीकरण केल्यास?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मीथेन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एथेन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अॅसिटिक आम्ल",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रोपेन",
+          "is_correct": false
+        }
+      ],
+      "answer": "अॅसिटिक आम्ल"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "अपचयन म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "O काढणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "H काढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "O वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बंधन वाढवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "O काढणे"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "इस्टरीकरणात कोणती संयुगे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आम्ल+अल्कोहोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "अल्केन+अल्कीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अल्डिहाइड+कीटोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अमीन+आम्ल",
+          "is_correct": false
+        }
+      ],
+      "answer": "आम्ल+अल्कोहोल"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "इस्टरचा वास कसा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कडू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आंबट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सुगंधी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कडवट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुगंधी"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "साबणीकरण म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इस्टर निर्मिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "साबण निर्मिती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ऑक्सिडीकरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अपघटन",
+          "is_correct": false
+        }
+      ],
+      "answer": "साबण निर्मिती"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "डिटर्जंट कशात कार्यक्षम?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मऊ पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कठीण पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोणतेच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "साबण कठीण पाण्यात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त फेस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी फेस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अवक्षेप",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वायू",
+          "is_correct": false
+        }
+      ],
+      "answer": "अवक्षेप"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या विषयाचा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रसायन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भूगोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "रसायन"
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कार्बनी संयुग म्हणजे काय?",
+      "answer": "कार्बन असलेली संयुगे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "कार्बनला बहुगुणी मूलद्रव्य का म्हणतात?",
+      "answer": "अनेक संयुगे तयार करतो."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "सहसंयुज बंध म्हणजे?",
+      "answer": "इलेक्ट्रॉन संदानाने तयार बंध."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "एकेरी बंध म्हणजे?",
+      "answer": "एक इलेक्ट्रॉन जोडी."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "दुहेरी बंध म्हणजे?",
+      "answer": "दोन इलेक्ट्रॉन जोड्या."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "तिहेरी बंध म्हणजे?",
+      "answer": "तीन इलेक्ट्रॉन जोड्या."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कॅटेनेशन म्हणजे?",
+      "answer": "कार्बन-कार्बन शृंखला."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "मीथेन हा कोणता हायड्रोकार्बन?",
+      "answer": "संपृक्त."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "एथीन हा कोणता हायड्रोकार्बन?",
+      "answer": "असंपृक्त."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "अल्केन म्हणजे?",
+      "answer": "एकेरी बंध असलेले."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "अल्कीन म्हणजे?",
+      "answer": "दुहेरी बंध असलेले."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "अल्काइन म्हणजे?",
+      "answer": "तिहेरी बंध असलेले."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "समघटकता म्हणजे?",
+      "answer": "एक सूत्र, भिन्न रचना."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "C4H10 चे समघटक किती?",
+      "answer": "दोन."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "सरल शृंखला म्हणजे?",
+      "answer": "सरळ कार्बन साखळी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "शाखीय शृंखला म्हणजे?",
+      "answer": "फांद्यांची साखळी."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वलयांकित शृंखला म्हणजे?",
+      "answer": "कार्बन वलय."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "बेंझीनचे वैशिष्ट्य?",
+      "answer": "अॅरोमॅटिक."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "क्रियात्मक गट म्हणजे?",
+      "answer": "विशिष्ट गुण देणारा गट."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "अल्कोहोल गट?",
+      "answer": "-OH."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "अल्डिहाइड गट?",
+      "answer": "-CHO."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कीटोन गट?",
+      "answer": "-CO-."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कार्बॉक्सिलिक आम्ल गट?",
+      "answer": "-COOH."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "ईथर गट?",
+      "answer": "-O-."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ईस्टर गट?",
+      "answer": "-COO-."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "समजातीय श्रेणी म्हणजे?",
+      "answer": "समान गटाची श्रेणी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "समजातीय श्रेणीत फरक?",
+      "answer": "-CH2."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "रेणुवस्तुमान वाढ?",
+      "answer": "14 u."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ज्वलन म्हणजे?",
+      "answer": "ऑक्सिजनशी अभिक्रिया."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "ज्वलनाचे उत्पादन?",
+      "answer": "CO2 व H2O."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "पूर्ण ज्वलन म्हणजे?",
+      "answer": "संपूर्ण ऑक्सिडीकरण."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अपूर्ण ज्वलन म्हणजे?",
+      "answer": "CO तयार."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "निळी ज्योत कशामुळे?",
+      "answer": "पूर्ण ज्वलन."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पिवळी ज्योत कशामुळे?",
+      "answer": "अपूर्ण ज्वलन."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "ऑक्सिडीकरण म्हणजे?",
+      "answer": "ऑक्सिजन वाढ."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "ऑक्सिडीकारक उदाहरण?",
+      "answer": "KMnO4."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "अपचयन म्हणजे?",
+      "answer": "ऑक्सिजन कमी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "इथेनॉल ऑक्सिडीकरण?",
+      "answer": "अॅसिटिक आम्ल."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "इस्टरीकरण म्हणजे?",
+      "answer": "इस्टर निर्मिती."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "इस्टरचा उपयोग?",
+      "answer": "सुगंध."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "साबणीकरण म्हणजे?",
+      "answer": "साबण निर्मिती."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "साबण म्हणजे?",
+      "answer": "फॅटी आम्लाचे मीठ."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "डिटर्जंट म्हणजे?",
+      "answer": "संश्लेषित स्वच्छक."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "कठीण पाणी म्हणजे?",
+      "answer": "Ca/Mg आयनयुक्त."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "साबण कठीण पाण्यात?",
+      "answer": "अवक्षेप."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "डिटर्जंट कठीण पाण्यात?",
+      "answer": "कार्यशील."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "बायोगॅस घटक?",
+      "answer": "मीथेन."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "LPG घटक?",
+      "answer": "प्रोपेन-ब्यूटेन."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "इंधन म्हणून कार्बनी संयुगे?",
+      "answer": "ऊर्जा देतात."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "पॉलिथीन कशापासून?",
+      "answer": "एथीन."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "पॉलिमर म्हणजे?",
+      "answer": "मोठे रेणू."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "बहुवारिके म्हणजे?",
+      "answer": "अनेक एकके."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "कार्बनी संयुगांचे महत्त्व?",
+      "answer": "दैनंदिन उपयोग."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "अन्नातील कार्बनी संयुगे?",
+      "answer": "कार्बोहायड्रेट."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "औषधातील भूमिका?",
+      "answer": "उपचार."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा का महत्त्वाचा?",
+      "answer": "दैनंदिन रसायन."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "सहसंयुज संयुगे कशी?",
+      "answer": "दुर्वाहक."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "कार्बनी संयुगांचे द्रवणांक?",
+      "answer": "कमी."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "कार्बनी संयुगांचे उत्कलनांक?",
+      "answer": "कमी."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "कार्बनी संयुगांचा वास?",
+      "answer": "विविध."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "कार्बनी संयुगांचा रंग?",
+      "answer": "बहुतेक रंगहीन."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "कार्बन हे बहुगुणी मूलद्रव्य का आहे?",
+      "answer": "कॅटेनेशन व चतुःसंयुजा."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "सहसंयुज बंध स्पष्ट करा.",
+      "answer": "इलेक्ट्रॉन संदान."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "कार्बनी संयुगांतील बंधांचे प्रकार.",
+      "answer": "एकेरी, दुहेरी, तिहेरी."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "संपृक्त व असंपृक्त संयुगे.",
+      "answer": "अल्केन व अल्कीन/अल्काइन."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "समघटकता स्पष्ट करा.",
+      "answer": "एक सूत्र, भिन्न रचना."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "सरल, शाखीय व वलयांकित शृंखला.",
+      "answer": "तीन प्रकार."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "हायड्रोकार्बन म्हणजे काय?",
+      "answer": "C व H संयुगे."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "अल्केनांची समजातीय श्रेणी.",
+      "answer": "CnH2n+2."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "अल्कीनांची समजातीय श्रेणी.",
+      "answer": "CnH2n."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "अल्काइनांची समजातीय श्रेणी.",
+      "answer": "CnH2n-2."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "क्रियात्मक गटांचे महत्त्व.",
+      "answer": "गुणधर्म ठरवतात."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "अल्कोहोलांचे गुणधर्म.",
+      "answer": "OH गट."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "कार्बॉक्सिलिक आम्ले.",
+      "answer": "COOH गट."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "समजातीय श्रेणीची वैशिष्ट्ये.",
+      "answer": "14 u फरक."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "कार्बनी संयुगांचे ज्वलन.",
+      "answer": "ऊष्मादायी."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "पूर्ण व अपूर्ण ज्वलन.",
+      "answer": "CO2 vs CO."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "ऑक्सिडीकरण प्रक्रिया.",
+      "answer": "ऑक्सिजन वाढ."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "अपचयन प्रक्रिया.",
+      "answer": "ऑक्सिजन कमी."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "इथेनॉलचे ऑक्सिडीकरण.",
+      "answer": "अॅसिटिक आम्ल."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "इस्टरीकरण अभिक्रिया.",
+      "answer": "आम्ल+अल्कोहोल."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "इस्टरचे उपयोग.",
+      "answer": "सुगंध."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "साबणीकरण अभिक्रिया.",
+      "answer": "इस्टर → साबण."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "साबण व डिटर्जंट फरक.",
+      "answer": "कठीण पाणी."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "साबणाची रचना.",
+      "answer": "हायड्रोफिलिक/फोबिक."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "डिटर्जंटची रचना.",
+      "answer": "सल्फोनेट."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "पॉलिमर म्हणजे काय?",
+      "answer": "मोठे रेणू."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "पॉलिथीनची निर्मिती.",
+      "answer": "एथीन पॉलिमर."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "कार्बनी संयुगांचे औद्योगिक उपयोग.",
+      "answer": "इंधन, औषधे."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "कार्बनी संयुगांचे दैनंदिन महत्त्व.",
+      "answer": "अन्न, वस्त्रे."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "या धड्याचे परीक्षात्मक महत्त्व.",
+      "answer": "संकल्पना."
+    }
+  ]
+}

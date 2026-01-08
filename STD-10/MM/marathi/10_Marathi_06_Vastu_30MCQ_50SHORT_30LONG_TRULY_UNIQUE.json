@@ -1,0 +1,1171 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.06",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "वस्तू"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘वस्तू’ ही कविता कोणत्या कवीची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वि. स. खांडेकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "द. भा. धामणस्कर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कुसुमाग्रज",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुरेश भट",
+          "is_correct": false
+        }
+      ],
+      "answer": "द. भा. धामणस्कर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘वस्तू’ ही कविता कोणत्या काव्यप्रकारातील आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अभंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्तछंद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ओवी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सॉनेट",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्तछंद"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "कवितेत वस्तूंना कोणत्या दृष्टीने पाहण्यास सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपेक्षेने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी भावनेने",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भयाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी भावनेने"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवीच्या मते वस्तूंना काय नसले तरी असाव्यात असे वागवावे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आवाज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रूप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "मन"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "वस्तूंशी वागण्याबाबत कवी कोणता गुण सुचवतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्धटपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "थोर व्यक्तींच्या वापरातील वस्तू कुठे जतन केल्या जातात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बाजारात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संग्रहालयात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शाळेत",
+          "is_correct": false
+        }
+      ],
+      "answer": "संग्रहालयात"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "वस्तूंना ‘सेवक’ का म्हटले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "त्या बोलत नाहीत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्या उपयोगी पडतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्या स्वस्त असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "त्या जुना असतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्या उपयोगी पडतात"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "वस्तूंना कोणता मान द्यावा असे कवी सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुय्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बरोबरीचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उच्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "बरोबरीचा"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "वस्तूंना वेगळी खोली का नको असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "त्या लहान आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्या हलक्या आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "त्या आपल्या जागेत राहू इच्छितात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्या हलवता येतात",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्या आपल्या जागेत राहू इच्छितात"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "वस्तूंना कशाची हमी द्यावी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजावटीची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षिततेची",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आपल्या जागेवरून हकालपट्टी न होण्याची",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नवीनपणाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपल्या जागेवरून हकालपट्टी न होण्याची"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "कवी वस्तूंना स्वच्छ ठेवण्याबाबत काय सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गरज नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हातांना लक्षात ठेवायला सांगतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "टाळायला सांगतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त पाहायला सांगतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "हातांना लक्षात ठेवायला सांगतो"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "वस्तूंना जपल्याने काय टिकून राहते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्नेह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नाव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेह"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "आयुष्य संपल्यानंतर वस्तूंना काय होते असे कवी सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जपले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फेकून दिले जाते",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "हक्काच्या घरातून काढले जाते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सजवले जाते",
+          "is_correct": false
+        }
+      ],
+      "answer": "हक्काच्या घरातून काढले जाते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वस्तूंना निरोप देताना कोणता भाव ठेवावा?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उदासीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतज्ञ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञ"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वस्तू आणि माणूस यांच्यात कसे नाते असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तात्पुरते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तुटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अतूट",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अतूट"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेतील मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपभोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवेदनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशीलता"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "वस्तूंना भावना आहेत असे का वाटते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "त्या बोलतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्या साथ देतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "त्या महाग आहेत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "त्या जुना आहेत",
+          "is_correct": false
+        }
+      ],
+      "answer": "त्या साथ देतात"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "वस्तूंशी निगडित कोणती भावना जपावी असे कवी सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्नेह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेह"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपदेशपर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सरळ व भावपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "परदेशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ व भावपूर्ण"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "‘वस्तू’ या कवितेचा सूर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपदेशात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भावनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावनिक"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवी वस्तूंशी कसे वागण्याचा आग्रह धरतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "यांत्रिकपणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी पातळीवर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीनतेने",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थाने",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी पातळीवर"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "वस्तूंना ‘आपल्या मानलेल्या’ जागेचे महत्त्व काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजावट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आपुलकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "किंमत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नवीनपणा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपुलकी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "वस्तूंना जपणे म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त वापरणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्लक्ष करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काळजी घेणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "साठवणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "काळजी घेणे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कवितेतून कोणती जाणीव निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपेक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतज्ञता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतज्ञता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "वस्तू दीर्घकाळ का साथ देतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "त्या महाग असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्या टिकाऊ असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आपण त्यांना जपतो",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "त्या बोलत नाहीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "आपण त्यांना जपतो"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "वस्तू आणि आठवणी यांचा संबंध कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तुटक",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घनिष्ठ",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थी",
+          "is_correct": false
+        }
+      ],
+      "answer": "घनिष्ठ"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेतील विचार कसे आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काल्पनिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तत्त्वज्ञानात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपहासात्मक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोंधळलेले",
+          "is_correct": false
+        }
+      ],
+      "answer": "तत्त्वज्ञानात्मक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "वस्तूंना ‘जिवंत’ कसे ठेवता येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वापरून",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्नेह जपून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फेकून देऊन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बदलून",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्नेह जपून"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचकांना कशासाठी प्रवृत्त करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खरेदीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जाणीवपूर्वक वापरासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धेसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "साठवणीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जाणीवपूर्वक वापरासाठी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "SHORT",
+      "question": "‘वस्तू’ या कवितेचा मुख्य विषय काय आहे?",
+      "answer": "वस्तूंशी संवेदनशीलतेने व कृतज्ञतेने वागण्याचा संदेश."
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंना भावना का देतो?",
+      "answer": "वस्तूंशी असलेले मानवी नाते दाखवण्यासाठी."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "वस्तूंना ‘सेवक’ का म्हटले आहे?",
+      "answer": "त्या माणसाच्या सतत उपयोगी पडतात म्हणून."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "वस्तूंना बरोबरीचा मान का द्यावा?",
+      "answer": "त्या आपले काम सोपे करतात म्हणून."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "वस्तूंना वेगळी खोली नको असण्याचा अर्थ काय?",
+      "answer": "त्या आपल्या नेहमीच्या जागेतच हव्या असतात."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "‘आपल्या मानलेल्या जागे’चा भावार्थ काय?",
+      "answer": "आपुलकीची जागा."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "वस्तूंना स्वच्छ ठेवण्याचा संदेश का दिला आहे?",
+      "answer": "काळजी व्यक्त करण्यासाठी."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "वस्तूंना जपल्याने काय जपले जाते?",
+      "answer": "आठवणी आणि स्नेह."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंशी कोणत्या भावनेने वागायला सांगतो?",
+      "answer": "कृतज्ञतेने."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "थोर व्यक्तींच्या वस्तू संग्रहालयात का ठेवल्या जातात?",
+      "answer": "त्यांच्याशी निगडित स्मृती जपण्यासाठी."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "वस्तूंना मन असल्यासारखे वागल्यास काय होते?",
+      "answer": "त्या सुखावतात असा भाव व्यक्त होतो."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "वस्तू आणि माणूस यांचे नाते कसे आहे?",
+      "answer": "दीर्घकाळ टिकणारे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणता सामाजिक संदेश आहे?",
+      "answer": "वापरातील संवेदनशीलता."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "वस्तूंना जिवंत ठेवण्याचा अर्थ काय?",
+      "answer": "त्यांच्याशी स्नेह टिकवणे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी निगडित आठवणी का महत्त्वाच्या आहेत?",
+      "answer": "त्या भूतकाळ जपतात."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंशी कसे वागू नये असे सूचित करतो?",
+      "answer": "निर्दयपणे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "वस्तूंना निरोप देताना कृतज्ञता का हवी?",
+      "answer": "त्या आयुष्यभर साथ देतात."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी वागण्यातील मानवीपणा काय आहे?",
+      "answer": "आदर आणि काळजी."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवितेचा सूर कसा आहे?",
+      "answer": "भावनिक."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी निगडित स्नेह कसा जपावा?",
+      "answer": "काळजीपूर्वक वापरून."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "वस्तू आयुष्याचा भाग कशामुळे बनतात?",
+      "answer": "सततच्या वापरामुळे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंना कशासारखे मानतो?",
+      "answer": "मूक सोबती."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वस्तू वापरून फेकणे कवीला का नको आहे?",
+      "answer": "ते असंवेदनशील वर्तन आहे."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वस्तू आणि माणूस यांचे नाते तुटते केव्हा?",
+      "answer": "उपेक्षेमुळे."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेत कृतज्ञतेचा भाव कसा दिसतो?",
+      "answer": "निरोपाच्या उल्लेखातून."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी स्नेह जपणे म्हणजे काय?",
+      "answer": "त्यांचा आदर राखणे."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वस्तूंना मानवी भावना देण्याला काय म्हणतात?",
+      "answer": "मानवीकरण."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ही कविता विद्यार्थ्यांसाठी उपयुक्त का आहे?",
+      "answer": "जबाबदार वापर शिकवते."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी निगडित भावनांचे महत्त्व काय?",
+      "answer": "त्या जीवन समृद्ध करतात."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंशी कोणत्या नात्याची जाणीव करून देतो?",
+      "answer": "सहजीवनाची."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "वस्तूंना दुर्लक्ष केल्यास काय होते?",
+      "answer": "स्नेह तुटतो."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "वस्तू जपण्याचा सामाजिक फायदा काय?",
+      "answer": "अपव्यय कमी होतो."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेतून कोणती मूल्ये शिकायला मिळतात?",
+      "answer": "कृतज्ञता व संवेदनशीलता."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "वस्तूंना मान देणे म्हणजे काय?",
+      "answer": "त्यांचा आदरपूर्वक वापर."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी वागण्यात बदल का आवश्यक आहे?",
+      "answer": "मानवी जाणीव टिकवण्यासाठी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश आजही लागू का आहे?",
+      "answer": "वापरवादी संस्कृतीमुळे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "वस्तू आठवणी कशा जपतात?",
+      "answer": "संबंधांची आठवण करून देतात."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंना ‘सुखावतात’ असे का म्हणतो?",
+      "answer": "मानवी भावनेची कल्पना देण्यासाठी."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी निगडित स्नेह कसा निर्माण होतो?",
+      "answer": "सततच्या सहवासातून."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवितेची भाषा कशी आहे?",
+      "answer": "सरळ आणि अर्थपूर्ण."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "वस्तूंची काळजी घेणे म्हणजे काय?",
+      "answer": "जबाबदारी स्वीकारणे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "वस्तू आयुष्याच्या कोणत्या टप्प्याशी जोडल्या जातात?",
+      "answer": "स्मृतींशी."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंना कशापासून वाचवू इच्छितो?",
+      "answer": "उपेक्षेपासून."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "वस्तू आणि भावना यांचा संबंध कसा आहे?",
+      "answer": "घनिष्ठ."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेचा परिणाम वाचकावर काय होतो?",
+      "answer": "आत्मपरीक्षण."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "वस्तूंशी निगडित नाते का टिकते?",
+      "answer": "स्नेहामुळे."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवी वस्तूंना कसा निरोप देण्यास सांगतो?",
+      "answer": "कृतज्ञतेने."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "‘वस्तू’ कविता कोणती जाणीव जागृत करते?",
+      "answer": "संवेदनशील वापराची."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "‘वस्तू’ या कवितेतील मानवीकरण स्पष्ट करा.",
+      "answer": "या कवितेत कवी वस्तूंना मानवी भावना देतो. मन, सुखावणे, आवड-निवड अशा भावनांद्वारे वस्तू आणि माणूस यांच्यातील नाते अधिक जवळचे वाटते."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "वस्तूंशी कृतज्ञतेने वागण्याचा संदेश कवितेत कसा व्यक्त झाला आहे?",
+      "answer": "वस्तूंनी आयुष्यभर साथ दिल्यामुळे त्यांना जपणे व कृतज्ञतेने निरोप देणे आवश्यक आहे असे कवी सांगतो."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "वस्तू आणि आठवणी यांचा संबंध स्पष्ट करा.",
+      "answer": "वस्तू अनेक आठवणी जपून ठेवतात. त्यामुळे त्या केवळ उपयोगी नसून भावनिक मूल्य धारण करतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "थोर व्यक्तींच्या वस्तू संग्रहालयात का जतन केल्या जातात?",
+      "answer": "त्या वस्तूंमधून त्या व्यक्तींच्या जीवनाची आठवण जपली जाते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "वस्तूंना बरोबरीचा मान देण्यामागील विचार स्पष्ट करा.",
+      "answer": "वस्तू माणसाच्या आयुष्यात मूकपणे साथ देतात, म्हणून त्यांचा आदर करावा असा विचार कवी मांडतो."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "वस्तूंना जपण्याचे सामाजिक महत्त्व स्पष्ट करा.",
+      "answer": "वस्तू जपल्यास अपव्यय टाळता येतो आणि संसाधनांची बचत होते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "‘आपल्या मानलेल्या जागे’चा अर्थ कवितेच्या संदर्भात स्पष्ट करा.",
+      "answer": "वस्तूंना जिथे आपुलकीने ठेवले जाते तीच त्यांची खरी जागा असते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "कवितेतील निरोपाच्या प्रसंगाचे भावनिक महत्त्व स्पष्ट करा.",
+      "answer": "आयुष्य संपल्यानंतर वस्तूंना कृतज्ञतेने निरोप देणे ही संवेदनशीलतेची खूण आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "वस्तूंशी निगडित स्नेह कसा टिकवता येतो?",
+      "answer": "त्यांचा आदरपूर्वक आणि जपून वापर केल्यास स्नेह टिकतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "आजच्या उपभोगप्रधान संस्कृतीत ‘वस्तू’ या कवितेचे महत्त्व स्पष्ट करा.",
+      "answer": "आज वस्तू पटकन वापरून फेकल्या जातात. अशा काळात ही कविता संवेदनशील वापराची जाणीव करून देते."
+    }
+  ]
+}

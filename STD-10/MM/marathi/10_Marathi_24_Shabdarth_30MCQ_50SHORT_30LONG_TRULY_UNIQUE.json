@@ -1,0 +1,1325 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.24",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "शब्दार्थ"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘कापरे’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धैर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "भीती"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘छत्रछाया’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संरक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "संरक्षण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘खस्ता खाणे’ या वाक्प्रचाराचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विश्रांती घेणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कष्ट करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग येणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हरणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "कष्ट करणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "‘शिताफी’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हुशारी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दु:ख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "हुशारी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘मुग्ध होणे’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुःखी होणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आश्चर्याने दंग होणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रागावणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घाबरणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "आश्चर्याने दंग होणे"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘पराधीन’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतंत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आधीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समृद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बलवान",
+          "is_correct": false
+        }
+      ],
+      "answer": "आधीन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘हिरिरी’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांतता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आवेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भिती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आवेश"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘निखालस’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खोटा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्पष्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गुप्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संशयास्पद",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पष्ट"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘कर्णकटू’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मधुर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कर्कश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सौम्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "कर्कश"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘शोष’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओलावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कोरडेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उत्साह",
+          "is_correct": false
+        }
+      ],
+      "answer": "कोरडेपणा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘झरोका’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मोठी खिडकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लहान खिडकी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "छप्पर",
+          "is_correct": false
+        }
+      ],
+      "answer": "लहान खिडकी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘कान देऊन ऐकणे’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुर्लक्ष करणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लक्षपूर्वक ऐकणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "न ऐकणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अर्धवट ऐकणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "लक्षपूर्वक ऐकणे"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘पित्त खवळणे’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद होणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राग येणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भूक लागणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकवा",
+          "is_correct": false
+        }
+      ],
+      "answer": "राग येणे"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "‘सुसंगति’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाईट संगत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चांगली संगत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "एकटेपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भांडण",
+          "is_correct": false
+        }
+      ],
+      "answer": "चांगली संगत"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘हट’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनंती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हट्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दया",
+          "is_correct": false
+        }
+      ],
+      "answer": "हट्ट"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "‘प्रच्छन्न’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उघड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गुप्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पष्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सरळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुप्त"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "‘सहिष्णु’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "असह्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सहनशील",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रागीट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निर्दय",
+          "is_correct": false
+        }
+      ],
+      "answer": "सहनशील"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "‘तगादा लावणे’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मागे लागणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "थांबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोडून देणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मदत करणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "मागे लागणे"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "‘आर्त’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तळमळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शांतता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाधान",
+          "is_correct": false
+        }
+      ],
+      "answer": "तळमळ"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "‘प्रलोभन’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धमकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आमिष",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आज्ञा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनंती",
+          "is_correct": false
+        }
+      ],
+      "answer": "आमिष"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘विहार’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लढणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिंडणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थांबणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विचार",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिंडणे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "‘अचंबित’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रागावलेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आश्चर्यचकित",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थकलेला",
+          "is_correct": false
+        }
+      ],
+      "answer": "आश्चर्यचकित"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "‘खाचखळगे’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपे मार्ग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अडचणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सपाट जागा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उंच शिखर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अडचणी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "‘डचमळणे’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्थिर राहणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डळमळणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धावणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "थांबणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "डळमळणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "‘साधर्म्य’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भिन्नता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सारखेपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विरोध",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुरावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सारखेपणा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘प्रबोधन’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अज्ञान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जागृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंधार",
+          "is_correct": false
+        }
+      ],
+      "answer": "जागृती"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "‘निर्जीव’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सजीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जीव नसलेले",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "बलवान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कमजोर",
+          "is_correct": false
+        }
+      ],
+      "answer": "जीव नसलेले"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "‘दुर्गुण’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "चांगला गुण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाईट सवय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सद्गुण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "प्रतिभा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाईट सवय"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘सृजनशील’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नवनिर्मिती करणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थकलेला",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "रागीट",
+          "is_correct": false
+        }
+      ],
+      "answer": "नवनिर्मिती करणारा"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘सार्वत्रिक’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मर्यादित",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सर्वत्र लागू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थानिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गुप्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्वत्र लागू"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "कापरे म्हणजे काय?",
+      "answer": "भीती."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "छत्रछाया म्हणजे काय?",
+      "answer": "संरक्षण."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "खस्ता खाणे म्हणजे काय?",
+      "answer": "कष्ट करणे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "शिताफी म्हणजे काय?",
+      "answer": "हुशारी."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "मुग्ध होणे म्हणजे काय?",
+      "answer": "आश्चर्याने दंग होणे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "पराधीन म्हणजे काय?",
+      "answer": "आधीन असलेला."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "हिरिरी म्हणजे काय?",
+      "answer": "आवेश."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "निखालस म्हणजे काय?",
+      "answer": "स्पष्ट."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कर्णकटू म्हणजे काय?",
+      "answer": "कर्कश."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "शोष म्हणजे काय?",
+      "answer": "कोरडेपणा."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "झरोका म्हणजे काय?",
+      "answer": "लहान खिडकी."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कान देऊन ऐकणे म्हणजे काय?",
+      "answer": "लक्षपूर्वक ऐकणे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "पित्त खवळणे म्हणजे काय?",
+      "answer": "राग येणे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "सुसंगति म्हणजे काय?",
+      "answer": "चांगली संगत."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "हट म्हणजे काय?",
+      "answer": "हट्ट."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "प्रच्छन्न म्हणजे काय?",
+      "answer": "गुप्त."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "सहिष्णु म्हणजे काय?",
+      "answer": "सहनशील."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "तगादा लावणे म्हणजे काय?",
+      "answer": "मागे लागणे."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "आर्त म्हणजे काय?",
+      "answer": "तळमळ."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "प्रलोभन म्हणजे काय?",
+      "answer": "आमिष."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "विहार म्हणजे काय?",
+      "answer": "हिंडणे."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "अचंबित म्हणजे काय?",
+      "answer": "आश्चर्यचकित."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "खाचखळगे म्हणजे काय?",
+      "answer": "अडचणी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "डचमळणे म्हणजे काय?",
+      "answer": "डळमळणे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "साधर्म्य म्हणजे काय?",
+      "answer": "सारखेपणा."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "प्रबोधन म्हणजे काय?",
+      "answer": "जागृती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "निर्जीव म्हणजे काय?",
+      "answer": "जीव नसलेले."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "दुर्गुण म्हणजे काय?",
+      "answer": "वाईट सवय."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "सृजनशील म्हणजे काय?",
+      "answer": "नवनिर्मिती करणारा."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "सार्वत्रिक म्हणजे काय?",
+      "answer": "सर्वत्र लागू."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "प्रतिभावंत म्हणजे काय?",
+      "answer": "गुणवान व्यक्ती."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "उत्स्फूर्त म्हणजे काय?",
+      "answer": "आपोआप घडणारे."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "अंत:करण म्हणजे काय?",
+      "answer": "मन."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "सामूहिक म्हणजे काय?",
+      "answer": "एकत्रित."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "क्षितिज म्हणजे काय?",
+      "answer": "आकाश व पृथ्वी मिळणारी रेषा."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "तात्पर्य म्हणजे काय?",
+      "answer": "मुख्य अर्थ."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "पुनरावृत्ती म्हणजे काय?",
+      "answer": "पुन्हा पुन्हा करणे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "उज्ज्वल म्हणजे काय?",
+      "answer": "तेजस्वी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "दुर्मीळ म्हणजे काय?",
+      "answer": "क्वचित आढळणारे."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "स्तिमित म्हणजे काय?",
+      "answer": "थक्क झालेले."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "समीक्षा म्हणजे काय?",
+      "answer": "परीक्षण."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "औपचारिक म्हणजे काय?",
+      "answer": "नियमबद्ध."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "आलंकारिक म्हणजे काय?",
+      "answer": "शब्दसौंदर्ययुक्त."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "स्मृतिदिन म्हणजे काय?",
+      "answer": "आठवणीचा दिवस."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "जीवनशैली म्हणजे काय?",
+      "answer": "जगण्याची पद्धत."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "सार्वजनिक म्हणजे काय?",
+      "answer": "सर्वांसाठी खुले."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अतिशयोक्ती म्हणजे काय?",
+      "answer": "अतिशय वाढवून सांगणे."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "वक्तृत्व म्हणजे काय?",
+      "answer": "बोलण्याची कला."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "अस्तित्व म्हणजे काय?",
+      "answer": "असणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "शब्दार्थ अभ्यासाचे महत्त्व स्पष्ट करा.",
+      "answer": "शब्दार्थ अभ्यासामुळे शब्दांचा अचूक अर्थ कळतो. वाचनसमज वाढते आणि भाषेचा प्रभावी वापर करता येतो."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "वाक्प्रचारांचे अर्थ जाणून घेणे का आवश्यक आहे?",
+      "answer": "वाक्प्रचारांचा अर्थ कळल्याने भाषेतील सूक्ष्म अर्थछटा समजतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "शब्दार्थ समजल्याने लेखन कसे सुधारते?",
+      "answer": "अचूक शब्दप्रयोगामुळे लेखन स्पष्ट, प्रभावी व अर्थपूर्ण होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "कठीण शब्दांचे अर्थ समजण्यासाठी कोणती साधने वापरावी?",
+      "answer": "शब्दकोश, संदर्भग्रंथ व शिक्षक मार्गदर्शन वापरावे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "समानार्थी शब्दांचा उपयोग स्पष्ट करा.",
+      "answer": "समानार्थी शब्दांमुळे भाषा वैविध्यपूर्ण व समृद्ध होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "विरुद्धार्थी शब्दांचा अभ्यास का करावा?",
+      "answer": "अर्थभेद स्पष्ट होतो आणि समज वाढते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "शब्दार्थ पाठाचा विद्यार्थ्यांना होणारा फायदा सांगा.",
+      "answer": "भाषाजाणीव, वाचनसमज व लेखनकौशल्य वाढते."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "शब्दार्थ व संदर्भ यांचा संबंध स्पष्ट करा.",
+      "answer": "संदर्भानुसार शब्दाचा अर्थ बदलू शकतो."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "वाक्यातील शब्दाचा अर्थ कसा ओळखावा?",
+      "answer": "वाक्याच्या संदर्भातून योग्य अर्थ ठरवावा."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "शब्दार्थ अभ्यासामुळे भाषेची समृद्धी कशी वाढते?",
+      "answer": "नवीन शब्दांचे ज्ञान मिळून भाषा अधिक प्रभावी होते."
+    },
+    {
+      "question_id": 90,
+      "question_type": "LONG",
+      "question": "शब्दकोश वापरण्याचे महत्त्व स्पष्ट करा.",
+      "answer": "अचूक अर्थ, उच्चार व उपयोग कळतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "LONG",
+      "question": "शब्दार्थ चुकल्यास काय परिणाम होऊ शकतात?",
+      "answer": "अर्थाचा विपर्यास होऊन गैरसमज निर्माण होतो."
+    },
+    {
+      "question_id": 92,
+      "question_type": "LONG",
+      "question": "पाठ्यपुस्तकातील शब्दार्थ अभ्यास का आवश्यक आहे?",
+      "answer": "पाठ समजण्यासाठी व उत्तरलेखनासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 93,
+      "question_type": "LONG",
+      "question": "शब्दार्थ लक्षात ठेवण्यासाठी कोणते उपाय करावेत?",
+      "answer": "नियमित वाचन व वापर करावा."
+    },
+    {
+      "question_id": 94,
+      "question_type": "LONG",
+      "question": "वाक्प्रचार व म्हणी यांचा अर्थ जाणून घेण्याचे महत्त्व.",
+      "answer": "भाषेतील सांस्कृतिक संदर्भ समजतात."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "शब्दार्थ व व्याकरण यांचा संबंध स्पष्ट करा.",
+      "answer": "योग्य अर्थासाठी योग्य व्याकरण आवश्यक आहे."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "दैनंदिन जीवनात शब्दार्थाचे महत्त्व सांगा.",
+      "answer": "संवाद प्रभावी व स्पष्ट होतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "शब्दार्थ अभ्यासामुळे वाचनकौशल्य कसे वाढते?",
+      "answer": "अर्थ समजल्याने वाचन वेगवान व अर्थपूर्ण होते."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "शब्दार्थ पाठाचा परीक्षेत उपयोग कसा होतो?",
+      "answer": "अर्थलेखन व स्पष्टीकरणासाठी उपयोग होतो."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "विद्यार्थ्यांनी शब्दार्थ वही कशी तयार करावी?",
+      "answer": "अकारविल्हे शब्द व अर्थ नोंदवावेत."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "शब्दार्थ अभ्यास व भाषाविकास यांचा संबंध स्पष्ट करा.",
+      "answer": "शब्दसंपत्ती वाढल्याने भाषा विकसित होते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "कठीण शब्दांचा सराव का करावा?",
+      "answer": "भाषेवरील प्रभुत्व वाढते."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "शब्दार्थ समजून घेण्यासाठी संदर्भ वाचनाचे महत्त्व.",
+      "answer": "अर्थ स्पष्ट व योग्य ठरतो."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "शब्दार्थ पाठामुळे आत्मविश्वास कसा वाढतो?",
+      "answer": "भाषावापरात आत्मविश्वास निर्माण होतो."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "शब्दार्थ अभ्यासातून काय शिकायला मिळते?",
+      "answer": "अचूक भाषा वापर."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "भाषेतील बारकावे समजण्यासाठी शब्दार्थ का महत्त्वाचा?",
+      "answer": "सूक्ष्म अर्थछटा समजतात."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "शब्दार्थ व भावार्थ यात फरक स्पष्ट करा.",
+      "answer": "शब्दार्थ थेट अर्थ, भावार्थ सूचित अर्थ."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "शब्दार्थ अभ्यासाचा लेखनावर होणारा परिणाम.",
+      "answer": "लेखन अधिक नेमके होते."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "शब्दार्थ अभ्यासाचा संभाषणावर होणारा परिणाम.",
+      "answer": "संवाद स्पष्ट व प्रभावी होतो."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "शब्दार्थ पाठाचा एकूण उद्देश स्पष्ट करा.",
+      "answer": "विद्यार्थ्यांची भाषाजाणीव वाढवणे."
+    }
+  ]
+}

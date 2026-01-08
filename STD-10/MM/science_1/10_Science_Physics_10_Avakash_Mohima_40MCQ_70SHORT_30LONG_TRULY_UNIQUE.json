@@ -1,0 +1,1581 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Physics.10",
+    "standard": "10",
+    "subject": "Science – Physics",
+    "medium": "Marathi",
+    "chapter_name": "अवकाश मोहिमा"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "अवकाश म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृथ्वीवरील वातावरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पृथ्वीबाहेरील विशाल प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त ग्रहांचा समूह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकाश",
+          "is_correct": false
+        }
+      ],
+      "answer": "पृथ्वीबाहेरील विशाल प्रदेश"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "पृथ्वीचा नैसर्गिक उपग्रह कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मंगळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शुक्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चंद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "बुध",
+          "is_correct": false
+        }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "पहिला कृत्रिम उपग्रह कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आर्यभट्ट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्पुटनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इन्सॅट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हबल",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्पुटनिक"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "स्पुटनिक कोणत्या देशाने पाठवला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेरिका",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भारत",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रशिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जपान",
+          "is_correct": false
+        }
+      ],
+      "answer": "रशिया"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारताचा पहिला उपग्रह कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भास्कर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आर्यभट्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इन्सॅट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चंद्रयान",
+          "is_correct": false
+        }
+      ],
+      "answer": "आर्यभट्ट"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कृत्रिम उपग्रहांचा प्रमुख उपयोग?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संदेशवहन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पर्यटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "करमणूक",
+          "is_correct": false
+        }
+      ],
+      "answer": "संदेशवहन"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भूस्थिर उपग्रहाचा कालावधी किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "12 तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "18 तास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "24 तास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "48 तास",
+          "is_correct": false
+        }
+      ],
+      "answer": "24 तास"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भूस्थिर उपग्रह कोणत्या दिशेने फिरतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्रुवीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विषुववृत्तीय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अनियमित",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तिरका",
+          "is_correct": false
+        }
+      ],
+      "answer": "विषुववृत्तीय"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "हवामान अभ्यासासाठी कोणते उपग्रह?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दळणवळण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हवामान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सैनिकी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वैज्ञानिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामान"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "INSAT ही उपग्रह मालिका कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान व दळणवळण",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "खनन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संशोधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लष्करी",
+          "is_correct": false
+        }
+      ],
+      "answer": "हवामान व दळणवळण"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "IRS उपग्रह कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संदेशवहन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दूरदर्शन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पृथ्वी निरीक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नेव्हिगेशन",
+          "is_correct": false
+        }
+      ],
+      "answer": "पृथ्वी निरीक्षण"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "IRNSS कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दिशादर्शन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दूरदर्शन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संशोधन",
+          "is_correct": false
+        }
+      ],
+      "answer": "दिशादर्शन"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "PSLV म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपग्रह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रक्षेपक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुर्बीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपकरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रक्षेपक"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "GSLV म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उपग्रह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रक्षेपक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "यान",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रक्षेपक"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "उपग्रह प्रक्षेपक कोणत्या नियमावर आधारित?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पहिला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुसरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तिसरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चौथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "तिसरा"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा तिसरा नियम कशाशी संबंधित?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "क्रिया-प्रतिक्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्रिया-प्रतिक्रिया"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "उपग्रह कक्षेत ठेवण्यासाठी काय आवश्यक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उंची",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेग",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेग"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "निम्न कक्षेची उंची किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "<2000 km",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": ">35780 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "50000 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "100 km",
+          "is_correct": false
+        }
+      ],
+      "answer": "<2000 km"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "मध्यम कक्षा उंची?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "<2000 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2000-35780 km",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": ">35780 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "100 km",
+          "is_correct": false
+        }
+      ],
+      "answer": "2000-35780 km"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "उच्च कक्षा उंची?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "<2000 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2000-35780 km",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": ">35780 km",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "500 km",
+          "is_correct": false
+        }
+      ],
+      "answer": ">35780 km"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "ध्रुवीय उपग्रह कशासाठी उपयुक्त?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्रुव अभ्यास",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "संदेशवहन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दूरदर्शन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नेव्हिगेशन",
+          "is_correct": false
+        }
+      ],
+      "answer": "ध्रुव अभ्यास"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "आंतरराष्ट्रीय अवकाश स्थानक कोणत्या कक्षेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उच्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "निम्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भूस्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "निम्न"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "मुक्तिवेग पृथ्वीवर किती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "9.8 km/s",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "7.9 km/s",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "11.2 km/s",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "15 km/s",
+          "is_correct": false
+        }
+      ],
+      "answer": "11.2 km/s"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "मुक्तिवेग कशावर अवलंबून?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "त्रिज्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "पहिला अवकाशयात्री कोण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नील आर्मस्ट्रॉंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "युरी गागारीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राकेश शर्मा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुनीता विल्यम्स",
+          "is_correct": false
+        }
+      ],
+      "answer": "युरी गागारीन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "चंद्रावर पहिले पाऊल कोणी ठेवले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गागारीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "राकेश शर्मा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "नील आर्मस्ट्रॉंग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "कोलंबस",
+          "is_correct": false
+        }
+      ],
+      "answer": "नील आर्मस्ट्रॉंग"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "भारताचा अवकाशयात्री?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कल्पना चावला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुनीता विल्यम्स",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "राकेश शर्मा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वरील सर्व",
+          "is_correct": true
+        }
+      ],
+      "answer": "वरील सर्व"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "चंद्रयान-1 ने काय शोधले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खनिज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जीव",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "वायू",
+          "is_correct": false
+        }
+      ],
+      "answer": "पाणी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "मंगळ मोहीम भारताने कधी पाठवली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2010",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2012",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "2013",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "2015",
+          "is_correct": false
+        }
+      ],
+      "answer": "2013"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "मंगलयान कधी कक्षेत पोहोचले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "2013",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "2014",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "2015",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "2016",
+          "is_correct": false
+        }
+      ],
+      "answer": "2014"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "अवकाशातील कचरा म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैसर्गिक दगड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निरुपयोगी मानवनिर्मित वस्तू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तारे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धूमकेतू",
+          "is_correct": false
+        }
+      ],
+      "answer": "निरुपयोगी मानवनिर्मित वस्तू"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "अवकाश कचरा धोकादायक का?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपग्रहांना हानी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपग्रहांना हानी"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "ISRO चे पूर्ण रूप काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Indian Space Research Org.",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Indian Satellite Research Org.",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "International Space Org.",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Indian Science Research Org.",
+          "is_correct": false
+        }
+      ],
+      "answer": "Indian Space Research Org."
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "ISRO चे संस्थापक कोण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "होमी भाभा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विक्रम साराभाई",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सतीश धवन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नारळीकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "विक्रम साराभाई"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "श्रीहरीकोटा कशासाठी प्रसिद्ध?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संशोधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रक्षेपण केंद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उपग्रह",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शिक्षण",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रक्षेपण केंद्र"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "EDUSAT कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संरक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संशोधन",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षण"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "या धड्याचा विषय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भौतिकशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "अवकाश म्हणजे काय?",
+      "answer": "पृथ्वीबाहेरील विशाल प्रदेश."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "सौरमंडळ म्हणजे काय?",
+      "answer": "सूर्य व त्याभोवती फिरणारे घटक."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "नैसर्गिक उपग्रह म्हणजे?",
+      "answer": "ग्रहाभोवती फिरणारी खगोलीय वस्तू."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "कृत्रिम उपग्रह म्हणजे?",
+      "answer": "मानवनिर्मित उपग्रह."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "चंद्र पृथ्वीचा किती उपग्रह?",
+      "answer": "एक."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "स्पुटनिक कधी पाठवला?",
+      "answer": "1957."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "आर्यभट्ट कधी पाठवला?",
+      "answer": "1975."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "भूस्थिर उपग्रह म्हणजे?",
+      "answer": "पृथ्वीच्या सापेक्ष स्थिर."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "भूस्थिर उपग्रह उपयोग?",
+      "answer": "दूरदर्शन, दळणवळण."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "हवामान उपग्रह उपयोग?",
+      "answer": "हवामान अंदाज."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "दळणवळण उपग्रह म्हणजे?",
+      "answer": "संदेशवहनासाठी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "दिशादर्शक उपग्रह म्हणजे?",
+      "answer": "स्थान निश्चित करणारे."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "IRNSS म्हणजे?",
+      "answer": "भारतीय दिशादर्शक प्रणाली."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "IRS म्हणजे?",
+      "answer": "पृथ्वी निरीक्षण उपग्रह."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "उपग्रह कक्षा म्हणजे?",
+      "answer": "परिभ्रमण मार्ग."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "निम्न कक्षा उंची?",
+      "answer": "180-2000 km."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "मध्यम कक्षा उंची?",
+      "answer": "2000-35780 km."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "उच्च कक्षा उंची?",
+      "answer": ">35780 km."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ध्रुवीय कक्षा म्हणजे?",
+      "answer": "ध्रुवांवरून जाणारी."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "ISS कोणत्या कक्षेत?",
+      "answer": "निम्न कक्षा."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "उपग्रहाला कक्षेत ठेवण्यासाठी?",
+      "answer": "योग्य वेग."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "स्पर्शरेषीय वेग म्हणजे?",
+      "answer": "कक्षेतील वेग."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मुक्तिवेग म्हणजे?",
+      "answer": "गुरुत्वातून मुक्त होण्याचा वेग."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचा मुक्तिवेग?",
+      "answer": "11.2 km/s."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "पहिला अवकाशयात्री?",
+      "answer": "युरी गागारीन."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "पहिली चंद्र मोहीम?",
+      "answer": "लुना-2."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "नील आर्मस्ट्रॉंग कधी चंद्रावर?",
+      "answer": "1969."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "राकेश शर्मा कधी अवकाशात?",
+      "answer": "1984."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कल्पना चावला कोण?",
+      "answer": "भारतीय वंशाची अंतराळवीर."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "सुनीता विल्यम्स?",
+      "answer": "भारतीय वंशाची अंतराळवीर."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "चंद्रयान-1 कधी?",
+      "answer": "2008."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "चंद्रयान-1 शोध?",
+      "answer": "चंद्रावरील पाणी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "मंगलयान प्रक्षेपण?",
+      "answer": "2013."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "मंगलयान कक्षा?",
+      "answer": "2014."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "मंगलयान वैशिष्ट्य?",
+      "answer": "कमी खर्च."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "अवकाश कचरा म्हणजे?",
+      "answer": "निरुपयोगी अवकाश वस्तू."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "अवकाश कचरा धोका?",
+      "answer": "उपग्रह नुकसान."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "उपग्रह प्रक्षेपक म्हणजे?",
+      "answer": "उपग्रह नेणारे यान."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "PSLV उपयोग?",
+      "answer": "निम्न/मध्यम कक्षा."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "GSLV उपयोग?",
+      "answer": "भूस्थिर कक्षा."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "प्रक्षेपक टप्पे का?",
+      "answer": "वजन कमी करण्यासाठी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "न्यूटन तिसरा नियम?",
+      "answer": "क्रिया-प्रतिक्रिया."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "ISRO स्थापना?",
+      "answer": "1969."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "विक्रम साराभाई?",
+      "answer": "भारतीय अंतराळ कार्यक्रम जनक."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "सतीश धवन?",
+      "answer": "ISRO प्रमुख शास्त्रज्ञ."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "श्रीहरीकोटा?",
+      "answer": "प्रक्षेपण केंद्र."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "EDUSAT उपयोग?",
+      "answer": "शिक्षण."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "INSAT उपयोग?",
+      "answer": "संदेशवहन."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "GSAT उपयोग?",
+      "answer": "दळणवळण."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "अंतराळ संशोधन गरज?",
+      "answer": "ज्ञानवृद्धी."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "अंतराळ तंत्रज्ञान उपयोग?",
+      "answer": "आपत्ती व्यवस्थापन."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "उपग्रह सौरऊर्जा वापरतात का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "उपग्रहातील सौरपॅनेल?",
+      "answer": "ऊर्जा निर्मिती."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "अवकाश मोहीम म्हणजे?",
+      "answer": "अवकाशातील संशोधन."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "इतर ग्रह मोहिमा?",
+      "answer": "मंगळ, शुक्र."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "धूमकेतू अभ्यास?",
+      "answer": "अवकाश मोहिमा."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी?",
+      "answer": "अवकाश ज्ञान."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "हा विषय कोणता?",
+      "answer": "भौतिकशास्त्र."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "अवकाश व आकाश यातील फरक स्पष्ट करा.",
+      "answer": "पृथ्वीबाहेरील विशाल प्रदेश व दृश्य आकाश."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "सौरमंडळातील घटक स्पष्ट करा.",
+      "answer": "सूर्य, ग्रह, उपग्रह."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "कृत्रिम उपग्रह म्हणजे काय? प्रकार सांगा.",
+      "answer": "हवामान, दळणवळण, दिशादर्शक."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "भूस्थिर उपग्रह म्हणजे काय?",
+      "answer": "24 तास कालावधी."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "उपग्रह कक्षा म्हणजे काय?",
+      "answer": "परिभ्रमण मार्ग."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "निम्न, मध्यम व उच्च कक्षा तुलना करा.",
+      "answer": "उंची व उपयोग."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "ध्रुवीय कक्षा स्पष्ट करा.",
+      "answer": "ध्रुव अभ्यास."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "उपग्रह प्रक्षेपक म्हणजे काय?",
+      "answer": "उपग्रह नेणारे यान."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "PSLV ची रचना.",
+      "answer": "अनेक टप्पे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "GSLV ची वैशिष्ट्ये.",
+      "answer": "भूस्थिर उपग्रह."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "न्यूटनचा तिसरा नियम व प्रक्षेपक.",
+      "answer": "क्रिया-प्रतिक्रिया."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "मुक्तिवेग म्हणजे काय?",
+      "answer": "गुरुत्वातून मुक्त."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "पृथ्वीचा मुक्तिवेग काढा.",
+      "answer": "11.2 km/s."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "अवकाशातील पहिले मानव.",
+      "answer": "युरी गागारीन."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "चंद्र मोहीमांचे महत्त्व.",
+      "answer": "चंद्र अभ्यास."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "चंद्रयान-1 मोहीम.",
+      "answer": "पाण्याचा शोध."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "मंगलयान मोहीम.",
+      "answer": "मंगळ अभ्यास."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "भारताची अवकाश कामगिरी.",
+      "answer": "कमी खर्च."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "ISRO चे योगदान.",
+      "answer": "राष्ट्रीय विकास."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "INSAT व GSAT उपयोग.",
+      "answer": "दूरसंचार."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "IRS उपग्रहांचे उपयोग.",
+      "answer": "संसाधन व्यवस्थापन."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "IRNSS प्रणाली.",
+      "answer": "स्थान निर्धारण."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "EDUSAT चे महत्त्व.",
+      "answer": "शिक्षण."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "अवकाशातील कचरा म्हणजे काय?",
+      "answer": "निरुपयोगी वस्तू."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "अवकाश कचऱ्याचे धोके.",
+      "answer": "उपग्रह नुकसान."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "अवकाश कचरा व्यवस्थापन.",
+      "answer": "नवीन उपाय."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "अवकाश मोहिमांचे फायदे.",
+      "answer": "ज्ञान व तंत्रज्ञान."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "अंतराळ तंत्रज्ञानाचे दैनंदिन उपयोग.",
+      "answer": "इंटरनेट, हवामान."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "भविष्यातील अवकाश मोहिमा.",
+      "answer": "इतर ग्रह."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "या धड्याचे शैक्षणिक महत्त्व.",
+      "answer": "वैज्ञानिक दृष्टिकोन."
+    }
+  ]
+}

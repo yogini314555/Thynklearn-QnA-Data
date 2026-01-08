@@ -1,0 +1,1193 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.04",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "उत्तमलक्षण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘उत्तमलक्षण’ ही रचना कोणत्या संतकवीची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संत तुकाराम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संत एकनाथ",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संत रामदास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संत ज्ञानेश्वर",
+          "is_correct": false
+        }
+      ],
+      "answer": "संत रामदास"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "‘उत्तमलक्षण’ हा उतारा कुठून घेतला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनाचे श्लोक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दासबोध",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अभंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आरती",
+          "is_correct": false
+        }
+      ],
+      "answer": "दासबोध"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "या रचनेत संत रामदास काय सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजकारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आदर्श व्यक्तीची लक्षणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आदर्श व्यक्तीची लक्षणे"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "‘वाट पुसल्याविण जाऊं नये’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रस्ता स्वच्छ ठेवावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचार न करता कृती करू नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्रवास टाळावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घरीच राहावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचार न करता कृती करू नये"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "संत रामदास कोणत्या मार्गावर चालण्याचा उपदेश करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुखाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्याचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोप्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थाचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्याचा"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘पडिली वस्तु घेऊं नये’ यातून कोणता गुण सुचतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोभ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रामाणिकपणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रामाणिकपणा"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘जनीं आर्जव तोडूं नये’ याचा आशय काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकांशी भांडू नये",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नम्रता सोडू नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मौन पाळावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकटे राहावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "नम्रता सोडू नये"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पापद्रव्य जोडू नये असे का सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भयामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नैतिकतेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कायद्यासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समाजासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिकतेसाठी"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘संतसंग खंडूं नये’ यातून काय संदेश मिळतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "एकटे राहावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सद्संग ठेवावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोक टाळावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मौन पाळावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सद्संग ठेवावा"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘आळसें सुख मानूं नये’ यातून काय शिकवण मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस चांगला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रम आवश्यक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विश्रांती घ्यावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "झोप महत्त्वाची",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रम आवश्यक"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "सभेमध्ये कसे वागावे असे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धाडसाने बोलावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "बाष्कळ बोलू नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मौन ठेवावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हसावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "बाष्कळ बोलू नये"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘परपीडा करूं नये’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इतरांना मदत करावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इतरांना त्रास देऊ नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वतःचा विचार करावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "इतरांना त्रास देऊ नये"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "संत रामदास अभिमानाबद्दल काय सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घ्यावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाढवावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "घेऊ नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "दाखवावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "घेऊ नये"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "‘सत्यमार्ग सांडूं नये’ याचा आशय काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सत्य सोडावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्याचा मार्ग धरावा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मौन पाळावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "धर्म बदलावा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्याचा मार्ग धरावा"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कीर्तीबाबत संत रामदास काय सांगतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अपकीर्ती वाढवावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सत्कीर्ती वाढवावी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कीर्ती टाळावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाव लपवावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "सत्कीर्ती वाढवावी"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "‘विवेकें दृढ धरावी’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हट्टीपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विचारपूर्वक निर्णय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "विचारपूर्वक निर्णय"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ही रचना कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथनपर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपदेशपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्यमय",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपदेशपर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "संत रामदास यांच्या काव्याचे वैशिष्ट्य काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "केवळ भक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सामाजिक जाणीव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रोमँटिकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काल्पनिकता",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामाजिक जाणीव"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "‘मनाचे श्लोक’ कशासाठी प्रसिद्ध आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कथा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उपदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाटक",
+          "is_correct": false
+        }
+      ],
+      "answer": "उपदेश"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "संत रामदासांनी कोणत्या गोष्टी टाळण्यास सांगितल्या आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सद्गुण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुर्गुण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भक्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुर्गुण"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "‘पराधेन होऊं नये’ यातून काय सुचते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वावलंबन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वार्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वावलंबन"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "ही रचना वाचकांना कशासाठी प्रेरित करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुखासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नैतिक जीवनासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिक जीवनासाठी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "‘आपलें वोझें घालूं नये’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जबाबदारी टाकावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इतरांवर भार टाकू नये",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मदत मागावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काम टाळावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "इतरांवर भार टाकू नये"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "संत रामदास कोणत्या मूल्यांवर भर देतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नैतिकता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "नैतिकता"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ही रचना समाजाला काय शिकवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विवेक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अहंकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "विवेक"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "संत रामदास यांच्या विचारांचा केंद्रबिंदू काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "नीती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजकारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "युद्ध",
+          "is_correct": false
+        }
+      ],
+      "answer": "नीती"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "‘अपकीर्ति ते सांडावी’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाईट नाव टाळावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "नाव लपवावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कीर्ती वाढवावी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा करावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाईट नाव टाळावे"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "या रचनेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सरळ उपदेशपर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परदेशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरळ उपदेशपर"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘उत्तमलक्षण’ वाचून कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आत्मपरीक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आत्मपरीक्षण"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "या रचनेचा मुख्य उद्देश काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सद्गुण जोपासना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सद्गुण जोपासना"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘उत्तमलक्षण’ या रचनेचा मुख्य विषय काय आहे?",
+      "answer": "आदर्श व्यक्तीचे सद्गुण आणि आचार."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "संत रामदासांनी कोणत्या दोन गोष्टींचा मार्गदर्शन दिले आहे?",
+      "answer": "काय करावे आणि काय करू नये."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "‘वाट पुसल्याविण जाऊं नये’ यातून काय सुचते?",
+      "answer": "विचारपूर्वक वागावे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "पडलेली वस्तू न घेण्याचा उपदेश का केला आहे?",
+      "answer": "प्रामाणिकपणासाठी."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "‘जनीं आर्जव तोडूं नये’ याचा अर्थ काय?",
+      "answer": "नम्रता कायम ठेवावी."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "पुण्यमार्ग का सोडू नये?",
+      "answer": "तो नैतिक जीवनाचा आधार आहे."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "संतसंगाचे महत्त्व काय आहे?",
+      "answer": "तो सद्विचार वाढवतो."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "आळसाबद्दल संत रामदास काय सांगतात?",
+      "answer": "आळस टाळावा."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "सभेत कसे वागावे असे सांगितले आहे?",
+      "answer": "संयमित बोलावे."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "परपीडा का करू नये?",
+      "answer": "ती अधर्म आहे."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "स्वावलंबनाचा उपदेश कुठल्या ओळीत आहे?",
+      "answer": "‘पराधेन होऊं नये’."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "सत्यमार्गाचे महत्त्व काय?",
+      "answer": "तो विवेकाचा मार्ग आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "अभिमान का टाळावा?",
+      "answer": "तो असत्याकडे नेतो."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "सत्कीर्ती कशी वाढवावी?",
+      "answer": "सद्वर्तनाने."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "विवेक म्हणजे काय?",
+      "answer": "योग्य-अयोग्याची जाणीव."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "ही रचना कोणत्या ग्रंथातून घेतली आहे?",
+      "answer": "दासबोध."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "संत रामदास यांच्या काव्याची वैशिष्ट्ये कोणती?",
+      "answer": "सामाजिक व नैतिक जाणीव."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "मनाचे श्लोक का लोकप्रिय आहेत?",
+      "answer": "ते उपदेशपर आहेत."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "उत्तम व्यक्तीचे पहिले लक्षण कोणते?",
+      "answer": "सत्यनिष्ठा."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "दुर्गुण टाळण्याचे महत्त्व काय?",
+      "answer": "चारित्र्य टिकते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "ही रचना विद्यार्थ्यांसाठी उपयुक्त का आहे?",
+      "answer": "ती जीवनमूल्ये शिकवते."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "संत रामदास कोणत्या मार्गावर चालण्यास सांगतात?",
+      "answer": "सत्याच्या मार्गावर."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "नैतिकतेचा संदेश कुठून मिळतो?",
+      "answer": "उपदेशात्मक ओळींतून."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "‘आपलें वोझें घालूं नये’ याचा भावार्थ काय?",
+      "answer": "इतरांवर भार टाकू नये."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "संत रामदास समाजाबद्दल कसे चिंतित आहेत?",
+      "answer": "नैतिक अधःपतनाबद्दल."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "उत्तमलक्षण वाचून काय करावेसे वाटते?",
+      "answer": "स्वतःचे वर्तन तपासावे."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "संतसंगाचा परिणाम काय होतो?",
+      "answer": "विचार शुद्ध होतात."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "असत्याचा मार्ग का टाळावा?",
+      "answer": "तो अधर्माकडे नेतो."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ही रचना कोणत्या काळातील आहे?",
+      "answer": "सतराव्या शतकातील."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "संत रामदास कोणत्या प्रकारचे संतकवी होते?",
+      "answer": "उपदेशक."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आदर्श व्यक्तीची ओळख कशातून होते?",
+      "answer": "वर्तनातून."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "संत रामदासांचा मुख्य संदेश काय आहे?",
+      "answer": "सद्गुण जोपासा."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कीर्ती व अपकीर्ती यात फरक काय?",
+      "answer": "एक चांगले नाव, दुसरे वाईट नाव."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "विवेक का आवश्यक आहे?",
+      "answer": "योग्य निर्णयासाठी."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "उत्तमलक्षणातील भाषा कशी आहे?",
+      "answer": "सरळ व उपदेशपर."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "ही रचना कोणासाठी आहे?",
+      "answer": "सर्व समाजासाठी."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "संत रामदासांनी कोणत्या गोष्टी न करण्यास सांगितल्या?",
+      "answer": "दुर्गुण."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "नैतिक मूल्ये म्हणजे काय?",
+      "answer": "योग्य वर्तनाचे नियम."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "उत्तमलक्षण जीवनात कसे उपयोगी आहे?",
+      "answer": "वर्तन सुधारण्यासाठी."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "संत रामदासांचा समाजावरील दृष्टिकोन कसा आहे?",
+      "answer": "सुधारणावादी."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "सद्गुणांचा परिणाम काय होतो?",
+      "answer": "चारित्र्य घडते."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "उत्तमलक्षणाचा आशय काय?",
+      "answer": "नीतिमूल्यांचा उपदेश."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "संत रामदासांची शैली कशी आहे?",
+      "answer": "थेट आणि प्रभावी."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "उत्तम व्यक्ती कशी घडते?",
+      "answer": "सदाचाराने."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ही रचना वाचून काय शिकायला मिळते?",
+      "answer": "योग्य जीवनमार्ग."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "उत्तमलक्षणाचे महत्त्व काय?",
+      "answer": "आदर्श जीवनदर्शन."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "संत रामदासांचा संदेश आजही लागू का आहे?",
+      "answer": "कारण मूल्ये कालातीत आहेत."
+    },
+    {
+      "question_id": 78,
+      "question_type": "LONG",
+      "question": "‘उत्तमलक्षण’ या रचनेतील आदर्श व्यक्तीची संकल्पना स्पष्ट करा.",
+      "answer": "संत रामदासांनी आदर्श व्यक्तीचे चित्रण करताना तिच्या वर्तनावर भर दिला आहे. सत्यनिष्ठा, विवेक, नम्रता आणि सदाचार ही तिची मुख्य लक्षणे आहेत. दुर्गुण टाळून सद्गुण जोपासल्यास व्यक्ती आदर्श बनते असा संदेश त्यांनी दिला आहे."
+    },
+    {
+      "question_id": 79,
+      "question_type": "LONG",
+      "question": "संत रामदासांनी ‘काय करावे’ आणि ‘काय करू नये’ याबाबत दिलेल्या सूचनांचे महत्त्व स्पष्ट करा.",
+      "answer": "या रचनेत संत रामदासांनी जीवनातील योग्य-अयोग्य मार्ग स्पष्ट केले आहेत. यामुळे व्यक्तीला आत्मपरीक्षणाची संधी मिळते आणि नैतिक जीवन जगण्यास मदत होते."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘वाट पुसल्याविण जाऊं नये’ या ओळीचा सविस्तर अर्थ लिहा.",
+      "answer": "या ओळीचा अर्थ कोणतेही काम करण्यापूर्वी विचार करावा असा आहे. घाईगडबडीत घेतलेले निर्णय नुकसानदायक ठरू शकतात."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "संतसंगाचे महत्त्व ‘उत्तमलक्षण’च्या आधारे स्पष्ट करा.",
+      "answer": "सद्गुणी व्यक्तींचा सहवास मन शुद्ध करतो. संतसंगामुळे योग्य विचार आणि नैतिक मूल्ये अंगीकारली जातात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "आळस आणि परिश्रम याबाबत संत रामदासांचा दृष्टिकोन स्पष्ट करा.",
+      "answer": "संत रामदास आळसाचा निषेध करतात आणि परिश्रमाचे महत्त्व सांगतात. परिश्रमानेच व्यक्ती आणि समाजाची प्रगती होते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "‘सत्यमार्ग सांडूं नये’ या उपदेशाचे महत्त्व स्पष्ट करा.",
+      "answer": "सत्याचा मार्ग हा विवेकाचा आणि नैतिकतेचा मार्ग आहे. त्यावर चालल्यास जीवन शुद्ध आणि उज्ज्वल बनते."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "उत्तमलक्षणातील नैतिक मूल्यांचा आजच्या समाजातील उपयोग स्पष्ट करा.",
+      "answer": "आजच्या काळात मूल्यांची गरज अधिक आहे. ही रचना प्रामाणिकपणा, स्वावलंबन आणि सदाचार शिकवते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "संत रामदास यांच्या काव्याची वैशिष्ट्ये ‘उत्तमलक्षण’च्या आधारे स्पष्ट करा.",
+      "answer": "संत रामदासांचे काव्य उपदेशपर आणि समाजाभिमुख आहे. त्यात सामाजिक जाणीव आणि नैतिक तळमळ दिसते."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "‘अपकीर्ति ते सांडावी, सत्कीर्ति वाडवावी’ या विचाराचे स्पष्टीकरण द्या.",
+      "answer": "वाईट वर्तनामुळे अपकीर्ती मिळते तर सदाचाराने सत्कीर्ती मिळते. म्हणून संत रामदास चांगल्या वर्तनावर भर देतात."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "‘उत्तमलक्षण’ ही रचना विद्यार्थ्यांसाठी कशी उपयुक्त आहे ते लिहा.",
+      "answer": "विद्यार्थ्यांना योग्य जीवनमूल्ये, विवेक आणि सदाचार शिकवणारी ही रचना आहे. ती व्यक्तिमत्त्व विकासास मदत करते."
+    }
+  ]
+}

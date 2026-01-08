@@ -1,0 +1,1661 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Physics.01",
+    "standard": "10",
+    "subject": "Science – Physics",
+    "medium": "Marathi",
+    "chapter_name": "गुरुत्वाकर्षण"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "गुरुत्वाकर्षणाचा शोध कोणी लावला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गॅलिलिओ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "न्यूटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केप्लर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आईनस्टाईन",
+          "is_correct": false
+        }
+      ],
+      "answer": "न्यूटन"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "गुरुत्वाकर्षण बल कशामध्ये कार्य करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त पृथ्वीवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त ग्रहांमध्ये",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सर्व वस्तूंमध्ये",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त चंद्रावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सर्व वस्तूंमध्ये"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "न्यूटनचा गुरुत्वाकर्षणाचा सिद्धांत कोणत्या पुस्तकात आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Theory",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Principia",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Optics",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Cosmos",
+          "is_correct": false
+        }
+      ],
+      "answer": "Principia"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय बल कोणत्या राशींवर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वस्तुमान व अंतर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "वस्तुमान व अंतर"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "दोन वस्तूंमधील अंतर दुप्पट केल्यास गुरुत्वीय बल किती होईल?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुप्पट",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्धे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चतुर्थांश",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तेवढेच",
+          "is_correct": false
+        }
+      ],
+      "answer": "चतुर्थांश"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय स्थिरांकाचे चिन्ह काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "g",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "G",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "F",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "R",
+          "is_correct": false
+        }
+      ],
+      "answer": "G"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "G चे SI एकक कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "N",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Nm²/kg²",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "kg/m²",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "m/s²",
+          "is_correct": false
+        }
+      ],
+      "answer": "Nm²/kg²"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील g चे सरासरी मूल्य किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "9.8 m/s²",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "10 m/s²",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "8.9 m/s²",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "9.2 m/s²",
+          "is_correct": false
+        }
+      ],
+      "answer": "9.8 m/s²"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "g ही कोणती राशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अदिश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदिश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्केलर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "सदिश"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "g चे मूल्य ध्रुवांवर कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समान",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "g चे मूल्य विषुववृत्तावर कसे असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शून्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समान",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "मुक्त पतन म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घर्षणामुळे गती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "केवळ गुरुत्वीय बलाखाली गती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेग स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "केवळ गुरुत्वीय बलाखाली गती"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "मुक्त पतनात आरंभीचा वेग किती असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शून्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "कमाल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऋण",
+          "is_correct": false
+        }
+      ],
+      "answer": "शून्य"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "वस्तूचे वजन कोणत्या घटकावर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "g",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दोन्ही",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "वस्तुमान कोणत्या एककात मोजले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "किलोग्रॅम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मीटर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सेकंद",
+          "is_correct": false
+        }
+      ],
+      "answer": "किलोग्रॅम"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "वजन कोणत्या एककात मोजले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "kg",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "m/s²",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "N",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "J",
+          "is_correct": false
+        }
+      ],
+      "answer": "N"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "चंद्रावरील g चे मूल्य पृथ्वीच्या किती पट आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "1/2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "1/4",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "1/6",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "1/8",
+          "is_correct": false
+        }
+      ],
+      "answer": "1/6"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "मुक्तिवेग म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पडण्याचा वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कक्षेतील वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गुरुत्वापासून मुक्त होण्याचा वेग",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सरासरी वेग",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुरुत्वापासून मुक्त होण्याचा वेग"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "पृथ्वीवरील मुक्तिवेग किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "9.8 km/s",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "11.2 km/s",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "7.9 km/s",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "5 km/s",
+          "is_correct": false
+        }
+      ],
+      "answer": "11.2 km/s"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "मुक्तिवेग कोणत्या घटकावर अवलंबून असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वस्तुमान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पृथ्वीचे वस्तुमान व त्रिज्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उंची",
+          "is_correct": false
+        }
+      ],
+      "answer": "पृथ्वीचे वस्तुमान व त्रिज्या"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "वर्तुळाकार गतीसाठी कोणते बल आवश्यक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिकेंद्री",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपकेंद्री",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "अभिकेंद्री"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "चंद्र पृथ्वीभोवती का फिरतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेगामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अभिकेंद्री बलामुळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गुरुत्वीय बलामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घर्षणामुळे",
+          "is_correct": false
+        }
+      ],
+      "answer": "गुरुत्वीय बलामुळे"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "केप्लरचे किती नियम आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दोन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पाच",
+          "is_correct": false
+        }
+      ],
+      "answer": "तीन"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "केप्लरचा पहिला नियम कशाबद्दल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कक्षा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वेळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बल",
+          "is_correct": false
+        }
+      ],
+      "answer": "कक्षा"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "ग्रहाची कक्षा कशी असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर्तुळाकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लंबवर्तुळाकार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सरळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अनियमित",
+          "is_correct": false
+        }
+      ],
+      "answer": "लंबवर्तुळाकार"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय त्वरणाची दिशा कोणती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खाली",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पृथ्वीच्या केंद्राकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "क्षितिज",
+          "is_correct": false
+        }
+      ],
+      "answer": "पृथ्वीच्या केंद्राकडे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "उंची वाढल्यास g चे मूल्य कसे बदलते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी होते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी होते"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "पृथ्वीच्या केंद्रावर g चे मूल्य किती असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "9.8",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "0",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अधिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऋण",
+          "is_correct": false
+        }
+      ],
+      "answer": "0"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "वस्तुमान ही कोणती राशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सदिश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अदिश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "परिवर्तनीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बल",
+          "is_correct": false
+        }
+      ],
+      "answer": "अदिश"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "वजन ही कोणती राशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अदिश",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सदिश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "सदिश"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय स्थितिज ऊर्जेचे सूत्र काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "mv²",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "mgh",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "1/2mv²",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "mg",
+          "is_correct": false
+        }
+      ],
+      "answer": "mgh"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "स्थितिज ऊर्जा शून्य कुठे धरली जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पृष्ठभागावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनंत अंतरावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केंद्रावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ध्रुवांवर",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनंत अंतरावर"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "उपग्रह पृथ्वीवर का पडत नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वेगामुळे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वजन कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऊर्जा",
+          "is_correct": false
+        }
+      ],
+      "answer": "वेगामुळे"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "भरती-ओहोटी कशामुळे येते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चंद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "पृथ्वी",
+          "is_correct": false
+        }
+      ],
+      "answer": "चंद्र"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय लहरींची भविष्यवाणी कोणी केली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "न्यूटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आईनस्टाईन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "केप्लर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गॅलिलिओ",
+          "is_correct": false
+        }
+      ],
+      "answer": "आईनस्टाईन"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय लहरी शोधण्यासाठी कोणती वेधशाळा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ISRO",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "LIGO",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "NASA",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ESA",
+          "is_correct": false
+        }
+      ],
+      "answer": "LIGO"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "गुरुत्वाकर्षण हा कोणत्या प्रकारचा बल आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपर्क",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "असंपर्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घर्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चुंबकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "असंपर्क"
+    },
+    {
+      "question_id": 38,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय बल सर्वात कमी कुठे जाणवते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ध्रुव",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विषुववृत्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "पृथ्वीचे केंद्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पृष्ठभाग",
+          "is_correct": false
+        }
+      ],
+      "answer": "पृथ्वीचे केंद्र"
+    },
+    {
+      "question_id": 39,
+      "question_type": "MCQ",
+      "question": "हा धडा कोणत्या शास्त्राशी संबंधित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रसायनशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूगोल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भौतिकशास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "भौतिकशास्त्र"
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "गुरुत्वाकर्षण म्हणजे काय?",
+      "answer": "दोन वस्तूंमधील आकर्षण बल."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "गुरुत्वाकर्षणाचा शोध कोणी लावला?",
+      "answer": "सर आयझॅक न्यूटन."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय बल वैश्विक का आहे?",
+      "answer": "सर्व वस्तूंमध्ये कार्य करते."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय स्थिरांक G म्हणजे काय?",
+      "answer": "गुरुत्वीय बलाचा स्थिरांक."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "G चे मूल्य किती?",
+      "answer": "6.67 × 10⁻¹¹ Nm²/kg²."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "g म्हणजे काय?",
+      "answer": "पृथ्वीचे गुरुत्वीय त्वरण."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "g चे सरासरी मूल्य?",
+      "answer": "9.8 m/s²."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "g ही कोणती राशी?",
+      "answer": "सदिश."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "ध्रुवांवर g जास्त का?",
+      "answer": "त्रिज्या कमी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "विषुववृत्तावर g कमी का?",
+      "answer": "त्रिज्या जास्त."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "उंची वाढल्यास g का कमी?",
+      "answer": "अंतर वाढते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "केंद्रावर g शून्य का?",
+      "answer": "बल संतुलन."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "वस्तुमान म्हणजे काय?",
+      "answer": "द्रव्याचे प्रमाण."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वस्तुमानाचे एकक?",
+      "answer": "किलोग्रॅम."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "वस्तुमान बदलते का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "वजन म्हणजे काय?",
+      "answer": "गुरुत्वीय बल."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "वजनाचे एकक?",
+      "answer": "न्यूटन."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "वजन बदलते का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "चंद्रावर वजन कमी का?",
+      "answer": "g कमी."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "मुक्त पतन म्हणजे काय?",
+      "answer": "फक्त गुरुत्वाखाली गती."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "मुक्त पतनात त्वरण?",
+      "answer": "g."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "मुक्त पतन निर्वातातच का?",
+      "answer": "घर्षण नाही."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "अभिकेंद्री बल म्हणजे?",
+      "answer": "केंद्राकडे बल."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "केप्लरचे नियम कशाबद्दल?",
+      "answer": "ग्रहांची गती."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "मुक्तिवेग म्हणजे?",
+      "answer": "गुरुत्वातून सुटण्याचा वेग."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "पृथ्वीवरील मुक्तिवेग?",
+      "answer": "11.2 km/s."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "उपग्रह का पडत नाही?",
+      "answer": "कक्षीय वेग."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "स्थितिज ऊर्जा म्हणजे?",
+      "answer": "उंचीमुळे ऊर्जा."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "स्थितिज ऊर्जेचे सूत्र?",
+      "answer": "mgh."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "भरती-ओहोटी कारण?",
+      "answer": "चंद्राचे आकर्षण."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय लहरी म्हणजे?",
+      "answer": "अवकाशातील तरंग."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "LIGO म्हणजे काय?",
+      "answer": "लहरी शोध वेधशाळा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "पृथ्वीचे वस्तुमान?",
+      "answer": "6 × 10²⁴ kg."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "पृथ्वीची त्रिज्या?",
+      "answer": "6.4 × 10⁶ m."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "g चे एकक?",
+      "answer": "m/s²."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "G चे एकक?",
+      "answer": "Nm²/kg²."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय बल संपर्क आहे का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "अंतर वाढल्यास बल?",
+      "answer": "कमी होते."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "वस्तुमान दुप्पट केल्यास बल?",
+      "answer": "दुप्पट."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "वजनरहित अवस्था कशी?",
+      "answer": "मुक्त पतन."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "अवकाशात वजनरहितपणा का?",
+      "answer": "सतत मुक्त पतन."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "चंद्रावर उडी जास्त का?",
+      "answer": "g कमी."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय बलाची दिशा?",
+      "answer": "केंद्राकडे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "गुरुत्वाकर्षणाचा उपयोग?",
+      "answer": "कक्षा, भरती."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "हा धडा कशासाठी?",
+      "answer": "विश्व समजण्यासाठी."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "g स्थिर का धरतात?",
+      "answer": "उंची कमी असता."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "मुक्तिवेग वस्तूवर अवलंबून?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "केप्लरचा पहिला नियम?",
+      "answer": "लंबवर्तुळ कक्षा."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "दुसरा नियम?",
+      "answer": "समान क्षेत्रफळ."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "तिसरा नियम?",
+      "answer": "T² ∝ r³."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "पृथ्वी गोल नाही याचा परिणाम?",
+      "answer": "g बदलतो."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय बल कमकुवत का?",
+      "answer": "वस्तुमान लहान."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "तरीही महत्त्व का?",
+      "answer": "विश्व नियंत्रित."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "उंचीवर वजन?",
+      "answer": "कमी."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय बल सर्वत्र?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय स्थितिज ऊर्जा शून्य कुठे?",
+      "answer": "अनंत अंतरावर."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "मुक्त पतनात वस्तुमानाचा परिणाम?",
+      "answer": "नसतो."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "चंद्र पृथ्वीपासून दूर का नाही?",
+      "answer": "गुरुत्व."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "वस्तू सरळ खाली का?",
+      "answer": "बल दिशा."
+    },
+    {
+      "question_id": 99,
+      "question_type": "SHORT",
+      "question": "उपग्रहांची गती?",
+      "answer": "वर्तुळाकार."
+    },
+    {
+      "question_id": 100,
+      "question_type": "SHORT",
+      "question": "गुरुत्वीय त्वरण स्थिर?",
+      "answer": "अंदाजे."
+    },
+    {
+      "question_id": 101,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या इयत्तेचा?",
+      "answer": "दहावी."
+    },
+    {
+      "question_id": 102,
+      "question_type": "SHORT",
+      "question": "हा विषय कोणता?",
+      "answer": "भौतिकशास्त्र."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "न्यूटनचा वैश्विक गुरुत्वाकर्षणाचा सिद्धांत स्पष्ट करा.",
+      "answer": "प्रत्येक वस्तू इतर प्रत्येक वस्तूला आकर्षित करते."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "गुरुत्वीय स्थिरांकाचे महत्त्व लिहा.",
+      "answer": "बलाचे परिमाण ठरते."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "g चे मूल्य सर्वत्र समान नसण्याची कारणे लिहा.",
+      "answer": "पृथ्वीचा आकार व फिरणे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "उंचीनुसार g मध्ये होणारे बदल स्पष्ट करा.",
+      "answer": "अंतर वाढल्याने g कमी."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "खोलीनुसार g मध्ये होणारे बदल स्पष्ट करा.",
+      "answer": "आकर्षित करणारे वस्तुमान कमी."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "वस्तुमान व वजन यातील फरक लिहा.",
+      "answer": "वस्तुमान स्थिर, वजन बदलते."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "मुक्त पतन स्पष्ट करा.",
+      "answer": "केवळ गुरुत्वाखाली गती."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "मुक्त पतनात सर्व वस्तू समान वेळेत का पडतात?",
+      "answer": "g समान."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "केप्लरचे तीन नियम लिहा.",
+      "answer": "कक्षा, क्षेत्रफळ, आवर्तकाल."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "केप्लरच्या नियमांचा उपयोग स्पष्ट करा.",
+      "answer": "न्यूटनच्या सिद्धांतास मदत."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "अभिकेंद्री बल स्पष्ट करा.",
+      "answer": "केंद्राकडे खेचणारे बल."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "चंद्र पृथ्वीभोवती फिरतो ते स्पष्ट करा.",
+      "answer": "गुरुत्वीय बल."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "मुक्तिवेग म्हणजे काय?",
+      "answer": "गुरुत्वातून मुक्त होण्याचा वेग."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "पृथ्वीवरील मुक्तिवेग स्पष्ट करा.",
+      "answer": "11.2 km/s."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "उपग्रह पृथ्वीभोवती कसे फिरतात?",
+      "answer": "कक्षीय वेगामुळे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "गुरुत्वीय स्थितिज ऊर्जा स्पष्ट करा.",
+      "answer": "उंचीमुळे ऊर्जा."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "mgh सूत्र स्पष्ट करा.",
+      "answer": "h कमी असताना योग्य."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "भरती-ओहोटी स्पष्ट करा.",
+      "answer": "चंद्र आकर्षण."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "गुरुत्वीय लहरी स्पष्ट करा.",
+      "answer": "अवकाश-काळ तरंग."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "LIGO चे महत्त्व लिहा.",
+      "answer": "लहरींचा शोध."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "पृथ्वीचे गुरुत्व नसते तर काय?",
+      "answer": "वस्तू अस्थिर."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "g केंद्रावर शून्य का?",
+      "answer": "बल संतुलन."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "वजनरहित अवस्था स्पष्ट करा.",
+      "answer": "मुक्त पतन."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "अवकाशात वजनरहितपणा का?",
+      "answer": "सतत मुक्त पतन."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "गुरुत्वीय बल वैश्विक का?",
+      "answer": "सर्व वस्तूंमध्ये."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "चंद्रावरील वजन कमी का?",
+      "answer": "g कमी."
+    },
+    {
+      "question_id": 129,
+      "question_type": "LONG",
+      "question": "गुरुत्वीय बल व अंतर संबंध.",
+      "answer": "वर्गाच्या व्यस्त."
+    },
+    {
+      "question_id": 130,
+      "question_type": "LONG",
+      "question": "गुरुत्वीय बल व वस्तुमान संबंध.",
+      "answer": "गुणाकाराशी समानुपाती."
+    },
+    {
+      "question_id": 131,
+      "question_type": "LONG",
+      "question": "गुरुत्वाकर्षणाचे उपयोग लिहा.",
+      "answer": "कक्षा, भरती."
+    },
+    {
+      "question_id": 132,
+      "question_type": "LONG",
+      "question": "हा धडा महत्त्वाचा का?",
+      "answer": "विश्व समजते."
+    }
+  ]
+}

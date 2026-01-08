@@ -1,0 +1,1569 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Science.Chemistry.08",
+    "standard": "10",
+    "subject": "Science – Chemistry",
+    "medium": "Marathi",
+    "chapter_name": "धातू, अधातू व धातुविज्ञान"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "धातू सामान्यतः कशाचे सुवाहक असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "उष्णता व विद्युत",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "फक्त उष्णता",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त विद्युत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "काहीच नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "उष्णता व विद्युत"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कक्ष तापमानाला द्रव असलेला धातू कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अॅल्युमिनिअम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "तांबे",
+          "is_correct": false
+        }
+      ],
+      "answer": "पारा"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "अधातूंमध्ये अपवाद म्हणून चमकदार कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्बन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सल्फर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आयोडीन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "फॉस्फरस",
+          "is_correct": false
+        }
+      ],
+      "answer": "आयोडीन"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "सर्वात कठीण नैसर्गिक पदार्थ कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "काच",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ग्रॅफाइट",
+          "is_correct": false
+        }
+      ],
+      "answer": "हिरा"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "धातू इलेक्ट्रॉन गमावतात म्हणून ते कोणते असतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्युतऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युतधन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अक्रिय",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युतधन"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "अधातू इलेक्ट्रॉन स्वीकारतात म्हणून ते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विद्युतधन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युतऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धातुसदृश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अक्रिय",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युतऋण"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "धातू + ऑक्सिजन → ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अधातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आम्ल",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धातू ऑक्साइड",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "क्षार",
+          "is_correct": false
+        }
+      ],
+      "answer": "धातू ऑक्साइड"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "Na2O पाण्यात विरघळल्यावर काय बनते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आम्ल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अल्क",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उदासीन द्रावण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मीठ",
+          "is_correct": false
+        }
+      ],
+      "answer": "अल्क"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "धातू + आम्ल → ?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CO2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "H2",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "O2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "N2",
+          "is_correct": false
+        }
+      ],
+      "answer": "H2"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "कोणता धातू पाण्याशी तीव्र अभिक्रिया करतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सोडियम",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "चांदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोडियम"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "धातूंची सापेक्ष क्रियाशीलता कशाने दर्शवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सूत्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "श्रेणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तक्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकृती",
+          "is_correct": false
+        }
+      ],
+      "answer": "श्रेणी"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "सर्वात कमी अभिक्रियाशील धातू कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोडियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सोने",
+          "is_correct": true
+        }
+      ],
+      "answer": "सोने"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "Fe + CuSO4 ही कोणती अभिक्रिया?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विस्थापन",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपघटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दुहेरी विस्थापन",
+          "is_correct": false
+        }
+      ],
+      "answer": "विस्थापन"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "आयनिक संयुग कोणत्या आयनांनी बनते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धन-धन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ऋण-ऋण",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धन-ऋण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "तटस्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "धन-ऋण"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "NaCl हे कोणते संयुग?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सहसंयुगी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आयनिक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "धात्विक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीन",
+          "is_correct": false
+        }
+      ],
+      "answer": "आयनिक"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "आयनिक संयुगांचा द्रवणांक कसा असतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "उच्च",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शून्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "उच्च"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "आयनिक संयुगे वितळलेल्या अवस्थेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अवाहक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विद्युतवाहक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "चुंबकीय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अद्रावणीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युतवाहक"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "धातुक म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शुद्ध धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "खनिज",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धातूयुक्त खनिज",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "संमिश्र",
+          "is_correct": false
+        }
+      ],
+      "answer": "धातूयुक्त खनिज"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "धातुविज्ञान म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धातू वापर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातू अभ्यास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "धातू निष्कर्षण शास्त्र",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "खनन",
+          "is_correct": false
+        }
+      ],
+      "answer": "धातू निष्कर्षण शास्त्र"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "गुरुत्वीय विलगीकरण कशावर आधारित?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घनता",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "चुंबकत्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "घनता"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "चुंबकीय विलगीकरण कोणासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सर्व धातुके",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चुंबकीय धातुके",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अधातुके",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रव",
+          "is_correct": false
+        }
+      ],
+      "answer": "चुंबकीय धातुके"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "फेन तरण पद्धत कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ऑक्साइड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कार्बोनेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सल्फाइड",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नायट्रेट",
+          "is_correct": false
+        }
+      ],
+      "answer": "सल्फाइड"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "सर्वाधिक अभिक्रियाशील धातू कसे मिळवतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाजणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "निस्तापन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विद्युत अपघटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "विस्थापन",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत अपघटन"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "सोडियम मिळवण्याची पद्धत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तरण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अपघटन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "विद्युत अपघटन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भाजणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "विद्युत अपघटन"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "मध्यम अभिक्रियाशील धातुके कशाने कमी करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कार्बन",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "ऑक्सिजन",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नायट्रोजन",
+          "is_correct": false
+        }
+      ],
+      "answer": "कार्बन"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "थर्मिट अभिक्रियेत कोणता धातू वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांबे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अॅल्युमिनिअम",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "जस्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "अॅल्युमिनिअम"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कमी अभिक्रियाशील धातू निसर्गात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संयुक्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुक्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्रावण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "क्षार",
+          "is_correct": false
+        }
+      ],
+      "answer": "मुक्त"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "क्षरण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वितळणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गंजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तुटणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ऑक्सिडीकरण",
+          "is_correct": false
+        }
+      ],
+      "answer": "गंजणे"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "लोखंड गंजते कारण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "CO2",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "O2 व पाणी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "N2",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "H2",
+          "is_correct": false
+        }
+      ],
+      "answer": "O2 व पाणी"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "जस्त विलेपनाचा उपयोग?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंगासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "क्षरण रोखण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वजन वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सजावट",
+          "is_correct": false
+        }
+      ],
+      "answer": "क्षरण रोखण्यासाठी"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "कथिलीकरण म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तांबे लेप",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कथिल लेप",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जस्त लेप",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चांदी लेप",
+          "is_correct": false
+        }
+      ],
+      "answer": "कथिल लेप"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "धनाग्रीकरण कोणत्या धातूसाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोखंड",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अॅल्युमिनिअम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सोडियम",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चांदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "अॅल्युमिनिअम"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "विद्युत विलेपन कशासाठी?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "रंग",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "लेप",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "वितळ",
+          "is_correct": false
+        }
+      ],
+      "answer": "लेप"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "संमिश्र म्हणजे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शुद्ध धातू",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "धातू+धातू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "एकसंध पदार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "द्रावण",
+          "is_correct": false
+        }
+      ],
+      "answer": "धातू+धातू"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "ब्रॉन्झ मध्ये कोणते घटक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Cu+Zn",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "Cu+Sn",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "Fe+C",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Al+Cu",
+          "is_correct": false
+        }
+      ],
+      "answer": "Cu+Sn"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "स्टेनलेस स्टीलमध्ये मुख्य घटक?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "Fe, Cr, C",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "Cu, Zn",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "Al, Mg",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "Fe, Sn",
+          "is_correct": false
+        }
+      ],
+      "answer": "Fe, Cr, C"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "या धड्याचा विषय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भौतिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जीवशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "रसायन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भूगोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "रसायन"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "धातू म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन गमावणारे मूलद्रव्य."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "अधातू म्हणजे काय?",
+      "answer": "इलेक्ट्रॉन स्वीकारणारे मूलद्रव्य."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "धातूंचा एक भौतिक गुणधर्म लिहा.",
+      "answer": "चकाकी."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "अधातूंचा एक भौतिक गुणधर्म.",
+      "answer": "दुर्वाहकता."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "पारा का वेगळा आहे?",
+      "answer": "तो द्रव धातू आहे."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "हिरा अपवाद का?",
+      "answer": "तो कठीण अधातू आहे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "ग्रॅफाइट अपवाद का?",
+      "answer": "तो विद्युत सुवाहक आहे."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "नादमय धातू म्हणजे?",
+      "answer": "आघाताने ध्वनी देणारे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "धातू ऑक्सिजनशी कशी अभिक्रिया करतात?",
+      "answer": "ऑक्साइड तयार करतात."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "Na हवेत का ठेवत नाहीत?",
+      "answer": "तो तीव्र अभिक्रियाशील आहे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "अल्क म्हणजे काय?",
+      "answer": "क्षारीय द्रावण."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "धातू पाण्याशी कशी अभिक्रिया करतात?",
+      "answer": "H2 वायू मुक्त."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कॅल्शिअम पाण्यावर तरंगतो का?",
+      "answer": "हायड्रोजन बुडबुडे."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "Al थंड पाण्याशी अभिक्रिया का करत नाही?",
+      "answer": "ऑक्साइड थर."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "धातू आम्लाशी अभिक्रिया केल्यावर काय मिळते?",
+      "answer": "क्षार व H2."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "विस्थापन अभिक्रिया म्हणजे?",
+      "answer": "जास्त क्रियाशील धातू विस्थापित करतो."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "क्रियाशीलता श्रेणी म्हणजे?",
+      "answer": "धातूंची क्रमवारी."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "सर्वाधिक क्रियाशील धातू उदाहरण.",
+      "answer": "पोटॅशिअम."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कमी क्रियाशील धातू उदाहरण.",
+      "answer": "सोने."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "अधातूंचे ऑक्साइड कसे?",
+      "answer": "आम्लधर्मी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "राजवायू निष्क्रिय का?",
+      "answer": "अष्टक पूर्ण."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "आयनिक संयुग म्हणजे?",
+      "answer": "धन-ऋण आयन संयुग."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "आयनिक बंध म्हणजे?",
+      "answer": "विद्युत आकर्षण."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "आयनिक संयुगे कठीण का?",
+      "answer": "आकर्षण बल जास्त."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "NaCl पाण्यात विरघळते का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "आयनिक संयुग वितळल्यावर वाहक का?",
+      "answer": "आयन चल."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "धातुक म्हणजे?",
+      "answer": "धातूयुक्त खनिज."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "मृदा अशुद्धी म्हणजे?",
+      "answer": "निरुपयोगी पदार्थ."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "संहतीकरण म्हणजे?",
+      "answer": "अशुद्धी काढणे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "विल्फ्ली टेबल कशावर?",
+      "answer": "घनता फरक."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "चुंबकीय विलगीकरण कशासाठी?",
+      "answer": "चुंबकीय कण."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "फेन तरण पद्धत कशासाठी?",
+      "answer": "सल्फाइड धातुके."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "अपक्षालन म्हणजे?",
+      "answer": "द्रावणात विरघळवणे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "अभिक्रियाशील धातू कसे मिळवतात?",
+      "answer": "विद्युत अपघटन."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "सोडियम मिळवण्याचे धातुक.",
+      "answer": "NaCl."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "मध्यम क्रियाशील धातू कसे मिळवतात?",
+      "answer": "कार्बन क्षपण."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भाजणे म्हणजे?",
+      "answer": "सल्फाइड → ऑक्साइड."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "निस्तापन म्हणजे?",
+      "answer": "कार्बोनेट → ऑक्साइड."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "थर्मिट अभिक्रियेचा उपयोग?",
+      "answer": "रेल्वे रुळ."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कमी क्रियाशील धातू कसे मिळवतात?",
+      "answer": "उष्णता देऊन."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "क्षरण म्हणजे?",
+      "answer": "धातू नाश."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "गंज म्हणजे?",
+      "answer": "लोखंड ऑक्साइड थर."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "तांबे हिरवे का?",
+      "answer": "कॉपर कार्बोनेट."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "चांदी काळी का?",
+      "answer": "Ag2S थर."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "क्षरण रोखण्याचा एक उपाय.",
+      "answer": "रंग."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "जस्त विलेपन म्हणजे?",
+      "answer": "Zn लेप."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "कथिलीकरण म्हणजे?",
+      "answer": "Sn लेप."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "धनाग्रीकरण म्हणजे?",
+      "answer": "ऑक्साइड लेप."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "विद्युत विलेपन म्हणजे?",
+      "answer": "विद्युतद्वारे लेप."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "संमिश्र म्हणजे?",
+      "answer": "एकजिनसी मिश्रण."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "ब्रॉन्झ उपयोग.",
+      "answer": "पुतळे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "स्टील का टिकाऊ?",
+      "answer": "संमिश्र."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "या धड्याचे महत्त्व.",
+      "answer": "दैनंदिन धातू समज."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "धातुविज्ञानाचा उपयोग.",
+      "answer": "उद्योग."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "धातू मुक्त का नसतात?",
+      "answer": "अभिक्रियाशील."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "सोने मुक्त का?",
+      "answer": "अक्रिय."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "ही संकल्पना का महत्त्वाची?",
+      "answer": "उद्योग व जीवन."
+    },
+    {
+      "question_id": 95,
+      "question_type": "LONG",
+      "question": "धातू व अधातू यांचे भौतिक गुणधर्म तुलना करा.",
+      "answer": "चकाकी, वहन, कठीणपणा."
+    },
+    {
+      "question_id": 96,
+      "question_type": "LONG",
+      "question": "धातूंचे रासायनिक गुणधर्म स्पष्ट करा.",
+      "answer": "ऑक्सिजन, पाणी, आम्ल."
+    },
+    {
+      "question_id": 97,
+      "question_type": "LONG",
+      "question": "धातूंची क्रियाशीलता श्रेणी स्पष्ट करा.",
+      "answer": "विस्थापन आधार."
+    },
+    {
+      "question_id": 98,
+      "question_type": "LONG",
+      "question": "विस्थापन अभिक्रिया उदाहरणासह.",
+      "answer": "Fe-CuSO4."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "आयनिक संयुगांची निर्मिती.",
+      "answer": "इलेक्ट्रॉन देवाणघेवाण."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "आयनिक संयुगांचे गुणधर्म.",
+      "answer": "कठीण, उच्च द्रवणांक."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "धातुविज्ञान म्हणजे काय?",
+      "answer": "निष्कर्षण शास्त्र."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "धातुक व धातू फरक.",
+      "answer": "संयुक्त व शुद्ध."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "संहतीकरणाच्या पद्धती.",
+      "answer": "गुरुत्व, चुंबक, फेन."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "विल्फ्ली टेबल पद्धत.",
+      "answer": "घनता आधारित."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "चुंबकीय विलगीकरण.",
+      "answer": "चुंबकीय कण वेगळे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "फेन तरण पद्धत.",
+      "answer": "सल्फाइड संहती."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "अभिक्रियाशील धातू निष्कर्षण.",
+      "answer": "विद्युत अपघटन."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "सोडियम निष्कर्षण.",
+      "answer": "वितळलेले NaCl."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "मध्यम क्रियाशील धातू.",
+      "answer": "कार्बन क्षपण."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "भाजणे व निस्तापन.",
+      "answer": "ऑक्साइड निर्मिती."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "थर्मिट अभिक्रिया.",
+      "answer": "Fe2O3 + Al."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "कमी क्रियाशील धातू.",
+      "answer": "मुक्त अवस्थेत."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "क्षरण म्हणजे काय?",
+      "answer": "धातू नाश प्रक्रिया."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "लोखंड गंजण्याची कारणे.",
+      "answer": "O2 व पाणी."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "क्षरणाचे दुष्परिणाम.",
+      "answer": "आर्थिक नुकसान."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "क्षरण प्रतिबंध पद्धती.",
+      "answer": "लेपन."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "जस्त विलेपन स्पष्ट करा.",
+      "answer": "Zn थर."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "कथिलीकरण स्पष्ट करा.",
+      "answer": "Sn थर."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "धनाग्रीकरण स्पष्ट करा.",
+      "answer": "ऑक्साइड संरक्षण."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "विद्युत विलेपन स्पष्ट करा.",
+      "answer": "सजावट व संरक्षण."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "संमिश्र म्हणजे काय?",
+      "answer": "एकजिनसी मिश्रण."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "ब्रॉन्झ व स्टील उदाहरणे.",
+      "answer": "Cu-Sn, Fe-Cr-C."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "संमिश्रांचे फायदे.",
+      "answer": "टिकाऊपणा."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "या धड्याचे व्यावहारिक महत्त्व.",
+      "answer": "उद्योग, जीवन."
+    }
+  ]
+}

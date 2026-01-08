@@ -1,0 +1,1593 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Geography.06",
+    "standard": "10",
+    "subject": "भूगोल",
+    "medium": "Marathi",
+    "chapter_name": "लोकसंख्या (भारत व ब्राझील)"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देशाचे क्षेत्रफळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लोकांची एकूण संख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्येची घनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जन्मदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "लोकांची एकूण संख्या"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "२०११ च्या जनगणनेनुसार भारताची लोकसंख्या किती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१०० कोटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१११ कोटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१२१ कोटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१३१ कोटी",
+          "is_correct": false
+        }
+      ],
+      "answer": "१२१ कोटी"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "लोकसंख्येच्या बाबतीत भारताचा जगात कोणता क्रमांक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पहिला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुसरा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तिसरा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "चौथा",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुसरा"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "भारत जगाच्या भूभागापैकी किती टक्के क्षेत्र व्यापतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१.२%",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२.४१%",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "३.५%",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "५%",
+          "is_correct": false
+        }
+      ],
+      "answer": "२.४१%"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये लोकसंख्येची सरासरी घनता किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "२३",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "३८२",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "४५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "५००",
+          "is_correct": false
+        }
+      ],
+      "answer": "३८२"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या घनता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या वाढ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दर चौ.कि.मी. लोकसंख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जन्मदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मृत्युदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "दर चौ.कि.मी. लोकसंख्या"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये लोकसंख्येचे वितरण कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "असमान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सारखे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "समप्रमाण",
+          "is_correct": false
+        }
+      ],
+      "answer": "असमान"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये सर्वाधिक दाट लोकसंख्या कुठे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिमालय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उत्तर भारतीय मैदान",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थर वाळवंट",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अंदमान",
+          "is_correct": false
+        }
+      ],
+      "answer": "उत्तर भारतीय मैदान"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या विरळ असलेला प्रदेश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गंगेचे मैदान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पर्वतीय प्रदेश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कोकण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डेल्टा",
+          "is_correct": false
+        }
+      ],
+      "answer": "पर्वतीय प्रदेश"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "ब्राझीलची लोकसंख्या (२०१०) साधारण किती होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१० कोटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१५ कोटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९ कोटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "२५ कोटी",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९ कोटी"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "ब्राझीलची सरासरी लोकसंख्या घनता किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१०",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "२३",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१००",
+          "is_correct": false
+        }
+      ],
+      "answer": "२३"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये लोकसंख्या जास्त कुठे केंद्रित आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अमेझॉन खोरे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पूर्व किनारपट्टी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पश्चिम भाग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मध्य उच्चभूमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "पूर्व किनारपट्टी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "अमेझॉन खोऱ्यात लोकसंख्या कमी का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुपीक जमीन",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुकूल हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दाट वने व दुर्गमता",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "उद्योग",
+          "is_correct": false
+        }
+      ],
+      "answer": "दाट वने व दुर्गमता"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या वितरणावर कोणते घटक परिणाम करतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्राकृतिक व मानवी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फक्त शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्राकृतिक व मानवी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "लिंग गुणोत्तर म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्त्रियांची संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दर हजारी पुरुषांमागे स्त्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पुरुष-स्त्री फरक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जन्मदर",
+          "is_correct": false
+        }
+      ],
+      "answer": "दर हजारी पुरुषांमागे स्त्रिया"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये लिंग गुणोत्तर कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अतिशय कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जास्त"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये लिंग गुणोत्तर कसे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "समान",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "१००० पेक्षा जास्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "लोकसंख्येचा मनोरा कशासाठी वापरतात?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हवामान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वय-लिंग रचना",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "शेती",
+          "is_correct": false
+        }
+      ],
+      "answer": "वय-लिंग रचना"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये कोणता वयोगट जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वृद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तरुण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कामगार नाही",
+          "is_correct": false
+        }
+      ],
+      "answer": "तरुण"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "ब्राझीलची लोकसंख्या कोणत्या दिशेने झुकत आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तरुण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वृद्धत्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थिर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वृद्धत्व"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या वाढीचा दर म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाढीचे प्रमाण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घनता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लिंग गुणोत्तर",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाढीचे प्रमाण"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "२००१–२०११ या दशकात भारताची लोकसंख्या कितीने वाढली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१० कोटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१५ कोटी",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१८.२ कोटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "२५ कोटी",
+          "is_correct": false
+        }
+      ],
+      "answer": "१८.२ कोटी"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये लोकसंख्या वाढीचा दर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाढत",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कमी होत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "अतिशय जास्त",
+          "is_correct": false
+        }
+      ],
+      "answer": "कमी होत"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या वाढ कमी होत असली तरी लोकसंख्या वाढते म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकसंख्या घटते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाढीचा दर कमी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या स्थिर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "मृत्युदर वाढतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाढीचा दर कमी"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "सरासरी आयुर्मान म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जन्मदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मृत्युदर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सरासरी जगण्याची वर्षे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "लोकसंख्या",
+          "is_correct": false
+        }
+      ],
+      "answer": "सरासरी जगण्याची वर्षे"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "भारताचे सरासरी आयुर्मान किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "५०",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "६०",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "६८",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "७५",
+          "is_correct": false
+        }
+      ],
+      "answer": "६८"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "ब्राझीलचे सरासरी आयुर्मान किती आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "६०",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "६८",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "७२",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "७५",
+          "is_correct": true
+        }
+      ],
+      "answer": "७५"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "आयुर्मान वाढण्याचे कारण कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "युद्ध",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आरोग्य सुविधा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुष्काळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उद्योग",
+          "is_correct": false
+        }
+      ],
+      "answer": "आरोग्य सुविधा"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "साक्षरता म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शिक्षण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "वाचन-लेखन क्षमता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "उद्योग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आरोग्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाचन-लेखन क्षमता"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये साक्षरतेचा दर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "खूप कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मध्यम",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "वाढत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "घटत",
+          "is_correct": false
+        }
+      ],
+      "answer": "वाढत"
+    },
+    {
+      "question_id": 31,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये साक्षरतेचा दर कसा आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भारतापेक्षा जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भारतासारखा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घटत",
+          "is_correct": false
+        }
+      ],
+      "answer": "भारतापेक्षा जास्त"
+    },
+    {
+      "question_id": 32,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या हे संसाधन का मानले जाते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ओझे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मानवी शक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "फक्त खर्च",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निसर्ग",
+          "is_correct": false
+        }
+      ],
+      "answer": "मानवी शक्ती"
+    },
+    {
+      "question_id": 33,
+      "question_type": "MCQ",
+      "question": "लोकसंख्येची गुणवत्ता कशावर अवलंबून असते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "शिक्षण व आरोग्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "क्षेत्रफळ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "हवामान",
+          "is_correct": false
+        }
+      ],
+      "answer": "शिक्षण व आरोग्य"
+    },
+    {
+      "question_id": 34,
+      "question_type": "MCQ",
+      "question": "लोकसंख्येचा अर्थव्यवस्थेवर परिणाम कसा होतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नसतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थेट",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अप्रत्यक्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दोन्ही",
+          "is_correct": true
+        }
+      ],
+      "answer": "दोन्ही"
+    },
+    {
+      "question_id": 35,
+      "question_type": "MCQ",
+      "question": "भारतामध्ये कार्यशील मनुष्यबळ का जास्त आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वृद्ध जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "तरुण लोकसंख्या",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कमी लोकसंख्या",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उद्योग कमी",
+          "is_correct": false
+        }
+      ],
+      "answer": "तरुण लोकसंख्या"
+    },
+    {
+      "question_id": 36,
+      "question_type": "MCQ",
+      "question": "ब्राझीलमध्ये वृद्धांचे प्रमाण जास्त का आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "जन्मदर जास्त",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आयुर्मान जास्त",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "लोकसंख्या कमी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थलांतर",
+          "is_correct": false
+        }
+      ],
+      "answer": "आयुर्मान जास्त"
+    },
+    {
+      "question_id": 37,
+      "question_type": "MCQ",
+      "question": "लोकसंख्या अभ्यास कोणत्या विषयात येतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भूगोल",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अर्थशास्त्र",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राजकारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "भूगोल"
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या म्हणजे काय?",
+      "answer": "एखाद्या देशातील लोकांची एकूण संख्या."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या हे संसाधन का आहे?",
+      "answer": "देशाच्या प्रगतीसाठी."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "२०११ मध्ये भारताची लोकसंख्या किती होती?",
+      "answer": "१२१ कोटी."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "भारताचा लोकसंख्येतील क्रमांक कोणता?",
+      "answer": "दुसरा."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या घनता म्हणजे काय?",
+      "answer": "दर चौ.कि.मी. लोकसंख्या."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "भारताची सरासरी लोकसंख्या घनता किती?",
+      "answer": "३८२ व्यक्ती प्रति चौ.कि.मी."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये लोकसंख्येचे वितरण कसे आहे?",
+      "answer": "असमान."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या दाट कुठे आहे?",
+      "answer": "उत्तर भारतीय मैदानात."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या विरळ कुठे आहे?",
+      "answer": "पर्वतीय प्रदेशात."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची लोकसंख्या किती आहे?",
+      "answer": "सुमारे १९ कोटी."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची लोकसंख्या घनता किती?",
+      "answer": "२३ व्यक्ती प्रति चौ.कि.मी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये लोकसंख्या कुठे जास्त आहे?",
+      "answer": "पूर्व किनारपट्टीवर."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "अमेझॉन खोऱ्यात लोकसंख्या कमी का आहे?",
+      "answer": "दुर्गमता व दाट वने."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या वितरणावर कोणते घटक परिणाम करतात?",
+      "answer": "प्राकृतिक व मानवी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "सुपीक जमीन असलेल्या भागात लोकसंख्या कशी असते?",
+      "answer": "दाट."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "वाळवंटी प्रदेशात लोकसंख्या कशी असते?",
+      "answer": "विरळ."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "लिंग गुणोत्तर म्हणजे काय?",
+      "answer": "दर हजारी पुरुषांमागे स्त्रियांची संख्या."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये लिंग गुणोत्तर कसे आहे?",
+      "answer": "कमी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये लिंग गुणोत्तर कसे आहे?",
+      "answer": "जास्त."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "लोकसंख्येचा मनोरा म्हणजे काय?",
+      "answer": "वय-लिंग रचना दाखवणारा आलेख."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये कोणता वयोगट जास्त आहे?",
+      "answer": "तरुण."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये कोणता वयोगट वाढत आहे?",
+      "answer": "वृद्ध."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या वाढीचा दर म्हणजे काय?",
+      "answer": "लोकसंख्या वाढीचे प्रमाण."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये लोकसंख्या वाढीचा दर कसा आहे?",
+      "answer": "कमी होत आहे."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "२००१–२०११ मध्ये लोकसंख्या किती वाढली?",
+      "answer": "१८.२ कोटी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये लोकसंख्या वाढीचा दर कसा आहे?",
+      "answer": "खूप कमी."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या वाढीचा दर कमी म्हणजे काय?",
+      "answer": "वाढ मंद."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "सरासरी आयुर्मान म्हणजे काय?",
+      "answer": "सरासरी जगण्याची वर्षे."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "भारताचे आयुर्मान किती?",
+      "answer": "सुमारे ६८ वर्षे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "ब्राझीलचे आयुर्मान किती?",
+      "answer": "सुमारे ७५ वर्षे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "आयुर्मान वाढण्याचे कारण काय?",
+      "answer": "आरोग्य सुविधा."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "साक्षरता म्हणजे काय?",
+      "answer": "वाचन-लेखन क्षमता."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये साक्षरतेचा दर कसा आहे?",
+      "answer": "वाढत आहे."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये साक्षरतेचा दर कसा आहे?",
+      "answer": "भारतापेक्षा जास्त."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "लोकसंख्येची गुणवत्ता म्हणजे काय?",
+      "answer": "शिक्षण व आरोग्य पातळी."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कार्यशील मनुष्यबळ म्हणजे काय?",
+      "answer": "काम करण्यायोग्य लोकसंख्या."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "भारताकडे कार्यशील मनुष्यबळ का जास्त आहे?",
+      "answer": "तरुण लोकसंख्या."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये वृद्धांचे प्रमाण जास्त का?",
+      "answer": "आयुर्मान जास्त."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या अभ्यास का आवश्यक आहे?",
+      "answer": "नियोजनासाठी."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या वाढीचा अर्थव्यवस्थेवर परिणाम काय?",
+      "answer": "कामगार उपलब्धता."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या वाढ जास्त असल्यास समस्या काय?",
+      "answer": "बेरोजगारी."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या नियंत्रण म्हणजे काय?",
+      "answer": "वाढ मर्यादित ठेवणे."
+    },
+    {
+      "question_id": 80,
+      "question_type": "SHORT",
+      "question": "भारतामध्ये जनगणना किती वर्षांनी होते?",
+      "answer": "दहा वर्षांनी."
+    },
+    {
+      "question_id": 81,
+      "question_type": "SHORT",
+      "question": "ब्राझीलमध्ये जनगणना कोण करते?",
+      "answer": "IBGE."
+    },
+    {
+      "question_id": 82,
+      "question_type": "SHORT",
+      "question": "भारताची पहिली जनगणना कधी झाली?",
+      "answer": "१८७२."
+    },
+    {
+      "question_id": 83,
+      "question_type": "SHORT",
+      "question": "ब्राझीलची पहिली जनगणना कधी झाली?",
+      "answer": "१८७२."
+    },
+    {
+      "question_id": 84,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या रचना म्हणजे काय?",
+      "answer": "वय व लिंग रचना."
+    },
+    {
+      "question_id": 85,
+      "question_type": "SHORT",
+      "question": "वय-लिंग मनोऱ्याचा उपयोग काय?",
+      "answer": "लोकसंख्या विश्लेषण."
+    },
+    {
+      "question_id": 86,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या घनतेचा नकाशा काय दाखवतो?",
+      "answer": "वितरण."
+    },
+    {
+      "question_id": 87,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या असमान का असते?",
+      "answer": "प्राकृतिक कारणांमुळे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "SHORT",
+      "question": "शहरी भागात लोकसंख्या का जास्त असते?",
+      "answer": "उद्योग व सुविधा."
+    },
+    {
+      "question_id": 89,
+      "question_type": "SHORT",
+      "question": "ग्रामीण भागात लोकसंख्या कशी असते?",
+      "answer": "तुलनेने कमी."
+    },
+    {
+      "question_id": 90,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या वाढ व आयुर्मान यांचा संबंध काय?",
+      "answer": "सकारात्मक."
+    },
+    {
+      "question_id": 91,
+      "question_type": "SHORT",
+      "question": "लोकसंख्येचा शिक्षणावर परिणाम काय?",
+      "answer": "सुविधांची गरज."
+    },
+    {
+      "question_id": 92,
+      "question_type": "SHORT",
+      "question": "लोकसंख्येचा आरोग्यावर परिणाम काय?",
+      "answer": "सेवा दाब."
+    },
+    {
+      "question_id": 93,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या अभ्यास कोणत्या घटकाशी संबंधित आहे?",
+      "answer": "मानवी भूगोल."
+    },
+    {
+      "question_id": 94,
+      "question_type": "SHORT",
+      "question": "हा धडा कोणत्या देशांशी संबंधित आहे?",
+      "answer": "भारत व ब्राझील."
+    },
+    {
+      "question_id": 95,
+      "question_type": "SHORT",
+      "question": "लोकसंख्येचा सामाजिक परिणाम काय?",
+      "answer": "जीवनमान बदलते."
+    },
+    {
+      "question_id": 96,
+      "question_type": "SHORT",
+      "question": "लोकसंख्येचा पर्यावरणावर परिणाम काय?",
+      "answer": "संसाधनांवर ताण."
+    },
+    {
+      "question_id": 97,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या हे ओझे कधी बनते?",
+      "answer": "नियोजन नसल्यास."
+    },
+    {
+      "question_id": 98,
+      "question_type": "SHORT",
+      "question": "लोकसंख्या फायदेशीर कधी ठरते?",
+      "answer": "योग्य शिक्षण असल्यास."
+    },
+    {
+      "question_id": 99,
+      "question_type": "LONG",
+      "question": "लोकसंख्या म्हणजे काय? स्पष्ट करा.",
+      "answer": "लोकसंख्या म्हणजे एखाद्या देशातील लोकांची एकूण संख्या. ती देशाच्या विकासाचा महत्त्वाचा घटक आहे."
+    },
+    {
+      "question_id": 100,
+      "question_type": "LONG",
+      "question": "लोकसंख्या हे संसाधन का मानले जाते?",
+      "answer": "लोकसंख्या ही मानवी शक्ती असून ती आर्थिक व सामाजिक प्रगतीस मदत करते."
+    },
+    {
+      "question_id": 101,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या लोकसंख्येचे वितरण स्पष्ट करा.",
+      "answer": "भारतामध्ये उत्तर भारतीय मैदानात दाट, तर ब्राझीलमध्ये पूर्व किनारपट्टीवर दाट लोकसंख्या आहे."
+    },
+    {
+      "question_id": 102,
+      "question_type": "LONG",
+      "question": "लोकसंख्या वितरणावर परिणाम करणारे घटक स्पष्ट करा.",
+      "answer": "प्राकृतिक रचना, हवामान, शेती, उद्योग व वाहतूक."
+    },
+    {
+      "question_id": 103,
+      "question_type": "LONG",
+      "question": "भारतामध्ये लोकसंख्या असमान का आहे?",
+      "answer": "भूरचना व सुविधा असमान असल्यामुळे."
+    },
+    {
+      "question_id": 104,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये अमेझॉन खोऱ्यात लोकसंख्या कमी का आहे?",
+      "answer": "दाट वने, जास्त पर्जन्य व दुर्गमता."
+    },
+    {
+      "question_id": 105,
+      "question_type": "LONG",
+      "question": "लोकसंख्या घनता म्हणजे काय? तिचे महत्त्व स्पष्ट करा.",
+      "answer": "दर चौ.कि.मी. लोकसंख्या म्हणजे घनता. ती नियोजनासाठी महत्त्वाची आहे."
+    },
+    {
+      "question_id": 106,
+      "question_type": "LONG",
+      "question": "लिंग गुणोत्तर म्हणजे काय? भारत व ब्राझीलची तुलना करा.",
+      "answer": "ब्राझीलमध्ये लिंग गुणोत्तर जास्त, भारतात कमी आहे."
+    },
+    {
+      "question_id": 107,
+      "question_type": "LONG",
+      "question": "लोकसंख्येचा मनोरा म्हणजे काय?",
+      "answer": "वय व लिंग रचना दाखवणारा आलेख म्हणजे मनोरा."
+    },
+    {
+      "question_id": 108,
+      "question_type": "LONG",
+      "question": "भारताची लोकसंख्या रचना स्पष्ट करा.",
+      "answer": "भारतामध्ये तरुण लोकसंख्या जास्त आहे."
+    },
+    {
+      "question_id": 109,
+      "question_type": "LONG",
+      "question": "ब्राझीलची लोकसंख्या रचना स्पष्ट करा.",
+      "answer": "ब्राझीलची लोकसंख्या वृद्धत्वाकडे झुकत आहे."
+    },
+    {
+      "question_id": 110,
+      "question_type": "LONG",
+      "question": "लोकसंख्या वाढीचा दर म्हणजे काय?",
+      "answer": "लोकसंख्या वाढीचे वार्षिक प्रमाण."
+    },
+    {
+      "question_id": 111,
+      "question_type": "LONG",
+      "question": "भारतामध्ये लोकसंख्या वाढीचा दर कसा आहे?",
+      "answer": "दर कमी होत आहे, पण लोकसंख्या वाढत आहे."
+    },
+    {
+      "question_id": 112,
+      "question_type": "LONG",
+      "question": "ब्राझीलमध्ये लोकसंख्या वाढीचा दर कमी का आहे?",
+      "answer": "जन्मदर कमी व विकास जास्त असल्यामुळे."
+    },
+    {
+      "question_id": 113,
+      "question_type": "LONG",
+      "question": "सरासरी आयुर्मान म्हणजे काय?",
+      "answer": "सरासरी व्यक्ती किती वर्षे जगते ते."
+    },
+    {
+      "question_id": 114,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या आयुर्मानाची तुलना करा.",
+      "answer": "ब्राझीलचे आयुर्मान भारतापेक्षा जास्त आहे."
+    },
+    {
+      "question_id": 115,
+      "question_type": "LONG",
+      "question": "आयुर्मान वाढण्याची कारणे लिहा.",
+      "answer": "आरोग्य, पोषण व वैद्यकीय प्रगती."
+    },
+    {
+      "question_id": 116,
+      "question_type": "LONG",
+      "question": "साक्षरतेचे महत्त्व स्पष्ट करा.",
+      "answer": "साक्षरता विकासासाठी आवश्यक आहे."
+    },
+    {
+      "question_id": 117,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलच्या साक्षरतेची तुलना करा.",
+      "answer": "ब्राझीलमध्ये साक्षरता जास्त आहे."
+    },
+    {
+      "question_id": 118,
+      "question_type": "LONG",
+      "question": "लोकसंख्या वाढीचा अर्थव्यवस्थेवर परिणाम स्पष्ट करा.",
+      "answer": "कामगार व उपभोग वाढतो."
+    },
+    {
+      "question_id": 119,
+      "question_type": "LONG",
+      "question": "लोकसंख्या वाढ जास्त असल्यास समस्या कोणत्या?",
+      "answer": "बेरोजगारी, गरिबी."
+    },
+    {
+      "question_id": 120,
+      "question_type": "LONG",
+      "question": "लोकसंख्या नियंत्रणाची गरज स्पष्ट करा.",
+      "answer": "संसाधनांवरील ताण कमी करण्यासाठी."
+    },
+    {
+      "question_id": 121,
+      "question_type": "LONG",
+      "question": "लोकसंख्या व विकास यांचा संबंध स्पष्ट करा.",
+      "answer": "योग्य लोकसंख्या विकासाला मदत करते."
+    },
+    {
+      "question_id": 122,
+      "question_type": "LONG",
+      "question": "भारतामध्ये कार्यशील मनुष्यबळाचे महत्त्व स्पष्ट करा.",
+      "answer": "उद्योग व सेवा क्षेत्रासाठी."
+    },
+    {
+      "question_id": 123,
+      "question_type": "LONG",
+      "question": "लोकसंख्येचा पर्यावरणावर परिणाम स्पष्ट करा.",
+      "answer": "वनतोड व प्रदूषण वाढते."
+    },
+    {
+      "question_id": 124,
+      "question_type": "LONG",
+      "question": "लोकसंख्या अभ्यासाचे शैक्षणिक महत्त्व स्पष्ट करा.",
+      "answer": "नियोजन व धोरणांसाठी."
+    },
+    {
+      "question_id": 125,
+      "question_type": "LONG",
+      "question": "भारत व ब्राझीलचा तुलनात्मक लोकसंख्या अभ्यास का आवश्यक आहे?",
+      "answer": "भौगोलिक समज वाढवण्यासाठी."
+    },
+    {
+      "question_id": 126,
+      "question_type": "LONG",
+      "question": "लोकसंख्या हे ओझे कधी ठरते?",
+      "answer": "नियोजन नसल्यास."
+    },
+    {
+      "question_id": 127,
+      "question_type": "LONG",
+      "question": "लोकसंख्या फायदेशीर कधी ठरते?",
+      "answer": "शिक्षित व निरोगी असल्यास."
+    },
+    {
+      "question_id": 128,
+      "question_type": "LONG",
+      "question": "लोकसंख्या हा भूगोलाचा महत्त्वाचा घटक का आहे?",
+      "answer": "मानवी जीवन समजण्यासाठी."
+    }
+  ]
+}

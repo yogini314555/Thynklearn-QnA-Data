@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.15",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "खोद आणखी थोडेसे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘खोद आणखी थोडेसे’ ही कविता कोणत्या कवयित्रीची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शांता शेळके",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आसावरी काकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इंदिरा संत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बहिणाबाई चौधरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "आसावरी काकडे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘खोदणे’ या शब्दाचा अर्थ काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विहीर खोदणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्दीने प्रयत्न करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "घर बांधणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "माती काढणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्दीने प्रयत्न करणे"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘खाली असतेच पाणी’ या ओळीचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी लगेच मिळते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रयत्न व्यर्थ असतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "यश जवळच असते",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "पाणी संपले आहे",
+          "is_correct": false
+        }
+      ],
+      "answer": "यश जवळच असते"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत धीर का सोडू नये असे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वेळ नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "यशासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "यशासाठी"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘सारी खोटी नसतात नाणी’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सगळी नाणी खरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सगळी माणसे वाईट नसतात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सगळे अनुभव फसवे नसतात",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सगळे प्रयत्न व्यर्थ",
+          "is_correct": false
+        }
+      ],
+      "answer": "सगळे अनुभव फसवे नसतात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "‘घट्ट मिटू नये ओठ’ या ओळीचा संदेश काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "गप्प बसावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनातील विचार व्यक्त करावेत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग धरावा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती बाळगावी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनातील विचार व्यक्त करावेत"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "‘गाणे असते गं मनी’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मन आनंदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मनात नवनिर्मिती क्षमता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गाणे गायचे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संगीत आवडते",
+          "is_correct": false
+        }
+      ],
+      "answer": "मनात नवनिर्मिती क्षमता"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘आर्त जन्मांचे’ हे विशेषण कशासाठी वापरले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संवेदनशीलता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "संवेदनशीलता"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "‘रित्या गळणाऱ्या पानी’ हे रूपक कशाचे आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संघर्ष",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "दुःखद जीवन",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "स्वप्न",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुःखद जीवन"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘मूठ मिटून कशाला’ या ओळीचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कंजूषपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "मन बंद ठेवणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "सहनशीलता",
+          "is_correct": false
+        }
+      ],
+      "answer": "मन बंद ठेवणे"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘उघडून ओंजळीत’ या शब्दांतून काय सुचते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वीकार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दडपण",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नकार",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वीकार"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "‘मनातली तळी’ म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पाणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वप्ने व विचार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कष्ट",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वप्ने व विचार"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "‘झरा लागेलच तिथे’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "काहीच मिळत नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "यश नक्की मिळते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "थोडा प्रयत्न पुरेसा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सगळे सहज",
+          "is_correct": false
+        }
+      ],
+      "answer": "यश नक्की मिळते"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘थोडेसे’ हा शब्द कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घाई",
+          "is_correct": false
+        }
+      ],
+      "answer": "चिकाटी"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयम व जिद्द",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "संयम व जिद्द"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेत सकारात्मक दृष्टिकोन कशातून दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भ्रम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशावाद",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उपहास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशावाद"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "ही कविता कोणत्या प्रकारची आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "विनोदी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणादायी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शोकांत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाट्यमय",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणादायी"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या मूल्यांवर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जिद्द व चिकाटी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सत्ता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भोग",
+          "is_correct": false
+        }
+      ],
+      "answer": "जिद्द व चिकाटी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "‘नाणी’ या प्रतिमेचा वापर कशासाठी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अनुभव",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "माणसे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वप्ने",
+          "is_correct": false
+        }
+      ],
+      "answer": "अनुभव"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "‘ओठ’ या प्रतिमेतून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "भावनांची अभिव्यक्ती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "भावनांची अभिव्यक्ती"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवितेत मन कसे ठेवावे असे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उघडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "निराश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घाबरलेले",
+          "is_correct": false
+        }
+      ],
+      "answer": "उघडे"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या शब्दांत अर्थपूर्ण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अतिशय संस्कृत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बोली",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या शब्दांत अर्थपूर्ण"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘उमेदीने जगणे’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाई",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशेने व परिश्रमाने जगणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वार्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशेने व परिश्रमाने जगणे"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कवितेचा शेवट कशावर भर देतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थोड्या प्रयत्नाचे बळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अपयश",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "थोड्या प्रयत्नाचे बळ"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणती भावना ठळक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदासीनता",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचकांना कशाकडे प्रवृत्त करते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशेकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रयत्नांकडे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळसाकडे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीतीकडे",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रयत्नांकडे"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेत ‘खोद’ हा शब्द कसा वापरला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "शाब्दिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रूपकात्मक",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "वैज्ञानिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोदी",
+          "is_correct": false
+        }
+      ],
+      "answer": "रूपकात्मक"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवितेत जीवनाचा कोणता पैलू दिसतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संघर्ष",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "संघर्ष"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘खोद आणखी थोडेसे’ हे शीर्षक कशाचे द्योतक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थकवा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अंतिम प्रयत्न",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांती",
+          "is_correct": false
+        }
+      ],
+      "answer": "अंतिम प्रयत्न"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचून काय प्रेरणा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "थोडा प्रयत्न अधिक करणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा वाढवणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराश होणे",
+          "is_correct": false
+        }
+      ],
+      "answer": "थोडा प्रयत्न अधिक करणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘खोद आणखी थोडेसे’ या कवितेच्या कवयित्री कोण?",
+      "answer": "आसावरी काकडे."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "या कवितेचा मुख्य विचार काय आहे?",
+      "answer": "चिकाटीने प्रयत्न करणे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘खोदणे’ म्हणजे काय?",
+      "answer": "जिद्दीने प्रयत्न करणे."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "‘खाली असतेच पाणी’ याचा अर्थ काय?",
+      "answer": "यश जवळच असते."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "कवितेत धीर का सोडू नये?",
+      "answer": "यश मिळवण्यासाठी."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "‘सारी खोटी नसतात नाणी’ याचा अर्थ काय?",
+      "answer": "सगळे अनुभव फसवे नसतात."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "‘घट्ट मिटू नये ओठ’ या ओळीचा संदेश काय?",
+      "answer": "मनातील विचार व्यक्त करावेत."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "‘गाणे असते गं मनी’ म्हणजे काय?",
+      "answer": "मनात नवनिर्मिती क्षमता असते."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या गुणांवर भर आहे?",
+      "answer": "संयम, जिद्द, चिकाटी."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "‘आर्त जन्मांचे’ या शब्दांतून काय सूचित होते?",
+      "answer": "संवेदनशील जीवन."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘रित्या गळणाऱ्या पानी’ या रूपकाचा अर्थ काय?",
+      "answer": "दुःखमय संघर्ष."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "‘मूठ मिटून कशाला’ या ओळीचा अर्थ काय?",
+      "answer": "मन बंद ठेवू नये."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "‘उघडून ओंजळीत’ म्हणजे काय?",
+      "answer": "मन खुले ठेवणे."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "‘मनातली तळी’ म्हणजे काय?",
+      "answer": "स्वप्ने व विचार."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "‘झरा लागेलच तिथे’ या ओळीचा अर्थ काय?",
+      "answer": "यश नक्की मिळते."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘थोडेसे’ हा शब्द कशासाठी आहे?",
+      "answer": "अतिरिक्त प्रयत्नासाठी."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कवितेचा सूर कसा आहे?",
+      "answer": "प्रेरणादायी."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "answer": "सोप्या शब्दांत प्रभावी."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणती भावना प्रबळ आहे?",
+      "answer": "आशावाद."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कवितेचा शेवट काय सुचवतो?",
+      "answer": "थोडा प्रयत्न अधिक करावा."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या गोष्टीवर विश्वास ठेवायला सांगितले आहे?",
+      "answer": "चांगुलपणावर."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "ही कविता कोणासाठी उपयुक्त आहे?",
+      "answer": "सर्व प्रयत्नशील लोकांसाठी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवितेत मन कसे ठेवावे असे सांगितले आहे?",
+      "answer": "उघडे आणि सकारात्मक."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "‘नाणी’ या प्रतिमेचा अर्थ काय?",
+      "answer": "अनुभव."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कवितेत ‘ओठ’ कशाचे प्रतीक आहेत?",
+      "answer": "भावनांची अभिव्यक्ती."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवितेतील जीवनदृष्टी कशी आहे?",
+      "answer": "सकारात्मक."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेत कष्टांचे महत्त्व कसे दाखवले आहे?",
+      "answer": "रूपकांतून."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवितेत नकारात्मकतेला स्थान आहे का?",
+      "answer": "नाही."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेचा सामाजिक संदेश काय?",
+      "answer": "परिश्रमाचे महत्त्व."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "‘उमेदीने जगणे’ म्हणजे काय?",
+      "answer": "आशेने जगणे."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणता दृष्टिकोन दिसतो?",
+      "answer": "आशावादी."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवितेतील प्रतीकांचा उपयोग कशासाठी?",
+      "answer": "अर्थ स्पष्ट करण्यासाठी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेत यश कसे मिळते असे सांगितले आहे?",
+      "answer": "चिकाटीने."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "ही कविता वाचून काय शिकायला मिळते?",
+      "answer": "धैर्य."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवितेत जीवनाचा कोणता टप्पा दाखवला आहे?",
+      "answer": "संघर्ष."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवितेचा भावार्थ काय आहे?",
+      "answer": "हार न मानणे."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवितेत मन कधी उघडावे?",
+      "answer": "प्रयत्न करताना."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेतील ‘पाणी’ कशाचे प्रतीक आहे?",
+      "answer": "यश."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवितेतील ‘विहीर’ कशाचे प्रतीक आहे?",
+      "answer": "जीवन."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या सवयी टाळायला सांगितल्या आहेत?",
+      "answer": "निराशा."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या सवयी अंगीकारायला सांगितल्या आहेत?",
+      "answer": "जिद्द."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवितेचा परिणाम वाचकावर काय होतो?",
+      "answer": "प्रेरणा मिळते."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कवितेचा आशय कसा आहे?",
+      "answer": "प्रेरणादायी."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणता शब्द वारंवार भाव व्यक्त करतो?",
+      "answer": "थोडेसे."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश कोणासाठी आहे?",
+      "answer": "सर्वांसाठी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवितेतील संघर्ष कसा संपतो?",
+      "answer": "यशात."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कवितेतील प्रतिमा कशा आहेत?",
+      "answer": "सोप्या आणि अर्थपूर्ण."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेत वास्तव कसे स्वीकारले आहे?",
+      "answer": "आनंदाने."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "कवितेत भ्रमांबद्दल काय सांगितले आहे?",
+      "answer": "भ्रमात राहू नये."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘खोद आणखी थोडेसे’ या कवितेचा आशय स्पष्ट करा.",
+      "answer": "या कवितेत कवयित्री आसावरी काकडे यांनी जीवनातील संघर्षाचे चित्रण केले आहे. ध्येय साध्य करताना हार न मानता थोडा अधिक प्रयत्न करावा, कारण यश जवळच असते, असा प्रेरणादायी संदेश कवितेतून दिला आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "‘खोदणे’ या शब्दाचा कवितेतील अर्थ स्पष्ट करा.",
+      "answer": "कवितेत ‘खोदणे’ हा शब्द रूपकात्मक आहे. तो जिद्दीने, चिकाटीने आणि आत्मविश्वासाने प्रयत्न करत राहण्याचा अर्थ व्यक्त करतो."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "‘खाली असतेच पाणी’ या ओळीचा भावार्थ लिहा.",
+      "answer": "ही ओळ सांगते की परिश्रम केल्यास यश निश्चित मिळते. म्हणजेच आपण थोडेसे अधिक प्रयत्न केले तर ध्येय साध्य होऊ शकते."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "कवितेत धीर आणि संयमाचे महत्त्व कसे स्पष्ट झाले आहे?",
+      "answer": "धीर न सोडता, संयमाने प्रयत्न करत राहिल्यास यश मिळते, असे कवितेत वारंवार सूचित केले आहे."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "कवितेतील ‘नाणी’ आणि ‘ओठ’ या प्रतीकांचा अर्थ स्पष्ट करा.",
+      "answer": "‘नाणी’ हे अनुभवांचे प्रतीक आहे तर ‘ओठ’ हे भावना व विचार व्यक्त करण्याचे प्रतीक आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "‘गाणे असते गं मनी’ या ओळीचा अर्थ सविस्तर लिहा.",
+      "answer": "या ओळीतून मनात नवनिर्मितीची क्षमता असते, ती व्यक्त करणे आवश्यक आहे, असा संदेश मिळतो."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "कवितेत सकारात्मक दृष्टिकोन कसा दिसतो?",
+      "answer": "आशावादी भाषा, प्रयत्नांवरचा विश्वास आणि यशाची खात्री यांमधून सकारात्मक दृष्टिकोन दिसतो."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "‘उमेदीने जगणे’ या संकल्पनेचा अर्थ कवितेच्या आधारे स्पष्ट करा.",
+      "answer": "उमेदीने जगणे म्हणजे आशेने, कष्टाने आणि आनंदाने जीवन जगणे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "आजच्या काळात ‘खोद आणखी थोडेसे’ या कवितेची उपयुक्तता स्पष्ट करा.",
+      "answer": "आजच्या स्पर्धात्मक काळात अपयश आले तरी हार न मानता प्रयत्न करत राहण्याची प्रेरणा ही कविता देते."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘खोद आणखी थोडेसे’ या कवितेचा संदेश लिहा.",
+      "answer": "जीवनात यश मिळवण्यासाठी चिकाटी, संयम आणि थोडा अधिक प्रयत्न आवश्यक असतो, हा या कवितेचा मुख्य संदेश आहे."
+    }
+  ]
+}

@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.13",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "कर्ते सुधारक कर्वे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘कर्ते सुधारक कर्वे’ या पाठात कोणत्या समाजसुधारकाचे कार्य मांडले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "महात्मा फुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महर्षी धोंडो केशव कर्वे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राजा राममोहन राय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "गोपाळ गणेश आगरकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "महर्षी धोंडो केशव कर्वे"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांचे मुख्य कार्यक्षेत्र कोणते होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजकारण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्त्रीशिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पत्रकारिता",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कला",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रीशिक्षण"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांना भारतरत्न कधी मिळाले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "१९५६",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "१९५७",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "१९५८",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "१९६०",
+          "is_correct": false
+        }
+      ],
+      "answer": "१९५८"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांनी स्थापन केलेले पहिले महिला विद्यापीठ कोणते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुणे विद्यापीठ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "एसएनडीटी महिला विद्यापीठ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मुंबई विद्यापीठ",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "दिल्ली विद्यापीठ",
+          "is_correct": false
+        }
+      ],
+      "answer": "एसएनडीटी महिला विद्यापीठ"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांचा जन्म कुठे झाला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रत्नागिरी जिल्ह्यात",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "मुंबई",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नाशिक",
+          "is_correct": false
+        }
+      ],
+      "answer": "रत्नागिरी जिल्ह्यात"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कर्वे यांना स्त्रीशिक्षणाची प्रेरणा कोणाकडून मिळाली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "लोकमान्य टिळक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पंडिता रमाबाई व विद्यासागर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "महात्मा गांधी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सावरकर",
+          "is_correct": false
+        }
+      ],
+      "answer": "पंडिता रमाबाई व विद्यासागर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कर्वे यांनी स्वतः कोणता समाजसुधारक कृतीतून आदर्श घालून दिला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बालविवाह",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विधवाविवाह",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "जातिभेद",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अस्पृश्यता",
+          "is_correct": false
+        }
+      ],
+      "answer": "विधवाविवाह"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "कर्वे कोणता विषय कॉलेजमध्ये शिकवत होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "इतिहास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "गणित",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भूगोल",
+          "is_correct": false
+        }
+      ],
+      "answer": "गणित"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कर्वे यांच्या स्वभावातील मुख्य गुण कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आक्रमकता",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "संयम",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अहंकार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "घाई",
+          "is_correct": false
+        }
+      ],
+      "answer": "संयम"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘कर्ते सुधारक’ या शब्दाचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "फक्त बोलणारा सुधारक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृतीतून सुधारणा करणारा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नेतृत्व करणारा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लेखन करणारा",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतीतून सुधारणा करणारा"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे समाजाविरुद्ध काम करताना कोणता मार्ग स्वीकारत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हिंसक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आक्रस्ताळा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "शांत व सहिष्णू",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "राजकीय",
+          "is_correct": false
+        }
+      ],
+      "answer": "शांत व सहिष्णू"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांनी सुरू केलेली संस्था सुरुवातीला कोणासाठी होती?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मुलांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "विधवांसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पुरुषांसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "कामगारांसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "विधवांसाठी"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कर्वे समाजाच्या पैशांचा वापर कसा करत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतःसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "उधळपट्टीने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "अत्यंत काटकसरीने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "मनमानीने",
+          "is_correct": false
+        }
+      ],
+      "answer": "अत्यंत काटकसरीने"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "कर्वे कोणते वाहन वापरत नसत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सायकल",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोटार",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रेल्वे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "बैलगाडी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोटार"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांना समाजाकडून कोणता त्रास सहन करावा लागला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सन्मान",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "छळ",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पुरस्कार",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आर्थिक मदत",
+          "is_correct": false
+        }
+      ],
+      "answer": "छळ"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कर्वे यांच्या मते बोलण्यापेक्षा काय महत्त्वाचे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "वाद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लेखन",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रसिद्धी",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृती"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांचे आचरण कोणत्या संताशी तुलना केले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "तुकाराम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ज्ञानेश्वर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "रामदास",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "एकनाथ",
+          "is_correct": false
+        }
+      ],
+      "answer": "ज्ञानेश्वर"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कर्वे यांनी समाजासाठी पैसा कसा वापरला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "स्वतःची सोय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "घर बांधणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्त्रीशिक्षण",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रवास",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रीशिक्षण"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांचे मुख्य स्वप्न काय होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कीर्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्त्रीस्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "राजकारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रीस्वातंत्र्य"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कर्वे यांच्या मते स्त्री शिक्षणाशिवाय काय शक्य नाही?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राष्ट्रीय स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आर्थिक विकास",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्त्रीस्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "राजकारण",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रीस्वातंत्र्य"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "महर्षी कर्वे यांनी जगप्रवास का केला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "मनोरंजनासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्त्रीशिक्षणाचा प्रचार करण्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "व्यवसायासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आरोग्यासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रीशिक्षणाचा प्रचार करण्यासाठी"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कर्वे यांच्या मते भारताचे अर्धांग कोण?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुरुष",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुले",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्त्रिया",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेतकरी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रिया"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "स्त्री निरक्षर राहिल्यास देशाची तुलना कशाशी केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "अंध व्यक्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "अर्धांगवायू",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "गरिबी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अज्ञान",
+          "is_correct": false
+        }
+      ],
+      "answer": "अर्धांगवायू"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कर्वे यांच्या मते पुरुषशिक्षण म्हणजे काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "पुरुषांना नोकरी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्त्रीस्वातंत्र्य समजणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्ता",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्त्रीस्वातंत्र्य समजणे"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कर्वे यांना लोकमानसाने कोणती पदवी दिली?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भारतभूषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "महर्षी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "महात्मा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लोकनेते",
+          "is_correct": false
+        }
+      ],
+      "answer": "महर्षी"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘कर्ते सुधारक’ कर्वे यांचे वेगळेपण कशात होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषणात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "लेखनात",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "कृतीत",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "प्रसिद्धीत",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृतीत"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कर्वे यांनी समाजसुधारणेचे कार्य कसे केले?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाईने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "हिंसेने",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "सातत्याने",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "राजकारणातून",
+          "is_correct": false
+        }
+      ],
+      "answer": "सातत्याने"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कर्वे यांना भारतरत्न का देण्यात आला?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "राजकारणासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "समाजसुधारणेसाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "संपत्तीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "लेखनासाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "समाजसुधारणेसाठी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "या पाठाचा मुख्य संदेश कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भाषण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कृती",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्पर्धा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सत्ता",
+          "is_correct": false
+        }
+      ],
+      "answer": "कृती"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "‘कर्ते सुधारक कर्वे’ वाचून कोणती भावना निर्माण होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "द्वेष",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "निराशा",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "महर्षी धोंडो केशव कर्वे कोण होते?",
+      "answer": "स्त्रीशिक्षणासाठी आयुष्य समर्पित करणारे समाजसुधारक."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "कर्वे यांचे मुख्य कार्य कोणते?",
+      "answer": "स्त्रीशिक्षण आणि स्त्रीस्वातंत्र्य."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "महर्षी कर्वे यांचा जन्म कुठे झाला?",
+      "answer": "रत्नागिरी जिल्ह्यातील शेरावली गावी."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "कर्वे यांना भारतरत्न कधी मिळाले?",
+      "answer": "१९५८ साली."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी कोणते विद्यापीठ स्थापन केले?",
+      "answer": "एसएनडीटी महिला विद्यापीठ."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "स्त्रीशिक्षणाची प्रेरणा कर्वे यांना कोणाकडून मिळाली?",
+      "answer": "पंडिता रमाबाई व ईश्वरचंद्र विद्यासागर."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी समाजसुधारणेची सुरुवात कशापासून केली?",
+      "answer": "स्वतःपासून."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "कर्वे कोणता विषय शिकवत होते?",
+      "answer": "गणित."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "कर्वे समाजाविरुद्ध कार्य करताना कोणता मार्ग वापरत?",
+      "answer": "शांत व सहिष्णू."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या स्वभावातील प्रमुख गुण कोणता?",
+      "answer": "संयम."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "कर्वे समाजाच्या छळाला कसे सामोरे गेले?",
+      "answer": "शांतपणे."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कर्वे कोणते वाहन वापरत नसत?",
+      "answer": "मोटार."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "कर्वे समाजासाठी स्वतःचे पैसे कशासाठी वापरत?",
+      "answer": "स्त्रीशिक्षणासाठी."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते बोलण्यापेक्षा काय महत्त्वाचे?",
+      "answer": "कृती."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कर्वे यांचे आचरण कोणत्या संतासारखे होते?",
+      "answer": "संत ज्ञानेश्वर."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी कोणती संस्था सुरू केली?",
+      "answer": "हिंगणे स्त्रीशिक्षण संस्था."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या कार्यात नेमकेपणा कशामुळे होता?",
+      "answer": "गणिती विचारांमुळे."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कर्वे समाजासाठी पैसे कसे खर्च करत?",
+      "answer": "अत्यंत काटकसरीने."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कर्वे यांचे मुख्य स्वप्न काय होते?",
+      "answer": "स्त्रीस्वातंत्र्य."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते स्त्री शिक्षणाशिवाय काय शक्य नाही?",
+      "answer": "खरे स्वातंत्र्य."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी जगप्रवास का केला?",
+      "answer": "स्त्रीशिक्षणाचा प्रचार करण्यासाठी."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते भारताचे अर्धांग कोण?",
+      "answer": "स्त्रिया."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "स्त्री निरक्षर राहिल्यास देशाची तुलना कशाशी केली आहे?",
+      "answer": "अर्धांगवायू झालेल्या व्यक्तीशी."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते पुरुषशिक्षण म्हणजे काय?",
+      "answer": "स्त्रीस्वातंत्र्य समजणे."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "कर्वे यांना लोकमानसाने कोणती पदवी दिली?",
+      "answer": "महर्षी."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कर्वे समाजसुधारणेत का विचलित झाले नाहीत?",
+      "answer": "त्यांची जिद्द मजबूत होती."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी कोणत्या प्रथेचा वस्तुपाठ दिला?",
+      "answer": "विधवाविवाह."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कर्वे समाजाच्या पैशांचा वापर कसा करत?",
+      "answer": "प्रामाणिकपणे."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते स्त्री कशी असावी?",
+      "answer": "स्वाभिमानी व शिक्षित."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी स्त्रीसाठी कोणती दोन कार्ये आवश्यक मानली?",
+      "answer": "साक्षरता व स्पर्धाशक्ती."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते समाजसुधारणा कशी व्हावी?",
+      "answer": "सातत्याने."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कर्वे कोणत्या वृत्तीचे होते?",
+      "answer": "कर्तृत्वप्रधान."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या जीवनातील मोठे आव्हान काय होते?",
+      "answer": "समाजाचा विरोध."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी समाजाच्या विरोधाला कसे उत्तर दिले?",
+      "answer": "कामातून."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते खरी सुधारणा कशातून होते?",
+      "answer": "कृतीतून."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कर्वे यांना कोणता पुरस्कार मिळाला?",
+      "answer": "भारतरत्न."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते स्त्री गुलाम का होती?",
+      "answer": "शिक्षणाच्या अभावामुळे."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कर्वे यांनी स्त्रीला कशासाठी सक्षम करायचे होते?",
+      "answer": "पुरुषांशी स्पर्धेसाठी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या कार्यामुळे काय निर्माण झाले?",
+      "answer": "महिला विद्यापीठ."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते समाज कधी सुसंस्कृत होईल?",
+      "answer": "स्त्री-पुरुष दोघे शिक्षित झाल्यावर."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या आयुष्यातील तत्त्व काय होते?",
+      "answer": "कृतीतून सुधारणा."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कर्वे यांचे व्यक्तिमत्त्व कसे होते?",
+      "answer": "साधे व महान."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या कार्याचा समाजावर परिणाम काय झाला?",
+      "answer": "स्त्रीशिक्षण वाढले."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते स्त्री कोण नाही?",
+      "answer": "दुय्यम नागरिक."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कर्वे यांचे कार्य कोणासाठी प्रेरणादायी आहे?",
+      "answer": "सर्व समाजासाठी."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या मते पुरुषांनी काय शिकावे?",
+      "answer": "स्त्रीचा आदर."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कर्वे यांच्या जीवनातून काय शिकायला मिळते?",
+      "answer": "निःस्वार्थ सेवा."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "या पाठाचा सामाजिक संदेश काय?",
+      "answer": "कृतीशील समाजसुधारणा."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "‘कर्ते सुधारक कर्वे’ वाचून काय जाणवते?",
+      "answer": "सातत्याचे महत्त्व."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘कर्ते सुधारक कर्वे’ या पाठाचा आशय स्पष्ट करा.",
+      "answer": "या पाठात महर्षी धोंडो केशव कर्वे यांच्या समाजसुधारणेच्या कार्याचा परिचय दिला आहे. स्त्रीशिक्षणासाठी त्यांनी केलेला संघर्ष आणि त्यांची कर्तृत्वप्रधान वृत्ती या पाठात ठळकपणे दिसते."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "महर्षी कर्वे यांचे स्त्रीशिक्षणाबद्दलचे विचार स्पष्ट करा.",
+      "answer": "स्त्री शिक्षित झाल्याशिवाय समाज आणि देश प्रगती करू शकत नाही, असे कर्वे यांचे ठाम मत होते."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "समाजाच्या विरोधातही कर्वे आपल्या कार्यात कसे ठाम राहिले?",
+      "answer": "छळ सहन करूनही त्यांनी शांत, सहिष्णू मार्गाने आपले कार्य सातत्याने सुरू ठेवले."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "‘बोलके सुधारक’ पेक्षा ‘कर्ते सुधारक’ का श्रेष्ठ आहेत हे स्पष्ट करा.",
+      "answer": "फक्त बोलण्याऐवजी कृतीतून बदल घडवणारे सुधारक समाजावर दीर्घकालीन प्रभाव टाकतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "महर्षी कर्वे यांच्या व्यक्तिमत्त्वातील गुण स्पष्ट करा.",
+      "answer": "संयम, जिद्द, काटकसर आणि निःस्वार्थपणा हे त्यांचे प्रमुख गुण होते."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "महर्षी कर्वे यांनी स्वतःपासून सुधारणा कशी सुरू केली?",
+      "answer": "स्वतः विधवेशी विवाह करून त्यांनी समाजाला प्रत्यक्ष उदाहरण दिले."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "कर्वे यांच्या कार्यात नेमकेपणा का होता?",
+      "answer": "गणिती विचारसरणीमुळे त्यांच्या प्रत्येक कृतीत नियोजन आणि शिस्त होती."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "स्त्रीशिक्षणासाठी कर्वे यांनी केलेले प्रयत्न स्पष्ट करा.",
+      "answer": "महिला विद्यापीठाची स्थापना, जगप्रवास आणि प्रचार यातून त्यांनी स्त्रीशिक्षणाला चालना दिली."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "कर्वे यांच्या मते पुरुषशिक्षणाचे महत्त्व स्पष्ट करा.",
+      "answer": "पुरुषांना स्त्रीस्वातंत्र्याचा अर्थ कळल्याशिवाय समाज बदलणार नाही, असे ते मानत."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘कर्ते सुधारक कर्वे’ या पाठाचा आजच्या काळातील संदेश स्पष्ट करा.",
+      "answer": "आजही समाजसुधारणा भाषणांनी नव्हे तर सातत्यपूर्ण कृतीनेच साध्य होते, हा संदेश हा पाठ देतो."
+    }
+  ]
+}

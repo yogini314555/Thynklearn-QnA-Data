@@ -1,0 +1,1205 @@
+{
+  "chapter_metadata": {
+    "chapter_id": "10.Marathi.16",
+    "standard": "10",
+    "subject": "मराठी",
+    "medium": "Marathi",
+    "chapter_name": "आकाशी झेप घे रे"
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question_type": "MCQ",
+      "question": "‘आकाशी झेप घे रे’ या कवितेचे कवी कोण आहेत?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कुसुमाग्रज",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "जगदीश खेबुडकर",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "विंदा करंदीकर",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "साने गुरुजी",
+          "is_correct": false
+        }
+      ],
+      "answer": "जगदीश खेबुडकर"
+    },
+    {
+      "question_id": 2,
+      "question_type": "MCQ",
+      "question": "कवीने पाखराला काय करण्यास सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "झोप घ्यायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "पिंजऱ्यात राहायला",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "आकाशात झेप घ्यायला",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "गाणे म्हणायला",
+          "is_correct": false
+        }
+      ],
+      "answer": "आकाशात झेप घ्यायला"
+    },
+    {
+      "question_id": 3,
+      "question_type": "MCQ",
+      "question": "‘सोन्याचा पिंजरा’ कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "संपत्ती",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुरक्षितता व परावलंबित्व",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "स्वातंत्र्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आनंद",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुरक्षितता व परावलंबित्व"
+    },
+    {
+      "question_id": 4,
+      "question_type": "MCQ",
+      "question": "कवितेत पाखराच्या माध्यमातून कोणाला संदेश दिला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "प्राण्यांना",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मुलांना",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "माणसाला",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "शेतकऱ्याला",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणसाला"
+    },
+    {
+      "question_id": 5,
+      "question_type": "MCQ",
+      "question": "‘सुखलोलुप झाली काया’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सुख नकोसे वाटते",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सुखाची सवय लागते",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "सुख मिळत नाही",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुखाचा तिरस्कार",
+          "is_correct": false
+        }
+      ],
+      "answer": "सुखाची सवय लागते"
+    },
+    {
+      "question_id": 6,
+      "question_type": "MCQ",
+      "question": "कवीने पाखराला कोणावर विश्वास ठेवायला सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "इतरांवर",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "देवावर",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वतःच्या सामर्थ्यावर",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नशिबावर",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतःच्या सामर्थ्यावर"
+    },
+    {
+      "question_id": 7,
+      "question_type": "MCQ",
+      "question": "कवितेत पाखराला कुठे जाण्यास सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घरात",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "डोंगर-दऱ्यांत",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पिंजऱ्यात",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "जंगलात",
+          "is_correct": false
+        }
+      ],
+      "answer": "डोंगर-दऱ्यांत"
+    },
+    {
+      "question_id": 8,
+      "question_type": "MCQ",
+      "question": "‘दरि-डोंगर, हिरवी राने’ या ओळींतून काय सूचित होते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "अडथळे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "सुख",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्य"
+    },
+    {
+      "question_id": 9,
+      "question_type": "MCQ",
+      "question": "कवीने कष्टांचे महत्त्व कसे सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "थेट उपदेशाने",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "रूपकातून",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कथेतून",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विनोदातून",
+          "is_correct": false
+        }
+      ],
+      "answer": "रूपकातून"
+    },
+    {
+      "question_id": 10,
+      "question_type": "MCQ",
+      "question": "‘कष्टाविण फळ ना मिळते’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कष्ट व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कष्टाशिवाय यश नाही",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "कष्ट कमी करा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "फळ सहज मिळते",
+          "is_correct": false
+        }
+      ],
+      "answer": "कष्टाशिवाय यश नाही"
+    },
+    {
+      "question_id": 11,
+      "question_type": "MCQ",
+      "question": "‘हृदयात व्यथा ही जळते’ या ओळीचा भाव कोणता?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंद",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "दुःख",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "राग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "दुःख"
+    },
+    {
+      "question_id": 12,
+      "question_type": "MCQ",
+      "question": "पाखराच्या पंखांचे प्रतीक काय आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सौंदर्य",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सामर्थ्य",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "सामर्थ्य"
+    },
+    {
+      "question_id": 13,
+      "question_type": "MCQ",
+      "question": "कवितेचा मुख्य संदेश कोणता आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आराम",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परावलंबित्व",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वसामर्थ्यावर विश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "भय",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वसामर्थ्यावर विश्वास"
+    },
+    {
+      "question_id": 14,
+      "question_type": "MCQ",
+      "question": "‘घामातून मोती फुलले’ या ओळीचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "घाम व्यर्थ",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कष्टातून यश",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कष्टातून यश"
+    },
+    {
+      "question_id": 15,
+      "question_type": "MCQ",
+      "question": "‘श्रमदेव घरी अवतरले’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देव आला",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रमांचे फळ मिळाले",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भय वाटले",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "नशीब बदलले",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रमांचे फळ मिळाले"
+    },
+    {
+      "question_id": 16,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या मूल्यांवर भर आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कष्ट व आत्मविश्वास",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भोग",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्पर्धा",
+          "is_correct": false
+        }
+      ],
+      "answer": "कष्ट व आत्मविश्वास"
+    },
+    {
+      "question_id": 17,
+      "question_type": "MCQ",
+      "question": "कवी सुरक्षिततेच्या कवचाबद्दल काय सांगतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "ते आवश्यक आहे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "ते तोडावे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "ते वाढवावे",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "ते जपावे",
+          "is_correct": false
+        }
+      ],
+      "answer": "ते तोडावे"
+    },
+    {
+      "question_id": 18,
+      "question_type": "MCQ",
+      "question": "कवितेत पाखराला पिंजरा सोडायला का सांगितले आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदासाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वातंत्र्यासाठी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीतीसाठी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "विश्रांतीसाठी",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वातंत्र्यासाठी"
+    },
+    {
+      "question_id": 19,
+      "question_type": "MCQ",
+      "question": "‘तुज पंख दिले देवाने’ या ओळीचा आशय काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "देवाची कृपा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वतःची क्षमता",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "नशिब",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "भीती",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतःची क्षमता"
+    },
+    {
+      "question_id": 20,
+      "question_type": "MCQ",
+      "question": "कवीने जीवनातील कोणता मार्ग सुचवला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "सोपेपणा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परिश्रमाचा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भोगाचा",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळशीपणाचा",
+          "is_correct": false
+        }
+      ],
+      "answer": "परिश्रमाचा"
+    },
+    {
+      "question_id": 21,
+      "question_type": "MCQ",
+      "question": "कवितेतील पाखरू कोणाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "बालक",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "माणूस",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "प्राणी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "देव",
+          "is_correct": false
+        }
+      ],
+      "answer": "माणूस"
+    },
+    {
+      "question_id": 22,
+      "question_type": "MCQ",
+      "question": "कवितेत कोणत्या भावनेचा प्रभाव अधिक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "प्रेरणा",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "दुःख",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "राग",
+          "is_correct": false
+        }
+      ],
+      "answer": "प्रेरणा"
+    },
+    {
+      "question_id": 23,
+      "question_type": "MCQ",
+      "question": "कवीने यशाची तुलना कशाशी केली आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आकाशाशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "मोत्याशी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "पिंजऱ्याशी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "डोंगराशी",
+          "is_correct": false
+        }
+      ],
+      "answer": "मोत्याशी"
+    },
+    {
+      "question_id": 24,
+      "question_type": "MCQ",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "कठीण",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "सोप्या व नादमय",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "तांत्रिक",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "अतिशय संस्कृत",
+          "is_correct": false
+        }
+      ],
+      "answer": "सोप्या व नादमय"
+    },
+    {
+      "question_id": 25,
+      "question_type": "MCQ",
+      "question": "कवितेत माणसाला कोणता सल्ला दिला आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "भीती बाळगा",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "परावलंबी राहा",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "स्वतःवर विश्वास ठेवा",
+          "is_correct": true
+        },
+        {
+          "option_id": 4,
+          "text": "नशीब पाहा",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतःवर विश्वास ठेवा"
+    },
+    {
+      "question_id": 26,
+      "question_type": "MCQ",
+      "question": "‘जीव बिचारा होई बावरा’ याचा अर्थ काय?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "आनंदी होतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "गोंधळून जातो",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "शांत होतो",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्वतंत्र होतो",
+          "is_correct": false
+        }
+      ],
+      "answer": "गोंधळून जातो"
+    },
+    {
+      "question_id": 27,
+      "question_type": "MCQ",
+      "question": "कवितेतील यश कशातून मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "नशीब",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "कष्ट",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "इतरांची मदत",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "संपत्ती",
+          "is_correct": false
+        }
+      ],
+      "answer": "कष्ट"
+    },
+    {
+      "question_id": 28,
+      "question_type": "MCQ",
+      "question": "कवी कोणत्या प्रकारची जीवनदृष्टी मांडतो?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "निराशावादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "आशावादी",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भोगवादी",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "उदास",
+          "is_correct": false
+        }
+      ],
+      "answer": "आशावादी"
+    },
+    {
+      "question_id": 29,
+      "question_type": "MCQ",
+      "question": "‘आकाशी झेप’ ही संकल्पना कशाचे प्रतीक आहे?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "धाडस",
+          "is_correct": true
+        },
+        {
+          "option_id": 2,
+          "text": "आळस",
+          "is_correct": false
+        },
+        {
+          "option_id": 3,
+          "text": "भय",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "स्थैर्य",
+          "is_correct": false
+        }
+      ],
+      "answer": "धाडस"
+    },
+    {
+      "question_id": 30,
+      "question_type": "MCQ",
+      "question": "ही कविता वाचून काय प्रेरणा मिळते?",
+      "options": [
+        {
+          "option_id": 1,
+          "text": "हार मानणे",
+          "is_correct": false
+        },
+        {
+          "option_id": 2,
+          "text": "स्वतःच्या सामर्थ्यावर उभे राहणे",
+          "is_correct": true
+        },
+        {
+          "option_id": 3,
+          "text": "भीती",
+          "is_correct": false
+        },
+        {
+          "option_id": 4,
+          "text": "आळस",
+          "is_correct": false
+        }
+      ],
+      "answer": "स्वतःच्या सामर्थ्यावर उभे राहणे"
+    },
+    {
+      "question_id": 31,
+      "question_type": "SHORT",
+      "question": "‘आकाशी झेप घे रे’ या कवितेचे कवी कोण?",
+      "answer": "जगदीश खेबुडकर."
+    },
+    {
+      "question_id": 32,
+      "question_type": "SHORT",
+      "question": "कवितेत पाखरू कशाचे प्रतीक आहे?",
+      "answer": "माणसाचे."
+    },
+    {
+      "question_id": 33,
+      "question_type": "SHORT",
+      "question": "‘सोन्याचा पिंजरा’ म्हणजे काय?",
+      "answer": "सुरक्षित पण परावलंबी जीवन."
+    },
+    {
+      "question_id": 34,
+      "question_type": "SHORT",
+      "question": "कवी पिंजरा सोडायला का सांगतो?",
+      "answer": "स्वातंत्र्य व स्वसामर्थ्यासाठी."
+    },
+    {
+      "question_id": 35,
+      "question_type": "SHORT",
+      "question": "‘सुखलोलुप झाली काया’ याचा अर्थ काय?",
+      "answer": "सुखाची सवय लागली आहे."
+    },
+    {
+      "question_id": 36,
+      "question_type": "SHORT",
+      "question": "कवीने कोणावर विश्वास ठेवायला सांगितले आहे?",
+      "answer": "स्वतःच्या सामर्थ्यावर."
+    },
+    {
+      "question_id": 37,
+      "question_type": "SHORT",
+      "question": "पाखराच्या पंखांचे प्रतीक काय?",
+      "answer": "क्षमता व सामर्थ्य."
+    },
+    {
+      "question_id": 38,
+      "question_type": "SHORT",
+      "question": "कवितेत कष्टांचे महत्त्व कसे सांगितले आहे?",
+      "answer": "रूपकातून."
+    },
+    {
+      "question_id": 39,
+      "question_type": "SHORT",
+      "question": "‘कष्टाविण फळ ना मिळते’ याचा संदेश काय?",
+      "answer": "कष्टाशिवाय यश नाही."
+    },
+    {
+      "question_id": 40,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या जीवनपद्धतीचा निषेध करतो?",
+      "answer": "परावलंबित्वाचा."
+    },
+    {
+      "question_id": 41,
+      "question_type": "SHORT",
+      "question": "‘दरि-डोंगर, हिरवी राने’ कशाचे प्रतीक आहे?",
+      "answer": "स्वातंत्र्य."
+    },
+    {
+      "question_id": 42,
+      "question_type": "SHORT",
+      "question": "कवितेतील मुख्य मूल्य कोणते?",
+      "answer": "आत्मविश्वास."
+    },
+    {
+      "question_id": 43,
+      "question_type": "SHORT",
+      "question": "‘घामातून मोती फुलले’ म्हणजे काय?",
+      "answer": "कष्टातून यश मिळाले."
+    },
+    {
+      "question_id": 44,
+      "question_type": "SHORT",
+      "question": "‘श्रमदेव’ म्हणजे काय?",
+      "answer": "परिश्रम."
+    },
+    {
+      "question_id": 45,
+      "question_type": "SHORT",
+      "question": "कवी सुरक्षिततेच्या कवचाबद्दल काय सांगतो?",
+      "answer": "ते तोडावे."
+    },
+    {
+      "question_id": 46,
+      "question_type": "SHORT",
+      "question": "कवितेतील पाखरू काय करते?",
+      "answer": "आकाशात झेप घेते."
+    },
+    {
+      "question_id": 47,
+      "question_type": "SHORT",
+      "question": "कवितेचा मुख्य सूर कसा आहे?",
+      "answer": "प्रेरणादायी."
+    },
+    {
+      "question_id": 48,
+      "question_type": "SHORT",
+      "question": "कवी माणसाला काय करण्यास सांगतो?",
+      "answer": "स्वतःवर विश्वास ठेवायला."
+    },
+    {
+      "question_id": 49,
+      "question_type": "SHORT",
+      "question": "कवितेत यश कशातून मिळते?",
+      "answer": "कष्टातून."
+    },
+    {
+      "question_id": 50,
+      "question_type": "SHORT",
+      "question": "‘जीव बिचारा होई बावरा’ याचा अर्थ काय?",
+      "answer": "मन गोंधळते."
+    },
+    {
+      "question_id": 51,
+      "question_type": "SHORT",
+      "question": "कवितेतील भाषा कशी आहे?",
+      "answer": "सोप्या आणि नादमय."
+    },
+    {
+      "question_id": 52,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश कोणासाठी आहे?",
+      "answer": "सर्वांसाठी."
+    },
+    {
+      "question_id": 53,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या भावनेला प्रोत्साहन देतो?",
+      "answer": "धैर्य."
+    },
+    {
+      "question_id": 54,
+      "question_type": "SHORT",
+      "question": "कवितेत परावलंबित्वाचे परिणाम काय सांगितले आहेत?",
+      "answer": "अस्वस्थता."
+    },
+    {
+      "question_id": 55,
+      "question_type": "SHORT",
+      "question": "पिंजऱ्यातील जीवन कसे आहे?",
+      "answer": "सुखद पण मर्यादित."
+    },
+    {
+      "question_id": 56,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या जीवनमार्गाचा पुरस्कार करतो?",
+      "answer": "स्वकष्टाचा."
+    },
+    {
+      "question_id": 57,
+      "question_type": "SHORT",
+      "question": "कवितेतील ‘आकाश’ कशाचे प्रतीक आहे?",
+      "answer": "अमर्याद संधी."
+    },
+    {
+      "question_id": 58,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या गोष्टीपासून दूर राहायला सांगतो?",
+      "answer": "आळस."
+    },
+    {
+      "question_id": 59,
+      "question_type": "SHORT",
+      "question": "कवितेत मनाची अवस्था कशी आहे?",
+      "answer": "प्रेरित."
+    },
+    {
+      "question_id": 60,
+      "question_type": "SHORT",
+      "question": "कवितेतील पाखरू का झेप घेते?",
+      "answer": "स्वातंत्र्यासाठी."
+    },
+    {
+      "question_id": 61,
+      "question_type": "SHORT",
+      "question": "कवितेचा आशय कसा आहे?",
+      "answer": "उत्साहवर्धक."
+    },
+    {
+      "question_id": 62,
+      "question_type": "SHORT",
+      "question": "कवी यशाची तुलना कशाशी करतो?",
+      "answer": "मोत्याशी."
+    },
+    {
+      "question_id": 63,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या देवाचा उल्लेख आहे?",
+      "answer": "श्रमदेव."
+    },
+    {
+      "question_id": 64,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश काय आहे?",
+      "answer": "कष्ट करा, यश मिळवा."
+    },
+    {
+      "question_id": 65,
+      "question_type": "SHORT",
+      "question": "कवी माणसाला काय टाळायला सांगतो?",
+      "answer": "परावलंबित्व."
+    },
+    {
+      "question_id": 66,
+      "question_type": "SHORT",
+      "question": "कवितेत स्वसामर्थ्याची ओळख कशी दिली आहे?",
+      "answer": "पाखराच्या प्रतीकातून."
+    },
+    {
+      "question_id": 67,
+      "question_type": "SHORT",
+      "question": "कवितेतील भावना कोणती?",
+      "answer": "आशा."
+    },
+    {
+      "question_id": 68,
+      "question_type": "SHORT",
+      "question": "कवितेचा शेवट कसा आहे?",
+      "answer": "आनंददायी."
+    },
+    {
+      "question_id": 69,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणत्या सवयी सोडायला सांगितल्या आहेत?",
+      "answer": "सुखलोलुपता."
+    },
+    {
+      "question_id": 70,
+      "question_type": "SHORT",
+      "question": "कवी कोणत्या गुणांवर भर देतो?",
+      "answer": "परिश्रम."
+    },
+    {
+      "question_id": 71,
+      "question_type": "SHORT",
+      "question": "कवितेचा सामाजिक संदेश काय?",
+      "answer": "स्वावलंबन."
+    },
+    {
+      "question_id": 72,
+      "question_type": "SHORT",
+      "question": "कवितेत जीवनाचा कोणता पैलू दिसतो?",
+      "answer": "संघर्ष."
+    },
+    {
+      "question_id": 73,
+      "question_type": "SHORT",
+      "question": "कवी यशानंतर काय करण्यास सांगतो?",
+      "answer": "आनंद घ्यायला."
+    },
+    {
+      "question_id": 74,
+      "question_type": "SHORT",
+      "question": "कवितेतील पिंजरा कोणता आहे?",
+      "answer": "परावलंबी जीवन."
+    },
+    {
+      "question_id": 75,
+      "question_type": "SHORT",
+      "question": "कवितेचा परिणाम वाचकावर काय होतो?",
+      "answer": "प्रेरणा मिळते."
+    },
+    {
+      "question_id": 76,
+      "question_type": "SHORT",
+      "question": "कवी माणसाला कोणत्या दिशेने नेतो?",
+      "answer": "स्वतंत्रतेकडे."
+    },
+    {
+      "question_id": 77,
+      "question_type": "SHORT",
+      "question": "कवितेत कोणता गुण अंगीकारायला सांगितला आहे?",
+      "answer": "धैर्य."
+    },
+    {
+      "question_id": 78,
+      "question_type": "SHORT",
+      "question": "कवितेतील संदेश आजही उपयुक्त आहे का?",
+      "answer": "होय."
+    },
+    {
+      "question_id": 79,
+      "question_type": "SHORT",
+      "question": "‘आकाशी झेप घे रे’ या ओळीचा भावार्थ काय?",
+      "answer": "स्वतःच्या सामर्थ्यावर झेप घ्या."
+    },
+    {
+      "question_id": 80,
+      "question_type": "LONG",
+      "question": "‘आकाशी झेप घे रे’ या कवितेचा आशय स्पष्ट करा.",
+      "answer": "या कवितेत कवी जगदीश खेबुडकर यांनी परावलंबित्व सोडून स्वसामर्थ्यावर विश्वास ठेवण्याचा संदेश दिला आहे. पाखराच्या प्रतीकातून माणसाला स्वतःच्या क्षमतांची ओळख करून देत कष्टातून यश मिळते हे स्पष्ट केले आहे."
+    },
+    {
+      "question_id": 81,
+      "question_type": "LONG",
+      "question": "‘सोन्याचा पिंजरा’ या प्रतीकेचा अर्थ स्पष्ट करा.",
+      "answer": "सोन्याचा पिंजरा म्हणजे सुरक्षित पण बंधनकारक जीवन. सुख असूनही स्वातंत्र्य नसल्याने विकास होत नाही, हे कवी सांगतात."
+    },
+    {
+      "question_id": 82,
+      "question_type": "LONG",
+      "question": "कवितेत कष्टांचे महत्त्व कसे अधोरेखित केले आहे?",
+      "answer": "‘कष्टाविण फळ ना मिळते’ आणि ‘घामातून मोती फुलले’ अशा ओळींतून कष्टाचे महत्त्व स्पष्ट केले आहे."
+    },
+    {
+      "question_id": 83,
+      "question_type": "LONG",
+      "question": "पाखराच्या प्रतीकातून कवी काय सांगू इच्छितात?",
+      "answer": "माणसाने स्वतःच्या सामर्थ्यावर विश्वास ठेवून निर्भयपणे प्रयत्न करावेत, असा संदेश कवी देतात."
+    },
+    {
+      "question_id": 84,
+      "question_type": "LONG",
+      "question": "‘घामातून मोती फुलले’ या ओळीचा अर्थ स्पष्ट करा.",
+      "answer": "परिश्रम केल्यास यशरूपी मोती मिळतो, असा या ओळीचा अर्थ आहे."
+    },
+    {
+      "question_id": 85,
+      "question_type": "LONG",
+      "question": "कवितेत स्वसामर्थ्याची जाणीव कशी दिली आहे?",
+      "answer": "पंख, आकाश आणि झेप या प्रतिकांद्वारे स्वसामर्थ्याची जाणीव दिली आहे."
+    },
+    {
+      "question_id": 86,
+      "question_type": "LONG",
+      "question": "कवितेतील प्रेरणादायी संदेश स्पष्ट करा.",
+      "answer": "स्वतःवर विश्वास ठेवून कष्ट केल्यास कोणतेही ध्येय साध्य करता येते, हा प्रेरणादायी संदेश आहे."
+    },
+    {
+      "question_id": 87,
+      "question_type": "LONG",
+      "question": "आजच्या काळात ‘आकाशी झेप घे रे’ या कवितेची उपयुक्तता स्पष्ट करा.",
+      "answer": "आजच्या स्पर्धात्मक जीवनात स्वावलंबन, आत्मविश्वास आणि कष्ट यांचे महत्त्व पटवून देणारी ही कविता उपयुक्त आहे."
+    },
+    {
+      "question_id": 88,
+      "question_type": "LONG",
+      "question": "कवितेतील भाषेची वैशिष्ट्ये स्पष्ट करा.",
+      "answer": "साधी, सोपी पण अर्थगर्भ आणि नादमय भाषा हे कवितेचे वैशिष्ट्य आहे."
+    },
+    {
+      "question_id": 89,
+      "question_type": "LONG",
+      "question": "‘आकाशी झेप घे रे’ या कवितेचा संदेश लिहा.",
+      "answer": "परावलंबित्व सोडून स्वतःच्या सामर्थ्यावर उभे राहून कष्टातून यश मिळवा, हा कवितेचा संदेश आहे."
+    }
+  ]
+}
